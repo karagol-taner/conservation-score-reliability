@@ -1,0 +1,9 @@
+gene,accession,variant_id,subfamily,own_position,wt,mut,classification,ref_position,mapped,verdict,sef_adj,f_own,sister_state,sister_residue,sister_subfamilies
+SDC1,P18827,VAR_052242,SDC1,76,T,M,LB/B,76,True,clade_partitioned,0.6786,0.9310344827586207,True,M,SDC2
+SDC1,P18827,VAR_052243,SDC1,136,L,Q,LB/B,136,True,clade_partitioned,0.6871,0.0,False,,
+SDC2,P34741,VAR_034675,SDC2,59,A,T,LB/B,146,True,clade_partitioned,0.8716,0.8620689655172413,False,,
+SDC2,P34741,VAR_034676,SDC2,71,S,T,LB/B,,False,,,,False,,
+SDC3,O75056,VAR_027251,SDC3,208,V,I,LB/B,107,True,gap_inflated,0.18,0.6206896551724138,False,,
+SDC3,O75056,VAR_027252,SDC3,303,D,N,LB/B,198,True,gap_inflated,0.4204,0.25,False,,
+SDC3,O75056,VAR_027253,SDC3,329,T,I,LB/B,216,True,clade_partitioned,0.8486,0.9655172413793104,False,,
+SDC4,P31431,VAR_021851,SDC4,12,F,L,LB/B,87,True,clade_partitioned,0.5735,0.6896551724137931,False,,

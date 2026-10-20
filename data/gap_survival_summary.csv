@@ -1,0 +1,81 @@
+cohort,variant,measure,n,value,note
+data-human,-,max_error_conservation_recovery,10238,0.0109,
+data-human,-,share_residues_on_gappy_columns,1609,0.1572,
+data-human,A_as_published,spearman_DCS_RCS,10238,0.0802,
+data-human,A_as_published,spearman_RCS_conservation,10238,0.9032,
+data-human,A_as_published,spearman_DCS_dynamics,10238,0.8072,
+data-human,A_as_published,auc_rcs10,3182,0.832,2333 pos 849 neg
+data-human,A_as_published,top1pct_precision_rcs10,47,0.9574,
+data-human,A_as_published,auc_dcs10,3182,0.4382,2333 pos 849 neg
+data-human,A_as_published,top1pct_precision_dcs10,32,0.4062,
+data-human,A_as_published,top_decile_DCS_n,1024,1024.0,
+data-human,A_as_published,top_decile_DCS_gappy_share,1024,0.4473,
+data-human,B_gap_filter,spearman_DCS_RCS,8629,-0.0929,
+data-human,B_gap_filter,spearman_RCS_conservation,8629,0.8879,
+data-human,B_gap_filter,spearman_DCS_dynamics,8629,0.8544,
+data-human,B_gap_filter,auc_rcs10,2671,0.8989,2029 pos 642 neg
+data-human,B_gap_filter,top1pct_precision_rcs10,44,1.0,
+data-human,B_gap_filter,auc_dcs10,2671,0.492,2029 pos 642 neg
+data-human,B_gap_filter,top1pct_precision_dcs10,27,0.7407,
+data-human,B_gap_filter,top_decile_DCS_n,863,863.0,
+data-human,B_gap_filter,top_decile_DCS_gappy_share,863,0.0,
+data-human,C_gap_corrected,spearman_DCS_RCS,10238,0.0597,
+data-human,C_gap_corrected,spearman_RCS_conservation,10238,0.9187,
+data-human,C_gap_corrected,spearman_DCS_dynamics,10238,0.7638,
+data-human,C_gap_corrected,auc_rcs10,3182,0.919,2333 pos 849 neg
+data-human,C_gap_corrected,top1pct_precision_rcs10,47,1.0,
+data-human,C_gap_corrected,auc_dcs10,3182,0.5306,2333 pos 849 neg
+data-human,C_gap_corrected,top1pct_precision_dcs10,32,0.625,
+data-human,C_gap_corrected,top_decile_DCS_n,1024,1024.0,
+data-human,C_gap_corrected,top_decile_DCS_gappy_share,1024,0.2803,
+data-human,D_both,spearman_DCS_RCS,8629,-0.0439,
+data-human,D_both,spearman_RCS_conservation,8629,0.9016,
+data-human,D_both,spearman_DCS_dynamics,8629,0.8094,
+data-human,D_both,auc_rcs10,2671,0.9158,2029 pos 642 neg
+data-human,D_both,top1pct_precision_rcs10,43,1.0,
+data-human,D_both,auc_dcs10,2671,0.5408,2029 pos 642 neg
+data-human,D_both,top1pct_precision_dcs10,27,0.7778,
+data-human,D_both,top_decile_DCS_n,863,863.0,
+data-human,D_both,top_decile_DCS_gappy_share,863,0.0,
+data-human,D_both,discovery_NARS1_p.Thr17Met_gap,1,0.985,"NO, column is 98% gap"
+data-human,D_both,discovery_NARS1_p.Lys60Thr_gap,1,0.934,"NO, column is 93% gap"
+data-human,D_both,discovery_PGK1_p.Lys30Thr_gap,1,0.049,yes
+data-human,D_both,discovery_SPRTN_p.Tyr117Cys_gap,1,0.001,yes
+data-alphahelical,-,max_error_conservation_recovery,2841,0.0096,
+data-alphahelical,-,share_residues_on_gappy_columns,248,0.0873,
+data-alphahelical,A_as_published,spearman_DCS_RCS,2841,0.2282,
+data-alphahelical,A_as_published,spearman_RCS_conservation,2841,0.9461,
+data-alphahelical,A_as_published,spearman_DCS_dynamics,2841,0.6802,
+data-alphahelical,A_as_published,auc_rcs10,1048,0.7703,844 pos 204 neg
+data-alphahelical,A_as_published,top1pct_precision_rcs10,11,0.7273,
+data-alphahelical,A_as_published,auc_dcs10,1048,0.487,844 pos 204 neg
+data-alphahelical,A_as_published,top1pct_precision_dcs10,11,0.5455,
+data-alphahelical,A_as_published,top_decile_DCS_n,285,285.0,
+data-alphahelical,A_as_published,top_decile_DCS_gappy_share,285,0.3123,
+data-alphahelical,B_gap_filter,spearman_DCS_RCS,2593,0.0129,
+data-alphahelical,B_gap_filter,spearman_RCS_conservation,2593,0.9362,
+data-alphahelical,B_gap_filter,spearman_DCS_dynamics,2593,0.7826,
+data-alphahelical,B_gap_filter,auc_rcs10,971,0.9167,831 pos 140 neg
+data-alphahelical,B_gap_filter,top1pct_precision_rcs10,11,1.0,
+data-alphahelical,B_gap_filter,auc_dcs10,971,0.5096,831 pos 140 neg
+data-alphahelical,B_gap_filter,top1pct_precision_dcs10,10,0.8,
+data-alphahelical,B_gap_filter,top_decile_DCS_n,260,260.0,
+data-alphahelical,B_gap_filter,top_decile_DCS_gappy_share,260,0.0,
+data-alphahelical,C_gap_corrected,spearman_DCS_RCS,2841,0.2159,
+data-alphahelical,C_gap_corrected,spearman_RCS_conservation,2841,0.9605,
+data-alphahelical,C_gap_corrected,spearman_DCS_dynamics,2841,0.5774,
+data-alphahelical,C_gap_corrected,auc_rcs10,1048,0.8779,844 pos 204 neg
+data-alphahelical,C_gap_corrected,top1pct_precision_rcs10,12,0.9167,
+data-alphahelical,C_gap_corrected,auc_dcs10,1048,0.5685,844 pos 204 neg
+data-alphahelical,C_gap_corrected,top1pct_precision_dcs10,11,0.6364,
+data-alphahelical,C_gap_corrected,top_decile_DCS_n,285,285.0,
+data-alphahelical,C_gap_corrected,top_decile_DCS_gappy_share,285,0.186,
+data-alphahelical,D_both,spearman_DCS_RCS,2593,0.0496,
+data-alphahelical,D_both,spearman_RCS_conservation,2593,0.954,
+data-alphahelical,D_both,spearman_DCS_dynamics,2593,0.7263,
+data-alphahelical,D_both,auc_rcs10,971,0.9275,831 pos 140 neg
+data-alphahelical,D_both,top1pct_precision_rcs10,12,1.0,
+data-alphahelical,D_both,auc_dcs10,971,0.5346,831 pos 140 neg
+data-alphahelical,D_both,top1pct_precision_dcs10,10,1.0,
+data-alphahelical,D_both,top_decile_DCS_n,260,260.0,
+data-alphahelical,D_both,top_decile_DCS_gappy_share,260,0.0,

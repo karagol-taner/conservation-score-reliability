@@ -1,0 +1,14 @@
+clinical labels from ClinVar_All_DCS_A.csv
+  residues labelled: 86  (pathogenic 34, benign 52)
+  residues dropped as conflicting: 0
+  labelled residues found in the score table: 86
+  A_as_published   RCS  AUC 0.535  95% CI 0.403 to 0.665  n=86
+  A_as_published   DCS  AUC 0.555  95% CI 0.424 to 0.687  n=86
+  B_gap_filter     RCS  AUC 0.588  95% CI 0.448 to 0.725  n=71
+  B_gap_filter     DCS  AUC 0.494  95% CI 0.354 to 0.634  n=71
+  C_gap_corrected  RCS  AUC 0.610  95% CI 0.482 to 0.732  n=86
+  C_gap_corrected  DCS  AUC 0.639  95% CI 0.514 to 0.759  n=86
+  D_both           RCS  AUC 0.597  95% CI 0.458 to 0.731  n=71
+  D_both           DCS  AUC 0.531  95% CI 0.390 to 0.673  n=71
+  paired difference, gap-free minus as published, over 86 shared residues: +0.075  95% CI +0.003 to +0.149  (excludes zero: yes)
+  that lower bound at 2000 replicates across 30 seeds: -0.002 to +0.008 (contains zero: yes), which is why the reported count is 50000

@@ -1,0 +1,6 @@
+gene,accession,variant_id,subfamily,own_position,wt,mut,classification,ref_position,mapped,verdict,sef_adj,f_own,sister_state,sister_residue,sister_subfamilies
+JAM2,P57087,VAR_049973,JAM2,286,S,R,LB/B,287,True,clade_partitioned,0.5468,0.7586206896551724,False,,
+JAM2,P57087,VAR_083944,JAM2,108,R,H,LP/P,108,True,clade_partitioned,1.0,1.0,False,,
+JAM2,P57087,VAR_083945,JAM2,168,W,C,LP/P,166,True,ok,,1.0,False,,
+JAM3,Q9BX67,VAR_069529,JAM3,116,E,K,LP/P,110,True,clade_partitioned,1.0,1.0,False,,
+JAM3,Q9BX67,VAR_069530,JAM3,219,C,Y,LP/P,212,True,ok,,1.0,False,,

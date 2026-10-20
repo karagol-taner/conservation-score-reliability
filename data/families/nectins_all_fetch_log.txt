@@ -1,0 +1,73 @@
+08_fetch_family.py  run 2026-10-07T09:56:02+00:00
+family nectins, 4 genes, clade Mammalia, tier all
+orthology criterion: primary gene name identity within the clade, from
+reviewed UniProt entries. No orthology database is used; see the script
+docstring for what this criterion does and does not establish.
+  807 entries over 6 request(s)
+
+NECTIN1:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=NECTIN1&size=200&offset=0&reviewed=true
+  kept 87 in Mammalia
+    dropped A0A8M2B818 Danio rerio: outside Mammalia
+    dropped B0JYH6 Danio rerio: outside Mammalia
+    dropped Q15223-2 Homo sapiens: second entry for this organism
+    dropped Q15223-3 Homo sapiens: second entry for this organism
+    dropped A0A1A7ZBL0 Nothobranchius furzeri: outside Mammalia
+    dropped A0A1L1SQP1 Mus musculus: second entry for this organism
+    and 714 more, all listed in the CSV
+  317 entries over 3 request(s)
+
+NECTIN2:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=NECTIN2&size=200&offset=0&reviewed=true
+  kept 92 in Mammalia
+    dropped P32507-2 Mus musculus: second entry for this organism
+    dropped Q92692-2 Homo sapiens: second entry for this organism
+    dropped A0A1U7RDC3 Mesocricetus auratus: second entry for this organism
+    dropped A0A2I3TJW9 Pan troglodytes: second entry for this organism
+    dropped A0A2K5QKF6 Cebus imitator: second entry for this organism
+    dropped A0A2K5QKG9 Cebus imitator: second entry for this organism
+    and 219 more, all listed in the CSV
+  755 entries over 5 request(s)
+
+NECTIN3:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=NECTIN3&size=200&offset=0&reviewed=true
+  kept 89 in Mammalia
+    dropped Q1RN00 Homo sapiens: primary gene NECTIN3-AS1
+    dropped Q58EG3 Danio rerio: outside Mammalia
+    dropped Q9JLB9-2 Mus musculus: second entry for this organism
+    dropped Q9JLB9-3 Mus musculus: second entry for this organism
+    dropped Q9NQS3-2 Homo sapiens: second entry for this organism
+    dropped Q9NQS3-3 Homo sapiens: second entry for this organism
+    and 660 more, all listed in the CSV
+  528 entries over 4 request(s)
+
+NECTIN4:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=NECTIN4&size=200&offset=0&reviewed=true
+  kept 92 in Mammalia
+    dropped Q5FWR8 Xenopus tropicalis: outside Mammalia
+    dropped Q8R007-2 Mus musculus: second entry for this organism
+    dropped Q96NY8-2 Homo sapiens: second entry for this organism
+    dropped A0A0R4ICR1 Danio rerio: outside Mammalia
+    dropped A0A1S3LZ35 Salmo salar: outside Mammalia
+    dropped A0A1S3SDD9 Salmo salar: outside Mammalia
+    and 430 more, all listed in the CSV
+
+length filter at 40% of each gene's own anchor: 7 dropped
+  NECTIN1  anchor  517 residues, from the human entry
+  NECTIN2  anchor  538 residues, from the human entry
+  NECTIN3  anchor  549 residues, from the human entry
+  NECTIN4  anchor  510 residues, from the human entry
+
+family nectins: 120 sequences over 4 genes
+  NECTIN1   30  (3 reviewed)
+  NECTIN2   30  (2 reviewed)
+  NECTIN3   30  (2 reviewed)
+  NECTIN4   30  (3 reviewed)
+  reference Q15223 NECT1_HUMAN (NECTIN1)
+
+wrote out/families/nectins_all.fasta (120 sequences)
+wrote out/families/nectins_all_excluded.csv (2287 exclusions)
+
+subfamily argument for the panel and the tree null, trailing spaces matter:
+  --subfamilies "NECTIN1=NECTIN1 ;NECTIN2=NECTIN2 ;NECTIN3=NECTIN3 ;NECTIN4=NECTIN4 "
+  --ref NECT1_HUMAN --own NECTIN1

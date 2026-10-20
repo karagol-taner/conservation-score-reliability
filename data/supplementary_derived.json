@@ -1,0 +1,321 @@
+{
+ "sister_substitutions": {
+  "positions": 3063,
+  "instances": 8649,
+  "classes": 361,
+  "top": [
+   {
+    "cls": "V>I",
+    "n": 186,
+    "pct": 2.2
+   },
+   {
+    "cls": "I>V",
+    "n": 180,
+    "pct": 2.1
+   },
+   {
+    "cls": "T>S",
+    "n": 159,
+    "pct": 1.8
+   },
+   {
+    "cls": "A>S",
+    "n": 143,
+    "pct": 1.7
+   },
+   {
+    "cls": "I>L",
+    "n": 140,
+    "pct": 1.6
+   },
+   {
+    "cls": "D>E",
+    "n": 139,
+    "pct": 1.6
+   },
+   {
+    "cls": "E>D",
+    "n": 139,
+    "pct": 1.6
+   },
+   {
+    "cls": "K>R",
+    "n": 136,
+    "pct": 1.6
+   },
+   {
+    "cls": "S>A",
+    "n": 119,
+    "pct": 1.4
+   },
+   {
+    "cls": "V>L",
+    "n": 115,
+    "pct": 1.3
+   }
+  ],
+  "top_ten_share": 16.8,
+  "all_conservative": true
+ },
+ "strata": [
+  {
+   "family": "peroxidases",
+   "stratum": "conservative",
+   "sister_benign": 1,
+   "sister_pathogenic": 0,
+   "other_benign": 11,
+   "other_pathogenic": 5,
+   "informative": true
+  },
+  {
+   "family": "peroxidases",
+   "stratum": "non-conservative",
+   "sister_benign": 1,
+   "sister_pathogenic": 0,
+   "other_benign": 18,
+   "other_pathogenic": 17,
+   "informative": true
+  },
+  {
+   "family": "syndecans",
+   "stratum": "conservative",
+   "sister_benign": 0,
+   "sister_pathogenic": 0,
+   "other_benign": 4,
+   "other_pathogenic": 0,
+   "informative": false
+  },
+  {
+   "family": "syndecans",
+   "stratum": "non-conservative",
+   "sister_benign": 1,
+   "sister_pathogenic": 0,
+   "other_benign": 2,
+   "other_pathogenic": 0,
+   "informative": false
+  },
+  {
+   "family": "nectins",
+   "stratum": "conservative",
+   "sister_benign": 0,
+   "sister_pathogenic": 0,
+   "other_benign": 1,
+   "other_pathogenic": 0,
+   "informative": false
+  },
+  {
+   "family": "nectins",
+   "stratum": "non-conservative",
+   "sister_benign": 0,
+   "sister_pathogenic": 0,
+   "other_benign": 1,
+   "other_pathogenic": 1,
+   "informative": false
+  },
+  {
+   "family": "JAMs",
+   "stratum": "conservative",
+   "sister_benign": 0,
+   "sister_pathogenic": 0,
+   "other_benign": 0,
+   "other_pathogenic": 1,
+   "informative": false
+  },
+  {
+   "family": "JAMs",
+   "stratum": "non-conservative",
+   "sister_benign": 0,
+   "sister_pathogenic": 0,
+   "other_benign": 1,
+   "other_pathogenic": 3,
+   "informative": false
+  },
+  {
+   "family": "FGFRs",
+   "stratum": "conservative",
+   "sister_benign": 1,
+   "sister_pathogenic": 0,
+   "other_benign": 9,
+   "other_pathogenic": 20,
+   "informative": true
+  },
+  {
+   "family": "FGFRs",
+   "stratum": "non-conservative",
+   "sister_benign": 0,
+   "sister_pathogenic": 0,
+   "other_benign": 19,
+   "other_pathogenic": 162,
+   "informative": false
+  },
+  {
+   "family": "connexins",
+   "stratum": "conservative",
+   "sister_benign": 1,
+   "sister_pathogenic": 2,
+   "other_benign": 6,
+   "other_pathogenic": 52,
+   "informative": true
+  },
+  {
+   "family": "connexins",
+   "stratum": "non-conservative",
+   "sister_benign": 2,
+   "sister_pathogenic": 1,
+   "other_benign": 16,
+   "other_pathogenic": 188,
+   "informative": true
+  },
+  {
+   "family": "sodium channel alpha subunits",
+   "stratum": "conservative",
+   "sister_benign": 9,
+   "sister_pathogenic": 22,
+   "other_benign": 42,
+   "other_pathogenic": 166,
+   "informative": true
+  },
+  {
+   "family": "sodium channel alpha subunits",
+   "stratum": "non-conservative",
+   "sister_benign": 4,
+   "sister_pathogenic": 19,
+   "other_benign": 57,
+   "other_pathogenic": 596,
+   "informative": true
+  },
+  {
+   "family": "Eph receptors",
+   "stratum": "conservative",
+   "sister_benign": 14,
+   "sister_pathogenic": 1,
+   "other_benign": 20,
+   "other_pathogenic": 4,
+   "informative": true
+  },
+  {
+   "family": "Eph receptors",
+   "stratum": "non-conservative",
+   "sister_benign": 7,
+   "sister_pathogenic": 1,
+   "other_benign": 41,
+   "other_pathogenic": 15,
+   "informative": true
+  }
+ ],
+ "strata_informative": 9,
+ "strata_total": 16,
+ "gap_deciles": [
+  {
+   "decile": "0 to 10%",
+   "n": 27890,
+   "reported": 0.405,
+   "gapfree": 0.418
+  },
+  {
+   "decile": "10 to 20%",
+   "n": 7464,
+   "reported": 0.369,
+   "gapfree": 0.409
+  },
+  {
+   "decile": "20 to 30%",
+   "n": 3920,
+   "reported": 0.349,
+   "gapfree": 0.368
+  },
+  {
+   "decile": "30 to 40%",
+   "n": 3097,
+   "reported": 0.365,
+   "gapfree": 0.341
+  },
+  {
+   "decile": "40 to 50%",
+   "n": 2087,
+   "reported": 0.416,
+   "gapfree": 0.342
+  },
+  {
+   "decile": "50 to 60%",
+   "n": 1632,
+   "reported": 0.474,
+   "gapfree": 0.326
+  },
+  {
+   "decile": "60 to 70%",
+   "n": 1994,
+   "reported": 0.58,
+   "gapfree": 0.394
+  },
+  {
+   "decile": "70 to 80%",
+   "n": 2054,
+   "reported": 0.655,
+   "gapfree": 0.361
+  },
+  {
+   "decile": "80 to 90%",
+   "n": 2189,
+   "reported": 0.776,
+   "gapfree": 0.415
+  },
+  {
+   "decile": "90 to 100%",
+   "n": 3489,
+   "reported": 0.934,
+   "gapfree": 0.597
+  }
+ ],
+ "assembly": [
+  {
+   "family": "syndecans (reviewed only)",
+   "fasta": "syndecans_reviewed.fasta",
+   "kept": 18,
+   "excluded": 18
+  },
+  {
+   "family": "syndecans",
+   "fasta": "syndecans_all.fasta",
+   "kept": 120,
+   "excluded": 2289
+  },
+  {
+   "family": "nectins",
+   "fasta": "nectins_all.fasta",
+   "kept": 120,
+   "excluded": 2287
+  },
+  {
+   "family": "JAMs",
+   "fasta": "jams_all.fasta",
+   "kept": 90,
+   "excluded": 1971
+  },
+  {
+   "family": "FGFRs",
+   "fasta": "fgfrs_all_all.fasta",
+   "kept": 120,
+   "excluded": 3892
+  },
+  {
+   "family": "connexins",
+   "fasta": "gjbs_all_all.fasta",
+   "kept": 150,
+   "excluded": 2185
+  },
+  {
+   "family": "sodium channel alpha subunits",
+   "fasta": "scns_all_all.fasta",
+   "kept": 200,
+   "excluded": 7071
+  },
+  {
+   "family": "Eph receptors",
+   "fasta": "ephs_all.fasta",
+   "kept": 280,
+   "excluded": 10934
+  }
+ ]
+}

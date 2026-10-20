@@ -1,0 +1,2290 @@
+gene,accession,organism,reason
+SDC1,O74861,Schizosaccharomyces pombe (strain 972 / ATCC 24843),outside Mammalia
+SDC1,P18828-2,Mus musculus,second entry for this organism
+SDC1,Q03323,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),outside Mammalia
+SDC1,Q6ESZ9,Oryza sativa subsp. japonica,outside Mammalia
+SDC1,Q9MA74,Arabidopsis thaliana,outside Mammalia
+SDC1,A0A151PIT3,Alligator mississippiensis,outside Mammalia
+SDC1,A0A1B2JGH8,Komagataella pastoris,outside Mammalia
+SDC1,A0A1D8PNX3,Candida albicans (strain SC5314 / ATCC MYA-2876),outside Mammalia
+SDC1,A0A1L8GBM5,Xenopus laevis,outside Mammalia
+SDC1,A0A1U7R4A6,Mesocricetus auratus,second entry for this organism
+SDC1,A0A1U7SF51,Alligator sinensis,outside Mammalia
+SDC1,A0A1V4JNC6,Patagioenas fasciata monilis,outside Mammalia
+SDC1,A0A218VBJ2,Lonchura striata,outside Mammalia
+SDC1,A0A251TJ79,Helianthus annuus,outside Mammalia
+SDC1,A0A2C5XCK2,Ceratocystis fimbriata CBS 114723,outside Mammalia
+SDC1,A0A2I0MV90,Columba livia,outside Mammalia
+SDC1,A0A2I2ZV17,Gorilla gorilla gorilla,second entry for this organism
+SDC1,A0A2I3H5A3,Nomascus leucogenys,second entry for this organism
+SDC1,A0A2I3RS69,Pan troglodytes,second entry for this organism
+SDC1,A0A2J8RSP4,Pongo abelii,second entry for this organism
+SDC1,A0A2K5RH36,Cebus imitator,second entry for this organism
+SDC1,A0A2K6PR26,Rhinopithecus roxellana,second entry for this organism
+SDC1,A0A314L451,Nicotiana attenuata,outside Mammalia
+SDC1,A0A367JUL4,Rhizopus stolonifer,outside Mammalia
+SDC1,A0A367YJP1,Candida viswanathii,outside Mammalia
+SDC1,A0A371E680,Mucuna pruriens,outside Mammalia
+SDC1,A0A371EA69,Mucuna pruriens,outside Mammalia
+SDC1,A0A371ECZ3,Mucuna pruriens,outside Mammalia
+SDC1,A0A371EZS7,Mucuna pruriens,outside Mammalia
+SDC1,A0A371F4D1,Mucuna pruriens,outside Mammalia
+SDC1,A0A371GJR9,Mucuna pruriens,outside Mammalia
+SDC1,A0A371HXY2,Mucuna pruriens,outside Mammalia
+SDC1,A0A3M9Y5F8,Verticillium nonalfalfae,outside Mammalia
+SDC1,A0A420YEZ7,Coniochaeta pulveracea,outside Mammalia
+SDC1,A0A482AGL0,Populus trichocarpa,outside Mammalia
+SDC1,A0A4R8PZM7,Colletotrichum spinosum,outside Mammalia
+SDC1,A0A4R8RFU2,Colletotrichum trifolii,outside Mammalia
+SDC1,A0A4R8TK36,Colletotrichum sidae,outside Mammalia
+SDC1,A0A4W2IDQ7,Bos indicus x Bos taurus,second entry for this organism
+SDC1,A0A4W4F415,Electrophorus electricus,outside Mammalia
+SDC1,A0A4X2MC04,Vombatus ursinus,second entry for this organism
+SDC1,A0A507QP83,Monascus purpureus,outside Mammalia
+SDC1,A0A5F7ZE20,Macaca mulatta,second entry for this organism
+SDC1,A0A5N5D8U2,Lasiodiplodia theobromae,outside Mammalia
+SDC1,A0A5Q4BZF6,Colletotrichum shisoi,outside Mammalia
+SDC1,A0A663EW28,Aquila chrysaetos chrysaetos,outside Mammalia
+SDC1,A0A663MPC6,Athene cunicularia,outside Mammalia
+SDC1,A0A669R410,Phasianus colchicus,outside Mammalia
+SDC1,A0A670HV66,Podarcis muralis,outside Mammalia
+SDC1,A0A670ZCW1,Pseudonaja textilis,outside Mammalia
+SDC1,A0A671ECS5,Rhinolophus ferrumequinum,second entry for this organism
+SDC1,A0A672UA12,Strigops habroptila,outside Mammalia
+SDC1,A0A674GI61,Taeniopygia guttata,outside Mammalia
+SDC1,A0A674IIQ6,Terrapene triunguis,outside Mammalia
+SDC1,A0A6C1DPZ0,Saccharomyces pastorianus,outside Mammalia
+SDC1,A0A6J0H3J5,Lepidothrix coronata,outside Mammalia
+SDC1,A0A6J0H3K1,Lepidothrix coronata,outside Mammalia
+SDC1,A0A6J0SYU1,Pogona vitticeps,outside Mammalia
+SDC1,A0A6J1ULZ7,Notechis scutatus,outside Mammalia
+SDC1,A0A6J2FIM9,Zalophus californianus,second entry for this organism
+SDC1,A0A6J2FIS7,Zalophus californianus,second entry for this organism
+SDC1,A0A6J2GVJ8,Pipra filicauda,outside Mammalia
+SDC1,A0A6J3CWT2,Aythya fuligula,outside Mammalia
+SDC1,A0A6P5IPU3,Phascolarctos cinereus,second entry for this organism
+SDC1,A0A6P5IVZ6,Phascolarctos cinereus,second entry for this organism
+SDC1,A0A6P5R060,Mus caroli,second entry for this organism
+SDC1,A0A6P7XGQ6,Microcaecilia unicolor,outside Mammalia
+SDC1,A0A6P7XQ70,Microcaecilia unicolor,outside Mammalia
+SDC1,A0A6P8QER7,Geotrypetes seraphini,outside Mammalia
+SDC1,A0A6P9CXR4,Pantherophis guttatus,outside Mammalia
+SDC1,A0A7D5V295,Metarhizium brunneum,outside Mammalia
+SDC1,A0A7E6DWM2,Phyllostomus discolor,second entry for this organism
+SDC1,A0A7J6N3C7,Perkinsus chesapeaki,outside Mammalia
+SDC1,A0A7K4IZ37,Geococcyx californianus,outside Mammalia
+SDC1,A0A7K4KSA3,Crypturellus soui,outside Mammalia
+SDC1,A0A7K4L212,Crypturellus undulatus,outside Mammalia
+SDC1,A0A7K4PNH3,Melospiza melodia,outside Mammalia
+SDC1,A0A7K4QST9,Neopipo cinnamomea,outside Mammalia
+SDC1,A0A7K4S5W0,Columbina picui,outside Mammalia
+SDC1,A0A7K4SU85,Burhinus bistriatus,outside Mammalia
+SDC1,A0A7K4UI36,Sinosuthora webbiana,outside Mammalia
+SDC1,A0A7K4VIB6,Emberiza fucata,outside Mammalia
+SDC1,A0A7K4W7T8,Tachuris rubrigastra,outside Mammalia
+SDC1,A0A7K4XLL1,Regulus satrapa,outside Mammalia
+SDC1,A0A7K4Y864,Bucorvus abyssinicus,outside Mammalia
+SDC1,A0A7K4ZND5,Centropus unirufus,outside Mammalia
+SDC1,A0A7K5B863,Furnarius figulus,outside Mammalia
+SDC1,A0A7K5CKB8,Motacilla alba,outside Mammalia
+SDC1,A0A7K5DJU5,Pachyramphus minor,outside Mammalia
+SDC1,A0A7K5EB91,Polioptila caerulea,outside Mammalia
+SDC1,A0A7K5F5F0,Probosciger aterrimus,outside Mammalia
+SDC1,A0A7K5GIN8,Chunga burmeisteri,outside Mammalia
+SDC1,A0A7K5HLG8,Crotophaga sulcirostris,outside Mammalia
+SDC1,A0A7K5JAJ1,Toxostoma redivivum,outside Mammalia
+SDC1,A0A7K5K028,Mionectes macconnelli,outside Mammalia
+SDC1,A0A7K5LNI0,Vireo altiloquus,outside Mammalia
+SDC1,A0A7K5MWZ9,Cardinalis cardinalis,outside Mammalia
+SDC1,A0A7K5P247,Chroicocephalus maculipennis,outside Mammalia
+SDC1,A0A7K5P6A5,Erythrocercus mccallii,outside Mammalia
+SDC1,A0A7K5QHB4,Prunella himalayana,outside Mammalia
+SDC1,A0A7K5S0R6,Lanius ludovicianus,outside Mammalia
+SDC1,A0A7K5TGY5,Urocynchramus pylzowi,outside Mammalia
+SDC1,A0A7K5U2J4,Cephalopterus ornatus,outside Mammalia
+SDC1,A0A7K5VB93,Platysteira castanea,outside Mammalia
+SDC1,A0A7K5WXS2,Hylia prasina,outside Mammalia
+SDC1,A0A7K5Y1J2,Dromas ardeola,outside Mammalia
+SDC1,A0A7K5YE51,Pterocles burchelli,outside Mammalia
+SDC1,A0A7K5ZVA5,Onychorhynchus coronatus,outside Mammalia
+SDC1,A0A7K6B299,Upupa epops,outside Mammalia
+SDC1,A0A7K6C7V4,Ptilonorhynchus violaceus,outside Mammalia
+SDC1,A0A7K6DPL9,Origma solitaria,outside Mammalia
+SDC1,A0A7K6EYM7,Grantiella picta,outside Mammalia
+SDC1,A0A7K6FWJ4,Daphoenositta chrysoptera,outside Mammalia
+SDC1,A0A7K6G9G1,Malurus elegans,outside Mammalia
+SDC1,A0A7K6ID87,Dasyornis broadbenti,outside Mammalia
+SDC1,A0A7K6JKF3,Machaerirhynchus nigripectus,outside Mammalia
+SDC1,A0A7K6LAF9,Falcunculus frontatus,outside Mammalia
+SDC1,A0A7K6MAN1,Panurus biarmicus,outside Mammalia
+SDC1,A0A7K6NWU9,Pedionomus torquatus,outside Mammalia
+SDC1,A0A7K6PPE5,Ifrita kowaldi,outside Mammalia
+SDC1,A0A7K6R7A8,Climacteris rufus,outside Mammalia
+SDC1,A0A7K6RMP6,Rhynochetos jubatus,outside Mammalia
+SDC1,A0A7K6TD64,Caloenas nicobarica,outside Mammalia
+SDC1,A0A7K6TLZ3,Aegotheles bennettii,outside Mammalia
+SDC1,A0A7K6UVC0,Notiomystis cincta,outside Mammalia
+SDC1,A0A7K6VXH6,Steatornis caripensis,outside Mammalia
+SDC1,A0A7K6Y6R2,Promerops cafer,outside Mammalia
+SDC1,A0A7K6YCJ8,Alca torda,outside Mammalia
+SDC1,A0A7K7A8G2,Nothoprocta pentlandii,outside Mammalia
+SDC1,A0A7K7AJ05,Nothoprocta ornata,outside Mammalia
+SDC1,A0A7K7C025,Aphelocoma coerulescens,outside Mammalia
+SDC1,A0A7K7DZJ1,Sylvia atricapilla,outside Mammalia
+SDC1,A0A7K7EXX0,Chionis minor,outside Mammalia
+SDC1,A0A7K7GQR0,Erithacus rubecula,outside Mammalia
+SDC1,A0A7K7J0V7,Loxia curvirostra,outside Mammalia
+SDC1,A0A7K7K6V7,Agelaius phoeniceus,outside Mammalia
+SDC1,A0A7K7LCC2,Asarcornis scutulata,outside Mammalia
+SDC1,A0A7K7MP13,Brachypodius melanocephalos,outside Mammalia
+SDC1,A0A7K7NXX6,Haliaeetus albicilla,outside Mammalia
+SDC1,A0A7K7PSN9,Acrocephalus arundinaceus,outside Mammalia
+SDC1,A0A7K7QR14,Poecile atricapillus,outside Mammalia
+SDC1,A0A7K7SDZ9,Nesospiza acunhae,outside Mammalia
+SDC1,A0A7K7T3K9,Sapayoa aenigma,outside Mammalia
+SDC1,A0A7K7U4L9,Ibidorhyncha struthersii,outside Mammalia
+SDC1,A0A7K7V8C6,Eudromia elegans,outside Mammalia
+SDC1,A0A7K7WU88,Nothocercus julius,outside Mammalia
+SDC1,A0A7K7XHH4,Mohoua ochrocephala,outside Mammalia
+SDC1,A0A7K7Z163,Thryothorus ludovicianus,outside Mammalia
+SDC1,A0A7K8A0W6,Melanocharis versteri,outside Mammalia
+SDC1,A0A7K8BHA4,Cnemophilus loriae,outside Mammalia
+SDC1,A0A7K8C7D1,Rhagologus leucostigma,outside Mammalia
+SDC1,A0A7K8D5R7,Eulacestoma nigropectus,outside Mammalia
+SDC1,A0A7K8ERR9,Leucopsar rothschildi,outside Mammalia
+SDC1,A0A7K8FWR8,Struthidea cinerea,outside Mammalia
+SDC1,A0A7K8GDK9,Orthonyx spaldingii,outside Mammalia
+SDC1,A0A7K8I5K4,Aleadryas rufinucha,outside Mammalia
+SDC1,A0A7K8IFA8,Chaetorhynchus papuensis,outside Mammalia
+SDC1,A0A7K8JNG8,Lophotis ruficrista,outside Mammalia
+SDC1,A0A7K8L7X8,Ardeotis kori,outside Mammalia
+SDC1,A0A7K8M361,Ptilorrhoa leucosticta,outside Mammalia
+SDC1,A0A7K8NDN6,Casuarius casuarius,outside Mammalia
+SDC1,A0A7K8PYU3,Cochlearius cochlearius,outside Mammalia
+SDC1,A0A7K8RLR2,Rhodinocichla rosea,outside Mammalia
+SDC1,A0A7K8T8K9,Nyctibius bracteatus,outside Mammalia
+SDC1,A0A7K8UD44,Oceanites oceanicus,outside Mammalia
+SDC1,A0A7K8VLH8,Ciccaba nigrolineata,outside Mammalia
+SDC1,A0A7K8W6M2,Sclerurus mexicanus,outside Mammalia
+SDC1,A0A7K8XJE8,Eubucco bourcierii,outside Mammalia
+SDC1,A0A7K8YYF2,Sakesphorus luctuosus,outside Mammalia
+SDC1,A0A7K9ABY4,Grallaria varia,outside Mammalia
+SDC1,A0A7K9CFA2,Psilopogon haemacephalus,outside Mammalia
+SDC1,A0A7K9DS14,Hemiprocne comata,outside Mammalia
+SDC1,A0A7K9EML3,Baryphthengus martii,outside Mammalia
+SDC1,A0A7K9F6E7,Stercorarius parasiticus,outside Mammalia
+SDC1,A0A7K9GD35,Loxia leucoptera,outside Mammalia
+SDC1,A0A7K9H9F2,Bucco capensis,outside Mammalia
+SDC1,A0A7K9ILE2,Myiagra hebetior,outside Mammalia
+SDC1,A0A7K9K890,Dicaeum eximium,outside Mammalia
+SDC1,A0A7K9LHU2,Rhabdornis inornatus,outside Mammalia
+SDC1,A0A7K9MXT5,Oceanodroma tethys,outside Mammalia
+SDC1,A0A7K9NSV9,Edolisoma coerulescens,outside Mammalia
+SDC1,A0A7K9PA98,Pachycephala philippinensis,outside Mammalia
+SDC1,A0A7K9QSA3,Irena cyanogastra,outside Mammalia
+SDC1,A0A7K9S2C2,Sterrhoptilus dennistouni,outside Mammalia
+SDC1,A0A7K9SUA3,Galbula dea,outside Mammalia
+SDC1,A0A7K9UI56,Chloroceryle aenea,outside Mammalia
+SDC1,A0A7K9UTS6,Anseranas semipalmata,outside Mammalia
+SDC1,A0A7K9VZQ9,Rhipidura dahli,outside Mammalia
+SDC1,A0A7K9XKP9,Psophia crepitans,outside Mammalia
+SDC1,A0A7K9YWY2,Odontophorus gujanensis,outside Mammalia
+SDC1,A0A7L0A344,Dicrurus megarhynchus,outside Mammalia
+SDC1,A0A7L0AMQ1,Ciconia maguari,outside Mammalia
+SDC1,A0A7L0CKC5,Spizaetus tyrannus,outside Mammalia
+SDC1,A0A7L0D467,Rostratula benghalensis,outside Mammalia
+SDC1,A0A7L0EBU8,Trogon melanurus,outside Mammalia
+SDC1,A0A7L0FML9,Corythaixoides concolor,outside Mammalia
+SDC1,A0A7L0H5E9,Herpetotheres cachinnans,outside Mammalia
+SDC1,A0A7L0HY07,Arenaria interpres,outside Mammalia
+SDC1,A0A7L0IH01,Piprites chloris,outside Mammalia
+SDC1,A0A7L0K5S0,Chauna torquata,outside Mammalia
+SDC1,A0A7L0L604,Sylvietta virens,outside Mammalia
+SDC1,A0A7L0LYH1,Amazona guildingii,outside Mammalia
+SDC1,A0A7L0P148,Formicarius rufipectus,outside Mammalia
+SDC1,A0A7L0PPJ0,Mesembrinibis cayennensis,outside Mammalia
+SDC1,A0A7L0QFP3,Setophaga kirtlandii,outside Mammalia
+SDC1,A0A7L0SCS2,Glaucidium brasilianum,outside Mammalia
+SDC1,A0A7L0TCY7,Podilymbus podiceps,outside Mammalia
+SDC1,A0A7L0TYW8,Chordeiles acutipennis,outside Mammalia
+SDC1,A0A7L0VDQ1,Leptocoma aspasia,outside Mammalia
+SDC1,A0A7L0WBW5,Alectura lathami,outside Mammalia
+SDC1,A0A7L0X9D9,Tyrannus savana,outside Mammalia
+SDC1,A0A7L0YV11,Ploceus nigricollis,outside Mammalia
+SDC1,A0A7L0ZEC0,Oxyruncus cristatus,outside Mammalia
+SDC1,A0A7L1B2N8,Gymnorhina tibicen,outside Mammalia
+SDC1,A0A7L1BSS9,Illadopsis cleaveri,outside Mammalia
+SDC1,A0A7L1D8G0,Serilophus lunatus,outside Mammalia
+SDC1,A0A7L1DUA6,Oenanthe oenanthe,outside Mammalia
+SDC1,A0A7L1F148,Sylvia borin,outside Mammalia
+SDC1,A0A7L1FZ28,Indicator maculatus,outside Mammalia
+SDC1,A0A7L1HSI7,Nycticryphes semicollaris,outside Mammalia
+SDC1,A0A7L1IVX3,Smutsornis africanus,outside Mammalia
+SDC1,A0A7L1JV22,Rynchops niger,outside Mammalia
+SDC1,A0A7L1L2X2,Himantopus himantopus,outside Mammalia
+SDC1,A0A7L1MIX5,Bombycilla garrulus,outside Mammalia
+SDC1,A0A7L1PHD1,Oriolus oriolus,outside Mammalia
+SDC1,A0A7L1QW53,Cisticola juncidis,outside Mammalia
+SDC1,A0A7L1RBJ4,Helopsaltes ochotensis,outside Mammalia
+SDC1,A0A7L1SJB6,Aramus guarauna,outside Mammalia
+SDC1,A0A7L1TJL0,Phainopepla nitens,outside Mammalia
+SDC1,A0A7L1VP28,Sitta europaea,outside Mammalia
+SDC1,A0A7L1WSG0,Certhia brachydactyla,outside Mammalia
+SDC1,A0A7L1WZQ6,Thinocorus orbignyianus,outside Mammalia
+SDC1,A0A7L1Y5K5,Scytalopus superciliaris,outside Mammalia
+SDC1,A0A7L1ZIN8,Leiothrix lutea,outside Mammalia
+SDC1,A0A7L2BFK5,Alaudala cheleensis,outside Mammalia
+SDC1,A0A7L2D1I9,Catharus fuscescens,outside Mammalia
+SDC1,A0A7L2EK77,Anthoscopus minutus,outside Mammalia
+SDC1,A0A7L2FU73,Quiscalus mexicanus,outside Mammalia
+SDC1,A0A7L2GHH1,Nyctibius grandis,outside Mammalia
+SDC1,A0A7L2HFM3,Sagittarius serpentarius,outside Mammalia
+SDC1,A0A7L2K4D3,Cinclus mexicanus,outside Mammalia
+SDC1,A0A7L2KSE7,Zosterops hypoxanthus,outside Mammalia
+SDC1,A0A7L2LN10,Hippolais icterina,outside Mammalia
+SDC1,A0A7L2MVT0,Rhadina sibilatrix,outside Mammalia
+SDC1,A0A7L2NHL5,Pycnonotus jocosus,outside Mammalia
+SDC1,A0A7L2PTH8,Hypocryptadius cinnamomeus,outside Mammalia
+SDC1,A0A7L2QWF8,Oxylabes madagascariensis,outside Mammalia
+SDC1,A0A7L2RK86,Neodrepanis coruscans,outside Mammalia
+SDC1,A0A7L2S4K4,Mystacornis crossleyi,outside Mammalia
+SDC1,A0A7L2TC82,Pomatostomus ruficeps,outside Mammalia
+SDC1,A0A7L2VNV2,Brachypteracias leptosomus,outside Mammalia
+SDC1,A0A7L2WER4,Pandion haliaetus,outside Mammalia
+SDC1,A0A7L2XAH8,Erpornis zantholeuca,outside Mammalia
+SDC1,A0A7L2YY86,Jacana jacana,outside Mammalia
+SDC1,A0A7L3A822,Prunella fulvescens,outside Mammalia
+SDC1,A0A7L3ASP0,Syrrhaptes paradoxus,outside Mammalia
+SDC1,A0A7L3BN94,Pelecanoides urinatrix,outside Mammalia
+SDC1,A0A7L3DRR0,Pluvianellus socialis,outside Mammalia
+SDC1,A0A7L3ELV8,Chaetops frenatus,outside Mammalia
+SDC1,A0A7L3FLJ1,Zapornia atra,outside Mammalia
+SDC1,A0A7L3HJQ5,Buphagus erythrorhynchus,outside Mammalia
+SDC1,A0A7L3IDP4,Pardalotus punctatus,outside Mammalia
+SDC1,A0A7L3IW58,Thalassarche chlororhynchos,outside Mammalia
+SDC1,A0A7L3K0E6,Drymodes brunneopygia,outside Mammalia
+SDC1,A0A7L3L2H5,Turnix velox,outside Mammalia
+SDC1,A0A7L3MGQ3,Horornis vulcanius,outside Mammalia
+SDC1,A0A7L3N5Z9,Oreotrochilus melanogaster,outside Mammalia
+SDC1,A0A7L3Q085,Cettia cetti,outside Mammalia
+SDC1,A0A7L3R5N2,Cepphus grylle,outside Mammalia
+SDC1,A0A7L3SMZ8,Rissa tridactyla,outside Mammalia
+SDC1,A0A7L3U4U1,Uria aalge,outside Mammalia
+SDC1,A0A7L3VYA7,Molothrus ater,outside Mammalia
+SDC1,A0A7L3W9M9,Atlantisia rogersi,outside Mammalia
+SDC1,A0A7L3XUV8,Calonectris borealis,outside Mammalia
+SDC1,A0A7L3Z4Z5,Fregetta grallaria,outside Mammalia
+SDC1,A0A7L4AHG8,Circaetus pectoralis,outside Mammalia
+SDC1,A0A7L4BBG4,Phaetusa simplex,outside Mammalia
+SDC1,A0A7L4BR41,Nyctiprogne leucopyga,outside Mammalia
+SDC1,A0A7L4DGW6,Eurystomus gularis,outside Mammalia
+SDC1,A0A7L4FU19,Pampusana beccarii,outside Mammalia
+SDC1,A0A7L4GBM4,Podargus strigoides,outside Mammalia
+SDC1,A0A7L4IV78,Pomatorhinus ruficollis,outside Mammalia
+SDC1,A0A7L4K602,Ceuthmochares aereus,outside Mammalia
+SDC1,A0A7L4KM03,Callaeas wilsoni,outside Mammalia
+SDC1,A0A7L4MKC3,Glareola pratincola,outside Mammalia
+SDC1,A0A7L4N5W4,Ceyx cyanopectus,outside Mammalia
+SDC1,A0A7M4EB74,Crocodylus porosus,outside Mammalia
+SDC1,A0A7R7VUG7,Aspergillus chevalieri,outside Mammalia
+SDC1,A0A7R7W1T2,Aspergillus kawachii,outside Mammalia
+SDC1,A0A7R7XW76,Aspergillus puulaauensis,outside Mammalia
+SDC1,A0A803JF35,Xenopus tropicalis,outside Mammalia
+SDC1,A0A803V275,Ficedula albicollis,outside Mammalia
+SDC1,A0A803V2K7,Ficedula albicollis,outside Mammalia
+SDC1,A0A850TDJ3,Grus americana,outside Mammalia
+SDC1,A0A850UEN3,Chloropsis hardwickii,outside Mammalia
+SDC1,A0A850WE15,Fregata magnificens,outside Mammalia
+SDC1,A0A850XGA0,Piaya cayana,outside Mammalia
+SDC1,A0A850Y707,Aegithalos caudatus,outside Mammalia
+SDC1,A0A851ABA9,Sula dactylatra,outside Mammalia
+SDC1,A0A851BHJ4,Picathartes gymnocephalus,outside Mammalia
+SDC1,A0A851CSJ7,Calyptomena viridis,outside Mammalia
+SDC1,A0A851DFP8,Todus mexicanus,outside Mammalia
+SDC1,A0A851DR82,Dryoscopus gambensis,outside Mammalia
+SDC1,A0A851F216,Pitta sordida,outside Mammalia
+SDC1,A0A851J250,Donacobius atricapilla,outside Mammalia
+SDC1,A0A851KZF1,Vidua chalybeata,outside Mammalia
+SDC1,A0A851LIY2,Corythaeola cristata,outside Mammalia
+SDC1,A0A851N6F0,Campylorhamphus procurvoides,outside Mammalia
+SDC1,A0A851NVJ8,Penelope pileata,outside Mammalia
+SDC1,A0A851Q981,Anhinga anhinga,outside Mammalia
+SDC1,A0A851QUV3,Tychaedon coryphoeus,outside Mammalia
+SDC1,A0A851RLH0,Certhia familiaris,outside Mammalia
+SDC1,A0A851TPF8,Nothocercus nigrocapillus,outside Mammalia
+SDC1,A0A851U325,Elachura formosa,outside Mammalia
+SDC1,A0A851V8B9,Copsychus sechellarum,outside Mammalia
+SDC1,A0A851Y1L3,Eolophus roseicapilla,outside Mammalia
+SDC1,A0A851YQ53,Halcyon senegalensis,outside Mammalia
+SDC1,A0A851ZPE0,Calcarius ornatus,outside Mammalia
+SDC1,A0A852AUK3,Chloropsis cyanopogon,outside Mammalia
+SDC1,A0A852CHU6,Ramphastos sulfuratus,outside Mammalia
+SDC1,A0A852EKQ3,Vidua macroura,outside Mammalia
+SDC1,A0A852EZN9,Peucedramus taeniatus,outside Mammalia
+SDC1,A0A852GTS7,Larus smithsonianus,outside Mammalia
+SDC1,A0A852HXW6,Nicator chloris,outside Mammalia
+SDC1,A0A852J4Q6,Tricholaema leucomelas,outside Mammalia
+SDC1,A0A852JUP2,Spizella passerina,outside Mammalia
+SDC1,A0A852KXU1,Urocolius indicus,outside Mammalia
+SDC1,A0A852LPS4,Centropus bengalensis,outside Mammalia
+SDC1,A0A852MY70,Pteruthius melanotis,outside Mammalia
+SDC1,A0A852N551,Atrichornis clamosus,outside Mammalia
+SDC1,A0A8B9CNI1,Anser brachyrhynchus,outside Mammalia
+SDC1,A0A8B9DEA0,Anser cygnoides,outside Mammalia
+SDC1,A0A8B9YAW8,Bos grunniens,second entry for this organism
+SDC1,A0A8C0GKY0,Chelonoidis abingdonii,outside Mammalia
+SDC1,A0A8C0UK79,Cyanistes caeruleus,outside Mammalia
+SDC1,A0A8C0UNW0,Cyanistes caeruleus,outside Mammalia
+SDC1,A0A8C0UQP5,Cyanistes caeruleus,outside Mammalia
+SDC1,A0A8C2TLA7,Coturnix japonica,outside Mammalia
+SDC1,A0A8C3D8S2,Corvus moneduloides,outside Mammalia
+SDC1,A0A8C3M6S4,Geospiza parvula,outside Mammalia
+SDC1,A0A8C3PAK2,Chrysemys picta bellii,outside Mammalia
+SDC1,A0A8C3TS42,Catharus ustulatus,outside Mammalia
+SDC1,A0A8C4P2T4,Dromaius novaehollandiae,outside Mammalia
+SDC1,A0A8C4X3A1,Erpetoichthys calabaricus,outside Mammalia
+SDC1,A0A8C6EYV4,Marmota marmota marmota,second entry for this organism
+SDC1,A0A8C9J2J1,Piliocolobus tephrosceles,second entry for this organism
+SDC1,A0A8C9NGG5,Serinus canaria,outside Mammalia
+SDC1,A0A8C9UG92,Serinus canaria,outside Mammalia
+SDC1,A0A8D2L2I8,Varanus komodoensis,outside Mammalia
+SDC1,A0A8D2M7I1,Zonotrichia albicollis,outside Mammalia
+SDC1,A0A8H3FU78,Heterodermia speciosa,outside Mammalia
+SDC1,A0A8H6E6K4,Petromyces alliaceus,outside Mammalia
+SDC1,A0A8H8RAC3,Lachnellula hyalina,outside Mammalia
+SDC1,A0A8H8S3A5,Lachnellula subtilissima,outside Mammalia
+SDC1,A0A8I3P4H3,Canis lupus familiaris,second entry for this organism
+SDC1,A0A8I3XCX1,Callithrix jacchus,second entry for this organism
+SDC1,A0A8J4IM52,Spheniscus mendiculus,outside Mammalia
+SDC1,A0A8J4IVK1,Eudyptula minor,outside Mammalia
+SDC1,A0A8J4J3H3,Eudyptes sclateri,outside Mammalia
+SDC1,A0A8J4K496,Eudyptula minor,outside Mammalia
+SDC1,A0A8J4KIJ3,Eudyptes chrysocome,outside Mammalia
+SDC1,A0A8J4L8S5,Aptenodytes patagonicus,outside Mammalia
+SDC1,A0A8J4V4M9,Clarias magur,outside Mammalia
+SDC1,A0A8J7T8K5,Atractosteus spatula,outside Mammalia
+SDC1,A0A8J9Z549,Branchiostoma lanceolatum,outside Mammalia
+SDC1,A0A8J9Z560,Branchiostoma lanceolatum,outside Mammalia
+SDC1,A0A8J9Z597,Branchiostoma lanceolatum,outside Mammalia
+SDC1,A0A8J9Z5W6,Branchiostoma lanceolatum,outside Mammalia
+SDC1,A0A8K0BEG4,Eudyptes filholi,outside Mammalia
+SDC1,A0A8N5HXB3,Geospiza fortis,outside Mammalia
+SDC1,A0A8T1T4K0,Chelydra serpentina,outside Mammalia
+SDC1,A0A8T9BP74,Lachnellula arida,outside Mammalia
+SDC1,A0A9F2QW47,Python bivittatus,outside Mammalia
+SDC1,A0A9L0I454,Equus asinus,second entry for this organism
+SDC1,A0A9L0IIP0,Equus asinus,second entry for this organism
+SDC1,A0A9L0J9E5,Equus asinus,second entry for this organism
+SDC1,A0A9L0JEW0,Equus asinus,second entry for this organism
+SDC1,A0A9L0K5I8,Equus asinus,second entry for this organism
+SDC1,A0A9L0RPZ2,Equus caballus,second entry for this organism
+SDC1,A0A9L0RYB7,Equus caballus,second entry for this organism
+SDC1,A0A9L0S686,Equus caballus,second entry for this organism
+SDC1,A0A9L0STI5,Equus caballus,second entry for this organism
+SDC1,A0A9L0T1S0,Equus caballus,second entry for this organism
+SDC1,A0A9L0T4D7,Equus caballus,second entry for this organism
+SDC1,A0A9L0THN1,Equus caballus,second entry for this organism
+SDC1,A0A9L0TU94,Equus caballus,second entry for this organism
+SDC1,A0A9P5K8C2,Colletotrichum siamense,outside Mammalia
+SDC1,A0A9P6W9M3,Maudiozyma exigua,outside Mammalia
+SDC1,A0A9P7VCZ8,Scheffersomyces spartinae,outside Mammalia
+SDC1,A0A9Q0FLW6,Turnera subulata,outside Mammalia
+SDC1,A0A9Q8Q8Y4,Purpureocillium takamizusanense,outside Mammalia
+SDC1,A0A9W2WK05,Physeter macrocephalus,second entry for this organism
+SDC1,A0A9W8RGF1,Fusarium falciforme,outside Mammalia
+SDC1,A0A9W8V8U6,Fusarium torreyae,outside Mammalia
+SDC1,A0A9W8Z0W0,Gnomoniopsis smithogilvyi,outside Mammalia
+SDC1,A0A9W9BPB2,Fusarium piperis,outside Mammalia
+SDC1,A0AA39Z074,Lasiodiplodia hormozganensis,outside Mammalia
+SDC1,A0AA40L2D4,Pygoscelis papua,outside Mammalia
+SDC1,A0AA43QKS0,Ramalina farinacea,outside Mammalia
+SDC1,A0AA97JTM4,Eublepharis macularius,outside Mammalia
+SDC1,A0AA97N537,Menura novaehollandiae,outside Mammalia
+SDC1,A0AAD4CY93,Aspergillus nanangensis,outside Mammalia
+SDC1,A0AAD8G9N1,Acipenser oxyrinchus oxyrinchus,outside Mammalia
+SDC1,A0AAD8GCH8,Acipenser oxyrinchus oxyrinchus,outside Mammalia
+SDC1,A0AAF0AVH9,Schizosaccharomyces osmophilus,outside Mammalia
+SDC1,A0AAF0DII3,Emydomyces testavorans,outside Mammalia
+SDC1,A0AAF6YW04,Bos taurus,second entry for this organism
+SDC1,A0AAJ0CC27,Conoideocrella luteorostrata,outside Mammalia
+SDC1,A0AAN8MVG2,Orbilia javanica,outside Mammalia
+SDC1,A0AAN8N5I1,Arthrobotrys conoides,outside Mammalia
+SDC1,A0AAN9TWU6,Cytospora paraplurivora,outside Mammalia
+SDC1,A0AAN9UT44,Diatrype stigma,outside Mammalia
+SDC1,A0AAV9UAZ2,Orbilia brochopaga,outside Mammalia
+SDC1,A0AAV9V0M9,Orbilia blumenaviensis,outside Mammalia
+SDC1,A0AAV9X1R3,Orbilia ellipsospora,outside Mammalia
+SDC1,A0ABI7X3G9,Felis catus,second entry for this organism
+SDC1,A0ABI7X3H0,Felis catus,second entry for this organism
+SDC1,A0ABI7X467,Felis catus,second entry for this organism
+SDC1,A0ABI7X4E4,Felis catus,second entry for this organism
+SDC1,A0ABK0LH06,Rattus norvegicus,second entry for this organism
+SDC1,A0ABM1JHG1,Gekko japonicus,outside Mammalia
+SDC1,A0ABM4EE15,Apteryx mantelli,outside Mammalia
+SDC1,A0ABM4KQH6,Equus przewalskii,second entry for this organism
+SDC1,A0ABM4KQI1,Equus przewalskii,second entry for this organism
+SDC1,A0ABM4KQI4,Equus przewalskii,second entry for this organism
+SDC1,A0ABM5B9N9,Vulpes vulpes,second entry for this organism
+SDC1,A0ABQ0G100,Madurella fahalii,outside Mammalia
+SDC1,A0ABQ8RSX2,Fusarium equiseti,outside Mammalia
+SDC1,A0ABQ9DMN4,Willisornis vidua,outside Mammalia
+SDC1,A0ABR0G0T3,Podospora bellae-mahoneyi,outside Mammalia
+SDC1,A0ABR0GXB0,Podospora pseudocomata,outside Mammalia
+SDC1,A0ABR0I205,Podospora pseudopauciseta,outside Mammalia
+SDC1,A0ABR0IQG2,Podospora pseudoanserina,outside Mammalia
+SDC1,A0ABR1GHF3,Neonectria punicea,outside Mammalia
+SDC1,A0ABR1HY98,Neonectria magnoliae,outside Mammalia
+SDC1,A0ABR1P3H0,Diaporthe eres,outside Mammalia
+SDC1,A0ABR3GIC8,Maublancomyces gigas,outside Mammalia
+SDC1,A0ABR3W749,Diaporthe australafricana,outside Mammalia
+SDC1,A0ABR3Y940,Paecilomyces lecythidis,outside Mammalia
+SDC1,A0ABR3YMK7,Sporothrix stenoceras,outside Mammalia
+SDC1,A0ABR4MVL8,Polyrhizophydium stewartii,outside Mammalia
+SDC1,A0ABS2XSS2,Polyodon spathula,outside Mammalia
+SDC1,A0ABS2YXZ2,Polypterus senegalus,outside Mammalia
+SDC1,A0ABU6QC56,Stylosanthes scabra,outside Mammalia
+SDC1,A0ABU6R330,Stylosanthes scabra,outside Mammalia
+SDC1,A0ABU6R563,Stylosanthes scabra,outside Mammalia
+SDC1,A0ABU6TAG7,Stylosanthes scabra,outside Mammalia
+SDC1,A0ABU6VKG9,Stylosanthes scabra,outside Mammalia
+SDC1,A0ABU6WHZ1,Stylosanthes scabra,outside Mammalia
+SDC1,A0ABU6XH71,Stylosanthes scabra,outside Mammalia
+SDC1,A0ABU6XH87,Stylosanthes scabra,outside Mammalia
+SDC1,A0ABU6ZIE3,Stylosanthes scabra,outside Mammalia
+SDC1,A0ABX6ER09,Kluyveromyces marxianus,outside Mammalia
+SDC1,A0AC58KKC3,Castor canadensis,second entry for this organism
+SDC1,A0ACC3B1C9,Aspergillus melleus,outside Mammalia
+SDC1,A0ACE1SRL6,Xanthoria parietina,outside Mammalia
+SDC1,A0ACF2E6T5,Ophidiomyces ophidiicola,outside Mammalia
+SDC1,A0ACF4N149,Elasticomyces elasticus,outside Mammalia
+SDC1,A0ACF5BTR8,Arthrobotrys megalospora,outside Mammalia
+SDC1,A0ACF8MMJ6,Fusarium chlamydosporum,outside Mammalia
+SDC1,A0ACG8D7F2,Coccidioides posadasii (strain RMSCC 757 / Silveira),outside Mammalia
+SDC1,A0ACI8P771,Homo sapiens,second entry for this organism
+SDC1,A0ACI8Q0H9,Homo sapiens,second entry for this organism
+SDC1,A0ACI8SV68,Homo sapiens,second entry for this organism
+SDC1,A0ACI8VRI2,Homo sapiens,second entry for this organism
+SDC1,A0ACJ1MFR0,Rattus norvegicus,second entry for this organism
+SDC1,A0ACM7H533,Callorhinus ursinus,second entry for this organism
+SDC1,A0ACM8QUS8,Macaca mulatta,second entry for this organism
+SDC1,A3LVJ8,Scheffersomyces stipitis (strain ATCC 58785 / CBS 6054 / NBRC 10063 / NRRL Y-11545),outside Mammalia
+SDC1,D8U5K5,Volvox carteri f. nagariensis,outside Mammalia
+SDC1,E0CYT6,Mus musculus,second entry for this organism
+SDC1,E2DI12,Bos taurus,second entry for this organism
+SDC1,E2DI13,Bos taurus,second entry for this organism
+SDC1,E9PHH3,Homo sapiens,second entry for this organism
+SDC1,F1NV24,Gallus gallus,outside Mammalia
+SDC1,F2QV39,Komagataella phaffii (strain ATCC 76273 / CBS 7435 / CECT 11047 / NRRL Y-11430 / Wegner 21-1),outside Mammalia
+SDC1,F6R865,Ornithorhynchus anatinus,second entry for this organism
+SDC1,F7CBA1,Equus caballus,second entry for this organism
+SDC1,F7I933,Callithrix jacchus,second entry for this organism
+SDC1,F8WCX9,Homo sapiens,second entry for this organism
+SDC1,G1KK50,Anolis carolinensis,outside Mammalia
+SDC1,G1L7U3,Ailuropoda melanoleuca,second entry for this organism
+SDC1,G1NMN2,Meleagris gallopavo,outside Mammalia
+SDC1,G1TUQ1,Oryctolagus cuniculus,second entry for this organism
+SDC1,H0ZSE4,Taeniopygia guttata,outside Mammalia
+SDC1,H7C1K4,Homo sapiens,second entry for this organism
+SDC1,I0FGI3,Macaca mulatta,second entry for this organism
+SDC1,K7BMB3,Pan troglodytes,second entry for this organism
+SDC1,K7FY15,Pelodiscus sinensis,outside Mammalia
+SDC1,K7GNF5,Sus scrofa,second entry for this organism
+SDC1,L2FTH6,Colletotrichum fructicola (strain Nara gc5),outside Mammalia
+SDC1,N4V377,Colletotrichum orbiculare (strain 104-T / ATCC 96160 / CBS 514.97 / LARS 414 / MAFF 240422),outside Mammalia
+SDC1,O74861,Schizosaccharomyces pombe (strain 972 / ATCC 24843),outside Mammalia
+SDC1,P18827,Homo sapiens,second entry for this organism
+SDC1,P18828,Mus musculus,second entry for this organism
+SDC1,P18828-2,Mus musculus,second entry for this organism
+SDC1,P26260,Rattus norvegicus,second entry for this organism
+SDC1,P34740,Mesocricetus auratus,second entry for this organism
+SDC1,P47951,Cricetulus griseus,second entry for this organism
+SDC1,Q03323,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),outside Mammalia
+SDC1,Q08DZ5,Bos taurus,second entry for this organism
+SDC1,Q3THY2,Mus musculus,second entry for this organism
+SDC1,Q3V1F2,Mus musculus,second entry for this organism
+SDC1,Q6ESZ9,Oryza sativa subsp. japonica,outside Mammalia
+SDC1,Q9MA74,Arabidopsis thaliana,outside Mammalia
+SDC1,U3BFS8,Callithrix jacchus,second entry for this organism
+SDC1,U3ISI2,Anas platyrhynchos platyrhynchos,outside Mammalia
+SDC1,U3JGE2,Ficedula albicollis,outside Mammalia
+SDC1,V8PFM8,Ophiophagus hannah,outside Mammalia
+SDC1,A0A1S3EX57,Dipodomys ordii,length 528 against SDC1 anchor 310
+SDC1,A0A2R8MMY3,Callithrix jacchus,length 169 against SDC1 anchor 310
+SDC1,A0A3Q0E504,Carlito syrichta,length 455 against SDC1 anchor 310
+SDC1,A0A673V771,Suricata suricatta,over the per-gene cap
+SDC1,A0A6G1A4H5,Crocuta crocuta,over the per-gene cap
+SDC1,A0A6I8N9G4,Ornithorhynchus anatinus,over the per-gene cap
+SDC1,A0A6I9HYF1,Vicugna pacos,over the per-gene cap
+SDC1,A0A6I9LN00,Peromyscus maniculatus bairdii,over the per-gene cap
+SDC1,A0A6J0XXF0,Odocoileus virginianus,over the per-gene cap
+SDC1,A0A6J1X5Z3,Acinonyx jubatus,over the per-gene cap
+SDC1,A0A6J2FIK9,Zalophus californianus,over the per-gene cap
+SDC1,A0A6J2LWD4,Phyllostomus discolor,over the per-gene cap
+SDC1,A0A6J3J4Y5,Sapajus apella,over the per-gene cap
+SDC1,A0A6J3PVJ2,Tursiops truncatus,over the per-gene cap
+SDC1,A0A6P3HJU7,Bison bison bison,over the per-gene cap
+SDC1,A0A6P5CL43,Bos indicus,over the per-gene cap
+SDC1,A0A6P5IM96,Phascolarctos cinereus,over the per-gene cap
+SDC1,A0A6P5QUJ8,Mus caroli,over the per-gene cap
+SDC1,A0A6P6CA91,Pteropus vampyrus,over the per-gene cap
+SDC1,A0A6P6E324,Octodon degus,over the per-gene cap
+SDC1,A0A6P6I4D7,Puma concolor,over the per-gene cap
+SDC1,A0A7N5KJ36,Ailuropoda melanoleuca,over the per-gene cap
+SDC1,A0A8B6ZQT9,Orycteropus afer afer,over the per-gene cap
+SDC1,A0A8B7I097,Microcebus murinus,over the per-gene cap
+SDC1,A0A8B7S7F3,Hipposideros armiger,over the per-gene cap
+SDC1,A0A8B8UEG8,Camelus ferus,over the per-gene cap
+SDC1,A0A8B9Y5X7,Bos grunniens,over the per-gene cap
+SDC1,A0A8C0DGE5,Balaenoptera musculus,over the per-gene cap
+SDC1,A0A8C0LJF3,Canis lupus dingo,over the per-gene cap
+SDC1,A0A8C2YN13,Chinchilla lanigera,over the per-gene cap
+SDC1,A0A8C3X0Z3,Catagonus wagneri,over the per-gene cap
+SDC1,A0A8C4LS07,Equus asinus,over the per-gene cap
+SDC1,A0A8C5L6S1,Jaculus jaculus,over the per-gene cap
+SDC1,A0A8C6A695,Marmota marmota marmota,over the per-gene cap
+SDC1,A0A8C6AW87,Monodon monoceros,over the per-gene cap
+SDC1,A0A8C6CLR4,Moschus moschiferus,over the per-gene cap
+SDC1,A0A8C6QRZ1,Nannospalax galili,over the per-gene cap
+SDC1,A0A8C8WNI7,Panthera leo,over the per-gene cap
+SDC1,A0A8C8Z3L7,Prolemur simus,over the per-gene cap
+SDC1,A0A8C9BDQ5,Phocoena sinus,over the per-gene cap
+SDC1,A0A8C9IMS2,Piliocolobus tephrosceles,over the per-gene cap
+SDC1,A0A8D2DZL2,Sciurus vulgaris,over the per-gene cap
+SDC1,A0A8D2FKD5,Theropithecus gelada,over the per-gene cap
+SDC1,A0A8D2KG90,Urocitellus parryii,over the per-gene cap
+SDC1,A0A8I3P4F5,Canis lupus familiaris,over the per-gene cap
+SDC1,A0A8M1F683,Ursus maritimus,over the per-gene cap
+SDC1,A0A8U0RUW2,Mustela putorius furo,over the per-gene cap
+SDC1,A0A9B0WJJ3,Chrysochloris asiatica,over the per-gene cap
+SDC1,A0A9V1FPF5,Panthera pardus,over the per-gene cap
+SDC1,A0A9W2WJS0,Physeter macrocephalus,over the per-gene cap
+SDC1,A0A9W3EER4,Camelus bactrianus,over the per-gene cap
+SDC1,A0AAX6NXH1,Heterocephalus glaber,over the per-gene cap
+SDC1,A0ABI7X3G0,Felis catus,over the per-gene cap
+SDC1,A0ABM0L7R5,Microtus ochrogaster,over the per-gene cap
+SDC1,A0ABM0QTB4,Galeopterus variegatus,over the per-gene cap
+SDC1,A0ABM3UJX1,Balaenoptera acutorostrata,over the per-gene cap
+SDC1,A0ABM3X199,Erinaceus europaeus,over the per-gene cap
+SDC1,A0ABM4KQH2,Equus przewalskii,over the per-gene cap
+SDC1,A0ABM5B9N8,Vulpes vulpes,over the per-gene cap
+SDC1,A0AC55CTN5,Echinops telfairi,over the per-gene cap
+SDC1,A0AC58KK68,Castor canadensis,over the per-gene cap
+SDC1,A0ACI6PET5,Ovis aries,over the per-gene cap
+SDC1,G1P916,Myotis lucifugus,over the per-gene cap
+SDC1,G3TNP1,Loxodonta africana,over the per-gene cap
+SDC1,H0VDC2,Cavia porcellus,over the per-gene cap
+SDC1,I3NFD8,Ictidomys tridecemlineatus,over the per-gene cap
+SDC1,U6DTW3,Neogale vison,over the per-gene cap
+SDC2,A7A0P0,Saccharomyces cerevisiae (strain YJM789),outside Mammalia
+SDC2,B3LTF3,Saccharomyces cerevisiae (strain RM11-1a),outside Mammalia
+SDC2,B5VMS9,Saccharomyces cerevisiae (strain AWRI1631),outside Mammalia
+SDC2,C8ZCV7,Saccharomyces cerevisiae (strain Lalvin EC1118 / Prise de mousse),outside Mammalia
+SDC2,P0CF32,Saccharomyces cerevisiae,outside Mammalia
+SDC2,P0CF34,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),outside Mammalia
+SDC2,P49414,Xenopus laevis,outside Mammalia
+SDC2,Q6GR51,Xenopus laevis,outside Mammalia
+SDC2,A0A151MYB5,Alligator mississippiensis,outside Mammalia
+SDC2,A0A1L8FTJ5,Xenopus laevis,outside Mammalia
+SDC2,A0A1S2X7P5,Salmo salar,outside Mammalia
+SDC2,A0A1U7RYG7,Alligator sinensis,outside Mammalia
+SDC2,A0A1V4KGS4,Patagioenas fasciata monilis,outside Mammalia
+SDC2,A0A218V6I4,Lonchura striata,outside Mammalia
+SDC2,A0A2D0PGE3,Ictalurus punctatus,outside Mammalia
+SDC2,A0A2I0MXT0,Columba livia,outside Mammalia
+SDC2,A0A2I3GDW4,Nomascus leucogenys,second entry for this organism
+SDC2,A0A2I3GJF6,Nomascus leucogenys,second entry for this organism
+SDC2,A0A2I3SWD5,Pan troglodytes,second entry for this organism
+SDC2,A0A2I4DB81,Austrofundulus limnaeus,outside Mammalia
+SDC2,A0A2K5R0H2,Cebus imitator,second entry for this organism
+SDC2,A0A2K6PN90,Rhinopithecus roxellana,second entry for this organism
+SDC2,A0A2K6PND3,Rhinopithecus roxellana,second entry for this organism
+SDC2,A0A2Y9RZD0,Physeter macrocephalus,second entry for this organism
+SDC2,A0A340X3G1,Lipotes vexillifer,second entry for this organism
+SDC2,A0A3B3IH90,Oryzias latipes,outside Mammalia
+SDC2,A0A3B4CVS0,Pygocentrus nattereri,outside Mammalia
+SDC2,A0A3B4D357,Pygocentrus nattereri,outside Mammalia
+SDC2,A0A3B4GJ62,Pundamilia nyererei,outside Mammalia
+SDC2,A0A3B4GNH9,Pundamilia nyererei,outside Mammalia
+SDC2,A0A3B5AAP6,Stegastes partitus,outside Mammalia
+SDC2,A0A3P8VGY4,Cynoglossus semilaevis,outside Mammalia
+SDC2,A0A3Q1B557,Amphiprion ocellaris,outside Mammalia
+SDC2,A0A3Q1HMV7,Anabas testudineus,outside Mammalia
+SDC2,A0A3Q1M3X3,Bos taurus,second entry for this organism
+SDC2,A0A3Q1MKJ8,Bos taurus,second entry for this organism
+SDC2,A0A3Q1MQ12,Bos taurus,second entry for this organism
+SDC2,A0A3Q2LK21,Equus caballus,second entry for this organism
+SDC2,A0A452ES93,Capra hircus,second entry for this organism
+SDC2,A0A482AKG3,Populus trichocarpa,outside Mammalia
+SDC2,A0A493TGN9,Anas platyrhynchos platyrhynchos,outside Mammalia
+SDC2,A0A4W2CPU2,Bos indicus x Bos taurus,second entry for this organism
+SDC2,A0A4W2CTL4,Bos indicus x Bos taurus,second entry for this organism
+SDC2,A0A4W2CTL9,Bos indicus x Bos taurus,second entry for this organism
+SDC2,A0A4W3GQ23,Callorhinchus milii,outside Mammalia
+SDC2,A0A4W3H880,Callorhinchus milii,outside Mammalia
+SDC2,A0A4W4EVI0,Electrophorus electricus,outside Mammalia
+SDC2,A0A4W6DQ95,Lates calcarifer,outside Mammalia
+SDC2,A0A4X2KGA5,Vombatus ursinus,second entry for this organism
+SDC2,A0A4Z2F135,Liparis tanakae,outside Mammalia
+SDC2,A0A4Z2FWB1,Liparis tanakae,outside Mammalia
+SDC2,A0A5F5PP74,Equus caballus,second entry for this organism
+SDC2,A0A5F8H2J3,Monodelphis domestica,second entry for this organism
+SDC2,A0A5F8H3M5,Monodelphis domestica,second entry for this organism
+SDC2,A0A5F9CDS8,Oryctolagus cuniculus,second entry for this organism
+SDC2,A0A5F9CSH8,Oryctolagus cuniculus,second entry for this organism
+SDC2,A0A5F9CYT9,Oryctolagus cuniculus,second entry for this organism
+SDC2,A0A5F9D582,Oryctolagus cuniculus,second entry for this organism
+SDC2,A0A5F9DDJ9,Oryctolagus cuniculus,second entry for this organism
+SDC2,A0A663DT98,Aquila chrysaetos chrysaetos,outside Mammalia
+SDC2,A0A663N2Z7,Athene cunicularia,outside Mammalia
+SDC2,A0A665U5A6,Echeneis naucrates,outside Mammalia
+SDC2,A0A667IE27,Lynx canadensis,second entry for this organism
+SDC2,A0A667WKS1,Myripristis murdjan,outside Mammalia
+SDC2,A0A668TGQ8,Oreochromis aureus,outside Mammalia
+SDC2,A0A669P7T9,Phasianus colchicus,outside Mammalia
+SDC2,A0A670K8F7,Podarcis muralis,outside Mammalia
+SDC2,A0A670Y7A9,Pseudonaja textilis,outside Mammalia
+SDC2,A0A670Y7L4,Pseudonaja textilis,outside Mammalia
+SDC2,A0A671FB35,Rhinolophus ferrumequinum,second entry for this organism
+SDC2,A0A671SD29,Sinocyclocheilus anshuiensis,outside Mammalia
+SDC2,A0A671VRX8,Sparus aurata,outside Mammalia
+SDC2,A0A672I197,Salarias fasciatus,outside Mammalia
+SDC2,A0A672TP59,Strigops habroptila,outside Mammalia
+SDC2,A0A673ABM1,Sphaeramia orbicularis,outside Mammalia
+SDC2,A0A673J4G6,Sinocyclocheilus rhinocerous,outside Mammalia
+SDC2,A0A673JEK8,Sinocyclocheilus rhinocerous,outside Mammalia
+SDC2,A0A673VG51,Suricata suricatta,second entry for this organism
+SDC2,A0A674H8T5,Taeniopygia guttata,outside Mammalia
+SDC2,A0A674I0M7,Terrapene triunguis,outside Mammalia
+SDC2,A0A674P1M7,Takifugu rubripes,outside Mammalia
+SDC2,A0A6B8WRG6,Hippocampus abdominalis,outside Mammalia
+SDC2,A0A6C1DVR1,Saccharomyces pastorianus,outside Mammalia
+SDC2,A0A6C1EB74,Saccharomyces pastorianus,outside Mammalia
+SDC2,A0A6F9DS14,Phallusia mammillata,outside Mammalia
+SDC2,A0A6F9DSB5,Phallusia mammillata,outside Mammalia
+SDC2,A0A6I9HIZ6,Geospiza fortis,outside Mammalia
+SDC2,A0A6I9MRM4,Notothenia coriiceps,outside Mammalia
+SDC2,A0A6I9XCD9,Thamnophis sirtalis,outside Mammalia
+SDC2,A0A6J0GJ58,Lepidothrix coronata,outside Mammalia
+SDC2,A0A6J0SXC7,Pogona vitticeps,outside Mammalia
+SDC2,A0A6J0SXD2,Pogona vitticeps,outside Mammalia
+SDC2,A0A6J0T271,Pogona vitticeps,outside Mammalia
+SDC2,A0A6J0T4L6,Pogona vitticeps,outside Mammalia
+SDC2,A0A6J1W206,Notechis scutatus,outside Mammalia
+SDC2,A0A6J2GDD8,Pipra filicauda,outside Mammalia
+SDC2,A0A6J2QM59,Cottoperca gobio,outside Mammalia
+SDC2,A0A6J2WL82,Chanos chanos,outside Mammalia
+SDC2,A0A6J3CKH6,Aythya fuligula,outside Mammalia
+SDC2,A0A6J3F7L8,Sapajus apella,second entry for this organism
+SDC2,A0A6J3F7M0,Sapajus apella,second entry for this organism
+SDC2,A0A6P3WAL4,Clupea harengus,outside Mammalia
+SDC2,A0A6P5ITZ0,Phascolarctos cinereus,second entry for this organism
+SDC2,A0A6P5R4G6,Mus caroli,second entry for this organism
+SDC2,A0A6P7I4U9,Parambassis ranga,outside Mammalia
+SDC2,A0A6P7NVK1,Betta splendens,outside Mammalia
+SDC2,A0A6P7Z8D4,Microcaecilia unicolor,outside Mammalia
+SDC2,A0A6P8PL29,Geotrypetes seraphini,outside Mammalia
+SDC2,A0A6P8U2K6,Gymnodraco acuticeps,outside Mammalia
+SDC2,A0A6P9CGP9,Pantherophis guttatus,outside Mammalia
+SDC2,A0A6Q2Z8D5,Esox lucius,outside Mammalia
+SDC2,A0A7K4IZV8,Geococcyx californianus,outside Mammalia
+SDC2,A0A7K4KQ23,Crypturellus soui,outside Mammalia
+SDC2,A0A7K4LH20,Crypturellus undulatus,outside Mammalia
+SDC2,A0A7K4PX18,Melospiza melodia,outside Mammalia
+SDC2,A0A7K4QQE9,Neopipo cinnamomea,outside Mammalia
+SDC2,A0A7K4RSM5,Columbina picui,outside Mammalia
+SDC2,A0A7K4SLH7,Burhinus bistriatus,outside Mammalia
+SDC2,A0A7K4TNL0,Sinosuthora webbiana,outside Mammalia
+SDC2,A0A7K4V048,Emberiza fucata,outside Mammalia
+SDC2,A0A7K4W5X8,Tachuris rubrigastra,outside Mammalia
+SDC2,A0A7K4XP15,Regulus satrapa,outside Mammalia
+SDC2,A0A7K4YEQ7,Bucorvus abyssinicus,outside Mammalia
+SDC2,A0A7K4ZNJ0,Centropus unirufus,outside Mammalia
+SDC2,A0A7K5AV53,Furnarius figulus,outside Mammalia
+SDC2,A0A7K5BP84,Motacilla alba,outside Mammalia
+SDC2,A0A7K5CRS2,Pachyramphus minor,outside Mammalia
+SDC2,A0A7K5E262,Polioptila caerulea,outside Mammalia
+SDC2,A0A7K5FEV3,Probosciger aterrimus,outside Mammalia
+SDC2,A0A7K5GA39,Chunga burmeisteri,outside Mammalia
+SDC2,A0A7K5HRD2,Crotophaga sulcirostris,outside Mammalia
+SDC2,A0A7K5JAB9,Toxostoma redivivum,outside Mammalia
+SDC2,A0A7K5K8C9,Mionectes macconnelli,outside Mammalia
+SDC2,A0A7K5L3X0,Vireo altiloquus,outside Mammalia
+SDC2,A0A7K5MM36,Cardinalis cardinalis,outside Mammalia
+SDC2,A0A7K5NAK3,Chroicocephalus maculipennis,outside Mammalia
+SDC2,A0A7K5PFB1,Erythrocercus mccallii,outside Mammalia
+SDC2,A0A7K5QEN5,Prunella himalayana,outside Mammalia
+SDC2,A0A7K5S1R6,Lanius ludovicianus,outside Mammalia
+SDC2,A0A7K5T9D3,Urocynchramus pylzowi,outside Mammalia
+SDC2,A0A7K5VWG2,Platysteira castanea,outside Mammalia
+SDC2,A0A7K5WKF4,Hylia prasina,outside Mammalia
+SDC2,A0A7K5XQB0,Dromas ardeola,outside Mammalia
+SDC2,A0A7K5YMA8,Pterocles burchelli,outside Mammalia
+SDC2,A0A7K5ZEB7,Onychorhynchus coronatus,outside Mammalia
+SDC2,A0A7K6B120,Upupa epops,outside Mammalia
+SDC2,A0A7K6C4T3,Ptilonorhynchus violaceus,outside Mammalia
+SDC2,A0A7K6CPU3,Origma solitaria,outside Mammalia
+SDC2,A0A7K6ELA8,Grantiella picta,outside Mammalia
+SDC2,A0A7K6FIZ2,Daphoenositta chrysoptera,outside Mammalia
+SDC2,A0A7K6GWU8,Malurus elegans,outside Mammalia
+SDC2,A0A7K6HIH6,Dasyornis broadbenti,outside Mammalia
+SDC2,A0A7K6K211,Oreocharis arfaki,outside Mammalia
+SDC2,A0A7K6LUX8,Falcunculus frontatus,outside Mammalia
+SDC2,A0A7K6MDI1,Panurus biarmicus,outside Mammalia
+SDC2,A0A7K6P0B8,Pedionomus torquatus,outside Mammalia
+SDC2,A0A7K6PJQ7,Ifrita kowaldi,outside Mammalia
+SDC2,A0A7K6R0M5,Climacteris rufus,outside Mammalia
+SDC2,A0A7K6SEB5,Rhynochetos jubatus,outside Mammalia
+SDC2,A0A7K6T1V3,Caloenas nicobarica,outside Mammalia
+SDC2,A0A7K6U4G6,Aegotheles bennettii,outside Mammalia
+SDC2,A0A7K6WZE5,Steatornis caripensis,outside Mammalia
+SDC2,A0A7K6XHM4,Promerops cafer,outside Mammalia
+SDC2,A0A7K6Z7C8,Alca torda,outside Mammalia
+SDC2,A0A7K6ZSY5,Nothoprocta pentlandii,outside Mammalia
+SDC2,A0A7K7AZ24,Nothoprocta ornata,outside Mammalia
+SDC2,A0A7K7BPW0,Aphelocoma coerulescens,outside Mammalia
+SDC2,A0A7K7CWK5,Pheucticus melanocephalus,outside Mammalia
+SDC2,A0A7K7E7A9,Sylvia atricapilla,outside Mammalia
+SDC2,A0A7K7F2M7,Chionis minor,outside Mammalia
+SDC2,A0A7K7H129,Erithacus rubecula,outside Mammalia
+SDC2,A0A7K7IYX4,Loxia curvirostra,outside Mammalia
+SDC2,A0A7K7JU74,Agelaius phoeniceus,outside Mammalia
+SDC2,A0A7K7KFV6,Agelaius phoeniceus,outside Mammalia
+SDC2,A0A7K7KV22,Asarcornis scutulata,outside Mammalia
+SDC2,A0A7K7M8I4,Brachypodius melanocephalos,outside Mammalia
+SDC2,A0A7K7NR60,Haliaeetus albicilla,outside Mammalia
+SDC2,A0A7K7PL38,Acrocephalus arundinaceus,outside Mammalia
+SDC2,A0A7K7Q4Q4,Poecile atricapillus,outside Mammalia
+SDC2,A0A7K7S1B6,Nesospiza acunhae,outside Mammalia
+SDC2,A0A7K7TBI7,Sapayoa aenigma,outside Mammalia
+SDC2,A0A7K7UBV8,Ibidorhyncha struthersii,outside Mammalia
+SDC2,A0A7K7UWV7,Eudromia elegans,outside Mammalia
+SDC2,A0A7K7VVI6,Nothocercus julius,outside Mammalia
+SDC2,A0A7K7XMS4,Mohoua ochrocephala,outside Mammalia
+SDC2,A0A7K7YF38,Thryothorus ludovicianus,outside Mammalia
+SDC2,A0A7K7ZSV1,Melanocharis versteri,outside Mammalia
+SDC2,A0A7K8BEA4,Cnemophilus loriae,outside Mammalia
+SDC2,A0A7K8C368,Rhagologus leucostigma,outside Mammalia
+SDC2,A0A7K8D3Y7,Eulacestoma nigropectus,outside Mammalia
+SDC2,A0A7K8E161,Leucopsar rothschildi,outside Mammalia
+SDC2,A0A7K8FLD1,Struthidea cinerea,outside Mammalia
+SDC2,A0A7K8GS78,Orthonyx spaldingii,outside Mammalia
+SDC2,A0A7K8HT41,Aleadryas rufinucha,outside Mammalia
+SDC2,A0A7K8JE55,Chaetorhynchus papuensis,outside Mammalia
+SDC2,A0A7K8KCH3,Lophotis ruficrista,outside Mammalia
+SDC2,A0A7K8KUC5,Ardeotis kori,outside Mammalia
+SDC2,A0A7K8LZE7,Ptilorrhoa leucosticta,outside Mammalia
+SDC2,A0A7K8N3N6,Casuarius casuarius,outside Mammalia
+SDC2,A0A7K8PY98,Cochlearius cochlearius,outside Mammalia
+SDC2,A0A7K8R2N8,Smithornis capensis,outside Mammalia
+SDC2,A0A7K8RNY2,Rhodinocichla rosea,outside Mammalia
+SDC2,A0A7K8T9L5,Nyctibius bracteatus,outside Mammalia
+SDC2,A0A7K8U5I5,Oceanites oceanicus,outside Mammalia
+SDC2,A0A7K8VUA8,Ciccaba nigrolineata,outside Mammalia
+SDC2,A0A7K8WX56,Sclerurus mexicanus,outside Mammalia
+SDC2,A0A7K8Y3J1,Eubucco bourcierii,outside Mammalia
+SDC2,A0A7K8ZAV1,Sakesphorus luctuosus,outside Mammalia
+SDC2,A0A7K9C6J7,Psilopogon haemacephalus,outside Mammalia
+SDC2,A0A7K9CN79,Hemiprocne comata,outside Mammalia
+SDC2,A0A7K9EKC1,Baryphthengus martii,outside Mammalia
+SDC2,A0A7K9FHW1,Stercorarius parasiticus,outside Mammalia
+SDC2,A0A7K9GIV5,Loxia leucoptera,outside Mammalia
+SDC2,A0A7K9ID29,Bucco capensis,outside Mammalia
+SDC2,A0A7K9IIL5,Myiagra hebetior,outside Mammalia
+SDC2,A0A7K9JVF1,Dicaeum eximium,outside Mammalia
+SDC2,A0A7K9KMN2,Rhabdornis inornatus,outside Mammalia
+SDC2,A0A7K9MTK2,Oceanodroma tethys,outside Mammalia
+SDC2,A0A7K9P0D2,Edolisoma coerulescens,outside Mammalia
+SDC2,A0A7K9PFI9,Pachycephala philippinensis,outside Mammalia
+SDC2,A0A7K9Q803,Irena cyanogastra,outside Mammalia
+SDC2,A0A7K9SBD8,Sterrhoptilus dennistouni,outside Mammalia
+SDC2,A0A7K9TAH3,Galbula dea,outside Mammalia
+SDC2,A0A7K9VQM7,Anseranas semipalmata,outside Mammalia
+SDC2,A0A7K9W919,Rhipidura dahli,outside Mammalia
+SDC2,A0A7K9X4R8,Psophia crepitans,outside Mammalia
+SDC2,A0A7K9YP29,Odontophorus gujanensis,outside Mammalia
+SDC2,A0A7K9ZSM6,Dicrurus megarhynchus,outside Mammalia
+SDC2,A0A7L0AAM9,Ciconia maguari,outside Mammalia
+SDC2,A0A7L0C093,Spizaetus tyrannus,outside Mammalia
+SDC2,A0A7L0D677,Rostratula benghalensis,outside Mammalia
+SDC2,A0A7L0DTY9,Trogon melanurus,outside Mammalia
+SDC2,A0A7L0FBS9,Corythaixoides concolor,outside Mammalia
+SDC2,A0A7L0GRY3,Herpetotheres cachinnans,outside Mammalia
+SDC2,A0A7L0I1V8,Arenaria interpres,outside Mammalia
+SDC2,A0A7L0IXB0,Piprites chloris,outside Mammalia
+SDC2,A0A7L0JV66,Chauna torquata,outside Mammalia
+SDC2,A0A7L0KQ68,Sylvietta virens,outside Mammalia
+SDC2,A0A7L0LVV0,Amazona guildingii,outside Mammalia
+SDC2,A0A7L0NNV2,Formicarius rufipectus,outside Mammalia
+SDC2,A0A7L0PZP2,Mesembrinibis cayennensis,outside Mammalia
+SDC2,A0A7L0QAG0,Setophaga kirtlandii,outside Mammalia
+SDC2,A0A7L0REQ7,Glaucidium brasilianum,outside Mammalia
+SDC2,A0A7L0SWT0,Podilymbus podiceps,outside Mammalia
+SDC2,A0A7L0TVE5,Chordeiles acutipennis,outside Mammalia
+SDC2,A0A7L0VRG0,Leptocoma aspasia,outside Mammalia
+SDC2,A0A7L0WW15,Alectura lathami,outside Mammalia
+SDC2,A0A7L0XCD9,Tyrannus savana,outside Mammalia
+SDC2,A0A7L0Z6J3,Ploceus nigricollis,outside Mammalia
+SDC2,A0A7L0ZQH1,Oxyruncus cristatus,outside Mammalia
+SDC2,A0A7L1AR89,Gymnorhina tibicen,outside Mammalia
+SDC2,A0A7L1CME4,Illadopsis cleaveri,outside Mammalia
+SDC2,A0A7L1E5X5,Oenanthe oenanthe,outside Mammalia
+SDC2,A0A7L1FPB7,Sylvia borin,outside Mammalia
+SDC2,A0A7L1GK53,Indicator maculatus,outside Mammalia
+SDC2,A0A7L1HC12,Nycticryphes semicollaris,outside Mammalia
+SDC2,A0A7L1J3L0,Smutsornis africanus,outside Mammalia
+SDC2,A0A7L1JSQ0,Rynchops niger,outside Mammalia
+SDC2,A0A7L1KSW9,Himantopus himantopus,outside Mammalia
+SDC2,A0A7L1MS87,Bombycilla garrulus,outside Mammalia
+SDC2,A0A7L1MZK8,Rhinopomastus cyanomelas,outside Mammalia
+SDC2,A0A7L1Q5B4,Oriolus oriolus,outside Mammalia
+SDC2,A0A7L1QWH8,Cisticola juncidis,outside Mammalia
+SDC2,A0A7L1RX61,Helopsaltes ochotensis,outside Mammalia
+SDC2,A0A7L1SKG6,Aramus guarauna,outside Mammalia
+SDC2,A0A7L1TU74,Phainopepla nitens,outside Mammalia
+SDC2,A0A7L1VHN9,Sitta europaea,outside Mammalia
+SDC2,A0A7L1WPB9,Certhia brachydactyla,outside Mammalia
+SDC2,A0A7L1XNN1,Thinocorus orbignyianus,outside Mammalia
+SDC2,A0A7L1YVI3,Scytalopus superciliaris,outside Mammalia
+SDC2,A0A7L1ZFN2,Leiothrix lutea,outside Mammalia
+SDC2,A0A7L2B8L4,Heliornis fulica,outside Mammalia
+SDC2,A0A7L2BJT9,Alaudala cheleensis,outside Mammalia
+SDC2,A0A7L2D194,Catharus fuscescens,outside Mammalia
+SDC2,A0A7L2E8G9,Anthoscopus minutus,outside Mammalia
+SDC2,A0A7L2EZY9,Quiscalus mexicanus,outside Mammalia
+SDC2,A0A7L2G0X3,Nyctibius grandis,outside Mammalia
+SDC2,A0A7L2HC39,Sagittarius serpentarius,outside Mammalia
+SDC2,A0A7L2IQ51,Semnornis frantzii,outside Mammalia
+SDC2,A0A7L2JS99,Cinclus mexicanus,outside Mammalia
+SDC2,A0A7L2MB16,Hippolais icterina,outside Mammalia
+SDC2,A0A7L2NLQ6,Pycnonotus jocosus,outside Mammalia
+SDC2,A0A7L2Q684,Hypocryptadius cinnamomeus,outside Mammalia
+SDC2,A0A7L2QVR8,Oxylabes madagascariensis,outside Mammalia
+SDC2,A0A7L2RRM7,Neodrepanis coruscans,outside Mammalia
+SDC2,A0A7L2SA59,Mystacornis crossleyi,outside Mammalia
+SDC2,A0A7L2T807,Pomatostomus ruficeps,outside Mammalia
+SDC2,A0A7L2U2Q4,Balaeniceps rex,outside Mammalia
+SDC2,A0A7L2VCN6,Brachypteracias leptosomus,outside Mammalia
+SDC2,A0A7L2X3G0,Pandion haliaetus,outside Mammalia
+SDC2,A0A7L2X3J9,Erpornis zantholeuca,outside Mammalia
+SDC2,A0A7L2YIL7,Jacana jacana,outside Mammalia
+SDC2,A0A7L3ANE8,Syrrhaptes paradoxus,outside Mammalia
+SDC2,A0A7L3C2A9,Pelecanoides urinatrix,outside Mammalia
+SDC2,A0A7L3DQV9,Pluvianellus socialis,outside Mammalia
+SDC2,A0A7L3EVA7,Chaetops frenatus,outside Mammalia
+SDC2,A0A7L3FQH4,Zapornia atra,outside Mammalia
+SDC2,A0A7L3HGJ7,Buphagus erythrorhynchus,outside Mammalia
+SDC2,A0A7L3IG81,Pardalotus punctatus,outside Mammalia
+SDC2,A0A7L3JH17,Thalassarche chlororhynchos,outside Mammalia
+SDC2,A0A7L3KIN3,Drymodes brunneopygia,outside Mammalia
+SDC2,A0A7L3L1Z9,Turnix velox,outside Mammalia
+SDC2,A0A7L3M5H5,Horornis vulcanius,outside Mammalia
+SDC2,A0A7L3NJ28,Oreotrochilus melanogaster,outside Mammalia
+SDC2,A0A7L3P2A2,Xiphorhynchus elegans,outside Mammalia
+SDC2,A0A7L3QEL1,Cettia cetti,outside Mammalia
+SDC2,A0A7L3R5K3,Cepphus grylle,outside Mammalia
+SDC2,A0A7L3T416,Rissa tridactyla,outside Mammalia
+SDC2,A0A7L3TYU2,Uria aalge,outside Mammalia
+SDC2,A0A7L3VW14,Molothrus ater,outside Mammalia
+SDC2,A0A7L3W482,Atlantisia rogersi,outside Mammalia
+SDC2,A0A7L3XCP3,Calonectris borealis,outside Mammalia
+SDC2,A0A7L3YFX7,Fregetta grallaria,outside Mammalia
+SDC2,A0A7L3ZWW3,Circaetus pectoralis,outside Mammalia
+SDC2,A0A7L4B2V6,Phaetusa simplex,outside Mammalia
+SDC2,A0A7L4BRW5,Nyctiprogne leucopyga,outside Mammalia
+SDC2,A0A7L4CUX8,Eurystomus gularis,outside Mammalia
+SDC2,A0A7L4G4Q7,Pampusana beccarii,outside Mammalia
+SDC2,A0A7L4GQA1,Podargus strigoides,outside Mammalia
+SDC2,A0A7L4HGC6,Scopus umbretta,outside Mammalia
+SDC2,A0A7L4ILN6,Pomatorhinus ruficollis,outside Mammalia
+SDC2,A0A7L4JME4,Ceuthmochares aereus,outside Mammalia
+SDC2,A0A7L4LML3,Callaeas wilsoni,outside Mammalia
+SDC2,A0A7L4LWK6,Glareola pratincola,outside Mammalia
+SDC2,A0A7L4NEX2,Ceyx cyanopectus,outside Mammalia
+SDC2,A0A7M4E398,Crocodylus porosus,outside Mammalia
+SDC2,A0A7M4E3B7,Crocodylus porosus,outside Mammalia
+SDC2,A0A803TYS2,Anolis carolinensis,outside Mammalia
+SDC2,A0A850TPN5,Grus americana,outside Mammalia
+SDC2,A0A850UDJ5,Chloropsis hardwickii,outside Mammalia
+SDC2,A0A850WGN0,Fregata magnificens,outside Mammalia
+SDC2,A0A850X171,Piaya cayana,outside Mammalia
+SDC2,A0A850XV13,Aegithalos caudatus,outside Mammalia
+SDC2,A0A850Z9U1,Tichodroma muraria,outside Mammalia
+SDC2,A0A851APL4,Sula dactylatra,outside Mammalia
+SDC2,A0A851BJN2,Picathartes gymnocephalus,outside Mammalia
+SDC2,A0A851C9J0,Calyptomena viridis,outside Mammalia
+SDC2,A0A851D6U0,Todus mexicanus,outside Mammalia
+SDC2,A0A851EA73,Dryoscopus gambensis,outside Mammalia
+SDC2,A0A851FZ60,Pitta sordida,outside Mammalia
+SDC2,A0A851JHB5,Donacobius atricapilla,outside Mammalia
+SDC2,A0A851KG73,Vidua chalybeata,outside Mammalia
+SDC2,A0A851LIW6,Corythaeola cristata,outside Mammalia
+SDC2,A0A851MGM3,Campylorhamphus procurvoides,outside Mammalia
+SDC2,A0A851PRH5,Anhinga anhinga,outside Mammalia
+SDC2,A0A851QMA8,Tychaedon coryphoeus,outside Mammalia
+SDC2,A0A851RZI8,Certhia familiaris,outside Mammalia
+SDC2,A0A851STM7,Nothocercus nigrocapillus,outside Mammalia
+SDC2,A0A851TQ93,Elachura formosa,outside Mammalia
+SDC2,A0A851V2U5,Copsychus sechellarum,outside Mammalia
+SDC2,A0A851XV32,Eolophus roseicapilla,outside Mammalia
+SDC2,A0A851Z8F4,Halcyon senegalensis,outside Mammalia
+SDC2,A0A851ZP93,Calcarius ornatus,outside Mammalia
+SDC2,A0A852B974,Chloropsis cyanopogon,outside Mammalia
+SDC2,A0A852CZU5,Passerina amoena,outside Mammalia
+SDC2,A0A852EBK3,Vidua macroura,outside Mammalia
+SDC2,A0A852F8T4,Peucedramus taeniatus,outside Mammalia
+SDC2,A0A852GVN9,Larus smithsonianus,outside Mammalia
+SDC2,A0A852HM95,Nicator chloris,outside Mammalia
+SDC2,A0A852IJL4,Tricholaema leucomelas,outside Mammalia
+SDC2,A0A852JPP9,Spizella passerina,outside Mammalia
+SDC2,A0A852KLF2,Urocolius indicus,outside Mammalia
+SDC2,A0A852LCD6,Centropus bengalensis,outside Mammalia
+SDC2,A0A852NLV4,Atrichornis clamosus,outside Mammalia
+SDC2,A0A8B7KGT7,Camelus ferus,second entry for this organism
+SDC2,A0A8B9B816,Anser brachyrhynchus,outside Mammalia
+SDC2,A0A8B9D8C9,Anser cygnoides,outside Mammalia
+SDC2,A0A8B9WSC0,Bos grunniens,second entry for this organism
+SDC2,A0A8C0J3J2,Chelonoidis abingdonii,outside Mammalia
+SDC2,A0A8C0K998,Canis lupus dingo,second entry for this organism
+SDC2,A0A8C0K9I8,Canis lupus dingo,second entry for this organism
+SDC2,A0A8C0ZBG0,Cyanistes caeruleus,outside Mammalia
+SDC2,A0A8C2SLD3,Coturnix japonica,outside Mammalia
+SDC2,A0A8C2SPA1,Coturnix japonica,outside Mammalia
+SDC2,A0A8C3B2N5,Cyclopterus lumpus,outside Mammalia
+SDC2,A0A8C3DD92,Corvus moneduloides,outside Mammalia
+SDC2,A0A8C3DK45,Corvus moneduloides,outside Mammalia
+SDC2,A0A8C3FGB3,Chrysemys picta bellii,outside Mammalia
+SDC2,A0A8C3H8K5,Chrysemys picta bellii,outside Mammalia
+SDC2,A0A8C3M5T4,Geospiza parvula,outside Mammalia
+SDC2,A0A8C3M9W6,Geospiza parvula,outside Mammalia
+SDC2,A0A8C3UF30,Catharus ustulatus,outside Mammalia
+SDC2,A0A8C4GSM7,Dicentrarchus labrax,outside Mammalia
+SDC2,A0A8C4TGX6,Erpetoichthys calabaricus,outside Mammalia
+SDC2,A0A8C4VSX0,Gopherus evgoodei,outside Mammalia
+SDC2,A0A8C5BI83,Gadus morhua,outside Mammalia
+SDC2,A0A8C5ES21,Gouania willdenowi,outside Mammalia
+SDC2,A0A8C5ETC4,Gouania willdenowi,outside Mammalia
+SDC2,A0A8C5L400,Jaculus jaculus,second entry for this organism
+SDC2,A0A8C5MYL5,Leptobrachium leishanense,outside Mammalia
+SDC2,A0A8C5PFY0,Leptobrachium leishanense,outside Mammalia
+SDC2,A0A8C5RH09,Laticauda laticaudata,outside Mammalia
+SDC2,A0A8C5V2L5,Microcebus murinus,second entry for this organism
+SDC2,A0A8C6MET1,Nothobranchius furzeri,outside Mammalia
+SDC2,A0A8C6XCE9,Naja naja,outside Mammalia
+SDC2,A0A8C6ZZ07,Nothoprocta perdicaria,outside Mammalia
+SDC2,A0A8C7A1W7,Nothoprocta perdicaria,outside Mammalia
+SDC2,A0A8C7C8H4,Neogale vison,second entry for this organism
+SDC2,A0A8C7KBQ3,Oncorhynchus kisutch,outside Mammalia
+SDC2,A0A8C7LIE3,Oncorhynchus kisutch,outside Mammalia
+SDC2,A0A8C7SZS9,Oncorhynchus mykiss,outside Mammalia
+SDC2,A0A8C7T3J1,Oncorhynchus mykiss,outside Mammalia
+SDC2,A0A8C8W9T2,Panthera leo,second entry for this organism
+SDC2,A0A8C9ACM0,Prolemur simus,second entry for this organism
+SDC2,A0A8C9M084,Piliocolobus tephrosceles,second entry for this organism
+SDC2,A0A8C9MKM8,Serinus canaria,outside Mammalia
+SDC2,A0A8C9ML44,Serinus canaria,outside Mammalia
+SDC2,A0A8C9RLA1,Scleropages formosus,outside Mammalia
+SDC2,A0A8C9YVK5,Sander lucioperca,outside Mammalia
+SDC2,A0A8D2AND5,Sciurus vulgaris,second entry for this organism
+SDC2,A0A8D2E850,Theropithecus gelada,second entry for this organism
+SDC2,A0A8D2N1F4,Zonotrichia albicollis,outside Mammalia
+SDC2,A0A8I5TQ57,Pongo abelii,second entry for this organism
+SDC2,A0A8I6B5M9,Rattus norvegicus,second entry for this organism
+SDC2,A0A8J0PJ98,Xenopus tropicalis,outside Mammalia
+SDC2,A0A8J0PQ49,Xenopus laevis,outside Mammalia
+SDC2,A0A8J1L0E2,Xenopus laevis,outside Mammalia
+SDC2,A0A8J4I595,Spheniscus mendiculus,outside Mammalia
+SDC2,A0A8J4JSQ9,Eudyptula minor,outside Mammalia
+SDC2,A0A8J4JVM7,Eudyptula minor,outside Mammalia
+SDC2,A0A8J4KMC8,Aptenodytes patagonicus,outside Mammalia
+SDC2,A0A8J4NBF6,Eudyptes sclateri,outside Mammalia
+SDC2,A0A8J4NXF5,Eudyptes chrysocome,outside Mammalia
+SDC2,A0A8J7NK58,Atractosteus spatula,outside Mammalia
+SDC2,A0A8K0BLB2,Eudyptes filholi,outside Mammalia
+SDC2,A0A8M1PBV1,Danio rerio,outside Mammalia
+SDC2,A0A8T1SXF5,Chelydra serpentina,outside Mammalia
+SDC2,A0A8U0TTG5,Salvelinus namaycush,outside Mammalia
+SDC2,A0A8V0Y518,Gallus gallus,outside Mammalia
+SDC2,A0A8V0Y9S3,Gallus gallus,outside Mammalia
+SDC2,A0A8V0YBA2,Gallus gallus,outside Mammalia
+SDC2,A0A8V0YDI9,Gallus gallus,outside Mammalia
+SDC2,A0A8V0YI72,Gallus gallus,outside Mammalia
+SDC2,A0A8W4FLZ4,Sus scrofa,second entry for this organism
+SDC2,A0A9F2NCP3,Python bivittatus,outside Mammalia
+SDC2,A0A9F2NR59,Python bivittatus,outside Mammalia
+SDC2,A0A9K3Y7Q3,Rattus norvegicus,second entry for this organism
+SDC2,A0A9L0ICN8,Equus asinus,second entry for this organism
+SDC2,A0A9L0IEQ4,Equus asinus,second entry for this organism
+SDC2,A0A9L0INU7,Equus asinus,second entry for this organism
+SDC2,A0A9L0IR11,Equus asinus,second entry for this organism
+SDC2,A0A9L0JDK7,Equus asinus,second entry for this organism
+SDC2,A0A9L0JF74,Equus asinus,second entry for this organism
+SDC2,A0A9L0JN17,Equus asinus,second entry for this organism
+SDC2,A0A9L0JRR7,Equus asinus,second entry for this organism
+SDC2,A0A9W9YQB6,Desmophyllum pertusum,outside Mammalia
+SDC2,A0AA40GV95,Pygoscelis papua,outside Mammalia
+SDC2,A0AA97JNJ9,Eublepharis macularius,outside Mammalia
+SDC2,A0AA97JRE1,Eublepharis macularius,outside Mammalia
+SDC2,A0AA97N3J7,Menura novaehollandiae,outside Mammalia
+SDC2,A0AAA9SVX8,Bos taurus,second entry for this organism
+SDC2,A0AAA9T949,Bos taurus,second entry for this organism
+SDC2,A0AAA9TAQ5,Bos taurus,second entry for this organism
+SDC2,A0AAA9TQZ2,Bos taurus,second entry for this organism
+SDC2,A0AAA9TU45,Bos taurus,second entry for this organism
+SDC2,A0AAD8GE24,Acipenser oxyrinchus oxyrinchus,outside Mammalia
+SDC2,A0AAD8GFH5,Acipenser oxyrinchus oxyrinchus,outside Mammalia
+SDC2,A0AAQ5WW82,Amphiprion ocellaris,outside Mammalia
+SDC2,A0AAQ5Y1U4,Amphiprion ocellaris,outside Mammalia
+SDC2,A0AAY4EPD7,Denticeps clupeoides,outside Mammalia
+SDC2,A0AAY5KLE7,Esox lucius,outside Mammalia
+SDC2,A0AAY5KTG5,Esox lucius,outside Mammalia
+SDC2,A0AAZ1XCQ9,Oreochromis aureus,outside Mammalia
+SDC2,A0AAZ3NUE3,Oncorhynchus tshawytscha,outside Mammalia
+SDC2,A0AAZ3NUX5,Oncorhynchus tshawytscha,outside Mammalia
+SDC2,A0AAZ3NVC1,Oncorhynchus tshawytscha,outside Mammalia
+SDC2,A0AAZ3P2X9,Oncorhynchus tshawytscha,outside Mammalia
+SDC2,A0AAZ3P9J8,Oncorhynchus tshawytscha,outside Mammalia
+SDC2,A0AAZ3PIE9,Oncorhynchus tshawytscha,outside Mammalia
+SDC2,A0AAZ3PXV5,Oncorhynchus tshawytscha,outside Mammalia
+SDC2,A0AAZ3QCM3,Oncorhynchus tshawytscha,outside Mammalia
+SDC2,A0AAZ3QIA4,Oncorhynchus tshawytscha,outside Mammalia
+SDC2,A0AAZ3R4H7,Oncorhynchus tshawytscha,outside Mammalia
+SDC2,A0AAZ3RXH1,Oncorhynchus tshawytscha,outside Mammalia
+SDC2,A0AAZ3S013,Oncorhynchus tshawytscha,outside Mammalia
+SDC2,A0ABD2Q2N9,Cichlidogyrus casuarinus,outside Mammalia
+SDC2,A0ABI7ZGT0,Felis catus,second entry for this organism
+SDC2,A0ABM1JV52,Gekko japonicus,outside Mammalia
+SDC2,A0ABM1JV53,Gekko japonicus,outside Mammalia
+SDC2,A0ABM2W5S0,Mesocricetus auratus,second entry for this organism
+SDC2,A0ABM4E120,Apteryx mantelli,outside Mammalia
+SDC2,A0ABM4QEM3,Equus przewalskii,second entry for this organism
+SDC2,A0ABM5CAB3,Vicugna pacos,second entry for this organism
+SDC2,A0ABQ9D7B4,Willisornis vidua,outside Mammalia
+SDC2,A0ABS2XF27,Polyodon spathula,outside Mammalia
+SDC2,A0ABV0SSI6,Ilyodon furcidens,outside Mammalia
+SDC2,A0ACB7EX32,Nibea albiflora,outside Mammalia
+SDC2,A0ACB8FES5,Sphaerodactylus townsendi,outside Mammalia
+SDC2,A0ACF8DQQ2,Arapaima gigas,outside Mammalia
+SDC2,A0ACF8ESN0,Arapaima gigas,outside Mammalia
+SDC2,A0ACI6P0R3,Ovis aries,second entry for this organism
+SDC2,A0ACI6PS26,Ovis aries,second entry for this organism
+SDC2,A0ACI8PPQ3,Homo sapiens,second entry for this organism
+SDC2,A0ACI8QE47,Homo sapiens,second entry for this organism
+SDC2,A0ACM8R7E4,Pan troglodytes,second entry for this organism
+SDC2,A7A0P0,Saccharomyces cerevisiae (strain YJM789),outside Mammalia
+SDC2,B3LTF3,Saccharomyces cerevisiae (strain RM11-1a),outside Mammalia
+SDC2,B5VMS9,Saccharomyces cerevisiae (strain AWRI1631),outside Mammalia
+SDC2,B9ELM1,Salmo salar,outside Mammalia
+SDC2,B9EPZ6,Salmo salar,outside Mammalia
+SDC2,C1BW91,Esox lucius,outside Mammalia
+SDC2,C3KHA3,Anoplopoma fimbria,outside Mammalia
+SDC2,C8ZCV7,Saccharomyces cerevisiae (strain Lalvin EC1118 / Prise de mousse),outside Mammalia
+SDC2,E3TFF6,Ictalurus punctatus,outside Mammalia
+SDC2,E5RHU3,Homo sapiens,second entry for this organism
+SDC2,E5RJB8,Homo sapiens,second entry for this organism
+SDC2,E7ESK6,Homo sapiens,second entry for this organism
+SDC2,E9PBI9,Homo sapiens,second entry for this organism
+SDC2,F1S0L5,Sus scrofa,second entry for this organism
+SDC2,F6PWB7,Monodelphis domestica,second entry for this organism
+SDC2,F6U5M0,Equus caballus,second entry for this organism
+SDC2,F7IT99,Callithrix jacchus,second entry for this organism
+SDC2,G1LLB4,Ailuropoda melanoleuca,second entry for this organism
+SDC2,G1NHQ7,Meleagris gallopavo,outside Mammalia
+SDC2,G1QU04,Nomascus leucogenys,second entry for this organism
+SDC2,G1SI13,Oryctolagus cuniculus,second entry for this organism
+SDC2,G3R6Y9,Gorilla gorilla gorilla,second entry for this organism
+SDC2,G3W2N7,Sarcophilus harrisii,second entry for this organism
+SDC2,H2M2Z2,Oryzias latipes,outside Mammalia
+SDC2,H3AML5,Latimeria chalumnae,outside Mammalia
+SDC2,H9EV58,Macaca mulatta,second entry for this organism
+SDC2,I3K7E8,Oreochromis niloticus,outside Mammalia
+SDC2,I3K7E9,Oreochromis niloticus,outside Mammalia
+SDC2,K7D4H2,Pan troglodytes,second entry for this organism
+SDC2,K7DH55,Pan troglodytes,second entry for this organism
+SDC2,K7GAN3,Pelodiscus sinensis,outside Mammalia
+SDC2,K7GAP7,Pelodiscus sinensis,outside Mammalia
+SDC2,M3V822,Sus scrofa,second entry for this organism
+SDC2,P0CF32,Saccharomyces cerevisiae,outside Mammalia
+SDC2,P0CF34,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),outside Mammalia
+SDC2,P34741,Homo sapiens,second entry for this organism
+SDC2,P34900,Rattus norvegicus,second entry for this organism
+SDC2,P43407,Mus musculus,second entry for this organism
+SDC2,P49414,Xenopus laevis,outside Mammalia
+SDC2,Q28HM3,Xenopus tropicalis,outside Mammalia
+SDC2,Q3KQ99,Xenopus laevis,outside Mammalia
+SDC2,Q58DD4,Bos taurus,second entry for this organism
+SDC2,Q66I66,Danio rerio,outside Mammalia
+SDC2,Q6GR51,Xenopus laevis,outside Mammalia
+SDC2,Q76EY7,Gallus gallus,outside Mammalia
+SDC2,Q99L05,Mus musculus,second entry for this organism
+SDC2,U3CGR3,Callithrix jacchus,second entry for this organism
+SDC2,U3JSZ3,Ficedula albicollis,outside Mammalia
+SDC2,U6DX66,Neogale vison,second entry for this organism
+SDC2,V8P3H9,Ophiophagus hannah,outside Mammalia
+SDC2,A0ABM4YHM9,Vulpes vulpes,length 406 against SDC2 anchor 201
+SDC2,A0ABQ9UEJ3,Saguinus oedipus,length 110 against SDC2 anchor 201
+SDC2,A0A452QET6,Ursus americanus,over the per-gene cap
+SDC2,A0A4W2CPT5,Bos indicus x Bos taurus,over the per-gene cap
+SDC2,A0A4X2KE13,Vombatus ursinus,over the per-gene cap
+SDC2,A0A5F8G8F9,Monodelphis domestica,over the per-gene cap
+SDC2,A0A5F9C345,Oryctolagus cuniculus,over the per-gene cap
+SDC2,A0A5G2QQ46,Sus scrofa,over the per-gene cap
+SDC2,A0A667HV02,Lynx canadensis,over the per-gene cap
+SDC2,A0A671FAW8,Rhinolophus ferrumequinum,over the per-gene cap
+SDC2,A0A673V6Z0,Suricata suricatta,over the per-gene cap
+SDC2,A0A6G1A8Q1,Crocuta crocuta,over the per-gene cap
+SDC2,A0A6I8PHD6,Ornithorhynchus anatinus,over the per-gene cap
+SDC2,A0A6I9LIG0,Peromyscus maniculatus bairdii,over the per-gene cap
+SDC2,A0A6J1ZTQ9,Acinonyx jubatus,over the per-gene cap
+SDC2,A0A6J2C178,Zalophus californianus,over the per-gene cap
+SDC2,A0A6J2NCD5,Phyllostomus discolor,over the per-gene cap
+SDC2,A0A6J3F7L2,Sapajus apella,over the per-gene cap
+SDC2,A0A6J3Q935,Tursiops truncatus,over the per-gene cap
+SDC2,A0A6P3FMX5,Octodon degus,over the per-gene cap
+SDC2,A0A6P3GJL2,Bison bison bison,over the per-gene cap
+SDC2,A0A6P3QYG0,Pteropus vampyrus,over the per-gene cap
+SDC2,A0A6P5IR32,Phascolarctos cinereus,over the per-gene cap
+SDC2,A0A6P5QXY5,Mus caroli,over the per-gene cap
+SDC2,A0A6P6HS96,Puma concolor,over the per-gene cap
+SDC2,A0A7N5JYV7,Ailuropoda melanoleuca,over the per-gene cap
+SDC2,A0A8B6YQK1,Camelus ferus,over the per-gene cap
+SDC2,A0A8B6ZBM6,Orycteropus afer afer,over the per-gene cap
+SDC2,A0A8B7G6P1,Microcebus murinus,over the per-gene cap
+SDC2,A0A8B7Q1D8,Hipposideros armiger,over the per-gene cap
+SDC2,A0A8B8VMS9,Balaenoptera musculus,over the per-gene cap
+SDC2,A0A8B9WLD4,Bos grunniens,over the per-gene cap
+SDC2,A0A8C0K720,Canis lupus dingo,over the per-gene cap
+SDC2,A0A8C2MG89,Cricetulus griseus,over the per-gene cap
+SDC2,A0A8C2V101,Chinchilla lanigera,over the per-gene cap
+SDC2,A0A8C3WRZ1,Catagonus wagneri,over the per-gene cap
+SDC2,A0A8C5L1P0,Jaculus jaculus,over the per-gene cap
+SDC2,A0A8C6BNC8,Monodon monoceros,over the per-gene cap
+SDC2,A0A8C6FFN9,Moschus moschiferus,over the per-gene cap
+SDC2,A0A8C6RHE1,Nannospalax galili,over the per-gene cap
+SDC2,A0A8C7BYZ0,Neogale vison,over the per-gene cap
+SDC2,A0A8C8W9E5,Panthera leo,over the per-gene cap
+SDC2,A0A8C9A2Y9,Prolemur simus,over the per-gene cap
+SDC2,A0A8C9CA15,Phocoena sinus,over the per-gene cap
+SDC2,A0A8C9IR87,Piliocolobus tephrosceles,over the per-gene cap
+SDC2,A0A8D2ALI7,Sciurus vulgaris,over the per-gene cap
+SDC2,A0A8D2E5B1,Theropithecus gelada,over the per-gene cap
+SDC2,A0A8D2HV89,Urocitellus parryii,over the per-gene cap
+SDC2,A0A8M1FEN5,Ursus maritimus,over the per-gene cap
+SDC2,A0A9B0WKV2,Chrysochloris asiatica,over the per-gene cap
+SDC2,A0A9L0I884,Equus asinus,over the per-gene cap
+SDC2,A0A9V1GJF3,Panthera pardus,over the per-gene cap
+SDC2,A0A9W3F793,Camelus bactrianus,over the per-gene cap
+SDC2,A0AAV0A0A0,Phodopus roborovskii,over the per-gene cap
+SDC2,A0ABI7ZFK5,Felis catus,over the per-gene cap
+SDC2,A0ABM0LKV5,Microtus ochrogaster,over the per-gene cap
+SDC2,A0ABM0QDR1,Galeopterus variegatus,over the per-gene cap
+SDC2,A0ABM4J079,Odocoileus virginianus,over the per-gene cap
+SDC2,A0ABM4QEL9,Equus przewalskii,over the per-gene cap
+SDC2,A0ABM4TFY6,Bos indicus,over the per-gene cap
+SDC2,A0ABM5CAB1,Vicugna pacos,over the per-gene cap
+SDC2,A0AC55CUQ1,Echinops telfairi,over the per-gene cap
+SDC2,A0ACI6NS35,Ovis aries,over the per-gene cap
+SDC2,F6QQP9,Macaca mulatta,over the per-gene cap
+SDC2,G1P8S7,Myotis lucifugus,over the per-gene cap
+SDC2,G3T6U2,Loxodonta africana,over the per-gene cap
+SDC2,G3W2N6,Sarcophilus harrisii,over the per-gene cap
+SDC2,I3MAX0,Ictidomys tridecemlineatus,over the per-gene cap
+SDC2,M3YBG7,Mustela putorius furo,over the per-gene cap
+SDC3,P26261,Gallus gallus,outside Mammalia
+SDC3,A0A0S2Z4U3,Homo sapiens,second entry for this organism
+SDC3,A0A151PG96,Alligator mississippiensis,outside Mammalia
+SDC3,A0A151PH61,Alligator mississippiensis,outside Mammalia
+SDC3,A0A1A8VBE5,Nothobranchius furzeri,outside Mammalia
+SDC3,A0A1L8H7U3,Xenopus laevis,outside Mammalia
+SDC3,A0A1S3Q137,Salmo salar,outside Mammalia
+SDC3,A0A1S3Q2F9,Salmo salar,outside Mammalia
+SDC3,A0A1V4JI22,Patagioenas fasciata monilis,outside Mammalia
+SDC3,A0A218UR52,Lonchura striata,outside Mammalia
+SDC3,A0A2D0PUS2,Ictalurus punctatus,outside Mammalia
+SDC3,A0A2I0LS06,Columba livia,outside Mammalia
+SDC3,A0A2I4B083,Austrofundulus limnaeus,outside Mammalia
+SDC3,A0A2K6NUE0,Rhinopithecus roxellana,second entry for this organism
+SDC3,A0A2Y9DDK1,Trichechus manatus latirostris,second entry for this organism
+SDC3,A0A2Y9NCS7,Delphinapterus leucas,second entry for this organism
+SDC3,A0A3B3HFW0,Oryzias latipes,outside Mammalia
+SDC3,A0A3B4D8V8,Pygocentrus nattereri,outside Mammalia
+SDC3,A0A3B4DA61,Pygocentrus nattereri,outside Mammalia
+SDC3,A0A3B4DFR4,Pygocentrus nattereri,outside Mammalia
+SDC3,A0A3B5AM84,Stegastes partitus,outside Mammalia
+SDC3,A0A3B5JY69,Takifugu rubripes,outside Mammalia
+SDC3,A0A3P8NPZ7,Astatotilapia calliptera,outside Mammalia
+SDC3,A0A3P8QH53,Astatotilapia calliptera,outside Mammalia
+SDC3,A0A3P8QHN2,Astatotilapia calliptera,outside Mammalia
+SDC3,A0A3P8X8L6,Esox lucius,outside Mammalia
+SDC3,A0A3Q0EBQ9,Carlito syrichta,second entry for this organism
+SDC3,A0A3Q0GE36,Alligator sinensis,outside Mammalia
+SDC3,A0A3Q1K158,Anabas testudineus,outside Mammalia
+SDC3,A0A452ERF5,Capra hircus,second entry for this organism
+SDC3,A0A455B2U8,Physeter macrocephalus,second entry for this organism
+SDC3,A0A493TGS7,Anas platyrhynchos platyrhynchos,outside Mammalia
+SDC3,A0A493U4G1,Anas platyrhynchos platyrhynchos,outside Mammalia
+SDC3,A0A4W4GL26,Electrophorus electricus,outside Mammalia
+SDC3,A0A4Z2J6I4,Liparis tanakae,outside Mammalia
+SDC3,A0A5F7ZXW1,Macaca mulatta,second entry for this organism
+SDC3,A0A663ENQ5,Aquila chrysaetos chrysaetos,outside Mammalia
+SDC3,A0A663NCU1,Athene cunicularia,outside Mammalia
+SDC3,A0A665W9V7,Echeneis naucrates,outside Mammalia
+SDC3,A0A668AKL4,Myripristis murdjan,outside Mammalia
+SDC3,A0A668S6P2,Oreochromis aureus,outside Mammalia
+SDC3,A0A669DZI5,Oreochromis niloticus,outside Mammalia
+SDC3,A0A669PHA1,Phasianus colchicus,outside Mammalia
+SDC3,A0A669PJJ4,Phasianus colchicus,outside Mammalia
+SDC3,A0A669PLI1,Phasianus colchicus,outside Mammalia
+SDC3,A0A669PPW9,Phasianus colchicus,outside Mammalia
+SDC3,A0A670IDN2,Podarcis muralis,outside Mammalia
+SDC3,A0A670IE85,Podarcis muralis,outside Mammalia
+SDC3,A0A670YRA3,Pseudonaja textilis,outside Mammalia
+SDC3,A0A671UC94,Sparus aurata,outside Mammalia
+SDC3,A0A672I0T7,Salarias fasciatus,outside Mammalia
+SDC3,A0A672TWN7,Strigops habroptila,outside Mammalia
+SDC3,A0A673CFG7,Sphaeramia orbicularis,outside Mammalia
+SDC3,A0A673UXE6,Suricata suricatta,second entry for this organism
+SDC3,A0A673UXI5,Suricata suricatta,second entry for this organism
+SDC3,A0A674E618,Salmo trutta,outside Mammalia
+SDC3,A0A674GI47,Taeniopygia guttata,outside Mammalia
+SDC3,A0A674IES4,Terrapene triunguis,outside Mammalia
+SDC3,A0A674IFQ0,Terrapene triunguis,outside Mammalia
+SDC3,A0A674IFQ8,Terrapene triunguis,outside Mammalia
+SDC3,A0A674MHB6,Takifugu rubripes,outside Mammalia
+SDC3,A0A6I9MVD6,Notothenia coriiceps,outside Mammalia
+SDC3,A0A6I9Z464,Thamnophis sirtalis,outside Mammalia
+SDC3,A0A6J0IHE0,Lepidothrix coronata,outside Mammalia
+SDC3,A0A6J1V3H3,Notechis scutatus,outside Mammalia
+SDC3,A0A6J2F2B3,Zalophus californianus,second entry for this organism
+SDC3,A0A6J2QLK0,Cottoperca gobio,outside Mammalia
+SDC3,A0A6J2WHY1,Chanos chanos,outside Mammalia
+SDC3,A0A6J3E3Y8,Aythya fuligula,outside Mammalia
+SDC3,A0A6J3FAS7,Sapajus apella,second entry for this organism
+SDC3,A0A6P6RG78,Carassius auratus,outside Mammalia
+SDC3,A0A6P7JS69,Parambassis ranga,outside Mammalia
+SDC3,A0A6P7NT48,Betta splendens,outside Mammalia
+SDC3,A0A6P7ZFL7,Microcaecilia unicolor,outside Mammalia
+SDC3,A0A6P8S3Y9,Geotrypetes seraphini,outside Mammalia
+SDC3,A0A6P8S5Q3,Geotrypetes seraphini,outside Mammalia
+SDC3,A0A6P8W011,Gymnodraco acuticeps,outside Mammalia
+SDC3,A0A6P8X9U9,Gymnodraco acuticeps,outside Mammalia
+SDC3,A0A7K4J0H7,Geococcyx californianus,outside Mammalia
+SDC3,A0A7K4KIS8,Crypturellus soui,outside Mammalia
+SDC3,A0A7K4LSH7,Crypturellus undulatus,outside Mammalia
+SDC3,A0A7K4PRP2,Melospiza melodia,outside Mammalia
+SDC3,A0A7K4RBH3,Neopipo cinnamomea,outside Mammalia
+SDC3,A0A7K4SEA7,Columbina picui,outside Mammalia
+SDC3,A0A7K4SLI1,Burhinus bistriatus,outside Mammalia
+SDC3,A0A7K4UNK0,Sinosuthora webbiana,outside Mammalia
+SDC3,A0A7K4VLF5,Emberiza fucata,outside Mammalia
+SDC3,A0A7K4XMT0,Regulus satrapa,outside Mammalia
+SDC3,A0A7K4YH67,Bucorvus abyssinicus,outside Mammalia
+SDC3,A0A7K5A0J8,Centropus unirufus,outside Mammalia
+SDC3,A0A7K5BHU0,Furnarius figulus,outside Mammalia
+SDC3,A0A7K5BQT8,Motacilla alba,outside Mammalia
+SDC3,A0A7K5D7H5,Pachyramphus minor,outside Mammalia
+SDC3,A0A7K5EHR0,Polioptila caerulea,outside Mammalia
+SDC3,A0A7K5FPY9,Probosciger aterrimus,outside Mammalia
+SDC3,A0A7K5H581,Chunga burmeisteri,outside Mammalia
+SDC3,A0A7K5I7A4,Crotophaga sulcirostris,outside Mammalia
+SDC3,A0A7K5JA69,Toxostoma redivivum,outside Mammalia
+SDC3,A0A7K5KIJ8,Mionectes macconnelli,outside Mammalia
+SDC3,A0A7K5KJI9,Mionectes macconnelli,outside Mammalia
+SDC3,A0A7K5KV02,Vireo altiloquus,outside Mammalia
+SDC3,A0A7K5M328,Cardinalis cardinalis,outside Mammalia
+SDC3,A0A7K5ND78,Chroicocephalus maculipennis,outside Mammalia
+SDC3,A0A7K5Q6C4,Erythrocercus mccallii,outside Mammalia
+SDC3,A0A7K5R849,Prunella himalayana,outside Mammalia
+SDC3,A0A7K5RYD8,Lanius ludovicianus,outside Mammalia
+SDC3,A0A7K5THK7,Urocynchramus pylzowi,outside Mammalia
+SDC3,A0A7K5V5P5,Platysteira castanea,outside Mammalia
+SDC3,A0A7K5XQQ1,Dromas ardeola,outside Mammalia
+SDC3,A0A7K5YJ54,Pterocles burchelli,outside Mammalia
+SDC3,A0A7K6A4F3,Onychorhynchus coronatus,outside Mammalia
+SDC3,A0A7K6AFN3,Upupa epops,outside Mammalia
+SDC3,A0A7K6DU51,Origma solitaria,outside Mammalia
+SDC3,A0A7K6ECS9,Grantiella picta,outside Mammalia
+SDC3,A0A7K6G3U4,Daphoenositta chrysoptera,outside Mammalia
+SDC3,A0A7K6IFY0,Dasyornis broadbenti,outside Mammalia
+SDC3,A0A7K6J2Z7,Machaerirhynchus nigripectus,outside Mammalia
+SDC3,A0A7K6L163,Falcunculus frontatus,outside Mammalia
+SDC3,A0A7K6NR91,Pedionomus torquatus,outside Mammalia
+SDC3,A0A7K6QF23,Climacteris rufus,outside Mammalia
+SDC3,A0A7K6S8U6,Rhynochetos jubatus,outside Mammalia
+SDC3,A0A7K6T8U5,Caloenas nicobarica,outside Mammalia
+SDC3,A0A7K6TYD5,Aegotheles bennettii,outside Mammalia
+SDC3,A0A7K6VND7,Notiomystis cincta,outside Mammalia
+SDC3,A0A7K6VUB2,Steatornis caripensis,outside Mammalia
+SDC3,A0A7K6XBH0,Promerops cafer,outside Mammalia
+SDC3,A0A7K6YR98,Alca torda,outside Mammalia
+SDC3,A0A7K7A7K8,Nothoprocta pentlandii,outside Mammalia
+SDC3,A0A7K7BHB9,Nothoprocta ornata,outside Mammalia
+SDC3,A0A7K7CKP6,Aphelocoma coerulescens,outside Mammalia
+SDC3,A0A7K7DTT0,Pheucticus melanocephalus,outside Mammalia
+SDC3,A0A7K7EUF5,Sylvia atricapilla,outside Mammalia
+SDC3,A0A7K7FVU5,Chionis minor,outside Mammalia
+SDC3,A0A7K7G2Y4,Erithacus rubecula,outside Mammalia
+SDC3,A0A7K7IRF4,Loxia curvirostra,outside Mammalia
+SDC3,A0A7K7JTF9,Agelaius phoeniceus,outside Mammalia
+SDC3,A0A7K7L0N0,Asarcornis scutulata,outside Mammalia
+SDC3,A0A7K7N891,Haliaeetus albicilla,outside Mammalia
+SDC3,A0A7K7PX14,Acrocephalus arundinaceus,outside Mammalia
+SDC3,A0A7K7QX63,Poecile atricapillus,outside Mammalia
+SDC3,A0A7K7SCN2,Nesospiza acunhae,outside Mammalia
+SDC3,A0A7K7T0A9,Sapayoa aenigma,outside Mammalia
+SDC3,A0A7K7TY74,Ibidorhyncha struthersii,outside Mammalia
+SDC3,A0A7K7VN35,Eudromia elegans,outside Mammalia
+SDC3,A0A7K7WMR8,Nothocercus julius,outside Mammalia
+SDC3,A0A7K7XFU0,Mohoua ochrocephala,outside Mammalia
+SDC3,A0A7K7YCI5,Thryothorus ludovicianus,outside Mammalia
+SDC3,A0A7K7Z711,Melanocharis versteri,outside Mammalia
+SDC3,A0A7K8ABZ0,Cnemophilus loriae,outside Mammalia
+SDC3,A0A7K8C7T0,Rhagologus leucostigma,outside Mammalia
+SDC3,A0A7K8DEH9,Eulacestoma nigropectus,outside Mammalia
+SDC3,A0A7K8DZC4,Leucopsar rothschildi,outside Mammalia
+SDC3,A0A7K8FFT4,Struthidea cinerea,outside Mammalia
+SDC3,A0A7K8GZN5,Orthonyx spaldingii,outside Mammalia
+SDC3,A0A7K8HZS2,Aleadryas rufinucha,outside Mammalia
+SDC3,A0A7K8J9N6,Chaetorhynchus papuensis,outside Mammalia
+SDC3,A0A7K8JN74,Lophotis ruficrista,outside Mammalia
+SDC3,A0A7K8L675,Ardeotis kori,outside Mammalia
+SDC3,A0A7K8MNN1,Ptilorrhoa leucosticta,outside Mammalia
+SDC3,A0A7K8NA13,Casuarius casuarius,outside Mammalia
+SDC3,A0A7K8P983,Cochlearius cochlearius,outside Mammalia
+SDC3,A0A7K8R7P8,Smithornis capensis,outside Mammalia
+SDC3,A0A7K8S702,Rhodinocichla rosea,outside Mammalia
+SDC3,A0A7K8ST98,Nyctibius bracteatus,outside Mammalia
+SDC3,A0A7K8TMZ4,Oceanites oceanicus,outside Mammalia
+SDC3,A0A7K8VJ70,Ciccaba nigrolineata,outside Mammalia
+SDC3,A0A7K8W0E9,Sclerurus mexicanus,outside Mammalia
+SDC3,A0A7K8X1P8,Eubucco bourcierii,outside Mammalia
+SDC3,A0A7K8YUA9,Sakesphorus luctuosus,outside Mammalia
+SDC3,A0A7K8ZKE8,Grallaria varia,outside Mammalia
+SDC3,A0A7K9BSZ4,Psilopogon haemacephalus,outside Mammalia
+SDC3,A0A7K9DKP9,Hemiprocne comata,outside Mammalia
+SDC3,A0A7K9EDA4,Baryphthengus martii,outside Mammalia
+SDC3,A0A7K9FAZ3,Stercorarius parasiticus,outside Mammalia
+SDC3,A0A7K9G509,Loxia leucoptera,outside Mammalia
+SDC3,A0A7K9H855,Bucco capensis,outside Mammalia
+SDC3,A0A7K9IJ62,Myiagra hebetior,outside Mammalia
+SDC3,A0A7K9JS62,Dicaeum eximium,outside Mammalia
+SDC3,A0A7K9L9R3,Rhabdornis inornatus,outside Mammalia
+SDC3,A0A7K9M282,Oceanodroma tethys,outside Mammalia
+SDC3,A0A7K9P4T6,Pachycephala philippinensis,outside Mammalia
+SDC3,A0A7K9Q688,Irena cyanogastra,outside Mammalia
+SDC3,A0A7K9TC13,Galbula dea,outside Mammalia
+SDC3,A0A7K9U140,Chloroceryle aenea,outside Mammalia
+SDC3,A0A7K9V2L0,Anseranas semipalmata,outside Mammalia
+SDC3,A0A7K9VRB4,Rhipidura dahli,outside Mammalia
+SDC3,A0A7K9XH30,Psophia crepitans,outside Mammalia
+SDC3,A0A7K9YQG8,Odontophorus gujanensis,outside Mammalia
+SDC3,A0A7L0A0D9,Dicrurus megarhynchus,outside Mammalia
+SDC3,A0A7L0AIB3,Ciconia maguari,outside Mammalia
+SDC3,A0A7L0C9X3,Spizaetus tyrannus,outside Mammalia
+SDC3,A0A7L0DA01,Rostratula benghalensis,outside Mammalia
+SDC3,A0A7L0EHE5,Trogon melanurus,outside Mammalia
+SDC3,A0A7L0FGL1,Corythaixoides concolor,outside Mammalia
+SDC3,A0A7L0G909,Herpetotheres cachinnans,outside Mammalia
+SDC3,A0A7L0HBR4,Arenaria interpres,outside Mammalia
+SDC3,A0A7L0J1V7,Piprites chloris,outside Mammalia
+SDC3,A0A7L0JMX8,Chauna torquata,outside Mammalia
+SDC3,A0A7L0LMN5,Sylvietta virens,outside Mammalia
+SDC3,A0A7L0M0U2,Amazona guildingii,outside Mammalia
+SDC3,A0A7L0N3S7,Formicarius rufipectus,outside Mammalia
+SDC3,A0A7L0PHW3,Mesembrinibis cayennensis,outside Mammalia
+SDC3,A0A7L0R8P8,Setophaga kirtlandii,outside Mammalia
+SDC3,A0A7L0RKH9,Glaucidium brasilianum,outside Mammalia
+SDC3,A0A7L0T7Q0,Podilymbus podiceps,outside Mammalia
+SDC3,A0A7L0UIX4,Chordeiles acutipennis,outside Mammalia
+SDC3,A0A7L0UWQ0,Leptocoma aspasia,outside Mammalia
+SDC3,A0A7L0W0C4,Alectura lathami,outside Mammalia
+SDC3,A0A7L0XTM3,Tyrannus savana,outside Mammalia
+SDC3,A0A7L0Z7H6,Oxyruncus cristatus,outside Mammalia
+SDC3,A0A7L1B9P9,Gymnorhina tibicen,outside Mammalia
+SDC3,A0A7L1DCS0,Serilophus lunatus,outside Mammalia
+SDC3,A0A7L1ECJ5,Oenanthe oenanthe,outside Mammalia
+SDC3,A0A7L1F9E7,Sylvia borin,outside Mammalia
+SDC3,A0A7L1GU74,Indicator maculatus,outside Mammalia
+SDC3,A0A7L1HCB1,Nycticryphes semicollaris,outside Mammalia
+SDC3,A0A7L1IY39,Smutsornis africanus,outside Mammalia
+SDC3,A0A7L1JDC6,Rynchops niger,outside Mammalia
+SDC3,A0A7L1LBU6,Himantopus himantopus,outside Mammalia
+SDC3,A0A7L1NP54,Rhinopomastus cyanomelas,outside Mammalia
+SDC3,A0A7L1PU28,Oriolus oriolus,outside Mammalia
+SDC3,A0A7L1R387,Cisticola juncidis,outside Mammalia
+SDC3,A0A7L1SFP6,Helopsaltes ochotensis,outside Mammalia
+SDC3,A0A7L1SV19,Aramus guarauna,outside Mammalia
+SDC3,A0A7L1U9R2,Phainopepla nitens,outside Mammalia
+SDC3,A0A7L1VLR5,Sitta europaea,outside Mammalia
+SDC3,A0A7L1XSK9,Thinocorus orbignyianus,outside Mammalia
+SDC3,A0A7L1YSV0,Scytalopus superciliaris,outside Mammalia
+SDC3,A0A7L2BAQ4,Heliornis fulica,outside Mammalia
+SDC3,A0A7L2CHE0,Alaudala cheleensis,outside Mammalia
+SDC3,A0A7L2DJC7,Catharus fuscescens,outside Mammalia
+SDC3,A0A7L2ERT0,Anthoscopus minutus,outside Mammalia
+SDC3,A0A7L2EXL9,Quiscalus mexicanus,outside Mammalia
+SDC3,A0A7L2GK96,Nyctibius grandis,outside Mammalia
+SDC3,A0A7L2HPF4,Sagittarius serpentarius,outside Mammalia
+SDC3,A0A7L2IAH8,Semnornis frantzii,outside Mammalia
+SDC3,A0A7L2K177,Cinclus mexicanus,outside Mammalia
+SDC3,A0A7L2KQC3,Zosterops hypoxanthus,outside Mammalia
+SDC3,A0A7L2LJB0,Hippolais icterina,outside Mammalia
+SDC3,A0A7L2PFT8,Pycnonotus jocosus,outside Mammalia
+SDC3,A0A7L2Q3T6,Hypocryptadius cinnamomeus,outside Mammalia
+SDC3,A0A7L2SM35,Mystacornis crossleyi,outside Mammalia
+SDC3,A0A7L2TFI1,Pomatostomus ruficeps,outside Mammalia
+SDC3,A0A7L2UEF4,Balaeniceps rex,outside Mammalia
+SDC3,A0A7L2VK29,Brachypteracias leptosomus,outside Mammalia
+SDC3,A0A7L2WA51,Pandion haliaetus,outside Mammalia
+SDC3,A0A7L2X7K5,Erpornis zantholeuca,outside Mammalia
+SDC3,A0A7L2Z7Q5,Jacana jacana,outside Mammalia
+SDC3,A0A7L2ZDA0,Prunella fulvescens,outside Mammalia
+SDC3,A0A7L3B7E7,Syrrhaptes paradoxus,outside Mammalia
+SDC3,A0A7L3C739,Pelecanoides urinatrix,outside Mammalia
+SDC3,A0A7L3CX66,Pluvianellus socialis,outside Mammalia
+SDC3,A0A7L3DZM2,Chaetops frenatus,outside Mammalia
+SDC3,A0A7L3F273,Zapornia atra,outside Mammalia
+SDC3,A0A7L3GBV9,Anhinga rufa,outside Mammalia
+SDC3,A0A7L3H724,Buphagus erythrorhynchus,outside Mammalia
+SDC3,A0A7L3I2J4,Pardalotus punctatus,outside Mammalia
+SDC3,A0A7L3J974,Thalassarche chlororhynchos,outside Mammalia
+SDC3,A0A7L3KL02,Drymodes brunneopygia,outside Mammalia
+SDC3,A0A7L3LEJ7,Turnix velox,outside Mammalia
+SDC3,A0A7L3NSY7,Oreotrochilus melanogaster,outside Mammalia
+SDC3,A0A7L3R1I8,Cettia cetti,outside Mammalia
+SDC3,A0A7L3S496,Cepphus grylle,outside Mammalia
+SDC3,A0A7L3SJQ0,Rissa tridactyla,outside Mammalia
+SDC3,A0A7L3UH05,Uria aalge,outside Mammalia
+SDC3,A0A7L3VJ59,Molothrus ater,outside Mammalia
+SDC3,A0A7L3WXY7,Atlantisia rogersi,outside Mammalia
+SDC3,A0A7L3XXN8,Calonectris borealis,outside Mammalia
+SDC3,A0A7L3ZBN0,Fregetta grallaria,outside Mammalia
+SDC3,A0A7L4A3E5,Circaetus pectoralis,outside Mammalia
+SDC3,A0A7L4B9C0,Phaetusa simplex,outside Mammalia
+SDC3,A0A7L4CHA5,Nyctiprogne leucopyga,outside Mammalia
+SDC3,A0A7L4DKS9,Eurystomus gularis,outside Mammalia
+SDC3,A0A7L4G2G9,Pampusana beccarii,outside Mammalia
+SDC3,A0A7L4GBN1,Podargus strigoides,outside Mammalia
+SDC3,A0A7L4HP50,Scopus umbretta,outside Mammalia
+SDC3,A0A7L4KHD7,Ceuthmochares aereus,outside Mammalia
+SDC3,A0A7L4L5N8,Callaeas wilsoni,outside Mammalia
+SDC3,A0A7L4MI96,Glareola pratincola,outside Mammalia
+SDC3,A0A7L4NKF4,Ceyx cyanopectus,outside Mammalia
+SDC3,A0A7M4E8L6,Crocodylus porosus,outside Mammalia
+SDC3,A0A7M4E8Y3,Crocodylus porosus,outside Mammalia
+SDC3,A0A7N4NVW8,Sarcophilus harrisii,second entry for this organism
+SDC3,A0A7N4P3L1,Sarcophilus harrisii,second entry for this organism
+SDC3,A0A7N4PLB8,Sarcophilus harrisii,second entry for this organism
+SDC3,A0A7N5P1D7,Ailuropoda melanoleuca,second entry for this organism
+SDC3,A0A7R5KTH0,Pipra filicauda,outside Mammalia
+SDC3,A0A850TW89,Grus americana,outside Mammalia
+SDC3,A0A850VIZ8,Chloropsis hardwickii,outside Mammalia
+SDC3,A0A850VKT3,Fregata magnificens,outside Mammalia
+SDC3,A0A850WKC1,Piaya cayana,outside Mammalia
+SDC3,A0A850XTD0,Aegithalos caudatus,outside Mammalia
+SDC3,A0A850Z5H9,Tichodroma muraria,outside Mammalia
+SDC3,A0A851AXQ7,Sula dactylatra,outside Mammalia
+SDC3,A0A851BTH7,Picathartes gymnocephalus,outside Mammalia
+SDC3,A0A851C0Q2,Calyptomena viridis,outside Mammalia
+SDC3,A0A851DN07,Todus mexicanus,outside Mammalia
+SDC3,A0A851E9P8,Dryoscopus gambensis,outside Mammalia
+SDC3,A0A851FY17,Pitta sordida,outside Mammalia
+SDC3,A0A851JRA6,Donacobius atricapilla,outside Mammalia
+SDC3,A0A851LQ90,Corythaeola cristata,outside Mammalia
+SDC3,A0A851N2M8,Campylorhamphus procurvoides,outside Mammalia
+SDC3,A0A851NKY3,Penelope pileata,outside Mammalia
+SDC3,A0A851PKG6,Anhinga anhinga,outside Mammalia
+SDC3,A0A851REQ2,Tychaedon coryphoeus,outside Mammalia
+SDC3,A0A851S7D5,Certhia familiaris,outside Mammalia
+SDC3,A0A851TEY4,Nothocercus nigrocapillus,outside Mammalia
+SDC3,A0A851UR10,Elachura formosa,outside Mammalia
+SDC3,A0A851VT73,Copsychus sechellarum,outside Mammalia
+SDC3,A0A851XI86,Eolophus roseicapilla,outside Mammalia
+SDC3,A0A851YYG4,Halcyon senegalensis,outside Mammalia
+SDC3,A0A852ADT1,Calcarius ornatus,outside Mammalia
+SDC3,A0A852AMV9,Chloropsis cyanopogon,outside Mammalia
+SDC3,A0A852CG65,Ramphastos sulfuratus,outside Mammalia
+SDC3,A0A852DFW5,Passerina amoena,outside Mammalia
+SDC3,A0A852DYF3,Vidua macroura,outside Mammalia
+SDC3,A0A852FGE9,Peucedramus taeniatus,outside Mammalia
+SDC3,A0A852H9S0,Larus smithsonianus,outside Mammalia
+SDC3,A0A852HMX1,Nicator chloris,outside Mammalia
+SDC3,A0A852IJC8,Tricholaema leucomelas,outside Mammalia
+SDC3,A0A852KIK7,Urocolius indicus,outside Mammalia
+SDC3,A0A852LLQ3,Centropus bengalensis,outside Mammalia
+SDC3,A0A852N807,Pteruthius melanotis,outside Mammalia
+SDC3,A0A852PCJ0,Atrichornis clamosus,outside Mammalia
+SDC3,A0A8B9BXH4,Anser brachyrhynchus,outside Mammalia
+SDC3,A0A8B9D910,Anser cygnoides,outside Mammalia
+SDC3,A0A8B9DBP3,Anser cygnoides,outside Mammalia
+SDC3,A0A8B9I5G2,Anser brachyrhynchus,outside Mammalia
+SDC3,A0A8B9YEM6,Bos grunniens,second entry for this organism
+SDC3,A0A8C0G832,Chelonoidis abingdonii,outside Mammalia
+SDC3,A0A8C0GA05,Chelonoidis abingdonii,outside Mammalia
+SDC3,A0A8C0GBJ2,Chelonoidis abingdonii,outside Mammalia
+SDC3,A0A8C0ILF7,Chelonoidis abingdonii,outside Mammalia
+SDC3,A0A8C2TXC0,Coturnix japonica,outside Mammalia
+SDC3,A0A8C2YDQ3,Coturnix japonica,outside Mammalia
+SDC3,A0A8C3AJI4,Cyclopterus lumpus,outside Mammalia
+SDC3,A0A8C3FWH6,Chrysemys picta bellii,outside Mammalia
+SDC3,A0A8C3V6E6,Catharus ustulatus,outside Mammalia
+SDC3,A0A8C4IEP5,Dicentrarchus labrax,outside Mammalia
+SDC3,A0A8C4T738,Erpetoichthys calabaricus,outside Mammalia
+SDC3,A0A8C4Y2L6,Gopherus evgoodei,outside Mammalia
+SDC3,A0A8C4Y2M0,Gopherus evgoodei,outside Mammalia
+SDC3,A0A8C5GFP8,Gouania willdenowi,outside Mammalia
+SDC3,A0A8C5LNI3,Jaculus jaculus,second entry for this organism
+SDC3,A0A8C5LRV6,Leptobrachium leishanense,outside Mammalia
+SDC3,A0A8C5XJP5,Microcebus murinus,second entry for this organism
+SDC3,A0A8C5ZG54,Marmota marmota marmota,second entry for this organism
+SDC3,A0A8C5ZHW1,Marmota marmota marmota,second entry for this organism
+SDC3,A0A8C6RUI1,Nannospalax galili,second entry for this organism
+SDC3,A0A8C6RY17,Nannospalax galili,second entry for this organism
+SDC3,A0A8C6VQ25,Naja naja,outside Mammalia
+SDC3,A0A8C7EF80,Nothoprocta perdicaria,outside Mammalia
+SDC3,A0A8C7GH01,Oncorhynchus kisutch,outside Mammalia
+SDC3,A0A8C7MMX0,Oncorhynchus kisutch,outside Mammalia
+SDC3,A0A8C8M0D5,Oncorhynchus tshawytscha,outside Mammalia
+SDC3,A0A8C9LT83,Piliocolobus tephrosceles,second entry for this organism
+SDC3,A0A8C9NM27,Serinus canaria,outside Mammalia
+SDC3,A0A8C9UGL5,Serinus canaria,outside Mammalia
+SDC3,A0A8C9W7B6,Scleropages formosus,outside Mammalia
+SDC3,A0A8D0DCG2,Sander lucioperca,outside Mammalia
+SDC3,A0A8D2F4J0,Theropithecus gelada,second entry for this organism
+SDC3,A0A8D2IPS7,Varanus komodoensis,outside Mammalia
+SDC3,A0A8D2KML2,Urocitellus parryii,second entry for this organism
+SDC3,A0A8I3N5I0,Canis lupus familiaris,second entry for this organism
+SDC3,A0A8I3RTU6,Canis lupus familiaris,second entry for this organism
+SDC3,A0A8I3WBU2,Callithrix jacchus,second entry for this organism
+SDC3,A0A8I3WYH2,Callithrix jacchus,second entry for this organism
+SDC3,A0A8I3ZYI9,Callithrix jacchus,second entry for this organism
+SDC3,A0A8I4A6B9,Callithrix jacchus,second entry for this organism
+SDC3,A0A8J0PND4,Xenopus laevis,outside Mammalia
+SDC3,A0A8J0QS80,Xenopus tropicalis,outside Mammalia
+SDC3,A0A8J4K9N8,Eudyptula minor,outside Mammalia
+SDC3,A0A8J4MQ52,Spheniscus mendiculus,outside Mammalia
+SDC3,A0A8J4NGF1,Eudyptes sclateri,outside Mammalia
+SDC3,A0A8J4NTI5,Eudyptes chrysocome,outside Mammalia
+SDC3,A0A8J4PF08,Aptenodytes patagonicus,outside Mammalia
+SDC3,A0A8J4UVX8,Clarias magur,outside Mammalia
+SDC3,A0A8J7TFL3,Atractosteus spatula,outside Mammalia
+SDC3,A0A8K0BPE9,Eudyptes filholi,outside Mammalia
+SDC3,A0A8M1KR48,Clupea harengus,outside Mammalia
+SDC3,A0A8N5EV79,Geospiza fortis,outside Mammalia
+SDC3,A0A8T1SU17,Chelydra serpentina,outside Mammalia
+SDC3,A0A8U7NJ93,Corvus moneduloides,outside Mammalia
+SDC3,A0A8V0YJY9,Gallus gallus,outside Mammalia
+SDC3,A0A8V0YKL0,Gallus gallus,outside Mammalia
+SDC3,A0A8V0YMH2,Gallus gallus,outside Mammalia
+SDC3,A0A8X8BNI7,Polypterus senegalus,outside Mammalia
+SDC3,A0A9B0TK67,Chrysochloris asiatica,second entry for this organism
+SDC3,A0A9F2R0G5,Python bivittatus,outside Mammalia
+SDC3,A0A9K3Y886,Homo sapiens,second entry for this organism
+SDC3,A0A9L0IMA2,Equus asinus,second entry for this organism
+SDC3,A0A9L0IU81,Equus asinus,second entry for this organism
+SDC3,A0A9Y6J812,Pundamilia nyererei,outside Mammalia
+SDC3,A0AA40H8A3,Pygoscelis papua,outside Mammalia
+SDC3,A0AA97KEG6,Eublepharis macularius,outside Mammalia
+SDC3,A0AA97MT30,Menura novaehollandiae,outside Mammalia
+SDC3,A0AAA9TUI4,Bos taurus,second entry for this organism
+SDC3,A0AAA9TXW0,Bos taurus,second entry for this organism
+SDC3,A0AAQ5YCE8,Amphiprion ocellaris,outside Mammalia
+SDC3,A0AAQ5ZPA1,Amphiprion ocellaris,outside Mammalia
+SDC3,A0AAQ6A2E1,Amphiprion ocellaris,outside Mammalia
+SDC3,A0AAQ6IT75,Anabas testudineus,outside Mammalia
+SDC3,A0AAR2J209,Pygocentrus nattereri,outside Mammalia
+SDC3,A0AAY4C9E6,Denticeps clupeoides,outside Mammalia
+SDC3,A0AAY5JYT7,Esox lucius,outside Mammalia
+SDC3,A0AAY5KAZ7,Esox lucius,outside Mammalia
+SDC3,A0AAY5KTB4,Esox lucius,outside Mammalia
+SDC3,A0AAZ1WV92,Oreochromis aureus,outside Mammalia
+SDC3,A0AAZ1WVG5,Oreochromis aureus,outside Mammalia
+SDC3,A0AAZ1WZ38,Oreochromis aureus,outside Mammalia
+SDC3,A0AAZ1X8F3,Oreochromis aureus,outside Mammalia
+SDC3,A0AAZ1XCR1,Oreochromis aureus,outside Mammalia
+SDC3,A0AAZ1XI47,Oreochromis aureus,outside Mammalia
+SDC3,A0AAZ1XZY7,Oreochromis aureus,outside Mammalia
+SDC3,A0AAZ1Y572,Oreochromis aureus,outside Mammalia
+SDC3,A0AAZ3RGE6,Oncorhynchus tshawytscha,outside Mammalia
+SDC3,A0AAZ3RMH3,Oncorhynchus tshawytscha,outside Mammalia
+SDC3,A0ABI7YH26,Felis catus,second entry for this organism
+SDC3,A0ABI7YHB5,Felis catus,second entry for this organism
+SDC3,A0ABI7YHE8,Felis catus,second entry for this organism
+SDC3,A0ABM1KYS6,Gekko japonicus,outside Mammalia
+SDC3,A0ABM3E2Q0,Salmo salar,outside Mammalia
+SDC3,A0ABM3ZGL2,Pantherophis guttatus,outside Mammalia
+SDC3,A0ABM4FRF6,Apteryx mantelli,outside Mammalia
+SDC3,A0ABM5ESX5,Pogona vitticeps,outside Mammalia
+SDC3,A0ABS2YVC6,Polypterus senegalus,outside Mammalia
+SDC3,A0AC58I1B4,Danio rerio,outside Mammalia
+SDC3,A0AC58I1B6,Danio rerio,outside Mammalia
+SDC3,A0AC58I1C7,Danio rerio,outside Mammalia
+SDC3,A0ACB8FRQ9,Sphaerodactylus townsendi,outside Mammalia
+SDC3,A0ACF8ERD4,Arapaima gigas,outside Mammalia
+SDC3,A0ACI6QX64,Ovis aries,second entry for this organism
+SDC3,A0ACI6R3D3,Ovis aries,second entry for this organism
+SDC3,A0ACI6RMI9,Ovis aries,second entry for this organism
+SDC3,A0ACI6RU84,Ovis aries,second entry for this organism
+SDC3,A0ACI8TXA5,Homo sapiens,second entry for this organism
+SDC3,A1LXW5,Homo sapiens,second entry for this organism
+SDC3,A9JSA8,Xenopus tropicalis,outside Mammalia
+SDC3,B1ASF6,Mus musculus,second entry for this organism
+SDC3,F1DFN3,Danio rerio,outside Mammalia
+SDC3,F1MP76,Bos taurus,second entry for this organism
+SDC3,F6Z7A3,Macaca mulatta,second entry for this organism
+SDC3,F6Z7J1,Macaca mulatta,second entry for this organism
+SDC3,G1MPX3,Meleagris gallopavo,outside Mammalia
+SDC3,G1SRT7,Oryctolagus cuniculus,second entry for this organism
+SDC3,G3U1W0,Loxodonta africana,second entry for this organism
+SDC3,G3UNT7,Meleagris gallopavo,outside Mammalia
+SDC3,G3V9B7,Rattus norvegicus,second entry for this organism
+SDC3,H2N887,Pongo abelii,second entry for this organism
+SDC3,H3BCS6,Latimeria chalumnae,outside Mammalia
+SDC3,H9F5W8,Macaca mulatta,second entry for this organism
+SDC3,H9G4D7,Anolis carolinensis,outside Mammalia
+SDC3,K7G669,Pelodiscus sinensis,outside Mammalia
+SDC3,O42474,Xenopus laevis,outside Mammalia
+SDC3,O75056,Homo sapiens,second entry for this organism
+SDC3,P26261,Gallus gallus,outside Mammalia
+SDC3,P33671,Rattus norvegicus,second entry for this organism
+SDC3,Q64519,Mus musculus,second entry for this organism
+SDC3,U3JEV1,Ficedula albicollis,outside Mammalia
+SDC3,U6DJR8,Neogale vison,second entry for this organism
+SDC3,V8NAM2,Ophiophagus hannah,outside Mammalia
+SDC3,W5UJI1,Ictalurus punctatus,outside Mammalia
+SDC3,A0A1S3GFS1,Dipodomys ordii,length 658 against SDC3 anchor 442
+SDC3,A0A3Q2H3K7,Equus caballus,length 1303 against SDC3 anchor 442
+SDC3,A0A6G1AYD6,Crocuta crocuta,length 691 against SDC3 anchor 442
+SDC3,A0AAX6R0M6,Heterocephalus glaber,length 725 against SDC3 anchor 442
+SDC3,A0A6P3Q0X9,Pteropus vampyrus,over the per-gene cap
+SDC3,A0A6P5K207,Phascolarctos cinereus,over the per-gene cap
+SDC3,A0A6P5PLF6,Mus caroli,over the per-gene cap
+SDC3,A0A7N4NMT6,Sarcophilus harrisii,over the per-gene cap
+SDC3,A0A7N5JS84,Ailuropoda melanoleuca,over the per-gene cap
+SDC3,A0A8B7AXK6,Orycteropus afer afer,over the per-gene cap
+SDC3,A0A8B7SQN4,Hipposideros armiger,over the per-gene cap
+SDC3,A0A8B7TXG0,Castor canadensis,over the per-gene cap
+SDC3,A0A8B8UBG0,Camelus ferus,over the per-gene cap
+SDC3,A0A8B9YCY3,Bos grunniens,over the per-gene cap
+SDC3,A0A8C0CFP8,Balaenoptera musculus,over the per-gene cap
+SDC3,A0A8C2VQC8,Chinchilla lanigera,over the per-gene cap
+SDC3,A0A8C3WUE8,Catagonus wagneri,over the per-gene cap
+SDC3,A0A8C4LTG6,Equus asinus,over the per-gene cap
+SDC3,A0A8C5LM22,Jaculus jaculus,over the per-gene cap
+SDC3,A0A8C5V677,Microcebus murinus,over the per-gene cap
+SDC3,A0A8C5ZDA3,Marmota marmota marmota,over the per-gene cap
+SDC3,A0A8C6BIV1,Monodon monoceros,over the per-gene cap
+SDC3,A0A8C6FK06,Moschus moschiferus,over the per-gene cap
+SDC3,A0A8C6RS40,Nannospalax galili,over the per-gene cap
+SDC3,A0A8C7EXP6,Neogale vison,over the per-gene cap
+SDC3,A0A8C8Z1A0,Prolemur simus,over the per-gene cap
+SDC3,A0A8C9BLP2,Phocoena sinus,over the per-gene cap
+SDC3,A0A8C9I335,Piliocolobus tephrosceles,over the per-gene cap
+SDC3,A0A8D2D9W6,Sciurus vulgaris,over the per-gene cap
+SDC3,A0A8D2F2I2,Theropithecus gelada,over the per-gene cap
+SDC3,A0A8D2I6L7,Urocitellus parryii,over the per-gene cap
+SDC3,A0A8I3N3H1,Canis lupus familiaris,over the per-gene cap
+SDC3,A0A8I5TV35,Pongo abelii,over the per-gene cap
+SDC3,A0A8M1F2R5,Ursus maritimus,over the per-gene cap
+SDC3,A0A8U0UKU4,Mustela putorius furo,over the per-gene cap
+SDC3,A0A9B0GVZ5,Odobenus rosmarus divergens,over the per-gene cap
+SDC3,A0A9B0TE98,Chrysochloris asiatica,over the per-gene cap
+SDC3,A0A9J7JE63,Cricetulus griseus,over the per-gene cap
+SDC3,A0A9W2V6C4,Panthera pardus,over the per-gene cap
+SDC3,A0AAA9SMH7,Bos taurus,over the per-gene cap
+SDC3,A0ABI7YGS0,Felis catus,over the per-gene cap
+SDC3,A0ABM0IPZ4,Echinops telfairi,over the per-gene cap
+SDC3,A0ABM0RDP1,Galeopterus variegatus,over the per-gene cap
+SDC3,A0ABM1AKV3,Microtus ochrogaster,over the per-gene cap
+SDC3,A0ABM2YCA1,Mesocricetus auratus,over the per-gene cap
+SDC3,A0ABM3P3P3,Acinonyx jubatus,over the per-gene cap
+SDC3,A0ABM3S6G0,Balaenoptera acutorostrata,over the per-gene cap
+SDC3,A0ABM4HG65,Odocoileus virginianus,over the per-gene cap
+SDC3,A0ABM4MIZ2,Equus przewalskii,over the per-gene cap
+SDC3,A0ABM4T3L2,Bos indicus,over the per-gene cap
+SDC3,A0ABM4ZVN4,Vulpes vulpes,over the per-gene cap
+SDC3,A0ABM5ED00,Vicugna pacos,over the per-gene cap
+SDC3,A0ABQ9VAF2,Saguinus oedipus,over the per-gene cap
+SDC3,A0AC58REZ0,Camelus bactrianus,over the per-gene cap
+SDC3,A0ACI6PAA4,Ovis aries,over the per-gene cap
+SDC3,A0ACM7HNT8,Callorhinus ursinus,over the per-gene cap
+SDC3,F6XHV5,Monodelphis domestica,over the per-gene cap
+SDC3,G1P749,Myotis lucifugus,over the per-gene cap
+SDC3,G1QK95,Nomascus leucogenys,over the per-gene cap
+SDC3,G3RQZ1,Gorilla gorilla gorilla,over the per-gene cap
+SDC3,G3TAV5,Loxodonta africana,over the per-gene cap
+SDC3,H0VXC8,Cavia porcellus,over the per-gene cap
+SDC3,H2R2Z1,Pan troglodytes,over the per-gene cap
+SDC3,I3MUQ2,Ictidomys tridecemlineatus,over the per-gene cap
+SDC4,P31431-2,Homo sapiens,second entry for this organism
+SDC4,P49416,Gallus gallus,outside Mammalia
+SDC4,Q1AGV6,Xenopus laevis,outside Mammalia
+SDC4,Q1AGV7,Xenopus laevis,outside Mammalia
+SDC4,A0A091P883,Haliaeetus albicilla,outside Mammalia
+SDC4,A0A151NZK2,Alligator mississippiensis,outside Mammalia
+SDC4,A0A1S3P1H1,Salmo salar,outside Mammalia
+SDC4,A0A1U7REU5,Alligator sinensis,outside Mammalia
+SDC4,A0A1V4KL03,Patagioenas fasciata monilis,outside Mammalia
+SDC4,A0A218URX7,Lonchura striata,outside Mammalia
+SDC4,A0A2D0RYI6,Ictalurus punctatus,outside Mammalia
+SDC4,A0A2I4CPS2,Austrofundulus limnaeus,outside Mammalia
+SDC4,A0A2Y9H3S0,Neomonachus schauinslandi,second entry for this organism
+SDC4,A0A3B4GRD7,Pundamilia nyererei,outside Mammalia
+SDC4,A0A3Q0FNB2,Alligator sinensis,outside Mammalia
+SDC4,A0A3Q1KC12,Anabas testudineus,outside Mammalia
+SDC4,A0A452F549,Capra hircus,second entry for this organism
+SDC4,A0A452J7Z2,Gallus gallus,outside Mammalia
+SDC4,A0A4W2EKW8,Bos indicus x Bos taurus,second entry for this organism
+SDC4,A0A4W4DZF8,Electrophorus electricus,outside Mammalia
+SDC4,A0A5F8AQE0,Macaca mulatta,second entry for this organism
+SDC4,A0A5F9CFV5,Oryctolagus cuniculus,second entry for this organism
+SDC4,A0A5F9DJ80,Oryctolagus cuniculus,second entry for this organism
+SDC4,A0A5F9DR11,Oryctolagus cuniculus,second entry for this organism
+SDC4,A0A5G2QGF4,Sus scrofa,second entry for this organism
+SDC4,A0A5S6HZW1,Sus scrofa,second entry for this organism
+SDC4,A0A663ES68,Aquila chrysaetos chrysaetos,outside Mammalia
+SDC4,A0A663N2K5,Athene cunicularia,outside Mammalia
+SDC4,A0A665TVF0,Echeneis naucrates,outside Mammalia
+SDC4,A0A667WVS5,Myripristis murdjan,outside Mammalia
+SDC4,A0A668RNR2,Oreochromis aureus,outside Mammalia
+SDC4,A0A669NZS2,Phasianus colchicus,outside Mammalia
+SDC4,A0A670IM83,Podarcis muralis,outside Mammalia
+SDC4,A0A670YF56,Pseudonaja textilis,outside Mammalia
+SDC4,A0A671W3G3,Sparus aurata,outside Mammalia
+SDC4,A0A672G3G0,Salarias fasciatus,outside Mammalia
+SDC4,A0A672TX28,Strigops habroptila,outside Mammalia
+SDC4,A0A673UU97,Suricata suricatta,second entry for this organism
+SDC4,A0A674C4R8,Salmo trutta,outside Mammalia
+SDC4,A0A674G902,Taeniopygia guttata,outside Mammalia
+SDC4,A0A674J7W3,Terrapene triunguis,outside Mammalia
+SDC4,A0A6I9HIS3,Geospiza fortis,outside Mammalia
+SDC4,A0A6I9X720,Thamnophis sirtalis,outside Mammalia
+SDC4,A0A6J0HUN9,Lepidothrix coronata,outside Mammalia
+SDC4,A0A6J0T8K0,Pogona vitticeps,outside Mammalia
+SDC4,A0A6J1TS62,Notechis scutatus,outside Mammalia
+SDC4,A0A6J2FDQ3,Zalophus californianus,second entry for this organism
+SDC4,A0A6J2ING5,Pipra filicauda,outside Mammalia
+SDC4,A0A6J2PRA8,Cottoperca gobio,outside Mammalia
+SDC4,A0A6J2PS11,Cottoperca gobio,outside Mammalia
+SDC4,A0A6J2VQU1,Chanos chanos,outside Mammalia
+SDC4,A0A6J3DXL9,Aythya fuligula,outside Mammalia
+SDC4,A0A6P3WB70,Clupea harengus,outside Mammalia
+SDC4,A0A6P3WB96,Clupea harengus,outside Mammalia
+SDC4,A0A6P7MKC3,Betta splendens,outside Mammalia
+SDC4,A0A6P7MKU8,Betta splendens,outside Mammalia
+SDC4,A0A6P7YUM1,Microcaecilia unicolor,outside Mammalia
+SDC4,A0A6P8T058,Geotrypetes seraphini,outside Mammalia
+SDC4,A0A6P8W6U0,Gymnodraco acuticeps,outside Mammalia
+SDC4,A0A6P9BI79,Pantherophis guttatus,outside Mammalia
+SDC4,A0A7K4JKS6,Geococcyx californianus,outside Mammalia
+SDC4,A0A7K4JY17,Crypturellus soui,outside Mammalia
+SDC4,A0A7K4LZF6,Crypturellus undulatus,outside Mammalia
+SDC4,A0A7K4PCW4,Melospiza melodia,outside Mammalia
+SDC4,A0A7K4QJQ5,Neopipo cinnamomea,outside Mammalia
+SDC4,A0A7K4SBK1,Columbina picui,outside Mammalia
+SDC4,A0A7K4ST70,Burhinus bistriatus,outside Mammalia
+SDC4,A0A7K4TYC0,Sinosuthora webbiana,outside Mammalia
+SDC4,A0A7K4VR22,Emberiza fucata,outside Mammalia
+SDC4,A0A7K4WIN6,Tachuris rubrigastra,outside Mammalia
+SDC4,A0A7K4XNS9,Regulus satrapa,outside Mammalia
+SDC4,A0A7K4YJJ5,Bucorvus abyssinicus,outside Mammalia
+SDC4,A0A7K5AA24,Centropus unirufus,outside Mammalia
+SDC4,A0A7K5BBE8,Furnarius figulus,outside Mammalia
+SDC4,A0A7K5C6Y1,Motacilla alba,outside Mammalia
+SDC4,A0A7K5D0Q8,Pachyramphus minor,outside Mammalia
+SDC4,A0A7K5E0P7,Polioptila caerulea,outside Mammalia
+SDC4,A0A7K5FP16,Probosciger aterrimus,outside Mammalia
+SDC4,A0A7K5G4Y2,Chunga burmeisteri,outside Mammalia
+SDC4,A0A7K5HQ04,Crotophaga sulcirostris,outside Mammalia
+SDC4,A0A7K5JGW3,Toxostoma redivivum,outside Mammalia
+SDC4,A0A7K5K2F3,Mionectes macconnelli,outside Mammalia
+SDC4,A0A7K5L2N2,Vireo altiloquus,outside Mammalia
+SDC4,A0A7K5MDH2,Cardinalis cardinalis,outside Mammalia
+SDC4,A0A7K5NYW3,Chroicocephalus maculipennis,outside Mammalia
+SDC4,A0A7K5PPZ6,Erythrocercus mccallii,outside Mammalia
+SDC4,A0A7K5QHD6,Prunella himalayana,outside Mammalia
+SDC4,A0A7K5SB37,Lanius ludovicianus,outside Mammalia
+SDC4,A0A7K5TJG8,Urocynchramus pylzowi,outside Mammalia
+SDC4,A0A7K5UHL2,Cephalopterus ornatus,outside Mammalia
+SDC4,A0A7K5VQ05,Platysteira castanea,outside Mammalia
+SDC4,A0A7K5WF23,Hylia prasina,outside Mammalia
+SDC4,A0A7K5XVT5,Dromas ardeola,outside Mammalia
+SDC4,A0A7K5Y869,Pterocles burchelli,outside Mammalia
+SDC4,A0A7K5ZVG3,Onychorhynchus coronatus,outside Mammalia
+SDC4,A0A7K6AXH4,Upupa epops,outside Mammalia
+SDC4,A0A7K6BRV3,Ptilonorhynchus violaceus,outside Mammalia
+SDC4,A0A7K6D5I1,Origma solitaria,outside Mammalia
+SDC4,A0A7K6EJ86,Grantiella picta,outside Mammalia
+SDC4,A0A7K6G1I3,Daphoenositta chrysoptera,outside Mammalia
+SDC4,A0A7K6GIG5,Malurus elegans,outside Mammalia
+SDC4,A0A7K6HDG7,Dasyornis broadbenti,outside Mammalia
+SDC4,A0A7K6IKC3,Machaerirhynchus nigripectus,outside Mammalia
+SDC4,A0A7K6KDL4,Oreocharis arfaki,outside Mammalia
+SDC4,A0A7K6LES2,Falcunculus frontatus,outside Mammalia
+SDC4,A0A7K6M1W4,Panurus biarmicus,outside Mammalia
+SDC4,A0A7K6NEF9,Pedionomus torquatus,outside Mammalia
+SDC4,A0A7K6PQY6,Ifrita kowaldi,outside Mammalia
+SDC4,A0A7K6QFI1,Climacteris rufus,outside Mammalia
+SDC4,A0A7K6SF56,Rhynochetos jubatus,outside Mammalia
+SDC4,A0A7K6SQN8,Caloenas nicobarica,outside Mammalia
+SDC4,A0A7K6U6I7,Aegotheles bennettii,outside Mammalia
+SDC4,A0A7K6UU87,Notiomystis cincta,outside Mammalia
+SDC4,A0A7K6W8J3,Steatornis caripensis,outside Mammalia
+SDC4,A0A7K6XMZ7,Promerops cafer,outside Mammalia
+SDC4,A0A7K6YF90,Alca torda,outside Mammalia
+SDC4,A0A7K6ZWT2,Nothoprocta pentlandii,outside Mammalia
+SDC4,A0A7K7AGF3,Nothoprocta ornata,outside Mammalia
+SDC4,A0A7K7C5U7,Aphelocoma coerulescens,outside Mammalia
+SDC4,A0A7K7EJ28,Sylvia atricapilla,outside Mammalia
+SDC4,A0A7K7FIB0,Chionis minor,outside Mammalia
+SDC4,A0A7K7GU36,Erithacus rubecula,outside Mammalia
+SDC4,A0A7K7J0U8,Loxia curvirostra,outside Mammalia
+SDC4,A0A7K7JV34,Agelaius phoeniceus,outside Mammalia
+SDC4,A0A7K7L4D2,Asarcornis scutulata,outside Mammalia
+SDC4,A0A7K7M3M9,Brachypodius melanocephalos,outside Mammalia
+SDC4,A0A7K7PN23,Acrocephalus arundinaceus,outside Mammalia
+SDC4,A0A7K7QST6,Poecile atricapillus,outside Mammalia
+SDC4,A0A7K7RWI4,Nesospiza acunhae,outside Mammalia
+SDC4,A0A7K7T483,Sapayoa aenigma,outside Mammalia
+SDC4,A0A7K7U9Y2,Ibidorhyncha struthersii,outside Mammalia
+SDC4,A0A7K7V1A4,Eudromia elegans,outside Mammalia
+SDC4,A0A7K7WF84,Nothocercus julius,outside Mammalia
+SDC4,A0A7K7X683,Mohoua ochrocephala,outside Mammalia
+SDC4,A0A7K7YZV8,Thryothorus ludovicianus,outside Mammalia
+SDC4,A0A7K7ZFY4,Melanocharis versteri,outside Mammalia
+SDC4,A0A7K8AMS6,Cnemophilus loriae,outside Mammalia
+SDC4,A0A7K8C4V9,Rhagologus leucostigma,outside Mammalia
+SDC4,A0A7K8DCP4,Eulacestoma nigropectus,outside Mammalia
+SDC4,A0A7K8E982,Leucopsar rothschildi,outside Mammalia
+SDC4,A0A7K8FU21,Struthidea cinerea,outside Mammalia
+SDC4,A0A7K8GMK3,Orthonyx spaldingii,outside Mammalia
+SDC4,A0A7K8H786,Aleadryas rufinucha,outside Mammalia
+SDC4,A0A7K8IY84,Chaetorhynchus papuensis,outside Mammalia
+SDC4,A0A7K8JPM4,Lophotis ruficrista,outside Mammalia
+SDC4,A0A7K8LJT1,Ardeotis kori,outside Mammalia
+SDC4,A0A7K8MG00,Ptilorrhoa leucosticta,outside Mammalia
+SDC4,A0A7K8NI61,Casuarius casuarius,outside Mammalia
+SDC4,A0A7K8NZM4,Cochlearius cochlearius,outside Mammalia
+SDC4,A0A7K8R240,Smithornis capensis,outside Mammalia
+SDC4,A0A7K8S457,Rhodinocichla rosea,outside Mammalia
+SDC4,A0A7K8SHG8,Nyctibius bracteatus,outside Mammalia
+SDC4,A0A7K8UEN0,Oceanites oceanicus,outside Mammalia
+SDC4,A0A7K8V998,Ciccaba nigrolineata,outside Mammalia
+SDC4,A0A7K8WXT2,Sclerurus mexicanus,outside Mammalia
+SDC4,A0A7K8XSR9,Eubucco bourcierii,outside Mammalia
+SDC4,A0A7K8Z913,Sakesphorus luctuosus,outside Mammalia
+SDC4,A0A7K9A0H6,Grallaria varia,outside Mammalia
+SDC4,A0A7K9BR62,Psilopogon haemacephalus,outside Mammalia
+SDC4,A0A7K9CVC2,Hemiprocne comata,outside Mammalia
+SDC4,A0A7K9EIZ3,Baryphthengus martii,outside Mammalia
+SDC4,A0A7K9FGS8,Stercorarius parasiticus,outside Mammalia
+SDC4,A0A7K9G2P9,Loxia leucoptera,outside Mammalia
+SDC4,A0A7K9HCV5,Bucco capensis,outside Mammalia
+SDC4,A0A7K9JHL9,Myiagra hebetior,outside Mammalia
+SDC4,A0A7K9JM65,Dicaeum eximium,outside Mammalia
+SDC4,A0A7K9KY59,Rhabdornis inornatus,outside Mammalia
+SDC4,A0A7K9MU03,Oceanodroma tethys,outside Mammalia
+SDC4,A0A7K9NB19,Edolisoma coerulescens,outside Mammalia
+SDC4,A0A7K9PRS4,Pachycephala philippinensis,outside Mammalia
+SDC4,A0A7K9QKP2,Irena cyanogastra,outside Mammalia
+SDC4,A0A7K9RUN0,Sterrhoptilus dennistouni,outside Mammalia
+SDC4,A0A7K9SJX1,Galbula dea,outside Mammalia
+SDC4,A0A7K9TRJ7,Chloroceryle aenea,outside Mammalia
+SDC4,A0A7K9V4U4,Anseranas semipalmata,outside Mammalia
+SDC4,A0A7K9WHK4,Rhipidura dahli,outside Mammalia
+SDC4,A0A7K9XV20,Psophia crepitans,outside Mammalia
+SDC4,A0A7K9YM43,Odontophorus gujanensis,outside Mammalia
+SDC4,A0A7K9ZK08,Dicrurus megarhynchus,outside Mammalia
+SDC4,A0A7L0BG47,Ciconia maguari,outside Mammalia
+SDC4,A0A7L0BMM0,Spizaetus tyrannus,outside Mammalia
+SDC4,A0A7L0DEF2,Rostratula benghalensis,outside Mammalia
+SDC4,A0A7L0E9J7,Trogon melanurus,outside Mammalia
+SDC4,A0A7L0F9H8,Corythaixoides concolor,outside Mammalia
+SDC4,A0A7L0GIT4,Herpetotheres cachinnans,outside Mammalia
+SDC4,A0A7L0HLD0,Arenaria interpres,outside Mammalia
+SDC4,A0A7L0J5C4,Piprites chloris,outside Mammalia
+SDC4,A0A7L0JWX6,Chauna torquata,outside Mammalia
+SDC4,A0A7L0L9G6,Sylvietta virens,outside Mammalia
+SDC4,A0A7L0LYT7,Amazona guildingii,outside Mammalia
+SDC4,A0A7L0NIG3,Formicarius rufipectus,outside Mammalia
+SDC4,A0A7L0PXU1,Mesembrinibis cayennensis,outside Mammalia
+SDC4,A0A7L0QPJ2,Setophaga kirtlandii,outside Mammalia
+SDC4,A0A7L0RAV2,Glaucidium brasilianum,outside Mammalia
+SDC4,A0A7L0TES4,Podilymbus podiceps,outside Mammalia
+SDC4,A0A7L0TLI2,Chordeiles acutipennis,outside Mammalia
+SDC4,A0A7L0V464,Leptocoma aspasia,outside Mammalia
+SDC4,A0A7L0WA33,Alectura lathami,outside Mammalia
+SDC4,A0A7L0XHV6,Tyrannus savana,outside Mammalia
+SDC4,A0A7L0YE30,Ploceus nigricollis,outside Mammalia
+SDC4,A0A7L0ZUF3,Oxyruncus cristatus,outside Mammalia
+SDC4,A0A7L1BCZ8,Gymnorhina tibicen,outside Mammalia
+SDC4,A0A7L1CE81,Illadopsis cleaveri,outside Mammalia
+SDC4,A0A7L1CZ98,Serilophus lunatus,outside Mammalia
+SDC4,A0A7L1E8V2,Oenanthe oenanthe,outside Mammalia
+SDC4,A0A7L1F7J3,Sylvia borin,outside Mammalia
+SDC4,A0A7L1GUC1,Indicator maculatus,outside Mammalia
+SDC4,A0A7L1H9A4,Nycticryphes semicollaris,outside Mammalia
+SDC4,A0A7L1IUF1,Smutsornis africanus,outside Mammalia
+SDC4,A0A7L1KF72,Rynchops niger,outside Mammalia
+SDC4,A0A7L1LFN1,Himantopus himantopus,outside Mammalia
+SDC4,A0A7L1M2I3,Bombycilla garrulus,outside Mammalia
+SDC4,A0A7L1MUK4,Rhinopomastus cyanomelas,outside Mammalia
+SDC4,A0A7L1PSK8,Oriolus oriolus,outside Mammalia
+SDC4,A0A7L1QNF2,Cisticola juncidis,outside Mammalia
+SDC4,A0A7L1RFY9,Helopsaltes ochotensis,outside Mammalia
+SDC4,A0A7L1SSS9,Aramus guarauna,outside Mammalia
+SDC4,A0A7L1UN16,Phainopepla nitens,outside Mammalia
+SDC4,A0A7L1V487,Sitta europaea,outside Mammalia
+SDC4,A0A7L1WHW2,Certhia brachydactyla,outside Mammalia
+SDC4,A0A7L1XXZ5,Thinocorus orbignyianus,outside Mammalia
+SDC4,A0A7L1YHV9,Scytalopus superciliaris,outside Mammalia
+SDC4,A0A7L2A5W4,Leiothrix lutea,outside Mammalia
+SDC4,A0A7L2BDW8,Heliornis fulica,outside Mammalia
+SDC4,A0A7L2C372,Alaudala cheleensis,outside Mammalia
+SDC4,A0A7L2D5Z5,Catharus fuscescens,outside Mammalia
+SDC4,A0A7L2E8U4,Anthoscopus minutus,outside Mammalia
+SDC4,A0A7L2F914,Quiscalus mexicanus,outside Mammalia
+SDC4,A0A7L2FXA0,Nyctibius grandis,outside Mammalia
+SDC4,A0A7L2HCZ1,Sagittarius serpentarius,outside Mammalia
+SDC4,A0A7L2IRL6,Semnornis frantzii,outside Mammalia
+SDC4,A0A7L2JBC3,Cinclus mexicanus,outside Mammalia
+SDC4,A0A7L2KDK1,Zosterops hypoxanthus,outside Mammalia
+SDC4,A0A7L2LW11,Hippolais icterina,outside Mammalia
+SDC4,A0A7L2NAE7,Rhadina sibilatrix,outside Mammalia
+SDC4,A0A7L2P2L5,Pycnonotus jocosus,outside Mammalia
+SDC4,A0A7L2PYE9,Hypocryptadius cinnamomeus,outside Mammalia
+SDC4,A0A7L2R4E5,Oxylabes madagascariensis,outside Mammalia
+SDC4,A0A7L2S8K1,Mystacornis crossleyi,outside Mammalia
+SDC4,A0A7L2T4T7,Pomatostomus ruficeps,outside Mammalia
+SDC4,A0A7L2ULF5,Balaeniceps rex,outside Mammalia
+SDC4,A0A7L2V8V9,Brachypteracias leptosomus,outside Mammalia
+SDC4,A0A7L2WUQ3,Pandion haliaetus,outside Mammalia
+SDC4,A0A7L2XJE9,Erpornis zantholeuca,outside Mammalia
+SDC4,A0A7L2YZW8,Jacana jacana,outside Mammalia
+SDC4,A0A7L2ZZC3,Prunella fulvescens,outside Mammalia
+SDC4,A0A7L3BA46,Syrrhaptes paradoxus,outside Mammalia
+SDC4,A0A7L3BYX0,Pelecanoides urinatrix,outside Mammalia
+SDC4,A0A7L3CR17,Pluvianellus socialis,outside Mammalia
+SDC4,A0A7L3E0W9,Chaetops frenatus,outside Mammalia
+SDC4,A0A7L3FRJ1,Zapornia atra,outside Mammalia
+SDC4,A0A7L3GT77,Anhinga rufa,outside Mammalia
+SDC4,A0A7L3H691,Buphagus erythrorhynchus,outside Mammalia
+SDC4,A0A7L3I633,Pardalotus punctatus,outside Mammalia
+SDC4,A0A7L3IXZ0,Thalassarche chlororhynchos,outside Mammalia
+SDC4,A0A7L3KVJ8,Drymodes brunneopygia,outside Mammalia
+SDC4,A0A7L3LRU0,Turnix velox,outside Mammalia
+SDC4,A0A7L3MLL3,Horornis vulcanius,outside Mammalia
+SDC4,A0A7L3NUJ5,Oreotrochilus melanogaster,outside Mammalia
+SDC4,A0A7L3PA14,Xiphorhynchus elegans,outside Mammalia
+SDC4,A0A7L3QMJ3,Cettia cetti,outside Mammalia
+SDC4,A0A7L3S8H4,Cepphus grylle,outside Mammalia
+SDC4,A0A7L3SQF6,Rissa tridactyla,outside Mammalia
+SDC4,A0A7L3UGL9,Uria aalge,outside Mammalia
+SDC4,A0A7L3VYI4,Molothrus ater,outside Mammalia
+SDC4,A0A7L3X4V9,Atlantisia rogersi,outside Mammalia
+SDC4,A0A7L3YBW0,Calonectris borealis,outside Mammalia
+SDC4,A0A7L3Z435,Fregetta grallaria,outside Mammalia
+SDC4,A0A7L4A8F2,Circaetus pectoralis,outside Mammalia
+SDC4,A0A7L4BIU0,Phaetusa simplex,outside Mammalia
+SDC4,A0A7L4BYT9,Nyctiprogne leucopyga,outside Mammalia
+SDC4,A0A7L4DHU9,Eurystomus gularis,outside Mammalia
+SDC4,A0A7L4FWE9,Pampusana beccarii,outside Mammalia
+SDC4,A0A7L4GZX5,Podargus strigoides,outside Mammalia
+SDC4,A0A7L4HT31,Scopus umbretta,outside Mammalia
+SDC4,A0A7L4JEK1,Pomatorhinus ruficollis,outside Mammalia
+SDC4,A0A7L4K9T9,Ceuthmochares aereus,outside Mammalia
+SDC4,A0A7L4KRT7,Callaeas wilsoni,outside Mammalia
+SDC4,A0A7L4MGI0,Glareola pratincola,outside Mammalia
+SDC4,A0A7L4NTC2,Ceyx cyanopectus,outside Mammalia
+SDC4,A0A7M4F1V2,Crocodylus porosus,outside Mammalia
+SDC4,A0A7N6A7Z0,Anabas testudineus,outside Mammalia
+SDC4,A0A803TYM7,Anolis carolinensis,outside Mammalia
+SDC4,A0A803V5S1,Ficedula albicollis,outside Mammalia
+SDC4,A0A850TUZ2,Grus americana,outside Mammalia
+SDC4,A0A850V143,Chloropsis hardwickii,outside Mammalia
+SDC4,A0A850W5U2,Fregata magnificens,outside Mammalia
+SDC4,A0A850XCF8,Piaya cayana,outside Mammalia
+SDC4,A0A850Y620,Aegithalos caudatus,outside Mammalia
+SDC4,A0A850Z881,Tichodroma muraria,outside Mammalia
+SDC4,A0A851A9Z0,Sula dactylatra,outside Mammalia
+SDC4,A0A851BG62,Picathartes gymnocephalus,outside Mammalia
+SDC4,A0A851CN22,Calyptomena viridis,outside Mammalia
+SDC4,A0A851D5C1,Todus mexicanus,outside Mammalia
+SDC4,A0A851EG40,Dryoscopus gambensis,outside Mammalia
+SDC4,A0A851F015,Pitta sordida,outside Mammalia
+SDC4,A0A851JJ58,Donacobius atricapilla,outside Mammalia
+SDC4,A0A851KIU8,Vidua chalybeata,outside Mammalia
+SDC4,A0A851LSU4,Corythaeola cristata,outside Mammalia
+SDC4,A0A851N3I3,Campylorhamphus procurvoides,outside Mammalia
+SDC4,A0A851PIT0,Penelope pileata,outside Mammalia
+SDC4,A0A851PZW3,Anhinga anhinga,outside Mammalia
+SDC4,A0A851QNQ0,Tychaedon coryphoeus,outside Mammalia
+SDC4,A0A851SDM5,Certhia familiaris,outside Mammalia
+SDC4,A0A851T7P0,Nothocercus nigrocapillus,outside Mammalia
+SDC4,A0A851UG43,Elachura formosa,outside Mammalia
+SDC4,A0A851VEK5,Copsychus sechellarum,outside Mammalia
+SDC4,A0A851XRI5,Eolophus roseicapilla,outside Mammalia
+SDC4,A0A851Y5L4,Halcyon senegalensis,outside Mammalia
+SDC4,A0A852ACC4,Calcarius ornatus,outside Mammalia
+SDC4,A0A852BI79,Chloropsis cyanopogon,outside Mammalia
+SDC4,A0A852CHA6,Ramphastos sulfuratus,outside Mammalia
+SDC4,A0A852D9K4,Passerina amoena,outside Mammalia
+SDC4,A0A852E3Q9,Vidua macroura,outside Mammalia
+SDC4,A0A852FWV3,Peucedramus taeniatus,outside Mammalia
+SDC4,A0A852GV63,Larus smithsonianus,outside Mammalia
+SDC4,A0A852I4G1,Nicator chloris,outside Mammalia
+SDC4,A0A852IVG6,Tricholaema leucomelas,outside Mammalia
+SDC4,A0A852K022,Spizella passerina,outside Mammalia
+SDC4,A0A852KSG0,Urocolius indicus,outside Mammalia
+SDC4,A0A852M8X1,Centropus bengalensis,outside Mammalia
+SDC4,A0A852MY95,Pteruthius melanotis,outside Mammalia
+SDC4,A0A852NWT5,Atrichornis clamosus,outside Mammalia
+SDC4,A0A8B9CF94,Anser brachyrhynchus,outside Mammalia
+SDC4,A0A8B9E5M6,Anser cygnoides,outside Mammalia
+SDC4,A0A8B9XH19,Bos grunniens,second entry for this organism
+SDC4,A0A8C0J5H2,Chelonoidis abingdonii,outside Mammalia
+SDC4,A0A8C0U568,Cyanistes caeruleus,outside Mammalia
+SDC4,A0A8C2UDR1,Coturnix japonica,outside Mammalia
+SDC4,A0A8C2UIP3,Coturnix japonica,outside Mammalia
+SDC4,A0A8C3DC98,Corvus moneduloides,outside Mammalia
+SDC4,A0A8C3P935,Chrysemys picta bellii,outside Mammalia
+SDC4,A0A8C3QAJ4,Geospiza parvula,outside Mammalia
+SDC4,A0A8C3UIM6,Catharus ustulatus,outside Mammalia
+SDC4,A0A8C4J4H9,Dromaius novaehollandiae,outside Mammalia
+SDC4,A0A8C4P2N7,Dromaius novaehollandiae,outside Mammalia
+SDC4,A0A8C4SE77,Erpetoichthys calabaricus,outside Mammalia
+SDC4,A0A8C4Y1M7,Gopherus evgoodei,outside Mammalia
+SDC4,A0A8C5DRB0,Gouania willdenowi,outside Mammalia
+SDC4,A0A8C5QKN1,Leptobrachium leishanense,outside Mammalia
+SDC4,A0A8C5WHZ0,Leptobrachium leishanense,outside Mammalia
+SDC4,A0A8C6L0S7,Nothobranchius furzeri,outside Mammalia
+SDC4,A0A8C6R904,Nannospalax galili,second entry for this organism
+SDC4,A0A8C6VEI8,Naja naja,outside Mammalia
+SDC4,A0A8C7EEU2,Nothoprocta perdicaria,outside Mammalia
+SDC4,A0A8C7I9W5,Oncorhynchus kisutch,outside Mammalia
+SDC4,A0A8C8CRC4,Oncorhynchus tshawytscha,outside Mammalia
+SDC4,A0A8C9APQ0,Prolemur simus,second entry for this organism
+SDC4,A0A8C9AT58,Prolemur simus,second entry for this organism
+SDC4,A0A8C9AZA1,Prolemur simus,second entry for this organism
+SDC4,A0A8C9DVG4,Prolemur simus,second entry for this organism
+SDC4,A0A8C9NC21,Serinus canaria,outside Mammalia
+SDC4,A0A8C9NFB2,Serinus canaria,outside Mammalia
+SDC4,A0A8C9UFP9,Serinus canaria,outside Mammalia
+SDC4,A0A8C9W9M3,Scleropages formosus,outside Mammalia
+SDC4,A0A8C9X931,Sander lucioperca,outside Mammalia
+SDC4,A0A8D2N1L1,Zonotrichia albicollis,outside Mammalia
+SDC4,A0A8I3NWG4,Canis lupus familiaris,second entry for this organism
+SDC4,A0A8I3W7E7,Callithrix jacchus,second entry for this organism
+SDC4,A0A8I4A5Z6,Callithrix jacchus,second entry for this organism
+SDC4,A0A8I5TSK3,Pongo abelii,second entry for this organism
+SDC4,A0A8I5TSY4,Pongo abelii,second entry for this organism
+SDC4,A0A8J0QB75,Xenopus tropicalis,outside Mammalia
+SDC4,A0A8J4I5A3,Spheniscus mendiculus,outside Mammalia
+SDC4,A0A8J4IZD2,Eudyptula minor,outside Mammalia
+SDC4,A0A8J4JLS3,Eudyptes sclateri,outside Mammalia
+SDC4,A0A8J4KNL1,Eudyptes chrysocome,outside Mammalia
+SDC4,A0A8J4PAX9,Aptenodytes patagonicus,outside Mammalia
+SDC4,A0A8K0B9Q0,Eudyptes filholi,outside Mammalia
+SDC4,A0A8M1NAW7,Danio rerio,outside Mammalia
+SDC4,A0A8P4GNV3,Dicentrarchus labrax,outside Mammalia
+SDC4,A0A8T1SYZ0,Chelydra serpentina,outside Mammalia
+SDC4,A0A8U1F7T7,Salvelinus namaycush,outside Mammalia
+SDC4,A0A8U1F8S5,Salvelinus namaycush,outside Mammalia
+SDC4,A0A8U7NEG0,Corvus moneduloides,outside Mammalia
+SDC4,A0A8V0ZEG7,Gallus gallus,outside Mammalia
+SDC4,A0A8V0ZLJ9,Gallus gallus,outside Mammalia
+SDC4,A0A8V0ZLU0,Gallus gallus,outside Mammalia
+SDC4,A0A9F2RAP0,Python bivittatus,outside Mammalia
+SDC4,A0A9L0IFA7,Equus asinus,second entry for this organism
+SDC4,A0A9L0IQB4,Equus asinus,second entry for this organism
+SDC4,A0A9L0J6H8,Equus asinus,second entry for this organism
+SDC4,A0A9Y3VK47,Pundamilia nyererei,outside Mammalia
+SDC4,A0A9Y4JLY3,Stegastes partitus,outside Mammalia
+SDC4,A0A9Y4MS98,Stegastes partitus,outside Mammalia
+SDC4,A0AA40GY69,Pygoscelis papua,outside Mammalia
+SDC4,A0AA47NSX4,Merluccius polli,outside Mammalia
+SDC4,A0AA97KZK1,Eublepharis macularius,outside Mammalia
+SDC4,A0AA97MJ65,Menura novaehollandiae,outside Mammalia
+SDC4,A0AAD8CSC7,Acipenser oxyrinchus oxyrinchus,outside Mammalia
+SDC4,A0AAQ5XMX8,Amphiprion ocellaris,outside Mammalia
+SDC4,A0AAR2JVR9,Pygocentrus nattereri,outside Mammalia
+SDC4,A0AAR2LIX0,Pygocentrus nattereri,outside Mammalia
+SDC4,A0AAX7V9C3,Astatotilapia calliptera,outside Mammalia
+SDC4,A0AAY4ES52,Denticeps clupeoides,outside Mammalia
+SDC4,A0AAY4ET00,Denticeps clupeoides,outside Mammalia
+SDC4,A0AAZ3QEA5,Oncorhynchus tshawytscha,outside Mammalia
+SDC4,A0AAZ3R880,Oncorhynchus tshawytscha,outside Mammalia
+SDC4,A0ABD8CVU0,Xenopus laevis,outside Mammalia
+SDC4,A0ABD8DCX8,Xenopus laevis,outside Mammalia
+SDC4,A0ABI8A6R7,Felis catus,second entry for this organism
+SDC4,A0ABI8A6S8,Felis catus,second entry for this organism
+SDC4,A0ABI8A6S9,Felis catus,second entry for this organism
+SDC4,A0ABI8A6U3,Felis catus,second entry for this organism
+SDC4,A0ABK0KYP7,Rattus norvegicus,second entry for this organism
+SDC4,A0ABM1JWV8,Gekko japonicus,outside Mammalia
+SDC4,A0ABM3DQL7,Salmo salar,outside Mammalia
+SDC4,A0ABM4FFU9,Apteryx mantelli,outside Mammalia
+SDC4,A0ABM4LYA5,Equus przewalskii,second entry for this organism
+SDC4,A0ABQ9CTN2,Willisornis vidua,outside Mammalia
+SDC4,A0ABS2XQE6,Polyodon spathula,outside Mammalia
+SDC4,A0ABS2Z816,Polypterus senegalus,outside Mammalia
+SDC4,A0AC58JRZ6,Danio rerio,outside Mammalia
+SDC4,A0AC58MNH2,Castor canadensis,second entry for this organism
+SDC4,A0AC58MNH9,Castor canadensis,second entry for this organism
+SDC4,A0ACB7EZ11,Nibea albiflora,outside Mammalia
+SDC4,A0ACF8EUW0,Arapaima gigas,outside Mammalia
+SDC4,A0ACI8RNW4,Homo sapiens,second entry for this organism
+SDC4,A0ACI8S1B6,Homo sapiens,second entry for this organism
+SDC4,A0ACI8U4A9,Homo sapiens,second entry for this organism
+SDC4,A0ACM7FSE6,Callorhinus ursinus,second entry for this organism
+SDC4,A4K2U8,Callithrix jacchus,second entry for this organism
+SDC4,B0BM67,Xenopus tropicalis,outside Mammalia
+SDC4,B1H1N2,Xenopus laevis,outside Mammalia
+SDC4,B4E1S6,Homo sapiens,second entry for this organism
+SDC4,F7FE95,Macaca mulatta,second entry for this organism
+SDC4,F7GD52,Ornithorhynchus anatinus,second entry for this organism
+SDC4,G1KMB2,Anolis carolinensis,outside Mammalia
+SDC4,G1LC50,Ailuropoda melanoleuca,second entry for this organism
+SDC4,G1SWJ1,Oryctolagus cuniculus,second entry for this organism
+SDC4,G3UNU3,Meleagris gallopavo,outside Mammalia
+SDC4,G3WKH9,Sarcophilus harrisii,second entry for this organism
+SDC4,G5BB19,Heterocephalus glaber,second entry for this organism
+SDC4,H2LCT2,Oryzias latipes,outside Mammalia
+SDC4,H2QKF4,Pan troglodytes,second entry for this organism
+SDC4,H3APX5,Latimeria chalumnae,outside Mammalia
+SDC4,H3APX6,Latimeria chalumnae,outside Mammalia
+SDC4,I0FGX1,Macaca mulatta,second entry for this organism
+SDC4,I3KQG8,Oreochromis niloticus,outside Mammalia
+SDC4,I3PMQ2,Arvicanthis niloticus,second entry for this organism
+SDC4,I3PMQ5,Mastomys erythroleucus,second entry for this organism
+SDC4,I3PMR1,Bandicota indica,second entry for this organism
+SDC4,I3PMR3,Bandicota savilei,second entry for this organism
+SDC4,I3PMR5,Bandicota savilei,second entry for this organism
+SDC4,I3PMR6,Bandicota savilei,second entry for this organism
+SDC4,I3PMS2,Maxomys surifer,second entry for this organism
+SDC4,I3PMS6,Rattus exulans,second entry for this organism
+SDC4,I3PMS7,Rattus exulans,second entry for this organism
+SDC4,I3PMS9,Rattus exulans,second entry for this organism
+SDC4,I3PMT1,Rattus exulans,second entry for this organism
+SDC4,I3PMT5,Rattus losea,second entry for this organism
+SDC4,I3PMT7,Rattus losea,second entry for this organism
+SDC4,I3PMT9,Rattus tanezumi,second entry for this organism
+SDC4,I3PMU0,Rattus tanezumi,second entry for this organism
+SDC4,I3PMU1,Rattus tanezumi,second entry for this organism
+SDC4,I3PMU2,Rattus tanezumi,second entry for this organism
+SDC4,I3PMU3,Mus caroli,second entry for this organism
+SDC4,I3PMU6,Mus cookii,second entry for this organism
+SDC4,I3PMU7,Mus cookii,second entry for this organism
+SDC4,K7D4A2,Pan troglodytes,second entry for this organism
+SDC4,K7G570,Pelodiscus sinensis,outside Mammalia
+SDC4,K7G578,Pelodiscus sinensis,outside Mammalia
+SDC4,M1VE83,Homo sapiens,primary gene SDC4-ROS1_S4;R34
+SDC4,M1VKI3,Homo sapiens,primary gene SDC4-ROS1_S4;R32
+SDC4,M1VRM8,Homo sapiens,primary gene SDC4-ROS1_S2;R32
+SDC4,O35988,Mus musculus,second entry for this organism
+SDC4,P31431,Homo sapiens,second entry for this organism
+SDC4,P31431-2,Homo sapiens,second entry for this organism
+SDC4,P34901,Rattus norvegicus,second entry for this organism
+SDC4,P49416,Gallus gallus,outside Mammalia
+SDC4,Q0JY12,Danio rerio,outside Mammalia
+SDC4,Q1AGV6,Xenopus laevis,outside Mammalia
+SDC4,Q1AGV7,Xenopus laevis,outside Mammalia
+SDC4,Q3U5S6,Mus musculus,second entry for this organism
+SDC4,Q3UKZ1,Mus musculus,second entry for this organism
+SDC4,Q5RAT9,Pongo abelii,second entry for this organism
+SDC4,Q8HZJ6,Sus scrofa,second entry for this organism
+SDC4,Q99LM6,Mus musculus,second entry for this organism
+SDC4,U3FUE4,Callithrix jacchus,second entry for this organism
+SDC4,U3JSB6,Ficedula albicollis,outside Mammalia
+SDC4,V8NGV2,Ophiophagus hannah,outside Mammalia
+SDC4,A0A4W2CQ96,Bos indicus x Bos taurus,over the per-gene cap
+SDC4,A0A4X2K0A5,Vombatus ursinus,over the per-gene cap
+SDC4,A0A5F4WDV4,Callithrix jacchus,over the per-gene cap
+SDC4,A0A5F8A1B7,Macaca mulatta,over the per-gene cap
+SDC4,A0A5F8GRG0,Monodelphis domestica,over the per-gene cap
+SDC4,A0A5F9C2V9,Oryctolagus cuniculus,over the per-gene cap
+SDC4,A0A667GX80,Lynx canadensis,over the per-gene cap
+SDC4,A0A671G6B1,Rhinolophus ferrumequinum,over the per-gene cap
+SDC4,A0A673UTR9,Suricata suricatta,over the per-gene cap
+SDC4,A0A6G1AWF6,Crocuta crocuta,over the per-gene cap
+SDC4,A0A6I8NFN4,Ornithorhynchus anatinus,over the per-gene cap
+SDC4,A0A6J0Z156,Odocoileus virginianus,over the per-gene cap
+SDC4,A0A6J2AC98,Acinonyx jubatus,over the per-gene cap
+SDC4,A0A6J2FAJ7,Zalophus californianus,over the per-gene cap
+SDC4,A0A6J2MKL1,Phyllostomus discolor,over the per-gene cap
+SDC4,A0A6J3GNX7,Sapajus apella,over the per-gene cap
+SDC4,A0A6P3ILK0,Bison bison bison,over the per-gene cap
+SDC4,A0A6P3R3R9,Pteropus vampyrus,over the per-gene cap
+SDC4,A0A6P5CT56,Bos indicus,over the per-gene cap
+SDC4,A0A6P5K3L8,Phascolarctos cinereus,over the per-gene cap
+SDC4,A0A6P5R949,Mus caroli,over the per-gene cap
+SDC4,A0A6P6EF12,Octodon degus,over the per-gene cap
+SDC4,A0A6P6INE2,Puma concolor,over the per-gene cap
+SDC4,A0A7N5K007,Ailuropoda melanoleuca,over the per-gene cap
+SDC4,A0A8B6ZRU7,Orycteropus afer afer,over the per-gene cap
+SDC4,A0A8B7HFZ9,Microcebus murinus,over the per-gene cap
+SDC4,A0A8B7KFL3,Camelus ferus,over the per-gene cap
+SDC4,A0A8B7QXS1,Hipposideros armiger,over the per-gene cap
+SDC4,A0A8B8VA87,Balaenoptera musculus,over the per-gene cap
+SDC4,A0A8B9XAS1,Bos grunniens,over the per-gene cap
+SDC4,A0A8C0KIN2,Canis lupus dingo,over the per-gene cap
+SDC4,A0A8C0X8G0,Castor canadensis,over the per-gene cap
+SDC4,A0A8C2YLP4,Chinchilla lanigera,over the per-gene cap
+SDC4,A0A8C3VZ67,Catagonus wagneri,over the per-gene cap
+SDC4,A0A8C4N0E8,Equus asinus,over the per-gene cap
+SDC4,A0A8C5Z047,Marmota marmota marmota,over the per-gene cap
+SDC4,A0A8C6E157,Moschus moschiferus,over the per-gene cap
+SDC4,A0A8C6R7Q8,Nannospalax galili,over the per-gene cap
+SDC4,A0A8C8TKB7,Peromyscus maniculatus bairdii,over the per-gene cap
+SDC4,A0A8C8WM33,Panthera leo,over the per-gene cap
+SDC4,A0A8C9AN83,Prolemur simus,over the per-gene cap
+SDC4,A0A8C9CHV3,Phocoena sinus,over the per-gene cap
+SDC4,A0A8C9JIH4,Panthera tigris altaica,over the per-gene cap
+SDC4,A0A8C9LR26,Piliocolobus tephrosceles,over the per-gene cap
+SDC4,A0A8D2AFW7,Sciurus vulgaris,over the per-gene cap
+SDC4,A0A8D2FNH7,Theropithecus gelada,over the per-gene cap
+SDC4,A0A8D2GNW4,Urocitellus parryii,over the per-gene cap
+SDC4,A0A8I3NU11,Canis lupus familiaris,over the per-gene cap
+SDC4,A0A8J6KKR6,Microtus ochrogaster,over the per-gene cap
+SDC4,A0A8M1GHU6,Ursus maritimus,over the per-gene cap
+SDC4,A0A8U0SSX9,Mustela putorius furo,over the per-gene cap
+SDC4,A0A9B0T3F1,Chrysochloris asiatica,over the per-gene cap
+SDC4,A0A9V1G2M3,Panthera pardus,over the per-gene cap
+SDC4,A0A9W3EUR5,Camelus bactrianus,over the per-gene cap
+SDC4,A0AAU9YQK2,Phodopus roborovskii,over the per-gene cap
+SDC4,A0ABI8A6N3,Felis catus,over the per-gene cap
+SDC4,A0ABM0RU26,Galeopterus variegatus,over the per-gene cap
+SDC4,A0ABM4LYA2,Equus przewalskii,over the per-gene cap
+SDC4,A0ABM5BVI4,Vicugna pacos,over the per-gene cap
+SDC4,A0AC55DI59,Echinops telfairi,over the per-gene cap
+SDC4,A0ACI6NPA0,Ovis aries,over the per-gene cap
+SDC4,E1BKS1,Bos taurus,over the per-gene cap
+SDC4,G1Q1C8,Myotis lucifugus,over the per-gene cap
+SDC4,G1R4N6,Nomascus leucogenys,over the per-gene cap
+SDC4,G3HLT3,Cricetulus griseus,over the per-gene cap
+SDC4,G3QNG0,Gorilla gorilla gorilla,over the per-gene cap
+SDC4,G3T1A4,Loxodonta africana,over the per-gene cap
+SDC4,G3WKH8,Sarcophilus harrisii,over the per-gene cap
+SDC4,I3MDB1,Ictidomys tridecemlineatus,over the per-gene cap
+SDC4,I3PMP9,Acomys johannis,over the per-gene cap
+SDC4,I3PMQ0,Lemniscomys zebra,over the per-gene cap
+SDC4,I3PMQ1,Arvicanthis niloticus,over the per-gene cap
+SDC4,I3PMQ3,Mastomys natalensis,over the per-gene cap
+SDC4,I3PMQ4,Mastomys erythroleucus,over the per-gene cap
+SDC4,I3PMQ6,Mastomys kollmannspergeri,over the per-gene cap
+SDC4,I3PMQ7,Praomys sp. DB-2012,over the per-gene cap
+SDC4,I3PMQ8,Apodemus flavicollis,over the per-gene cap
+SDC4,I3PMQ9,Hapalomys delacouri,over the per-gene cap
+SDC4,I3PMR0,Bandicota indica,over the per-gene cap
+SDC4,I3PMR2,Bandicota savilei,over the per-gene cap
+SDC4,I3PMR8,Berylmys berdmorei,over the per-gene cap
+SDC4,I3PMR9,Berylmys bowersi,over the per-gene cap
+SDC4,I3PMS0,Leopoldamys edwardsi,over the per-gene cap
+SDC4,I3PMS1,Maxomys surifer,over the per-gene cap
+SDC4,I3PMS3,Niviventer fulvescens,over the per-gene cap
+SDC4,I3PMS4,Rattus exulans,over the per-gene cap
+SDC4,I3PMS8,Rattus tanezumi,over the per-gene cap
+SDC4,I3PMT4,Rattus losea,over the per-gene cap
+SDC4,I3PMU4,Mus cervicolor,over the per-gene cap
+SDC4,I3PMU5,Mus cookii,over the per-gene cap
+SDC4,I3PMU8,Mus mattheyi,over the per-gene cap
+SDC4,U6DCC8,Neogale vison,over the per-gene cap

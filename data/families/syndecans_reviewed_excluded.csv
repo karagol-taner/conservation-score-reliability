@@ -1,0 +1,19 @@
+gene,accession,organism,reason
+SDC1,O74861,Schizosaccharomyces pombe (strain 972 / ATCC 24843),outside Mammalia
+SDC1,P18828-2,Mus musculus,second entry for this organism
+SDC1,Q03323,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),outside Mammalia
+SDC1,Q6ESZ9,Oryza sativa subsp. japonica,outside Mammalia
+SDC1,Q9MA74,Arabidopsis thaliana,outside Mammalia
+SDC2,A7A0P0,Saccharomyces cerevisiae (strain YJM789),outside Mammalia
+SDC2,B3LTF3,Saccharomyces cerevisiae (strain RM11-1a),outside Mammalia
+SDC2,B5VMS9,Saccharomyces cerevisiae (strain AWRI1631),outside Mammalia
+SDC2,C8ZCV7,Saccharomyces cerevisiae (strain Lalvin EC1118 / Prise de mousse),outside Mammalia
+SDC2,P0CF32,Saccharomyces cerevisiae,outside Mammalia
+SDC2,P0CF34,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),outside Mammalia
+SDC2,P49414,Xenopus laevis,outside Mammalia
+SDC2,Q6GR51,Xenopus laevis,outside Mammalia
+SDC3,P26261,Gallus gallus,outside Mammalia
+SDC4,P31431-2,Homo sapiens,second entry for this organism
+SDC4,P49416,Gallus gallus,outside Mammalia
+SDC4,Q1AGV6,Xenopus laevis,outside Mammalia
+SDC4,Q1AGV7,Xenopus laevis,outside Mammalia

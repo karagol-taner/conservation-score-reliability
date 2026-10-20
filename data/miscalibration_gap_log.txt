@@ -1,0 +1,56 @@
+06_predictor_miscalibration_gap.py  run 2026-10-07T12:26:41+00:00
+Does the gap flag predict AlphaMissense error, and in which direction?
+The prediction is a fork and both branches are informative; see the
+script docstring, written before these numbers existed.
+
+gap threshold 0.50, correlations are Pearson on ranks
+
+data-human: 10213 residues with both an AlphaMissense mean and a column
+
+data-alphahelical: 2838 residues with both an AlphaMissense mean and a column
+
+13051 residues over 70 proteins in total
+
+which conservation definition tracks AlphaMissense better
+  cohort            n      rho(reported, AM)  rho(gap-free, AM)  rho(gap, AM)
+  data-human        10213              0.435              0.571        -0.172
+  data-alphahelical   2838              0.431              0.558        -0.361
+  both              13051              0.416              0.551        -0.223
+
+partial correlation of gap fraction with AlphaMissense, holding the
+gap-free conservation fixed, which separates gappiness from constraint
+  data-human        10213  partial rho  -0.115
+  data-alphahelical   2838  partial rho  -0.253
+  both              13051  partial rho  -0.170
+
+mean AlphaMissense by gap decile
+  gap  00- 10%  n=  7714  AlphaMissense 0.671  reported cons 0.414  gap-free cons 0.429
+  gap  10- 20%  n=  1697  AlphaMissense 0.628  reported cons 0.380  gap-free cons 0.425
+  gap  20- 30%  n=   766  AlphaMissense 0.584  reported cons 0.335  gap-free cons 0.349
+  gap  30- 40%  n=   631  AlphaMissense 0.543  reported cons 0.345  gap-free cons 0.312
+  gap  40- 50%  n=   401  AlphaMissense 0.493  reported cons 0.406  gap-free cons 0.319
+  gap  50- 60%  n=   321  AlphaMissense 0.560  reported cons 0.481  gap-free cons 0.332
+  gap  60- 70%  n=   516  AlphaMissense 0.606  reported cons 0.601  gap-free cons 0.460
+  gap  70- 80%  n=   301  AlphaMissense 0.527  reported cons 0.647  gap-free cons 0.337
+  gap  80- 90%  n=   253  AlphaMissense 0.480  reported cons 0.768  gap-free cons 0.302
+  gap  90-100%  n=   451  AlphaMissense 0.465  reported cons 0.919  gap-free cons 0.495
+
+  above 50% gap: n=1839, mean AlphaMissense 0.533, mean reported conservation 0.689
+  at or below:     n=11212, mean AlphaMissense 0.645, mean reported conservation 0.399
+
+labelled arm: humsavar variants in the 55 cohort accessions
+  121 variants matched a scored position, 0 with a wild-type residue disagreeing with the cohort sequence
+  classifications: LB/B 49, LP/P 52, US 20
+
+  mean AlphaMissense by label and gap status
+    label  gappy  n     mean AM   mean reported cons
+    LB/B   True   7       0.297     0.752
+    LB/B   False  42      0.437     0.289
+    LP/P   True   9       0.575     0.864
+    LP/P   False  43      0.793     0.469
+    US     True   7       0.531     0.872
+    US     False  13      0.727     0.410
+  rho(gap, AM) among benign-side variants: -0.219 over 49
+  rho(gap, AM) among pathogenic-side variants: -0.115 over 52
+
+wrote ../data/miscalibration_gap_summary.csv (32 rows)

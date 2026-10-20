@@ -1,0 +1,60 @@
+03_gap_inflation_evcouplings.py  run 2026-10-07T12:25:54+00:00
+Does the reported conservation value rise with the gap fraction of its
+own alignment column, and does the dynamics-aware result depend on it.
+
+gap threshold for a column being mostly absent evidence: 0.50
+
+loading alignment columns
+  data-human: 58 files
+  data-alphahelical: 75 files
+  55816 alignment columns over 133 proteins in 133 files
+
+association between gap fraction and conservation
+  cohort            n       r(gap, cons)  rho(gap, cons)  r(gap, cons_ungapped)
+  data-human         28595         0.542           0.316                 -0.016
+  data-alphahelical   27221         0.563           0.307                  0.152
+  both               55816         0.553           0.315                  0.066
+
+  11317 of 55816 columns (20.3%) are above 50% gap, mean gap fraction 0.248 overall
+  4250 columns (7.61%) are above 50% gap AND report conservation above 0.80
+
+  mean reported conservation by gap decile, which is the effect in one line
+    gap  00- 10%  n=  27890  conservation 0.405  ungapped 0.418
+    gap  10- 20%  n=   7464  conservation 0.369  ungapped 0.409
+    gap  20- 30%  n=   3920  conservation 0.349  ungapped 0.368
+    gap  30- 40%  n=   3097  conservation 0.365  ungapped 0.341
+    gap  40- 50%  n=   2087  conservation 0.416  ungapped 0.342
+    gap  50- 60%  n=   1632  conservation 0.474  ungapped 0.326
+    gap  60- 70%  n=   1994  conservation 0.580  ungapped 0.394
+    gap  70- 80%  n=   2054  conservation 0.655  ungapped 0.361
+    gap  80- 90%  n=   2189  conservation 0.776  ungapped 0.415
+    gap  90-100%  n=   3489  conservation 0.934  ungapped 0.597
+
+how much of the dynamics-aware scored result sits on gappy columns
+  data-human: 10238 of 10369 master residues matched to an alignment column
+    base rate on gappy columns: 15.7%
+    Dynamic_Conserved_Score_0_10     top decile  n= 1024  on gappy columns  44.7%  enrichment 2.85x
+    Dynamic_Conserved_Score_0_10     top 1%      n=  103  on gappy columns  70.9%  enrichment 4.51x
+    Rigid_Conserved_Score_0_10       top decile  n= 1024  on gappy columns  40.9%  enrichment 2.60x
+    Rigid_Conserved_Score_0_10       top 1%      n=  103  on gappy columns  32.0%  enrichment 2.04x
+  data-alphahelical: 21023 of 21662 master residues matched to an alignment column
+    base rate on gappy columns: 14.4%
+    Dynamic_Conserved_Score_0_10     top decile  n= 2103  on gappy columns  49.3%  enrichment 3.42x
+    Dynamic_Conserved_Score_0_10     top 1%      n=  211  on gappy columns  79.1%  enrichment 5.50x
+    Rigid_Conserved_Score_0_10       top decile  n= 2103  on gappy columns  45.0%  enrichment 3.13x
+    Rigid_Conserved_Score_0_10       top 1%      n=  211  on gappy columns  50.7%  enrichment 3.52x
+
+does alignment depth drive gappiness? the jackhmmer bitscore threshold
+is in each filename and is not reported in the manuscript
+  bitscore  proteins  columns   mean gap  mean conservation
+       0.1       113    46763      0.248              0.455
+       0.3        14     6291      0.247              0.470
+       0.5         3     1433      0.300              0.518
+       0.7         3     1329      0.188              0.486
+
+  Spearman(bitscore threshold, per-protein mean gap fraction) = -0.034 over 133 proteins
+  a negative value means a more permissive threshold gives gappier columns,
+  which would make alignment depth the single cause behind both failure modes
+
+wrote ../data/gap_inflation_positions.csv.gz (55816 rows)
+wrote ../data/gap_inflation_summary.csv (26 rows)

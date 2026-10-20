@@ -1,0 +1,20 @@
+position,wt,set,annotation,n,gap_frac,dropped_subfamilies,h_total,mi,sef,sef_null,sef_adj,z,p_perm,n_perm,f_family,n_family,f_own,n_own,inverted,call,distribution
+225,D,functional,"heme b, covalent ester",16,0.0,,0.0,0.0,,,,,,,1.0,16,1.0,5,False,conserved,D:16
+226,H,functional,"active site, proton acceptor",16,0.0,,0.0,0.0,,,,,,,1.0,16,1.0,5,False,conserved,H:16
+227,D,functional,Ca2+ ligand,16,0.0,,0.0,0.0,,,,,,,1.0,16,1.0,5,False,conserved,D:16
+301,T,functional,Ca2+ ligand,16,0.0,,0.0,0.0,,,,,,,1.0,16,1.0,5,False,conserved,T:16
+303,F,functional,Ca2+ ligand,16,0.0,,0.0,0.0,,,,,,,1.0,16,1.0,5,False,conserved,F:16
+305,D,functional,Ca2+ ligand,16,0.0,,0.0,0.0,,,,,,,1.0,16,1.0,5,False,conserved,D:16
+307,S,functional,Ca2+ ligand,16,0.0,,0.0,0.0,,,,,,,1.0,16,1.0,5,False,conserved,S:16
+372,R,functional,transition state stabilizer,16,0.0,,0.0,0.0,,,,,,,1.0,16,1.0,5,False,conserved,R:16
+375,E,functional,"heme b, covalent ester",16,0.0,,0.0,0.0,,,,,,,1.0,16,1.0,5,False,conserved,E:16
+468,H,functional,"heme b, axial Fe ligand",16,0.0,,0.0,0.0,,,,,,,1.0,16,1.0,5,False,conserved,H:16
+144,D,designed,,16,0.0,,2.5,1.9238,0.7695,0.3541,0.6432,6.6953,0.0005,,0.25,16,0.8,5,False,diagnostic,D:4 R:4 A:4 M:1 H:1 V:1 Y:1
+648,E,designed,,16,0.0,,0.8113,0.8113,1.0,0.2234,1.0,5.2756,0.0015,,0.75,16,1.0,5,False,diagnostic,E:12 Q:4
+205,E,designed,,16,0.0,,0.8684,0.6656,0.7664,0.3408,0.6457,4.5789,0.004,,0.8125,16,1.0,5,False,diagnostic,E:13 D:2 K:1
+313,E,designed,,16,0.0,,0.896,0.896,1.0,0.1983,1.0,5.6683,0.0005,,0.6875,16,1.0,5,False,diagnostic,E:11 S:5
+479,D,held_back,,16,0.0,,0.6962,0.2678,0.3846,0.2509,0.1786,0.9645,0.1564,,0.8125,16,1.0,5,False,tolerant,D:13 N:3
+169,E,held_back,,16,0.0,,0.0,0.0,,,,,,,1.0,16,1.0,5,False,conserved,E:16
+414,R,natural_variant,R->Q rs8178355,16,0.0,,0.0,0.0,,,,,,,1.0,16,1.0,5,False,conserved,R:16
+514,R,natural_variant,R->Q rs8178401,16,0.0,,0.0,0.0,,,,,,,1.0,16,1.0,5,False,conserved,R:16
+700,D,natural_variant,D->N rs8178412,16,0.0,,1.7169,1.0629,0.6191,0.3316,0.4301,3.9236,0.002,,0.25,16,0.8,5,False,indeterminate,P:9 D:4 T:1 Q:1 E:1

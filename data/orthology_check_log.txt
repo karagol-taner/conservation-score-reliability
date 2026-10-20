@@ -1,0 +1,87 @@
+12_orthology_check.py
+gene-name identity against Ensembl Compara one-to-one orthology
+
+Ensembl species with a taxon id: 356
+
+peroxidases: 76 sequences, 10 human genes
+  DUOX1       94 Compara records,  92 one-to-one taxa
+  DUOX2      129 Compara records, 125 one-to-one taxa
+  EPX        313 Compara records, 113 one-to-one taxa
+  LPO        204 Compara records, 112 one-to-one taxa
+  MPO        181 Compara records,  89 one-to-one taxa
+  PTGS1      255 Compara records, 132 one-to-one taxa
+  PTGS2      238 Compara records, 172 one-to-one taxa
+  PXDN       217 Compara records, 180 one-to-one taxa
+  PXDNL       70 Compara records,  50 one-to-one taxa
+  TPO        201 Compara records, 176 one-to-one taxa
+  66 non-human sequences: 35 one-to-one (53.0%), 0 other orthologue, 1 not in Compara
+
+syndecans: 120 sequences, 4 human genes
+  SDC1       133 Compara records, 129 one-to-one taxa
+  SDC2       271 Compara records, 134 one-to-one taxa
+  SDC3       193 Compara records, 173 one-to-one taxa
+  SDC4       197 Compara records, 175 one-to-one taxa
+  116 non-human sequences: 80 one-to-one (69.0%), 1 other orthologue, 35 not in Compara
+
+nectins: 120 sequences, 4 human genes
+  NECTIN1    289 Compara records, 129 one-to-one taxa
+  NECTIN2    438 Compara records, 103 one-to-one taxa
+  NECTIN3    284 Compara records, 119 one-to-one taxa
+  NECTIN4    263 Compara records, 122 one-to-one taxa
+  116 non-human sequences: 89 one-to-one (76.7%), 1 other orthologue, 26 not in Compara
+
+JAMs: 90 sequences, 3 human genes
+  F11R       206 Compara records, 171 one-to-one taxa
+  JAM2       269 Compara records, 125 one-to-one taxa
+  JAM3       272 Compara records, 131 one-to-one taxa
+  87 non-human sequences: 64 one-to-one (73.6%), 1 other orthologue, 22 not in Compara
+
+Eph receptors: 280 sequences, 14 human genes
+  EPHA1      124 Compara records, 118 one-to-one taxa
+  EPHA10     106 Compara records,  80 one-to-one taxa
+  EPHA2      124 Compara records, 118 one-to-one taxa
+  EPHA3      213 Compara records, 175 one-to-one taxa
+  EPHA4      231 Compara records, 171 one-to-one taxa
+  EPHA5      204 Compara records, 173 one-to-one taxa
+  EPHA6      301 Compara records, 114 one-to-one taxa
+  EPHA7      141 Compara records, 126 one-to-one taxa
+  EPHA8      128 Compara records, 121 one-to-one taxa
+  EPHB1      296 Compara records, 128 one-to-one taxa
+  EPHB2      278 Compara records, 134 one-to-one taxa
+  EPHB3      201 Compara records, 177 one-to-one taxa
+  EPHB4      166 Compara records, 145 one-to-one taxa
+  EPHB6      126 Compara records, 117 one-to-one taxa
+  266 non-human sequences: 175 one-to-one (65.8%), 3 other orthologue, 88 not in Compara
+
+FGFRs: 120 sequences, 4 human genes
+  FGFR1      289 Compara records, 131 one-to-one taxa
+  FGFR2      216 Compara records, 175 one-to-one taxa
+  FGFR3      197 Compara records, 169 one-to-one taxa
+  FGFR4      121 Compara records, 119 one-to-one taxa
+  116 non-human sequences: 83 one-to-one (71.6%), 1 other orthologue, 32 not in Compara
+
+connexins: 150 sequences, 5 human genes
+  GJB1       262 Compara records, 120 one-to-one taxa
+  GJB2       293 Compara records,  96 one-to-one taxa
+  GJB3       229 Compara records, 128 one-to-one taxa
+  GJB4       344 Compara records,  87 one-to-one taxa
+  GJB6       243 Compara records,  85 one-to-one taxa
+  145 non-human sequences: 95 one-to-one (65.5%), 0 other orthologue, 50 not in Compara
+
+Na channels: 200 sequences, 10 human genes
+  SCN10A     280 Compara records, 127 one-to-one taxa
+  SCN11A      96 Compara records,  93 one-to-one taxa
+  SCN1A      139 Compara records,  89 one-to-one taxa
+  SCN2A      129 Compara records,  85 one-to-one taxa
+  SCN3A      168 Compara records,  95 one-to-one taxa
+  SCN4A      197 Compara records, 161 one-to-one taxa
+  SCN5A       94 Compara records,  92 one-to-one taxa
+  SCN7A       86 Compara records,  86 one-to-one taxa
+  SCN8A      273 Compara records, 124 one-to-one taxa
+  SCN9A      110 Compara records,  88 one-to-one taxa
+  190 non-human sequences: 136 one-to-one (71.6%), 1 other orthologue, 53 not in Compara
+
+pooled over 8 families: 757 of 1102 non-human sequences confirmed one-to-one, 68.7 per cent
+
+wrote data/orthology_check_by_sequence.csv (1102 rows)
+wrote data/orthology_check_summary.csv

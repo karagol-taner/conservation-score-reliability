@@ -1,0 +1,157 @@
+08_fetch_family.py  run 2026-10-07T11:53:36+00:00
+family scns_all, 10 genes, clade Mammalia, tier all
+orthology criterion: primary gene name identity within the clade, from
+reviewed UniProt entries. No orthology database is used; see the script
+docstring for what this criterion does and does not establish.
+  953 entries over 6 request(s)
+
+SCN1A:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=SCN1A&size=200&offset=0&reviewed=true
+  kept 60 in Mammalia
+    dropped A2APX8-2 Mus musculus: second entry for this organism
+    dropped A2APX8-3 Mus musculus: second entry for this organism
+    dropped P35498-2 Homo sapiens: second entry for this organism
+    dropped P35498-3 Homo sapiens: second entry for this organism
+    dropped A0A076FBX8 Thamnophis sirtalis: outside Mammalia
+    dropped A0A076FC05 Thamnophis sirtalis: outside Mammalia
+    and 887 more, all listed in the CSV
+  1004 entries over 6 request(s)
+
+SCN2A:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=SCN2A&size=200&offset=0&reviewed=true
+  kept 34 in Mammalia
+    dropped Q99250-2 Homo sapiens: second entry for this organism
+    dropped A0A076FBW4 Thamnophis sirtalis: outside Mammalia
+    dropped A0A076FCM9 Thamnophis sirtalis: outside Mammalia
+    dropped A0A076FCS7 Thamnophis sirtalis: outside Mammalia
+    dropped A0A076FCV2 Thamnophis sirtalis: outside Mammalia
+    dropped A0A076FDQ1 Thamnophis sirtalis: outside Mammalia
+    and 964 more, all listed in the CSV
+  694 entries over 5 request(s)
+
+SCN3A:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=SCN3A&size=200&offset=0&reviewed=true
+  kept 81 in Mammalia
+    dropped A2ASI5-2 Mus musculus: second entry for this organism
+    dropped A2ASI5-3 Mus musculus: second entry for this organism
+    dropped Q9NY46-2 Homo sapiens: second entry for this organism
+    dropped Q9NY46-3 Homo sapiens: second entry for this organism
+    dropped Q9NY46-4 Homo sapiens: second entry for this organism
+    dropped A0A076FCQ4 Thamnophis sirtalis: outside Mammalia
+    and 607 more, all listed in the CSV
+  1010 entries over 6 request(s)
+
+SCN4A:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=SCN4A&size=200&offset=0&reviewed=true
+  kept 60 in Mammalia
+    dropped Q20JQ7 Danio rerio: outside Mammalia
+    dropped Q2XVR3 Danio rerio: outside Mammalia
+    dropped Q2XVR4 Tetraodon nigroviridis: outside Mammalia
+    dropped Q2XVR5 Tetraodon nigroviridis: outside Mammalia
+    dropped Q2XVR6 Takifugu rubripes: outside Mammalia
+    dropped Q2XVR7 Takifugu rubripes: outside Mammalia
+    and 944 more, all listed in the CSV
+  1010 entries over 6 request(s)
+
+SCN5A:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=SCN5A&size=200&offset=0&reviewed=true
+  kept 43 in Mammalia
+    dropped P15389-2 Rattus norvegicus: second entry for this organism
+    dropped Q14524-2 Homo sapiens: second entry for this organism
+    dropped Q14524-3 Homo sapiens: second entry for this organism
+    dropped Q14524-4 Homo sapiens: second entry for this organism
+    dropped Q14524-5 Homo sapiens: second entry for this organism
+    dropped Q14524-6 Homo sapiens: second entry for this organism
+    and 961 more, all listed in the CSV
+  142 entries over 2 request(s)
+
+SCN7A:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=SCN7A&size=200&offset=0&reviewed=true
+  kept 86 in Mammalia
+    dropped F1LQQ7-2 Rattus norvegicus: second entry for this organism
+    dropped A0A1D5Q072 Macaca mulatta: primary gene SCN9A
+    dropped A0A1D5QV06 Macaca mulatta: primary gene SCN9A
+    dropped A0A452F3V5 Capra hircus: second entry for this organism
+    dropped A0A494C195 Homo sapiens: second entry for this organism
+    dropped A0A5F8ARJ4 Macaca mulatta: primary gene SCN9A
+    and 50 more, all listed in the CSV
+  1012 entries over 6 request(s)
+
+SCN8A:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=SCN8A&size=200&offset=0&reviewed=true
+  kept 66 in Mammalia
+    dropped O88420-2 Rattus norvegicus: second entry for this organism
+    dropped Q9UQD0-2 Homo sapiens: second entry for this organism
+    dropped Q9UQD0-3 Homo sapiens: second entry for this organism
+    dropped Q9UQD0-4 Homo sapiens: second entry for this organism
+    dropped Q9UQD0-5 Homo sapiens: second entry for this organism
+    dropped Q9WTU3-2 Mus musculus: second entry for this organism
+    and 940 more, all listed in the CSV
+  401 entries over 3 request(s)
+
+SCN9A:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=SCN9A&size=200&offset=0&reviewed=true
+  kept 128 in Mammalia
+    dropped Q15858-2 Homo sapiens: second entry for this organism
+    dropped Q15858-3 Homo sapiens: second entry for this organism
+    dropped Q15858-4 Homo sapiens: second entry for this organism
+    dropped Q28644-2 Oryctolagus cuniculus: second entry for this organism
+    dropped A0A076FBY2 Thamnophis sirtalis: outside Mammalia
+    dropped A0A076FC13 Thamnophis sirtalis: outside Mammalia
+    and 267 more, all listed in the CSV
+  600 entries over 4 request(s)
+
+SCN10A:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=SCN10A&size=200&offset=0&reviewed=true
+  kept 97 in Mammalia
+    dropped Q62968-2 Rattus norvegicus: second entry for this organism
+    dropped Q6QIY3-2 Mus musculus: second entry for this organism
+    dropped Q6QIY3-3 Mus musculus: second entry for this organism
+    dropped A0A0R5RP33 Mus musculus: second entry for this organism
+    dropped A0A0R5RP34 Mus musculus: second entry for this organism
+    dropped A0A1Q9C4G4 Symbiodinium microadriaticum: outside Mammalia
+    and 497 more, all listed in the CSV
+  445 entries over 4 request(s)
+
+SCN11A:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=SCN11A&size=200&offset=0&reviewed=true
+  kept 93 in Mammalia
+    dropped Q9UI33-2 Homo sapiens: second entry for this organism
+    dropped Q9UI33-3 Homo sapiens: second entry for this organism
+    dropped A0A0R5RP39 Mus musculus: second entry for this organism
+    dropped A0A0R5RP40 Mus musculus: second entry for this organism
+    dropped A0A0R5RP42 Mus musculus: second entry for this organism
+    dropped A0A1Q9C1Q9 Symbiodinium microadriaticum: outside Mammalia
+    and 346 more, all listed in the CSV
+
+length filter at 40% of each gene's own anchor: 70 dropped
+  SCN1A    anchor 2009 residues, from the human entry
+  SCN2A    anchor 2005 residues, from the human entry
+  SCN3A    anchor 2000 residues, from the human entry
+  SCN4A    anchor 1836 residues, from the human entry
+  SCN5A    anchor 2016 residues, from the human entry
+  SCN7A    anchor 1682 residues, from the human entry
+  SCN8A    anchor 1980 residues, from the human entry
+  SCN9A    anchor 1988 residues, from the human entry
+  SCN10A   anchor 1956 residues, from the human entry
+  SCN11A   anchor 1791 residues, from the human entry
+
+family scns_all: 200 sequences over 10 genes
+  SCN1A     20  (3 reviewed)
+  SCN2A     20  (3 reviewed)
+  SCN3A     20  (3 reviewed)
+  SCN4A     20  (4 reviewed)
+  SCN5A     20  (3 reviewed)
+  SCN7A     20  (3 reviewed)
+  SCN8A     20  (3 reviewed)
+  SCN9A     20  (4 reviewed)
+  SCN10A    20  (5 reviewed)
+  SCN11A    20  (3 reviewed)
+  reference P35498 SCN1A_HUMAN (SCN1A)
+
+wrote ../data/families/scns_all_all.fasta (200 sequences)
+wrote ../data/families/scns_all_all_excluded.csv (7071 exclusions)
+
+subfamily argument for the panel and the tree null, trailing spaces matter:
+  --subfamilies "SCN1A=SCN1A ;SCN2A=SCN2A ;SCN3A=SCN3A ;SCN4A=SCN4A ;SCN5A=SCN5A ;SCN7A=SCN7A ;SCN8A=SCN8A ;SCN9A=SCN9A ;SCN10A=SCN10A ;SCN11A=SCN11A "
+  --ref SCN1A_HUMAN --own SCN1A

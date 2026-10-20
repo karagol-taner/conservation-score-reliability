@@ -1,0 +1,57 @@
+09_sister_state_test.py
+Are variants to a sister subfamily's fixed state enriched for benign
+classification? Stratified on family and on substitution conservatism.
+
+==========================================================================
+ARM: all mapped positions
+==========================================================================
+family          sis_B  sis_P   oth_B  oth_P   sis_ben oth_ben         p
+peroxidases         2      0      29     22     1.000   0.569     0.337
+syndecans           1      0       6      0     1.000   1.000         -
+nectins             0      0       2      1         -   0.667         -
+JAMs                0      0       1      4         -   0.200         -
+Eph receptors      21      2      61     19     0.913   0.762     0.094
+FGFRs               1      0      28    182     1.000   0.133     0.137
+connexins           3      3      22    240     0.500   0.084     0.012
+Na channels        13     41      99    762     0.241   0.115     0.010
+POOLED             41     46     248   1230
+
+  unstratified, for comparison only:
+    odds ratio 4.42, one-sided Fisher p = 0.0000
+    this number is not the result: it compares families with benign
+    shares from 0.08 to 1.00 as though they were one population.
+
+  Mantel-Haenszel over 9 of 16 family x conservatism strata:
+    odds ratio 2.46, 95% RBG interval 1.40 to 4.33, one-sided p = 0.0012
+    7 strata carried an empty margin and contributed nothing.
+    crude, unstratified: odds ratio 4.42, 95% interval 2.84 to 6.88,
+      which the stratified estimate is to be read against.
+
+==========================================================================
+ARM: tree-diagnostic positions only
+==========================================================================
+family          sis_B  sis_P   oth_B  oth_P   sis_ben oth_ben         p
+  peroxidases    no classified mapped variants
+syndecans           1      0       2      0     1.000   1.000         -
+nectins             0      0       1      1         -   0.500         -
+JAMs                0      0       0      2         -   0.000         -
+Eph receptors      12      0      32      4     1.000   0.889     0.303
+FGFRs               1      0       5     24     1.000   0.172     0.200
+connexins           1      1       4     37     0.500   0.098     0.221
+Na channels         9     17      37    129     0.346   0.223     0.132
+POOLED             24     18      81    197
+
+  unstratified, for comparison only:
+    odds ratio 3.24, one-sided Fisher p = 0.0004
+    this number is not the result: it compares families with benign
+    shares from 0.00 to 1.00 as though they were one population.
+
+  Mantel-Haenszel over 6 of 14 family x conservatism strata:
+    odds ratio 2.07, 95% RBG interval 0.90 to 4.77, one-sided p = 0.0697
+    8 strata carried an empty margin and contributed nothing.
+    crude, unstratified: odds ratio 3.24, 95% interval 1.67 to 6.30,
+      which the stratified estimate is to be read against.
+
+==========================================================================
+The prediction was registered before these numbers existed and the
+direction is reported whichever way it came out.

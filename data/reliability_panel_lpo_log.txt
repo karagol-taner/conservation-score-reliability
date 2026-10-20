@@ -1,0 +1,55 @@
+05_reliability_panel.py  run 2026-10-13T09:37:45+00:00
+Per-position reliability of a conservation score, with the direction of
+the error where there is one.
+
+thresholds: gap 0.25, effective comparators 5, entropy floor 0.50 bits,
+            sef_adj 0.50 with p <= 0.050, sister fixed at 1.00 identity,
+            n_perm 1000, seed 20261007
+
+reference P22079, 712 residues
+  EPX     4 sequences
+  LPO     6 sequences
+  MPO     2 sequences
+  TPO     5 sequences
+  63 sequences carry no label and are excluded
+  aligned 17 sequences, width 974, reference row reconstructs its input
+
+verdicts over 712 reference positions
+  ok                  367   51.5%
+  gap_inflated          9    1.3%
+  depth_starved         0    0.0%
+  clade_partitioned   336   47.2%
+  345 positions carry a flag, 48.5%
+
+390 positions carry at least one fixed sister state, 54.8%
+  of those, 307 are clade-partitioned, which is the set the sister-state test takes
+  the ten commonest ordered sister substitutions:
+    S>A      15
+    I>L      14
+    A>S      13
+    T>S      13
+    G>A      12
+    K>R      12
+    L>V      11
+    F>L      11
+    V>I      10
+    L>I      10
+
+humsavar cross-reference: 65 variants in family members, 55 mapped to a reference column
+  every variant's wild-type residue agreed with its sequence
+  classifications: LB/B 35, LP/P 28, US 2
+  2 variants substitute to a fixed sister-subfamily residue
+    the mutant residue is the fixed state of the named subfamily
+    gene    variant        class  ref pos  verdict            fixed in
+    EPX     I40M      LB/B        38  clade_partitioned  MPO
+    TPO     T725P     LB/B       700  ok                 EPX;MPO
+
+  sister-state against classification, mapped variants only
+    sister  LB/B  LP/P  US
+    True       2     0   0
+    False     29    22   2
+  n is small here, so this table reports the annotation and not a
+  result; the pooled test runs over all families in 09_sister_state_test.py.
+
+wrote ../data/reliability_panel_lpo.csv (712 rows)
+wrote ../data/reliability_variants_lpo.csv (65 rows)

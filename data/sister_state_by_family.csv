@@ -1,0 +1,16 @@
+arm,family,subfamilies,sister_benign,sister_pathogenic,other_benign,other_pathogenic
+all mapped positions,peroxidases,4,2,0,29,22
+all mapped positions,syndecans,4,1,0,6,0
+all mapped positions,nectins,4,0,0,2,1
+all mapped positions,JAMs,3,0,0,1,4
+all mapped positions,Eph receptors,14,21,2,61,19
+all mapped positions,FGFRs,4,1,0,28,182
+all mapped positions,connexins,5,3,3,22,240
+all mapped positions,Na channels,10,13,41,99,762
+tree-diagnostic positions only,syndecans,4,1,0,2,0
+tree-diagnostic positions only,nectins,4,0,0,1,1
+tree-diagnostic positions only,JAMs,3,0,0,0,2
+tree-diagnostic positions only,Eph receptors,14,12,0,32,4
+tree-diagnostic positions only,FGFRs,4,1,0,5,24
+tree-diagnostic positions only,connexins,5,1,1,4,37
+tree-diagnostic positions only,Na channels,10,9,17,37,129

@@ -1,0 +1,213 @@
+08_fetch_family.py  run 2026-10-07T10:10:51+00:00
+family ephs, 14 genes, clade Mammalia, tier all
+orthology criterion: primary gene name identity within the clade, from
+reviewed UniProt entries. No orthology database is used; see the script
+docstring for what this criterion does and does not establish.
+  973 entries over 6 request(s)
+
+EPHA1:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=EPHA1&size=200&offset=0&reviewed=true
+  kept 101 in Mammalia
+    dropped P21709-2 Homo sapiens: second entry for this organism
+    dropped P21709-3 Homo sapiens: second entry for this organism
+    dropped Q5JZY3 Homo sapiens: primary gene EPHA10
+    dropped Q5JZY3-2 Homo sapiens: primary gene EPHA10
+    dropped Q5JZY3-3 Homo sapiens: primary gene EPHA10
+    dropped Q8BYG9 Mus musculus: primary gene Epha10
+    and 866 more, all listed in the CSV
+  773 entries over 5 request(s)
+
+EPHA2:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=EPHA2&size=200&offset=0&reviewed=true
+  kept 101 in Mammalia
+    dropped P29317-2 Homo sapiens: second entry for this organism
+    dropped A0A1A8AT39 Nothobranchius furzeri: outside Mammalia
+    dropped A0A1S3GRB2 Dipodomys ordii: second entry for this organism
+    dropped A0A1S3LIT1 Salmo salar: outside Mammalia
+    dropped A0A1U8D1W0 Alligator sinensis: outside Mammalia
+    dropped A0A1V4KPD3 Patagioenas fasciata monilis: outside Mammalia
+    and 666 more, all listed in the CSV
+  939 entries over 6 request(s)
+
+EPHA3:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=EPHA3&size=200&offset=0&reviewed=true
+  kept 95 in Mammalia
+    dropped O13146 Danio rerio: outside Mammalia
+    dropped P29318 Gallus gallus: outside Mammalia
+    dropped P29319-3 Mus musculus: second entry for this organism
+    dropped P29320-2 Homo sapiens: second entry for this organism
+    dropped A0A0B2V143 Toxocara canis: outside Mammalia
+    dropped A0A0G2JT71 Rattus norvegicus: second entry for this organism
+    and 838 more, all listed in the CSV
+  1008 entries over 6 request(s)
+
+EPHA4:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=EPHA4&size=200&offset=0&reviewed=true
+  kept 88 in Mammalia
+    dropped O13148 Danio rerio: outside Mammalia
+    dropped P54764-2 Homo sapiens: second entry for this organism
+    dropped Q03137-2 Mus musculus: second entry for this organism
+    dropped Q07496 Gallus gallus: outside Mammalia
+    dropped Q91694 Xenopus laevis: outside Mammalia
+    dropped Q91845 Xenopus laevis: outside Mammalia
+    and 914 more, all listed in the CSV
+  1012 entries over 6 request(s)
+
+EPHA5:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=EPHA5&size=200&offset=0&reviewed=true
+  kept 93 in Mammalia
+    dropped P54755 Gallus gallus: outside Mammalia
+    dropped P54755-2 Gallus gallus: outside Mammalia
+    dropped P54755-3 Gallus gallus: outside Mammalia
+    dropped P54756-2 Homo sapiens: second entry for this organism
+    dropped P54756-3 Homo sapiens: second entry for this organism
+    dropped P54757-2 Rattus norvegicus: second entry for this organism
+    and 913 more, all listed in the CSV
+  815 entries over 6 request(s)
+
+EPHA6:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=EPHA6&size=200&offset=0&reviewed=true
+  kept 82 in Mammalia
+    dropped Q9UF33-2 Homo sapiens: second entry for this organism
+    dropped Q9UF33-3 Homo sapiens: second entry for this organism
+    dropped A0A0B4J1T8 Homo sapiens: second entry for this organism
+    dropped A0A151MDG7 Alligator mississippiensis: outside Mammalia
+    dropped A0A151MDK1 Alligator mississippiensis: outside Mammalia
+    dropped A0A1V4JAQ3 Patagioenas fasciata monilis: outside Mammalia
+    and 727 more, all listed in the CSV
+  1013 entries over 6 request(s)
+
+EPHA7:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=EPHA7&size=200&offset=0&reviewed=true
+  kept 87 in Mammalia
+    dropped O42422 Gallus gallus: outside Mammalia
+    dropped P54759-2 Rattus norvegicus: second entry for this organism
+    dropped Q15375-2 Homo sapiens: second entry for this organism
+    dropped Q15375-3 Homo sapiens: second entry for this organism
+    dropped Q15375-4 Homo sapiens: second entry for this organism
+    dropped Q15375-5 Homo sapiens: second entry for this organism
+    and 920 more, all listed in the CSV
+  574 entries over 4 request(s)
+
+EPHA8:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=EPHA8&size=200&offset=0&reviewed=true
+  kept 94 in Mammalia
+    dropped P29322-2 Homo sapiens: second entry for this organism
+    dropped A0A1U8D4L1 Alligator sinensis: outside Mammalia
+    dropped A0A1V4KSZ3 Patagioenas fasciata monilis: outside Mammalia
+    dropped A0A218UMG3 Lonchura striata: outside Mammalia
+    dropped A0A2I0LQT9 Columba livia: outside Mammalia
+    dropped A0A2I0LQU3 Columba livia: outside Mammalia
+    and 474 more, all listed in the CSV
+  471 entries over 4 request(s)
+
+EPHA10:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=EPHA10&size=200&offset=0&reviewed=true
+  kept 83 in Mammalia
+    dropped Q5JZY3-2 Homo sapiens: second entry for this organism
+    dropped Q5JZY3-3 Homo sapiens: second entry for this organism
+    dropped Q8BYG9-2 Mus musculus: second entry for this organism
+    dropped A0A1L8HFE8 Xenopus laevis: outside Mammalia
+    dropped A0A1V4JHX8 Patagioenas fasciata monilis: outside Mammalia
+    dropped A0A218UY60 Lonchura striata: outside Mammalia
+    and 382 more, all listed in the CSV
+  853 entries over 6 request(s)
+
+EPHB1:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=EPHB1&size=200&offset=0&reviewed=true
+  kept 93 in Mammalia
+    dropped P54762-5 Homo sapiens: second entry for this organism
+    dropped P54762-6 Homo sapiens: second entry for this organism
+    dropped Q07494 Gallus gallus: outside Mammalia
+    dropped Q8CBF3-2 Mus musculus: second entry for this organism
+    dropped Q91571 Xenopus laevis: outside Mammalia
+    dropped Q91736 Xenopus laevis: outside Mammalia
+    and 754 more, all listed in the CSV
+  1009 entries over 6 request(s)
+
+EPHB2:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=EPHB2&size=200&offset=0&reviewed=true
+  kept 94 in Mammalia
+    dropped P28693 Gallus gallus: outside Mammalia
+    dropped P28693-2 Gallus gallus: outside Mammalia
+    dropped P29323-2 Homo sapiens: second entry for this organism
+    dropped P29323-3 Homo sapiens: second entry for this organism
+    dropped P54763-2 Mus musculus: second entry for this organism
+    dropped P54763-4 Mus musculus: second entry for this organism
+    and 909 more, all listed in the CSV
+  849 entries over 6 request(s)
+
+EPHB3:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=EPHB3&size=200&offset=0&reviewed=true
+  kept 98 in Mammalia
+    dropped O13147 Danio rerio: outside Mammalia
+    dropped Q07498 Gallus gallus: outside Mammalia
+    dropped Q07498-2 Gallus gallus: outside Mammalia
+    dropped Q91735 Xenopus laevis: outside Mammalia
+    dropped A0A151NGY0 Alligator mississippiensis: outside Mammalia
+    dropped A0A151NGY6 Alligator mississippiensis: outside Mammalia
+    and 745 more, all listed in the CSV
+  580 entries over 4 request(s)
+
+EPHB4:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=EPHB4&size=200&offset=0&reviewed=true
+  kept 98 in Mammalia
+    dropped O73875 Danio rerio: outside Mammalia
+    dropped O73878 Danio rerio: outside Mammalia
+    dropped P54760-2 Homo sapiens: second entry for this organism
+    dropped P54760-3 Homo sapiens: second entry for this organism
+    dropped P54760-4 Homo sapiens: second entry for this organism
+    dropped A0A1D5R737 Macaca mulatta: second entry for this organism
+    and 476 more, all listed in the CSV
+  345 entries over 3 request(s)
+
+EPHB6:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=EPHB6&size=200&offset=0&reviewed=true
+  kept 98 in Mammalia
+    dropped O08644-2 Mus musculus: second entry for this organism
+    dropped O08644-3 Mus musculus: second entry for this organism
+    dropped O15197-2 Homo sapiens: second entry for this organism
+    dropped O15197-3 Homo sapiens: second entry for this organism
+    dropped A0A087WTE3 Homo sapiens: second entry for this organism
+    dropped A0A087WYP8 Homo sapiens: second entry for this organism
+    and 241 more, all listed in the CSV
+
+length filter at 40% of each gene's own anchor: 77 dropped
+  EPHA1    anchor  976 residues, from the human entry
+  EPHA2    anchor  976 residues, from the human entry
+  EPHA3    anchor  983 residues, from the human entry
+  EPHA4    anchor  986 residues, from the human entry
+  EPHA5    anchor 1037 residues, from the human entry
+  EPHA6    anchor 1036 residues, from the human entry
+  EPHA7    anchor  998 residues, from the human entry
+  EPHA8    anchor 1005 residues, from the human entry
+  EPHA10   anchor 1008 residues, from the human entry
+  EPHB1    anchor  984 residues, from the human entry
+  EPHB2    anchor 1055 residues, from the human entry
+  EPHB3    anchor  998 residues, from the human entry
+  EPHB4    anchor  987 residues, from the human entry
+  EPHB6    anchor 1021 residues, from the human entry
+
+family ephs: 280 sequences over 14 genes
+  EPHA1     20  (2 reviewed)
+  EPHA2     20  (3 reviewed)
+  EPHA3     20  (3 reviewed)
+  EPHA4     20  (2 reviewed)
+  EPHA5     20  (3 reviewed)
+  EPHA6     20  (3 reviewed)
+  EPHA7     20  (3 reviewed)
+  EPHA8     20  (2 reviewed)
+  EPHA10    20  (2 reviewed)
+  EPHB1     20  (3 reviewed)
+  EPHB2     20  (2 reviewed)
+  EPHB3     20  (2 reviewed)
+  EPHB4     20  (2 reviewed)
+  EPHB6     20  (4 reviewed)
+  reference P29317 EPHA2_HUMAN (EPHA2)
+
+wrote out/families/ephs_all.fasta (280 sequences)
+wrote out/families/ephs_all_excluded.csv (10934 exclusions)
+
+subfamily argument for the panel and the tree null, trailing spaces matter:
+  --subfamilies "EPHA1=EPHA1 ;EPHA2=EPHA2 ;EPHA3=EPHA3 ;EPHA4=EPHA4 ;EPHA5=EPHA5 ;EPHA6=EPHA6 ;EPHA7=EPHA7 ;EPHA8=EPHA8 ;EPHA10=EPHA10 ;EPHB1=EPHB1 ;EPHB2=EPHB2 ;EPHB3=EPHB3 ;EPHB4=EPHB4 ;EPHB6=EPHB6 "
+  --ref EPHA2_HUMAN --own EPHA2

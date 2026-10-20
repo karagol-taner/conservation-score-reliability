@@ -1,0 +1,59 @@
+08_fetch_family.py  run 2026-10-07T09:55:28+00:00
+family jams, 3 genes, clade Mammalia, tier all
+orthology criterion: primary gene name identity within the clade, from
+reviewed UniProt entries. No orthology database is used; see the script
+docstring for what this criterion does and does not establish.
+  464 entries over 4 request(s)
+
+F11R:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=F11R&size=200&offset=0&reviewed=true
+  kept 96 in Mammalia
+    dropped Q9Y624-2 Homo sapiens: second entry for this organism
+    dropped A0A060VUJ0 Oncorhynchus mykiss: outside Mammalia
+    dropped A0A0E3DBL6 Sparus aurata: outside Mammalia
+    dropped A0A151MPJ7 Alligator mississippiensis: outside Mammalia
+    dropped A0A1B1SPH8 Ctenopharyngodon idella: outside Mammalia
+    dropped A0A1V4KML8 Patagioenas fasciata monilis: outside Mammalia
+    and 362 more, all listed in the CSV
+  705 entries over 5 request(s)
+
+JAM2:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=JAM2&size=200&offset=0&reviewed=true
+  kept 98 in Mammalia
+    dropped A0A0R4IGV4 Danio rerio: outside Mammalia
+    dropped P57087-2 Homo sapiens: second entry for this organism
+    dropped P57087-3 Homo sapiens: second entry for this organism
+    dropped A0A0R4IGV4 Danio rerio: outside Mammalia
+    dropped A0A151ME03 Alligator mississippiensis: outside Mammalia
+    dropped A0A1A7ZT88 Nothobranchius furzeri: outside Mammalia
+    and 601 more, all listed in the CSV
+  892 entries over 6 request(s)
+
+JAM3:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=JAM3&size=200&offset=0&reviewed=true
+  kept 96 in Mammalia
+    dropped A3KPA0 Danio rerio: outside Mammalia
+    dropped Q9BX67-2 Homo sapiens: second entry for this organism
+    dropped A0A060WUQ5 Oncorhynchus mykiss: outside Mammalia
+    dropped A0A1L8FFK6 Xenopus laevis: outside Mammalia
+    dropped A0A1S3NT88 Salmo salar: outside Mammalia
+    dropped A0A1S3NTC7 Salmo salar: outside Mammalia
+    and 790 more, all listed in the CSV
+
+length filter at 40% of each gene's own anchor: 4 dropped
+  F11R     anchor  299 residues, from the human entry
+  JAM2     anchor  298 residues, from the human entry
+  JAM3     anchor  310 residues, from the human entry
+
+family jams: 90 sequences over 3 genes
+  F11R      30  (5 reviewed)
+  JAM2      30  (2 reviewed)
+  JAM3      30  (3 reviewed)
+  reference Q9Y624 JAM1_HUMAN (F11R)
+
+wrote out/families/jams_all.fasta (90 sequences)
+wrote out/families/jams_all_excluded.csv (1971 exclusions)
+
+subfamily argument for the panel and the tree null, trailing spaces matter:
+  --subfamilies "F11R=F11R ;JAM2=JAM2 ;JAM3=JAM3 "
+  --ref JAM1_HUMAN --own F11R

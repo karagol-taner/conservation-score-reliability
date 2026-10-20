@@ -1,0 +1,15 @@
+10_depth_ladder_families.py  run 2026-10-08T11:33:11+00:00
+How far does a position move when only the comparator set changes?
+family nectins, reference NECT1_HUMAN, own subfamily NECTIN1
+  120 sequences, 120 labelled, 0 outside the labelled subfamilies
+  every sequence is labelled, so there is no depth beyond the subfamily set and none is invented
+  D1_paralogues       3 comparators
+  D2_orthologues     29 comparators
+  D3_subfamily      119 comparators
+
+433 of 517 positions pass the gap filter at every depth
+
+grade movement against orthologue depth, ConSurf units
+  depth             mean |shift|  >=3 grades   variable to conserved   inverted
+  D1_paralogues          2.6143       44.3%                   8.3%      46.9%
+  D3_subfamily           2.0000       33.9%                   3.9%      41.8%

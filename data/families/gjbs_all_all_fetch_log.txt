@@ -1,0 +1,87 @@
+08_fetch_family.py  run 2026-10-07T11:53:36+00:00
+family gjbs_all, 5 genes, clade Mammalia, tier all
+orthology criterion: primary gene name identity within the clade, from
+reviewed UniProt entries. No orthology database is used; see the script
+docstring for what this criterion does and does not establish.
+  517 entries over 4 request(s)
+
+GJB1:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=GJB1&size=200&offset=0&reviewed=true
+  kept 93 in Mammalia
+    dropped P08983 Xenopus laevis: outside Mammalia
+    dropped A0A1A8B712 Nothobranchius furzeri: outside Mammalia
+    dropped A0A1U7S504 Alligator sinensis: outside Mammalia
+    dropped A0A1V4KYR3 Patagioenas fasciata monilis: outside Mammalia
+    dropped A0A1V4KZ98 Patagioenas fasciata monilis: outside Mammalia
+    dropped A0A218ULP9 Lonchura striata: outside Mammalia
+    and 418 more, all listed in the CSV
+  209 entries over 3 request(s)
+
+GJB2:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=GJB2&size=200&offset=0&reviewed=true
+  kept 102 in Mammalia
+    dropped A0A151P4W3 Alligator mississippiensis: outside Mammalia
+    dropped A0A1L8HAU1 Xenopus laevis: outside Mammalia
+    dropped A0A1V4KBA4 Patagioenas fasciata monilis: outside Mammalia
+    dropped A0A218UGW5 Lonchura striata: outside Mammalia
+    dropped A0A2I0MCX1 Columba livia: outside Mammalia
+    dropped A0A5F5PGK7 Equus caballus: second entry for this organism
+    and 101 more, all listed in the CSV
+  475 entries over 4 request(s)
+
+GJB3:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=GJB3&size=200&offset=0&reviewed=true
+  kept 97 in Mammalia
+    dropped A0A151PGA1 Alligator mississippiensis: outside Mammalia
+    dropped A0A1S3NC81 Salmo salar: outside Mammalia
+    dropped A0A1U7S7R3 Alligator sinensis: outside Mammalia
+    dropped A0A2D0RNF9 Ictalurus punctatus: outside Mammalia
+    dropped A0A2I4BF83 Austrofundulus limnaeus: outside Mammalia
+    dropped A0A2Y9GL85 Neomonachus schauinslandi: second entry for this organism
+    and 372 more, all listed in the CSV
+  130 entries over 2 request(s)
+
+GJB4:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=GJB4&size=200&offset=0&reviewed=true
+  kept 91 in Mammalia
+    dropped A0A0E3DBL7 Sparus aurata: outside Mammalia
+    dropped A0A151PGB5 Alligator mississippiensis: outside Mammalia
+    dropped A0A4Z2FL47 Liparis tanakae: outside Mammalia
+    dropped A0A4Z2JFI3 Liparis tanakae: outside Mammalia
+    dropped A0A670IZ24 Podarcis muralis: outside Mammalia
+    dropped A0A674IIT7 Terrapene triunguis: outside Mammalia
+    and 33 more, all listed in the CSV
+  1004 entries over 6 request(s)
+
+GJB6:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=GJB6&size=200&offset=0&reviewed=true
+  kept 47 in Mammalia
+    dropped O93533 Gallus gallus: outside Mammalia
+    dropped A0A218UFX4 Lonchura striata: outside Mammalia
+    dropped A0A2R8Y4J9 Homo sapiens: second entry for this organism
+    dropped A0A2R8Y5T6 Homo sapiens: second entry for this organism
+    dropped A0A2R8Y6N2 Homo sapiens: second entry for this organism
+    dropped A0A2R8YCY0 Homo sapiens: second entry for this organism
+    and 951 more, all listed in the CSV
+
+length filter at 40% of each gene's own anchor: 4 dropped
+  GJB1     anchor  283 residues, from the human entry
+  GJB2     anchor  226 residues, from the human entry
+  GJB3     anchor  270 residues, from the human entry
+  GJB4     anchor  266 residues, from the human entry
+  GJB6     anchor  261 residues, from the human entry
+
+family gjbs_all: 150 sequences over 5 genes
+  GJB1      30  (6 reviewed)
+  GJB2      30  (9 reviewed)
+  GJB3      30  (4 reviewed)
+  GJB4      30  (3 reviewed)
+  GJB6      30  (3 reviewed)
+  reference P29033 CXB2_HUMAN (GJB2)
+
+wrote ../data/families/gjbs_all_all.fasta (150 sequences)
+wrote ../data/families/gjbs_all_all_excluded.csv (2185 exclusions)
+
+subfamily argument for the panel and the tree null, trailing spaces matter:
+  --subfamilies "GJB1=GJB1 ;GJB2=GJB2 ;GJB3=GJB3 ;GJB4=GJB4 ;GJB6=GJB6 "
+  --ref CXB2_HUMAN --own GJB2

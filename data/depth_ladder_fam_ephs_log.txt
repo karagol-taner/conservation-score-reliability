@@ -1,0 +1,15 @@
+10_depth_ladder_families.py  run 2026-10-08T11:33:13+00:00
+How far does a position move when only the comparator set changes?
+family ephs, reference EPHA2_HUMAN, own subfamily EPHA2
+  280 sequences, 280 labelled, 0 outside the labelled subfamilies
+  every sequence is labelled, so there is no depth beyond the subfamily set and none is invented
+  D1_paralogues      13 comparators
+  D2_orthologues     19 comparators
+  D3_subfamily      279 comparators
+
+948 of 976 positions pass the gap filter at every depth
+
+grade movement against orthologue depth, ConSurf units
+  depth             mean |shift|  >=3 grades   variable to conserved   inverted
+  D1_paralogues          2.3481       41.7%                   6.8%      37.8%
+  D3_subfamily           2.3460       40.5%                   6.6%      37.3%

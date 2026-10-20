@@ -1,0 +1,97 @@
+04_gap_survival_dynamics_aware.py  run 2026-10-07T08:35:57+00:00
+Does the published dynamics-aware result change when the gap symbol is
+removed from the conservation alphabet?
+
+gap threshold 0.50, AlphaMissense labels >0.90 positive and <0.20 negative
+
+========================================================================
+data-human
+========================================================================
+  58 frequency files, 10369 master residues, 10238 matched to a column
+  conservation reproduced as 1 - H/log2(21) over the gap-inclusive
+  alphabet to within 0.0109, so the gap is a conserved character by
+  construction and the ungapped recomputation is the matched control
+  1609 of 10238 residues (15.7%) sit on columns above 50% gap
+
+  A_as_published   n = 10238 residues, 58 proteins
+    rho(DCS, RCS)   0.080    rho(RCS, conservation)   0.903    rho(DCS, dynamics)   0.807
+    AUC rcs10  0.832   (2333 positive, 849 negative)
+    top 1% precision rcs10  0.957  (n = 47)
+    AUC dcs10  0.438   (2333 positive, 849 negative)
+    top 1% precision dcs10  0.406  (n = 32)
+    top decile DCS: n = 1024, unique residues 1024, on gappy columns 44.7%
+
+  B_gap_filter   n = 8629 residues, 57 proteins
+    rho(DCS, RCS)  -0.093    rho(RCS, conservation)   0.888    rho(DCS, dynamics)   0.854
+    AUC rcs10  0.899   (2029 positive, 642 negative)
+    top 1% precision rcs10  1.000  (n = 44)
+    AUC dcs10  0.492   (2029 positive, 642 negative)
+    top 1% precision dcs10  0.741  (n = 27)
+    top decile DCS: n = 863, unique residues 863, on gappy columns 0.0%
+
+  C_gap_corrected   n = 10238 residues, 58 proteins
+    rho(DCS, RCS)   0.060    rho(RCS, conservation)   0.919    rho(DCS, dynamics)   0.764
+    AUC rcs10  0.919   (2333 positive, 849 negative)
+    top 1% precision rcs10  1.000  (n = 47)
+    AUC dcs10  0.531   (2333 positive, 849 negative)
+    top 1% precision dcs10  0.625  (n = 32)
+    top decile DCS: n = 1024, unique residues 1024, on gappy columns 28.0%
+
+  D_both   n = 8629 residues, 57 proteins
+    rho(DCS, RCS)  -0.044    rho(RCS, conservation)   0.902    rho(DCS, dynamics)   0.809
+    AUC rcs10  0.916   (2029 positive, 642 negative)
+    top 1% precision rcs10  1.000  (n = 43)
+    AUC dcs10  0.541   (2029 positive, 642 negative)
+    top 1% precision dcs10  0.778  (n = 27)
+    top decile DCS: n = 863, unique residues 863, on gappy columns 0.0%
+
+  the four discovery-zone variants of Table 1
+    gene   variant       pos  gap    published DCS/RCS   recomputed D   survives gap filter
+    NARS1  p.Thr17Met      17  0.985   5.78/ 7.96         dropped        NO, column is 98% gap
+    NARS1  p.Lys60Thr      60  0.934   4.01/ 7.82         dropped        NO, column is 93% gap
+    PGK1   p.Lys30Thr      30  0.049   3.26/ 0.62         5.73/0.65      yes
+    SPRTN  p.Tyr117Cys    117  0.001   0.53/ 6.18         0.72/6.33      yes
+
+========================================================================
+data-alphahelical
+========================================================================
+  75 frequency files, 2973 master residues, 2841 matched to a column
+  conservation reproduced as 1 - H/log2(21) over the gap-inclusive
+  alphabet to within 0.0096, so the gap is a conserved character by
+  construction and the ungapped recomputation is the matched control
+  248 of 2841 residues (8.7%) sit on columns above 50% gap
+
+  A_as_published   n = 2841 residues, 12 proteins
+    rho(DCS, RCS)   0.228    rho(RCS, conservation)   0.946    rho(DCS, dynamics)   0.680
+    AUC rcs10  0.770   (844 positive, 204 negative)
+    top 1% precision rcs10  0.727  (n = 11)
+    AUC dcs10  0.487   (844 positive, 204 negative)
+    top 1% precision dcs10  0.545  (n = 11)
+    top decile DCS: n = 285, unique residues 285, on gappy columns 31.2%
+
+  B_gap_filter   n = 2593 residues, 12 proteins
+    rho(DCS, RCS)   0.013    rho(RCS, conservation)   0.936    rho(DCS, dynamics)   0.783
+    AUC rcs10  0.917   (831 positive, 140 negative)
+    top 1% precision rcs10  1.000  (n = 11)
+    AUC dcs10  0.510   (831 positive, 140 negative)
+    top 1% precision dcs10  0.800  (n = 10)
+    top decile DCS: n = 260, unique residues 260, on gappy columns 0.0%
+
+  C_gap_corrected   n = 2841 residues, 12 proteins
+    rho(DCS, RCS)   0.216    rho(RCS, conservation)   0.961    rho(DCS, dynamics)   0.577
+    AUC rcs10  0.878   (844 positive, 204 negative)
+    top 1% precision rcs10  0.917  (n = 12)
+    AUC dcs10  0.568   (844 positive, 204 negative)
+    top 1% precision dcs10  0.636  (n = 11)
+    top decile DCS: n = 285, unique residues 285, on gappy columns 18.6%
+
+  D_both   n = 2593 residues, 12 proteins
+    rho(DCS, RCS)   0.050    rho(RCS, conservation)   0.954    rho(DCS, dynamics)   0.726
+    AUC rcs10  0.928   (831 positive, 140 negative)
+    top 1% precision rcs10  1.000  (n = 12)
+    AUC dcs10  0.535   (831 positive, 140 negative)
+    top 1% precision dcs10  1.000  (n = 10)
+    top decile DCS: n = 260, unique residues 260, on gappy columns 0.0%
+
+wrote ../data/gap_survival_scores.csv.gz (48602 rows)
+wrote ../data/gap_survival_summary.csv (80 rows)

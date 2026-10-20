@@ -1,0 +1,73 @@
+08_fetch_family.py  run 2026-10-07T11:53:36+00:00
+family fgfrs_all, 4 genes, clade Mammalia, tier all
+orthology criterion: primary gene name identity within the clade, from
+reviewed UniProt entries. No orthology database is used; see the script
+docstring for what this criterion does and does not establish.
+  1058 entries over 6 request(s)
+
+FGFR1:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=FGFR1&size=200&offset=0&reviewed=true
+  kept 52 in Mammalia
+    dropped O95684 Homo sapiens: primary gene CEP43
+    dropped O95684-2 Homo sapiens: primary gene CEP43
+    dropped O95684-3 Homo sapiens: primary gene CEP43
+    dropped P11362-10 Homo sapiens: second entry for this organism
+    dropped P11362-11 Homo sapiens: second entry for this organism
+    dropped P11362-12 Homo sapiens: second entry for this organism
+    and 1000 more, all listed in the CSV
+  1025 entries over 6 request(s)
+
+FGFR2:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=FGFR2&size=200&offset=0&reviewed=true
+  kept 60 in Mammalia
+    dropped P18461 Gallus gallus: outside Mammalia
+    dropped P21802-14 Homo sapiens: second entry for this organism
+    dropped P21802-15 Homo sapiens: second entry for this organism
+    dropped P21802-16 Homo sapiens: second entry for this organism
+    dropped P21802-17 Homo sapiens: second entry for this organism
+    dropped P21802-18 Homo sapiens: second entry for this organism
+    and 959 more, all listed in the CSV
+  1010 entries over 6 request(s)
+
+FGFR3:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=FGFR3&size=200&offset=0&reviewed=true
+  kept 47 in Mammalia
+    dropped O42127 Xenopus laevis: outside Mammalia
+    dropped P18460 Gallus gallus: outside Mammalia
+    dropped P22607-2 Homo sapiens: second entry for this organism
+    dropped P22607-3 Homo sapiens: second entry for this organism
+    dropped P22607-4 Homo sapiens: second entry for this organism
+    dropped Q61851-2 Mus musculus: second entry for this organism
+    and 957 more, all listed in the CSV
+  919 entries over 6 request(s)
+
+FGFR4:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=FGFR4&size=200&offset=0&reviewed=true
+  kept 98 in Mammalia
+    dropped P22455-2 Homo sapiens: second entry for this organism
+    dropped Q03142-2 Mus musculus: second entry for this organism
+    dropped Q90330 Coturnix coturnix: outside Mammalia
+    dropped Q90413 Danio rerio: outside Mammalia
+    dropped Q91288 Pleurodeles waltl: outside Mammalia
+    dropped Q91743 Xenopus laevis: outside Mammalia
+    and 815 more, all listed in the CSV
+
+length filter at 40% of each gene's own anchor: 11 dropped
+  FGFR1    anchor  822 residues, from the human entry
+  FGFR2    anchor  821 residues, from the human entry
+  FGFR3    anchor  806 residues, from the human entry
+  FGFR4    anchor  802 residues, from the human entry
+
+family fgfrs_all: 120 sequences over 4 genes
+  FGFR1     30  (3 reviewed)
+  FGFR2     30  (2 reviewed)
+  FGFR3     30  (2 reviewed)
+  FGFR4     30  (3 reviewed)
+  reference P11362 FGFR1_HUMAN (FGFR1)
+
+wrote ../data/families/fgfrs_all_all.fasta (120 sequences)
+wrote ../data/families/fgfrs_all_all_excluded.csv (3892 exclusions)
+
+subfamily argument for the panel and the tree null, trailing spaces matter:
+  --subfamilies "FGFR1=FGFR1 ;FGFR2=FGFR2 ;FGFR3=FGFR3 ;FGFR4=FGFR4 "
+  --ref FGFR1_HUMAN --own FGFR1

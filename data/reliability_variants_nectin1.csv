@@ -1,0 +1,4 @@
+gene,accession,variant_id,subfamily,own_position,wt,mut,classification,ref_position,mapped,verdict,sef_adj,f_own,sister_state,sister_residue,sister_subfamilies
+NECTIN3,Q9NQS3,VAR_049995,NECTIN3,432,R,L,LB/B,383,True,clade_partitioned,0.6952,0.7857142857142857,False,,
+NECTIN4,Q96NY8,VAR_034669,NECTIN4,53,F,L,LB/B,52,True,clade_partitioned,0.7913,0.9655172413793104,False,,
+NECTIN4,Q96NY8,VAR_064189,NECTIN4,185,T,M,LP/P,187,True,clade_partitioned,0.9646,1.0,False,,

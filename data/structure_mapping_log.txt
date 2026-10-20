@@ -1,0 +1,31 @@
+11_structure_mapping.py
+PDB 7DE5 chain A against human lactoperoxidase (PERL_HUMAN)
+
+  chain A alpha carbons   595
+  human sequence length   712
+  deposited map entries   595
+
+  595 residues map
+  506 identical, 85.0 per cent
+
+  positions quoted in the text
+    144   D in the sequence, D in the structure, matches
+    169   E in the sequence, E in the structure, matches
+    205   E in the sequence, E in the structure, matches
+    225   D in the sequence, D in the structure, matches
+    226   H in the sequence, H in the structure, matches
+    227   D in the sequence, D in the structure, matches
+    301   T in the sequence, T in the structure, matches
+    303   F in the sequence, F in the structure, matches
+    305   D in the sequence, D in the structure, matches
+    307   S in the sequence, S in the structure, matches
+    313   E in the sequence, E in the structure, matches
+    372   R in the sequence, R in the structure, matches
+    375   E in the sequence, E in the structure, matches
+    468   H in the sequence, H in the structure, matches
+    479   D in the sequence, D in the structure, matches
+    648   E in the sequence, E in the structure, matches
+    700   D in the sequence, D in the structure, matches
+
+wrote data/structure_mapping_7DE5.csv (595 rows)
+wrote data/structure_mapping_log.txt

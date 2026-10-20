@@ -1,0 +1,52 @@
+08_fetch_family.py  run 2026-10-07T09:49:12+00:00
+family syndecans, 4 genes, clade Mammalia, tier reviewed
+orthology criterion: primary gene name identity within the clade, from
+reviewed UniProt entries. No orthology database is used; see the script
+docstring for what this criterion does and does not establish.
+
+SDC1: 11 entries returned
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=SDC1&size=200&offset=0&reviewed=true
+  kept 6 in Mammalia
+    dropped O74861 Schizosaccharomyces pombe (strain : outside Mammalia
+    dropped P18828-2 Mus musculus: second entry for this organism
+    dropped Q03323 Saccharomyces cerevisiae (strain A: outside Mammalia
+    dropped Q6ESZ9 Oryza sativa subsp. japonica: outside Mammalia
+    dropped Q9MA74 Arabidopsis thaliana: outside Mammalia
+
+SDC2: 12 entries returned
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=SDC2&size=200&offset=0&reviewed=true
+  kept 4 in Mammalia
+    dropped A7A0P0 Saccharomyces cerevisiae (strain Y: outside Mammalia
+    dropped B3LTF3 Saccharomyces cerevisiae (strain R: outside Mammalia
+    dropped B5VMS9 Saccharomyces cerevisiae (strain A: outside Mammalia
+    dropped C8ZCV7 Saccharomyces cerevisiae (strain L: outside Mammalia
+    dropped P0CF32 Saccharomyces cerevisiae: outside Mammalia
+    dropped P0CF34 Saccharomyces cerevisiae (strain A: outside Mammalia
+    and 2 more, all listed in the CSV
+
+SDC3: 4 entries returned
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=SDC3&size=200&offset=0&reviewed=true
+  kept 3 in Mammalia
+    dropped P26261 Gallus gallus: outside Mammalia
+
+SDC4: 9 entries returned
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=SDC4&size=200&offset=0&reviewed=true
+  kept 5 in Mammalia
+    dropped P31431-2 Homo sapiens: second entry for this organism
+    dropped P49416 Gallus gallus: outside Mammalia
+    dropped Q1AGV6 Xenopus laevis: outside Mammalia
+    dropped Q1AGV7 Xenopus laevis: outside Mammalia
+
+family syndecans: 18 sequences over 4 genes
+  SDC1      6
+  SDC2      4
+  SDC3      3
+  SDC4      5
+  reference P18827 SDC1_HUMAN (SDC1)
+
+wrote out/families/syndecans_reviewed.fasta (18 sequences)
+wrote out/families/syndecans_reviewed_excluded.csv (18 exclusions)
+
+subfamily argument for the panel and the tree null, trailing spaces matter:
+  --subfamilies "SDC1=SDC1 ;SDC2=SDC2 ;SDC3=SDC3 ;SDC4=SDC4 "
+  --ref SDC1_HUMAN --own SDC1

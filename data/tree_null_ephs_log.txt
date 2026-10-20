@@ -1,0 +1,29 @@
+07_tree_aware_null.py  run 2026-10-07T10:20:52+00:00
+Is a column more clade-partitioned than a neutral character on this tree?
+
+model: F81 with the column's own composition as equilibrium, equal
+exchangeability, branch lengths rate-matched per column to the observed
+Fitch parsimony score. n_sim 400, calibration 80 per grid point, grid 0.02 to 60.0,
+parsimony tolerance max(0.50, 5% of the score), seed 20261007
+
+aligned 280 sequences, width 1910, reference row reconstructs its input
+  distance matrix 280x280, p-distance range -0.000 to 1.105
+  neighbour-joining tree built, 280 tips, 27 negative branch lengths clamped to zero
+  post-order plan with 559 slots
+
+976 positions, 725 given a tree null, 129 calibration failures, 1 rates at a grid edge
+
+mean null sef, the two nulls compared over the 725 tested columns
+  observed sef                     0.924
+  tree null mean sef               0.765
+  chance-corrected under permutation 0.913
+  chance-corrected under the tree    0.675
+
+classification under each null, over the 725 tested columns
+  call            permutation   tree
+  diagnostic         725 100.0%     501  69.1%
+  tolerant             0   0.0%       2   0.3%
+  indeterminate        0   0.0%     222  30.6%
+  pos wt  set              sef   perm adj  p_perm   tree null  tree adj  p_tree   perm call      tree call
+
+wrote out/tree_null_ephs.csv (976 rows)

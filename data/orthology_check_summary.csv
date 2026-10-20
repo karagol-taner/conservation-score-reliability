@@ -1,0 +1,9 @@
+family,non_human_sequences,one_to_one,orthologue_not_one_to_one,not_in_compara,symbol_not_in_family,confirmed_fraction
+peroxidases,66,35,0,1,30,0.5303
+syndecans,116,80,1,35,0,0.6897
+nectins,116,89,1,26,0,0.7672
+JAMs,87,64,1,22,0,0.7356
+Eph receptors,266,175,3,88,0,0.6579
+FGFRs,116,83,1,32,0,0.7155
+connexins,145,95,0,50,0,0.6552
+Na channels,190,136,1,53,0,0.7158

@@ -1,0 +1,43 @@
+05_reliability_panel.py  run 2026-10-13T09:39:19+00:00
+Per-position reliability of a conservation score, with the direction of
+the error where there is one.
+
+thresholds: gap 0.25, effective comparators 5, entropy floor 0.50 bits,
+            sef_adj 0.50 with p <= 0.050, sister fixed at 1.00 identity,
+            n_perm 1000, seed 20261007
+
+reference Q9Y624, 299 residues
+  F11R   30 sequences
+  JAM2   30 sequences
+  JAM3   30 sequences
+  0 sequences carry no label and are excluded
+  aligned 90 sequences, width 468, reference row reconstructs its input
+
+verdicts over 299 reference positions
+  ok                   96   32.1%
+  gap_inflated         12    4.0%
+  depth_starved         0    0.0%
+  clade_partitioned   191   63.9%
+  203 positions carry a flag, 67.9%
+
+115 positions carry at least one fixed sister state, 38.5%
+  of those, 107 are clade-partitioned, which is the set the sister-state test takes
+  the ten commonest ordered sister substitutions:
+    V>I      4
+    A>G      4
+    S>N      4
+    N>Q      3
+    T>R      3
+    P>A      3
+    V>G      3
+    A>K      2
+    S>K      2
+    P>S      2
+
+humsavar cross-reference: 5 variants in family members, 5 mapped to a reference column
+  every variant's wild-type residue agreed with its sequence
+  classifications: LB/B 1, LP/P 4
+  0 variants substitute to a fixed sister-subfamily residue
+
+wrote ../data/reliability_panel_f11r.csv (299 rows)
+wrote ../data/reliability_variants_f11r.csv (5 rows)

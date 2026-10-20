@@ -1,0 +1,19 @@
+10_depth_ladder_families.py  run 2026-10-08T11:29:37+00:00
+How far does a position move when only the comparator set changes?
+family peroxidase, reference PERL_HUMAN, own subfamily LPO
+  80 sequences, 17 labelled, 63 outside the labelled subfamilies
+  the file holds unlabelled members, so a family depth is added
+  D1_paralogues       3 comparators
+  D2_orthologues      5 comparators
+  D3_subfamily       16 comparators
+  D4_family          79 comparators
+
+558 of 712 positions pass the gap filter at every depth
+
+grade movement against orthologue depth, ConSurf units
+  depth             mean |shift|  >=3 grades   variable to conserved   inverted
+  D1_paralogues          2.0789       32.8%                   7.3%      22.4%
+  D3_subfamily           1.7957       28.0%                   6.3%      17.4%
+  D4_family              2.0609       34.9%                   6.1%      49.1%
+
+control PASS: reproduces every headline number 02_depth_ladder_peroxidase.py reports

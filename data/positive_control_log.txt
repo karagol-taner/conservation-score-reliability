@@ -1,0 +1,68 @@
+01_positive_control_peroxidase.py  run 2026-10-13T12:44:02+00:00
+Subfamily-explained fraction at the pI-code positions of human lactoperoxidase.
+Statistic: mutual information between residue identity and subfamily label,
+normalised by column entropy, chance-corrected against a label permutation null.
+
+thresholds: H_MIN=0.50 bits  SEF_HI=0.50  SEF_LO=0.25  P_MAX=0.050
+            MIN_SUBFAMILY_N=2  MAX_GAP_FRAC=0.25  n_perm=2000  seed=20261007
+            inversion: family identity < 0.50 and own-subfamily identity >= 0.90
+
+human LPO 712 residues, precursor numbering throughout
+family FASTA 80 sequences
+
+subfamily assignment over the mammalian-type peroxidases
+  EPX   4 sequences
+  LPO   6 sequences
+  MPO   2 sequences
+  TPO   5 sequences
+  63 sequences in the family carry no mammalian-type label and are excluded
+  orthologue set 6, paralogue set 11, disjoint
+
+aligning 17 sequences with FAMSA under a UPGMA guide tree
+  alignment width 974 columns
+  gapped reference row reconstructs its input sequence exactly
+
+positive control: the ten annotated catalytic and cofactor residues
+  pos wt  H(X)    sef   sef_adj  p_perm   fam id   own id   call          distribution
+  225  D    0.0   None    None    None      1.0      1.0   conserved     D:16
+  226  H    0.0   None    None    None      1.0      1.0   conserved     H:16
+  227  D    0.0   None    None    None      1.0      1.0   conserved     D:16
+  301  T    0.0   None    None    None      1.0      1.0   conserved     T:16
+  303  F    0.0   None    None    None      1.0      1.0   conserved     F:16
+  305  D    0.0   None    None    None      1.0      1.0   conserved     D:16
+  307  S    0.0   None    None    None      1.0      1.0   conserved     S:16
+  372  R    0.0   None    None    None      1.0      1.0   conserved     R:16
+  375  E    0.0   None    None    None      1.0      1.0   conserved     E:16
+  468  H    0.0   None    None    None      1.0      1.0   conserved     H:16
+
+  control PASS: all ten invariant in the subfamily and in the orthologues,
+  and none called diagnostic.
+
+the four designed positions, in the order the design applies them
+  pos wt  H(X)    sef   sef_adj  p_perm   fam id   own id   call          distribution
+  144  D    2.5  0.7695  0.6432  0.0005     0.25      0.8   diagnostic    D:4 R:4 A:4 M:1 H:1 V:1 Y:1
+  648  E  0.8113    1.0     1.0  0.0015     0.75      1.0   diagnostic    E:12 Q:4
+  205  E  0.8684  0.7664  0.6457   0.004   0.8125      1.0   diagnostic    E:13 D:2 K:1
+  313  E  0.896    1.0     1.0  0.0005   0.6875      1.0   diagnostic    E:11 S:5
+
+  D144 PASS: diagnostic at sef=0.7695, chance-corrected 0.6432, p=0.0005, while the
+  family-depth identity of 0.25 would read as tolerance.
+
+held back by the three-paralogue test, and the natural polymorphisms
+  pos wt  H(X)    sef   sef_adj  p_perm   fam id   own id   call          distribution
+  479  D  0.6962  0.3846  0.1786  0.1564   0.8125      1.0   tolerant      D:13 N:3
+  169  E    0.0   None    None    None      1.0      1.0   conserved     E:16
+  414  R    0.0   None    None    None      1.0      1.0   conserved     R:16
+  514  R    0.0   None    None    None      1.0      1.0   conserved     R:16
+  700  D  1.7169  0.6191  0.4301   0.002     0.25      0.8   indeterminate P:9 D:4 T:1 Q:1 E:1
+
+sweeping all 712 positions of the human sequence at n_perm=1000
+  703 of 712 positions pass the gap filter at MAX_GAP_FRAC=0.25
+    conserved       211   30.0%
+    diagnostic      337   47.9%
+    tolerant         34    4.8%
+    indeterminate   121   17.2%
+  inversions (family identity < 0.50, own-subfamily identity >= 0.90): 132 of 703 usable, 18.8%
+  among the 492 variable positions, 337 are diagnostic, 68.5%
+wrote ../data/positive_control_peroxidase.csv (19 rows)
+wrote ../data/positive_control_sweep.csv (712 rows)

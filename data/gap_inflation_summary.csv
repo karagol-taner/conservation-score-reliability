@@ -1,0 +1,27 @@
+measure,cohort,n,value,note
+pearson_gap_vs_conservation,data-human,28595,0.5417,
+spearman_gap_vs_conservation,data-human,28595,0.3155,
+pearson_gap_vs_conservation_ungapped,data-human,28595,-0.0163,
+pearson_gap_vs_conservation,data-alphahelical,27221,0.5628,
+spearman_gap_vs_conservation,data-alphahelical,27221,0.3066,
+pearson_gap_vs_conservation_ungapped,data-alphahelical,27221,0.1518,
+pearson_gap_vs_conservation,both,55816,0.5526,
+spearman_gap_vs_conservation,both,55816,0.3147,
+pearson_gap_vs_conservation_ungapped,both,55816,0.0658,
+columns_above_gap_threshold,both,11317,0.2028,
+columns_gappy_and_high_conservation,both,4250,0.0761,
+base_rate_gappy,data-human,10238,0.1572,
+gappy_share_Dynamic_Conserved_Score_0_10_topdecile,data-human,1024,0.4473,enrichment 2.85x
+gappy_share_Dynamic_Conserved_Score_0_10_top1%,data-human,103,0.7087,enrichment 4.51x
+gappy_share_Rigid_Conserved_Score_0_10_topdecile,data-human,1024,0.4092,enrichment 2.60x
+gappy_share_Rigid_Conserved_Score_0_10_top1%,data-human,103,0.3204,enrichment 2.04x
+base_rate_gappy,data-alphahelical,21023,0.144,
+gappy_share_Dynamic_Conserved_Score_0_10_topdecile,data-alphahelical,2103,0.4926,enrichment 3.42x
+gappy_share_Dynamic_Conserved_Score_0_10_top1%,data-alphahelical,211,0.7915,enrichment 5.50x
+gappy_share_Rigid_Conserved_Score_0_10_topdecile,data-alphahelical,2103,0.4503,enrichment 3.13x
+gappy_share_Rigid_Conserved_Score_0_10_top1%,data-alphahelical,211,0.5071,enrichment 3.52x
+mean_gap_at_bitscore_0.1,both,46763,0.2479,113 proteins
+mean_gap_at_bitscore_0.3,both,6291,0.2473,14 proteins
+mean_gap_at_bitscore_0.5,both,1433,0.3001,3 proteins
+mean_gap_at_bitscore_0.7,both,1329,0.188,3 proteins
+spearman_bitscore_vs_gap,both,133,-0.0338,

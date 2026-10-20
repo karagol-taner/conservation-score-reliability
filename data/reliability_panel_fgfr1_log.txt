@@ -1,0 +1,55 @@
+05_reliability_panel.py  run 2026-10-13T09:39:41+00:00
+Per-position reliability of a conservation score, with the direction of
+the error where there is one.
+
+thresholds: gap 0.25, effective comparators 5, entropy floor 0.50 bits,
+            sef_adj 0.50 with p <= 0.050, sister fixed at 1.00 identity,
+            n_perm 1000, seed 20261007
+
+reference P11362, 822 residues
+  FGFR1  30 sequences
+  FGFR2  30 sequences
+  FGFR3  30 sequences
+  FGFR4  30 sequences
+  0 sequences carry no label and are excluded
+  aligned 120 sequences, width 1278, reference row reconstructs its input
+
+verdicts over 822 reference positions
+  ok                  410   49.9%
+  gap_inflated         38    4.6%
+  depth_starved         0    0.0%
+  clade_partitioned   374   45.5%
+  412 positions carry a flag, 50.1%
+
+212 positions carry at least one fixed sister state, 25.8%
+  of those, 198 are clade-partitioned, which is the set the sister-state test takes
+  the ten commonest ordered sister substitutions:
+    K>R      13
+    I>V      11
+    D>E      10
+    V>L      9
+    S>A      7
+    V>T      6
+    Q>E      6
+    R>K      6
+    I>L      6
+    S>T      6
+
+humsavar cross-reference: 231 variants in family members, 230 mapped to a reference column
+  every variant's wild-type residue agreed with its sequence
+  classifications: LB/B 30, LP/P 182, US 19
+  2 variants substitute to a fixed sister-subfamily residue
+    the mutant residue is the fixed state of the named subfamily
+    gene    variant        class  ref pos  verdict            fixed in
+    FGFR3   A441T     LB/B       447  clade_partitioned  FGFR2
+    FGFR3   D513N     US         519  clade_partitioned  FGFR4
+
+  sister-state against classification, mapped variants only
+    sister  LB/B  LP/P  US
+    True       1     0   1
+    False     28   182  18
+  n is small here, so this table reports the annotation and not a
+  result; the pooled test runs over all families in 09_sister_state_test.py.
+
+wrote ../data/reliability_panel_fgfr1.csv (822 rows)
+wrote ../data/reliability_variants_fgfr1.csv (231 rows)

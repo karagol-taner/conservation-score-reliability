@@ -1,0 +1,15 @@
+10_depth_ladder_families.py  run 2026-10-08T11:33:16+00:00
+How far does a position move when only the comparator set changes?
+family na_channels, reference SCN1A_HUMAN, own subfamily SCN1A
+  200 sequences, 200 labelled, 0 outside the labelled subfamilies
+  every sequence is labelled, so there is no depth beyond the subfamily set and none is invented
+  D1_paralogues       9 comparators
+  D2_orthologues     19 comparators
+  D3_subfamily      199 comparators
+
+1737 of 2009 positions pass the gap filter at every depth
+
+grade movement against orthologue depth, ConSurf units
+  depth             mean |shift|  >=3 grades   variable to conserved   inverted
+  D1_paralogues          2.2775       36.9%                   7.7%      17.8%
+  D3_subfamily           2.5032       43.4%                   8.2%      14.7%

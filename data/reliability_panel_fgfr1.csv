@@ -1,0 +1,823 @@
+position,wt,verdict,error_sign,n_effective,gap_frac,dropped_subfamilies,h_total,sef,sef_adj,p_perm,call,f_family,n_family,f_own,n_own,inverted,sister_substitutions,n_sister,distribution
+1,M,ok,,108,0.0924,,0.4346,0.2624,0.0477,0.06393606393606394,conserved,0.9444444444444444,108,0.9259259259259259,27,False,,0,M:102 A:2 V:1 S:1 P:1 R:1
+2,W,clade_partitioned,family conservation too low,108,0.0924,,2.1475,0.6659,0.6448,0.000999000999000999,diagnostic,0.37962962962962965,108,0.9629629629629629,27,True,W>V:FGFR2,1,W:41 V:31 G:19 R:8 Q:7 L:1 P:1
+3,S,gap_inflated,reported conservation too high,79,0.3361,,1.8076,0.4545,0.4042,0.000999000999000999,indeterminate,0.6075949367088608,79,0.8148148148148148,27,False,,0,S:48 A:16 G:5 T:3 V:3 P:2 N:1 E:1
+4,W,gap_inflated,reported conservation too high,78,0.3445,,1.6039,0.5292,0.4887,0.000999000999000999,indeterminate,0.6153846153846154,78,0.8461538461538461,26,False,,0,W:48 P:19 R:5 L:3 Q:1 A:1 S:1
+5,K,gap_inflated,reported conservation too high,79,0.3361,,2.0641,0.6334,0.6063,0.000999000999000999,diagnostic,0.2911392405063291,79,0.8518518518518519,27,False,,0,G:25 A:24 K:23 R:3 E:1 T:1 Q:1 P:1
+6,C,gap_inflated,reported conservation too high,79,0.3361,,1.6529,0.4945,0.4462,0.000999000999000999,indeterminate,0.4810126582278481,79,0.8148148148148148,27,False,C>R:FGFR2,1,C:38 R:32 G:4 T:1 L:1 V:1 P:1 S:1
+7,L,gap_inflated,reported conservation too high,79,0.3361,,2.3287,0.6243,0.5886,0.000999000999000999,diagnostic,0.34177215189873417,79,0.9259259259259259,27,True,,0,L:27 F:24 A:16 V:5 G:1 T:1 W:1 E:1 I:1 S:1 P:1
+8,L,ok,,108,0.0924,,1.4974,0.4341,0.3755,0.000999000999000999,indeterminate,0.7129629629629629,108,0.9629629629629629,27,False,,0,L:77 I:13 V:7 F:4 G:3 P:3 A:1
+9,F,clade_partitioned,family conservation too low,110,0.0756,,2.533,0.69,0.6683,0.000999000999000999,diagnostic,0.21818181818181817,110,0.8275862068965517,29,False,,0,L:30 F:24 C:22 A:19 G:7 V:5 M:1 H:1 P:1
+10,W,clade_partitioned,family conservation too low,110,0.0756,,1.7451,0.566,0.5227,0.000999000999000999,diagnostic,0.23636363636363636,110,0.8620689655172413,29,False,W>L:FGFR2,1,L:64 W:26 F:12 A:3 G:1 I:1 R:1 V:1 P:1
+11,A,clade_partitioned,family conservation too low,110,0.0756,,2.0961,0.6129,0.5753,0.000999000999000999,diagnostic,0.45454545454545453,110,0.896551724137931,29,False,A>V:FGFR2,1,A:50 V:31 C:16 F:5 P:2 S:2 R:1 W:1 Y:1 T:1
+12,V,ok,,110,0.0756,,1.3835,0.4729,0.4302,0.000999000999000999,indeterminate,0.6363636363636364,110,0.9655172413793104,29,False,,0,V:70 L:30 A:6 F:2 C:1 S:1
+13,L,clade_partitioned,family conservation too low,110,0.0756,,1.8627,0.7403,0.7194,0.000999000999000999,diagnostic,0.4818181818181818,110,0.8620689655172413,29,False,,0,L:53 V:28 A:22 T:3 S:1 M:1 P:1 I:1
+14,V,clade_partitioned,family conservation too low,106,0.1092,,2.4519,0.7769,0.7596,0.000999000999000999,diagnostic,0.2358490566037736,106,0.8620689655172413,29,False,V>T:FGFR2,1,T:27 G:26 V:25 A:18 R:3 S:3 C:2 L:1 Q:1
+15,T,clade_partitioned,family conservation too low,110,0.0756,,2.1727,0.6864,0.6615,0.000999000999000999,diagnostic,0.24545454545454545,110,0.896551724137931,29,False,T>M:FGFR2,1,V:41 T:27 M:27 I:9 D:2 W:1 L:1 R:1 A:1
+16,A,clade_partitioned,family conservation too low,110,0.0756,,1.9211,0.6845,0.6591,0.000999000999000999,diagnostic,0.4818181818181818,110,0.8620689655172413,29,False,,0,A:53 L:28 V:20 F:4 M:2 Q:1 P:1 C:1
+17,T,ok,,110,0.0756,,2.0737,0.496,0.456,0.000999000999000999,indeterminate,0.4909090909090909,110,0.5862068965517241,29,False,,0,T:54 L:21 A:20 V:7 G:3 S:2 Q:2 X:1
+18,L,clade_partitioned,family conservation too low,107,0.1008,,2.2734,0.5448,0.5014,0.000999000999000999,diagnostic,0.48598130841121495,107,0.896551724137931,29,False,,0,L:52 A:20 G:14 E:7 S:6 V:3 R:2 F:1 H:1 K:1
+19,C,clade_partitioned,family conservation too low,108,0.0924,,2.3773,0.5985,0.5684,0.000999000999000999,diagnostic,0.24074074074074073,108,0.896551724137931,29,False,C>S:FGFR2,1,S:34 C:26 A:22 V:17 T:4 M:2 L:1 I:1 D:1
+20,T,clade_partitioned,family conservation too low,108,0.0924,,2.3926,0.6794,0.6545,0.000999000999000999,diagnostic,0.23148148148148148,108,0.8620689655172413,29,False,,0,L:29 T:25 P:24 S:22 R:2 G:2 A:2 C:1 V:1
+21,A,clade_partitioned,family conservation too low,111,0.0672,,1.9808,0.5551,0.5094,0.000999000999000999,diagnostic,0.46846846846846846,111,0.8275862068965517,29,False,,0,A:52 G:36 E:12 L:3 V:2 R:2 T:1 S:1 C:1 W:1
+22,R,ok,,111,0.0672,,2.4681,0.5157,0.4656,0.000999000999000999,indeterminate,0.45045045045045046,111,0.7586206896551724,29,False,,0,R:50 A:18 S:15 P:13 K:3 F:3 T:3 H:2 W:1 V:1 G:1 M:1
+23,P,ok,,111,0.0672,,0.7271,0.2364,0.1386,0.002997002997002997,tolerant,0.8738738738738738,111,0.896551724137931,29,False,,0,P:97 L:9 G:3 S:1 Q:1
+24,S,clade_partitioned,family conservation too low,111,0.0672,,1.9,0.6907,0.6725,0.000999000999000999,diagnostic,0.2702702702702703,111,0.10344827586206896,29,False,,0,A:46 S:30 G:27 V:5 P:2 N:1
+25,P,clade_partitioned,family conservation too low,110,0.0756,,2.3499,0.6677,0.6405,0.000999000999000999,diagnostic,0.2545454545454545,110,0.8620689655172413,29,False,P>F:FGFR2,1,F:31 P:28 L:26 Q:18 A:2 S:1 R:1 T:1 W:1 G:1
+26,T,clade_partitioned,family conservation too low,110,0.0756,,2.7144,0.7065,0.6842,0.000999000999000999,diagnostic,0.21818181818181817,110,0.8275862068965517,29,False,,0,E:26 T:24 R:23 N:14 S:12 A:4 F:3 D:2 V:1 M:1
+27,L,clade_partitioned,family conservation too low,110,0.0756,,1.781,0.7532,0.7354,0.000999000999000999,diagnostic,0.509090909090909,110,0.9655172413793104,29,False,,0,L:56 V:24 A:24 T:3 H:1 P:1 R:1
+28,P,clade_partitioned,family conservation too low,111,0.0672,,2.087,0.7449,0.7235,0.000999000999000999,diagnostic,0.24324324324324326,111,0.9310344827586207,29,True,P>V:FGFR2;P>S:FGFR4,2,V:43 S:30 P:27 A:5 L:2 G:1 I:1 M:1 C:1
+29,E,ok,,111,0.0672,,1.5163,0.5177,0.4499,0.000999000999000999,indeterminate,0.7207207207207207,111,0.8620689655172413,29,False,,0,E:80 R:15 G:6 P:2 D:2 S:2 A:1 F:1 N:1 I:1
+30,Q,clade_partitioned,family conservation too low,110,0.0756,,2.2202,0.8744,0.8662,0.000999000999000999,diagnostic,0.22727272727272727,110,0.8928571428571429,28,False,Q>D:FGFR2;Q>E:FGFR4,2,E:30 D:27 Q:25 R:24 L:1 A:1 P:1 S:1
+31,A,clade_partitioned,family conservation too low,110,0.0756,,2.3561,0.5595,0.5179,0.000999000999000999,diagnostic,0.41818181818181815,110,0.75,28,False,A>T:FGFR2,1,A:46 T:29 M:12 V:9 D:6 S:3 Q:1 L:1 P:1 R:1 I:1
+32,Q,clade_partitioned,family conservation too low,104,0.1261,,0.9313,0.8126,0.7985,0.000999000999000999,diagnostic,0.20192307692307693,104,0.9545454545454546,22,True,Q>E:FGFR4,1,E:80 Q:21 S:2 L:1
+33,P,clade_partitioned,family conservation too low,105,0.1176,,1.2575,0.5626,0.5133,0.000999000999000999,diagnostic,0.7523809523809524,105,1.0,22,False,,0,P:79 V:14 A:7 G:2 L:1 R:1 S:1
+34,W,clade_partitioned,family conservation too low,105,0.1176,,2.3706,0.8404,0.8282,0.000999000999000999,diagnostic,0.20952380952380953,105,1.0,22,True,W>C:FGFR4,1,C:29 E:27 W:22 P:19 L:4 I:1 T:1 G:1 K:1
+35,G,clade_partitioned,family conservation too low,106,0.1092,,2.1415,0.6405,0.6053,0.000999000999000999,diagnostic,0.4339622641509434,106,1.0,22,True,,0,G:46 E:24 L:24 D:4 P:2 Q:2 A:1 K:1 R:1 S:1
+36,A,ok,,106,0.1092,,1.5495,0.5254,0.4812,0.000999000999000999,indeterminate,0.5,106,0.8636363636363636,22,False,,0,A:53 P:43 V:4 T:2 L:2 G:1 S:1
+37,P,ok,,100,0.1597,,0.6405,0.2593,0.1447,0.001998001998001998,tolerant,0.89,100,1.0,22,False,,0,P:89 S:8 L:1 A:1 R:1
+38,V,clade_partitioned,family conservation too low,100,0.1597,,2.3162,0.655,0.6294,0.000999000999000999,diagnostic,0.21,100,0.9545454545454546,22,True,V>T:FGFR2,1,S:27 T:24 G:22 V:21 R:2 I:2 E:1 A:1
+39,E,clade_partitioned,family conservation too low,100,0.1597,,2.4261,0.7266,0.7097,0.000999000999000999,diagnostic,0.22,100,1.0,22,True,E>K:FGFR2,1,P:25 E:22 K:22 Q:19 L:8 S:3 R:1
+40,V,clade_partitioned,family conservation too low,101,0.1513,,2.1054,0.8952,0.8895,0.000999000999000999,diagnostic,0.21782178217821782,101,0.9565217391304348,23,True,V>Y:FGFR2;V>E:FGFR4,2,E:31 Q:24 V:22 Y:22 L:1 H:1
+41,E,clade_partitioned,family conservation too low,101,0.1513,,1.1391,0.7867,0.7658,0.000999000999000999,diagnostic,0.693069306930693,101,1.0,23,False,,0,E:70 Q:27 D:1 A:1 G:1 H:1
+42,S,clade_partitioned,family conservation too low,96,0.1933,,2.4599,0.7084,0.6837,0.000999000999000999,diagnostic,0.22916666666666666,96,0.9565217391304348,23,True,,0,V:24 E:23 S:22 Q:18 A:3 K:2 H:2 P:1 R:1
+43,F,clade_partitioned,family conservation too low,100,0.1597,,1.6754,0.6549,0.6276,0.000999000999000999,diagnostic,0.11,100,0.4782608695652174,23,False,F>Y:FGFR2;F>L:FGFR4,2,L:59 Y:22 F:11 V:5 S:2 R:1
+44,L,clade_partitioned,family conservation too low,101,0.1513,,1.9017,0.7143,0.6965,0.000999000999000999,diagnostic,0.2376237623762376,101,1.0,23,True,,0,V:42 T:27 L:24 A:6 G:1 P:1
+45,V,clade_partitioned,family conservation too low,101,0.1513,,1.7639,0.7653,0.7496,0.000999000999000999,diagnostic,0.48514851485148514,101,0.9565217391304348,23,True,,0,V:49 F:26 A:21 L:3 T:1 M:1
+46,H,clade_partitioned,family conservation too low,101,0.1513,,1.7848,0.8521,0.842,0.000999000999000999,diagnostic,0.22772277227722773,101,1.0,23,True,,0,A:48 G:25 H:23 S:2 V:2 L:1
+47,P,clade_partitioned,family conservation too low,101,0.1513,,1.7632,0.8374,0.8267,0.000999000999000999,diagnostic,0.45544554455445546,101,1.0,23,True,,0,P:46 L:26 S:25 I:2 A:1 T:1
+48,G,ok,,101,0.1513,,0.4335,0.5096,0.4802,0.000999000999000999,conserved,0.9108910891089109,101,1.0,23,False,,0,G:92 R:9
+49,D,clade_partitioned,family conservation too low,101,0.1513,,1.579,0.923,0.9197,0.000999000999000999,diagnostic,0.4752475247524752,101,1.0,23,True,D>E:FGFR2;D>Q:FGFR4,2,D:48 Q:29 E:23 P:1
+50,L,clade_partitioned,family conservation too low,101,0.1513,,2.304,0.7768,0.7652,0.000999000999000999,diagnostic,0.22772277227722773,101,1.0,23,True,,0,P:27 L:23 S:22 T:19 A:9 G:1
+51,L,clade_partitioned,family conservation too low,101,0.1513,,1.4042,0.6502,0.6266,0.000999000999000999,diagnostic,0.46534653465346537,101,1.0,23,True,,0,L:47 V:46 M:6 S:1 I:1
+52,Q,clade_partitioned,family conservation too low,101,0.1513,,1.5748,0.8952,0.8907,0.000999000999000999,diagnostic,0.24752475247524752,101,1.0,23,True,Q>E:FGFR2;Q>E:FGFR3,2,E:49 R:26 Q:25 L:1
+53,L,ok,,101,0.1513,,0.5624,0.3439,0.2241,0.000999000999000999,tolerant,0.9108910891089109,101,1.0,23,False,,0,L:92 V:6 G:1 I:1 R:1
+54,R,clade_partitioned,family conservation too low,101,0.1513,,1.7757,0.8327,0.8215,0.000999000999000999,diagnostic,0.43564356435643564,101,1.0,23,True,R>C:FGFR4,1,R:44 C:29 S:24 G:2 Q:1 A:1
+55,C,ok,,101,0.1513,,0.0801,0.2376,0.0,0.7042957042957043,conserved,0.9900990099009901,101,1.0,23,False,,0,C:100 P:1
+56,R,clade_partitioned,family conservation too low,101,0.1513,,2.3567,0.6982,0.6772,0.000999000999000999,diagnostic,0.27722772277227725,101,1.0,23,True,,0,G:29 R:28 L:19 H:15 P:7 M:1 D:1 E:1
+57,L,clade_partitioned,family conservation too low,101,0.1513,,2.035,0.5816,0.5451,0.000999000999000999,diagnostic,0.5148514851485149,101,1.0,23,False,,0,L:52 R:23 P:10 W:7 A:5 Q:2 S:1 V:1
+58,R,clade_partitioned,family conservation too low,101,0.1513,,2.1903,0.7559,0.7392,0.000999000999000999,diagnostic,0.33663366336633666,101,0.9565217391304348,23,True,,0,R:34 A:26 P:25 K:10 T:3 Q:2 S:1
+59,D,gap_inflated,reported conservation too high,23,0.8067,,0.258,0.0,0.0,1.0,conserved,0.9565217391304348,23,0.9565217391304348,23,False,,0,D:22 E:1
+60,D,gap_inflated,reported conservation too high,71,0.4034,,1.0213,0.8321,0.8246,0.000999000999000999,diagnostic,0.647887323943662,71,1.0,23,False,,0,D:46 P:24 V:1
+61,V,clade_partitioned,family conservation too low,100,0.1597,,2.4227,0.7438,0.7248,0.000999000999000999,diagnostic,0.28,100,1.0,23,True,V>A:FGFR2,1,V:28 E:27 A:22 T:12 M:4 S:4 N:2 P:1
+62,Q,clade_partitioned,family conservation too low,100,0.1597,,2.2698,0.8774,0.8685,0.000999000999000999,diagnostic,0.23,100,1.0,23,True,Q>R:FGFR4,1,R:29 Q:23 G:23 A:20 E:2 T:1 I:1 S:1
+63,S,clade_partitioned,family conservation too low,100,0.1597,,2.3164,0.7373,0.7229,0.000999000999000999,diagnostic,0.3,100,1.0,23,True,,0,S:30 P:25 G:22 M:11 V:9 T:3
+64,I,clade_partitioned,family conservation too low,100,0.1597,,1.9682,0.7832,0.7669,0.000999000999000999,diagnostic,0.45,100,1.0,23,True,,0,I:45 G:26 T:19 S:6 R:2 L:1 N:1
+65,N,clade_partitioned,family conservation too low,100,0.1597,,2.303,0.8528,0.8422,0.000999000999000999,diagnostic,0.22,100,0.9565217391304348,23,True,N>H:FGFR4,1,H:29 N:22 V:22 S:21 I:3 D:1 L:1 A:1
+66,W,ok,,100,0.1597,,0.0,,,,conserved,1.0,100,1.0,23,False,,0,W:100
+67,L,clade_partitioned,family conservation too low,101,0.1513,,2.2434,0.8874,0.8802,0.000999000999000999,diagnostic,0.22772277227722773,101,1.0,23,True,L>T:FGFR2;L>Y:FGFR4,2,Y:29 L:23 T:22 V:22 A:3 D:1 F:1
+68,R,clade_partitioned,family conservation too low,101,0.1513,,0.8673,0.8579,0.8507,0.000999000999000999,diagnostic,0.2376237623762376,101,1.0,23,True,R>K:FGFR2,1,K:76 R:24 A:1
+69,D,clade_partitioned,family conservation too low,101,0.1513,,0.9271,0.8671,0.8609,0.000999000999000999,diagnostic,0.7128712871287128,101,1.0,23,False,,0,D:72 E:28 P:1
+70,G,ok,,101,0.1513,,0.0801,0.2246,0.0,1.0,conserved,0.9900990099009901,101,1.0,23,False,,0,G:100 S:1
+71,V,clade_partitioned,family conservation too low,101,0.1513,,1.7105,0.5592,0.5173,0.000999000999000999,diagnostic,0.5643564356435643,101,1.0,23,False,,0,V:57 S:29 A:5 T:4 M:3 R:2 E:1
+72,Q,clade_partitioned,family conservation too low,101,0.1513,,2.1705,0.8901,0.8833,0.000999000999000999,diagnostic,0.22772277227722773,101,0.9565217391304348,23,True,Q>R:FGFR4,1,R:29 G:25 Q:23 H:21 K:1 L:1 A:1
+73,L,ok,,101,0.1513,,0.0801,0.2376,0.0,0.7002997002997003,conserved,0.9900990099009901,101,1.0,23,False,,0,L:100 I:1
+74,A,clade_partitioned,family conservation too low,101,0.1513,,2.1442,0.5448,0.5038,0.000999000999000999,diagnostic,0.37623762376237624,101,0.43478260869565216,23,False,A>G:FGFR2,1,A:38 V:29 G:22 P:6 T:2 E:1 W:1 L:1 M:1
+75,E,clade_partitioned,family conservation too low,101,0.1513,,1.3939,0.5989,0.5677,0.000999000999000999,diagnostic,0.2079207920792079,101,0.9130434782608695,23,True,E>P:FGFR2,1,P:68 E:21 S:6 A:4 D:2
+76,S,clade_partitioned,family conservation too low,100,0.1597,,1.6476,0.7689,0.7554,0.000999000999000999,diagnostic,0.51,100,1.0,23,False,,0,S:51 A:25 N:21 T:2 L:1
+77,N,clade_partitioned,family conservation too low,100,0.1597,,1.841,0.7653,0.7487,0.000999000999000999,diagnostic,0.46,100,1.0,23,True,N>G:FGFR4,1,N:46 G:30 D:17 E:3 H:3 P:1
+78,R,ok,,100,0.1597,,0.0,,,,conserved,1.0,100,1.0,23,False,,0,R:100
+79,T,clade_partitioned,family conservation too low,100,0.1597,,1.5572,0.7831,0.7734,0.000999000999000999,diagnostic,0.46,100,1.0,23,True,,0,T:46 V:35 I:18 A:1
+80,R,clade_partitioned,family conservation too low,101,0.1513,,1.5443,0.8952,0.8906,0.000999000999000999,diagnostic,0.5148514851485149,101,1.0,23,False,R>V:FGFR2,1,R:52 V:24 L:24 H:1
+81,I,clade_partitioned,family conservation too low,101,0.1513,,2.0971,0.9213,0.9177,0.000999000999000999,diagnostic,0.22772277227722773,101,1.0,23,True,I>L:FGFR2,1,G:27 V:26 I:23 L:23 A:2
+82,T,clade_partitioned,family conservation too low,101,0.1513,,2.11,0.9435,0.9405,0.000999000999000999,diagnostic,0.22772277227722773,101,1.0,23,True,T>W:FGFR4,1,W:29 G:26 T:23 I:21 F:1 C:1
+83,G,clade_partitioned,family conservation too low,101,0.1513,,1.6065,0.962,0.9604,0.000999000999000999,diagnostic,0.44554455445544555,101,1.0,23,True,G>R:FGFR4,1,G:45 R:29 P:26 L:1
+84,E,clade_partitioned,family conservation too low,101,0.1513,,1.727,0.8948,0.8881,0.000999000999000999,diagnostic,0.44554455445544555,101,1.0,23,True,E>G:FGFR4,1,E:45 G:29 Q:24 R:1 V:1 D:1
+85,E,clade_partitioned,family conservation too low,101,0.1513,,1.7219,0.86,0.8491,0.000999000999000999,diagnostic,0.22772277227722773,101,1.0,23,True,E>Y:FGFR2;E>R:FGFR4,2,R:52 E:23 Y:22 Q:1 W:1 N:1 L:1
+86,V,clade_partitioned,family conservation too low,101,0.1513,,0.774,1.0,1.0,0.000999000999000999,diagnostic,0.22772277227722773,101,1.0,23,True,V>L:FGFR2;V>L:FGFR3;V>L:FGFR4,3,L:78 V:23
+87,E,clade_partitioned,family conservation too low,101,0.1513,,1.3054,0.8007,0.7858,0.000999000999000999,diagnostic,0.5148514851485149,101,1.0,23,False,E>Q:FGFR2,1,E:52 Q:44 R:2 L:2 K:1
+88,V,clade_partitioned,family conservation too low,101,0.1513,,0.9982,0.898,0.8957,0.000999000999000999,diagnostic,0.4752475247524752,101,1.0,23,True,V>I:FGFR2;V>I:FGFR4,2,I:53 V:48
+89,Q,clade_partitioned,family conservation too low,101,0.1513,,2.2575,0.8541,0.8447,0.000999000999000999,diagnostic,0.039603960396039604,101,0.17391304347826086,23,False,Q>K:FGFR2;Q>A:FGFR4,2,A:30 L:25 K:22 R:18 Q:4 W:1 I:1
+90,D,clade_partitioned,family conservation too low,101,0.1513,,2.1557,0.8312,0.8219,0.000999000999000999,diagnostic,0.2079207920792079,101,0.9130434782608695,23,True,D>G:FGFR2,1,G:26 N:26 S:25 D:21 T:2 P:1
+91,S,clade_partitioned,family conservation too low,101,0.1513,,1.7854,0.7501,0.7329,0.000999000999000999,diagnostic,0.2376237623762376,101,0.9565217391304348,23,True,S>A:FGFR2,1,A:48 S:24 F:24 V:2 L:2 Q:1
+92,V,clade_partitioned,family conservation too low,101,0.1513,,2.2931,0.7464,0.7305,0.000999000999000999,diagnostic,0.19801980198019803,101,0.782608695652174,23,False,,0,S:27 L:26 T:21 V:20 I:5 G:1 M:1
+93,P,clade_partitioned,family conservation too low,101,0.1513,,1.383,0.6122,0.5682,0.000999000999000999,diagnostic,0.693069306930693,101,1.0,23,False,,0,P:70 H:21 Q:3 Y:3 L:2 R:1 S:1
+94,A,clade_partitioned,family conservation too low,101,0.1513,,1.7608,0.8394,0.827,0.000999000999000999,diagnostic,0.21782178217821782,101,0.9565217391304348,23,True,A>R:FGFR2,1,E:52 A:22 R:22 D:2 S:1 P:1 Q:1
+95,D,ok,,101,0.1513,,0.0801,0.2376,0.0,0.7192807192807192,conserved,0.9900990099009901,101,1.0,23,False,,0,D:100 H:1
+96,S,clade_partitioned,family conservation too low,101,0.1513,,1.1858,0.6366,0.6151,0.000999000999000999,diagnostic,0.5247524752475248,101,1.0,23,False,,0,S:53 A:45 T:2 G:1
+97,G,ok,,101,0.1513,,0.0801,0.2376,0.0,0.7112887112887113,conserved,0.9900990099009901,101,1.0,23,False,,0,G:100 H:1
+98,L,clade_partitioned,family conservation too low,101,0.1513,,2.2706,0.6286,0.5933,0.000999000999000999,diagnostic,0.46534653465346537,101,1.0,23,True,,0,L:47 A:22 R:13 C:6 V:5 Q:3 S:2 H:2 G:1
+99,Y,ok,,101,0.1513,,0.0801,0.2376,0.0,0.6863136863136863,conserved,0.9900990099009901,101,1.0,23,False,,0,Y:100 T:1
+100,A,clade_partitioned,family conservation too low,101,0.1513,,1.7157,0.8586,0.8509,0.000999000999000999,diagnostic,0.43564356435643564,101,0.9565217391304348,23,True,,0,A:44 L:29 S:25 T:2 F:1
+101,C,ok,,101,0.1513,,0.0801,0.2376,0.0,0.7102897102897103,conserved,0.9900990099009901,101,1.0,23,False,,0,C:100 H:1
+102,V,clade_partitioned,family conservation too low,101,0.1513,,2.252,0.8124,0.8023,0.000999000999000999,diagnostic,0.24752475247524752,101,1.0,23,True,V>T:FGFR2,1,L:28 V:25 T:22 R:19 Q:6 K:1
+103,T,clade_partitioned,family conservation too low,101,0.1513,,1.8122,0.7689,0.7538,0.000999000999000999,diagnostic,0.26732673267326734,101,1.0,23,True,T>A:FGFR2,1,A:44 T:27 Q:25 S:3 H:1 L:1
+104,S,clade_partitioned,family conservation too low,101,0.1513,,1.9069,0.6942,0.6659,0.000999000999000999,diagnostic,0.24752475247524752,101,0.9130434782608695,23,True,S>R:FGFR4,1,R:52 S:25 A:15 T:3 N:2 Q:2 P:1 K:1
+105,S,clade_partitioned,family conservation too low,101,0.1513,,2.113,0.914,0.9095,0.000999000999000999,diagnostic,0.2376237623762376,101,1.0,23,True,S>R:FGFR2;S>G:FGFR4,2,G:29 S:24 L:24 R:22 V:1 H:1
+106,P,clade_partitioned,family conservation too low,101,0.1513,,1.9743,0.6933,0.6753,0.000999000999000999,diagnostic,0.24752475247524752,101,1.0,23,True,P>S:FGFR4,1,S:34 T:32 P:25 N:8 K:1 R:1
+107,S,clade_partitioned,family conservation too low,101,0.1513,,2.4413,0.7608,0.7437,0.000999000999000999,diagnostic,0.21782178217821782,101,0.9130434782608695,23,True,S>V:FGFR2,1,M:24 Q:23 S:22 V:22 L:5 R:2 G:2 T:1
+108,G,clade_partitioned,family conservation too low,101,0.1513,,2.7171,0.6902,0.6637,0.000999000999000999,diagnostic,0.22772277227722773,101,1.0,23,True,G>D:FGFR2,1,G:23 D:22 R:20 L:19 S:4 I:4 T:4 H:3 E:1 Q:1
+109,S,gap_inflated,reported conservation too high,74,0.3782,,1.1079,0.8719,0.8665,0.000999000999000999,diagnostic,0.6081081081081081,74,1.0,23,False,,0,S:45 L:27 V:2
+110,D,clade_partitioned,family conservation too low,100,0.1597,,2.49,0.7998,0.7846,0.000999000999000999,diagnostic,0.23,100,1.0,23,True,D>E:FGFR2,1,V:24 D:23 E:22 H:20 Q:4 Y:3 L:2 R:2
+111,T,clade_partitioned,family conservation too low,100,0.1597,,1.7282,0.9097,0.9048,0.000999000999000999,diagnostic,0.42,100,0.9565217391304348,23,True,T>L:FGFR3;T>N:FGFR4,2,T:42 N:29 L:26 A:2 I:1
+112,T,clade_partitioned,family conservation too low,101,0.1513,,2.2675,0.7204,0.7059,0.000999000999000999,diagnostic,0.22772277227722773,101,1.0,23,True,,0,V:28 C:26 T:23 L:15 W:8 G:1
+113,Y,clade_partitioned,family conservation too low,102,0.1429,,2.13,0.6578,0.6217,0.000999000999000999,diagnostic,0.46078431372549017,102,1.0,23,True,Y>T:FGFR4,1,Y:47 T:29 H:12 R:5 D:3 L:2 I:1 S:1 N:1 G:1
+114,F,clade_partitioned,family conservation too low,102,0.1429,,1.0524,0.7867,0.7724,0.000999000999000999,diagnostic,0.696078431372549,102,1.0,23,False,,0,F:71 L:28 I:2 M:1
+115,S,clade_partitioned,family conservation too low,103,0.1345,,2.2622,0.591,0.5579,0.000999000999000999,diagnostic,0.44660194174757284,103,1.0,23,True,S>M:FGFR2,1,S:46 M:22 V:16 I:6 G:4 A:4 T:4 L:1
+116,V,ok,,103,0.1345,,0.6196,0.2235,0.0492,0.08491508491508491,tolerant,0.912621359223301,103,1.0,23,False,,0,V:94 I:3 T:2 M:2 Q:1 A:1
+117,N,clade_partitioned,family conservation too low,103,0.1345,,1.8855,0.7551,0.7344,0.000999000999000999,diagnostic,0.44660194174757284,103,1.0,23,True,,0,N:46 R:27 D:24 I:2 H:1 S:1 G:1 A:1
+118,V,gap_inflated,reported conservation too high,72,0.3866,FGFR4,0.3546,0.1349,0.0002,0.6803196803196803,conserved,0.9315068493150684,73,0.9130434782608695,23,False,V>L:FGFR4,1,V:68 I:3 A:1
+119,S,gap_inflated,reported conservation too high,72,0.3866,FGFR4,1.1682,0.8057,0.7931,0.000999000999000999,diagnostic,0.3150684931506849,73,1.0,23,True,S>T:FGFR2;S>T:FGFR4,2,T:46 S:23 A:2 L:1
+120,D,ok,,100,0.1597,,0.2219,0.2714,0.0862,0.13786213786213786,conserved,0.97,100,1.0,23,False,,0,D:97 E:2 G:1
+121,A,clade_partitioned,family conservation too low,107,0.1008,,1.3665,0.6333,0.6011,0.000999000999000999,diagnostic,0.6448598130841121,107,0.9655172413793104,29,False,,0,A:69 S:29 V:4 T:3 E:1 Q:1
+122,L,clade_partitioned,family conservation too low,112,0.0588,,1.9501,0.7732,0.76,0.000999000999000999,diagnostic,0.44642857142857145,112,1.0,29,True,L>I:FGFR2,1,L:50 I:26 P:25 M:6 S:4 C:1
+123,P,clade_partitioned,family conservation too low,112,0.0588,,1.8208,0.6908,0.6727,0.000999000999000999,diagnostic,0.3125,112,1.0,29,True,,0,S:49 P:35 T:21 A:5 N:1 V:1
+124,S,ok,,112,0.0588,,0.422,0.2559,0.0397,0.13586413586413587,conserved,0.9464285714285714,112,1.0,29,False,,0,S:106 C:2 R:1 L:1 Y:1 Q:1
+125,S,clade_partitioned,family conservation too low,112,0.0588,,1.2792,0.702,0.682,0.000999000999000999,diagnostic,0.49107142857142855,112,1.0,29,True,S>G:FGFR2,1,S:55 G:52 I:3 A:1 P:1
+126,E,clade_partitioned,family conservation too low,111,0.0672,,1.8984,0.7237,0.7011,0.000999000999000999,diagnostic,0.26126126126126126,111,1.0,29,True,E>D:FGFR2,1,D:53 E:29 N:21 S:3 R:2 L:1 P:1 T:1
+127,D,ok,,112,0.0588,,0.9425,0.4509,0.4008,0.000999000999000999,indeterminate,0.7857142857142857,112,1.0,29,False,,0,D:88 G:20 N:2 L:1 S:1
+128,D,clade_partitioned,family conservation too low,112,0.0588,,1.6216,0.69,0.6659,0.000999000999000999,diagnostic,0.42857142857142855,112,1.0,29,True,D>E:FGFR2,1,E:50 D:48 N:9 P:2 S:1 C:1 H:1
+129,D,clade_partitioned,family conservation too low,111,0.0672,,1.2151,0.5866,0.5479,0.000999000999000999,diagnostic,0.7207207207207207,111,1.0,29,False,,0,D:80 E:23 G:3 K:3 R:1 S:1
+130,D,clade_partitioned,family conservation too low,111,0.0672,,1.1076,0.6834,0.6514,0.000999000999000999,diagnostic,0.7477477477477478,111,1.0,29,False,,0,D:83 G:22 E:2 S:2 P:1 R:1
+131,D,clade_partitioned,family conservation too low,111,0.0672,,2.4145,0.7251,0.703,0.000999000999000999,diagnostic,0.3063063063063063,111,1.0,29,True,,0,D:34 P:25 T:22 E:21 A:3 R:2 N:1 S:1 L:1 V:1
+132,D,clade_partitioned,family conservation too low,112,0.0588,,1.3694,0.6373,0.5951,0.000999000999000999,diagnostic,0.6964285714285714,112,1.0,29,False,,0,D:78 K:24 R:3 Q:2 S:2 E:1 Y:1 P:1
+133,D,clade_partitioned,family conservation too low,112,0.0588,,2.8176,0.6577,0.6275,0.000999000999000999,diagnostic,0.25892857142857145,112,1.0,29,True,,0,D:29 G:27 E:19 A:13 T:7 S:6 V:5 I:2 M:1 C:1 P:1 L:1
+134,S,gap_inflated,reported conservation too high,29,0.7563,,0.0,,,,conserved,1.0,29,1.0,29,False,,0,S:29
+135,S,gap_inflated,reported conservation too high,29,0.7479,FGFR3,0.0,,,,conserved,0.9666666666666667,30,1.0,29,False,S>R:FGFR3,1,S:29
+136,S,clade_partitioned,family conservation too low,112,0.0588,,2.1221,0.6441,0.6111,0.000999000999000999,diagnostic,0.41964285714285715,112,1.0,29,True,,0,S:47 A:31 H:22 P:4 G:2 L:2 V:1 T:1 F:1 Q:1
+137,E,ok,,112,0.0588,,1.5529,0.522,0.4613,0.000999000999000999,indeterminate,0.6964285714285714,112,1.0,29,False,,0,E:78 R:17 G:8 S:3 D:1 L:1 N:1 M:1 K:1 C:1
+138,E,clade_partitioned,family conservation too low,112,0.0588,,1.9295,0.6098,0.5748,0.000999000999000999,diagnostic,0.25892857142857145,112,1.0,29,True,E>D:FGFR2,1,D:55 E:29 G:19 S:3 A:2 K:1 V:1 N:1 R:1
+139,K,clade_partitioned,family conservation too low,113,0.0504,,2.5763,0.7464,0.7287,0.000999000999000999,diagnostic,0.25663716814159293,113,1.0,29,True,,0,K:29 F:25 T:22 P:20 S:9 A:3 L:3 V:1 I:1
+140,E,clade_partitioned,family conservation too low,113,0.0504,,2.676,0.7228,0.7023,0.000999000999000999,diagnostic,0.25663716814159293,113,1.0,29,True,,0,E:29 V:25 G:21 S:17 L:10 A:5 P:3 I:1 R:1 D:1
+141,T,gap_inflated,reported conservation too high,88,0.2605,,2.1412,0.6843,0.6542,0.000999000999000999,diagnostic,0.3181818181818182,88,0.9655172413793104,29,True,,0,T:28 S:28 N:23 K:3 E:2 A:1 P:1 H:1 G:1
+142,D,gap_inflated,reported conservation too high,89,0.2521,,2.0712,0.6709,0.6495,0.000999000999000999,diagnostic,0.34831460674157305,89,1.0,29,True,,0,D:31 E:28 G:18 R:8 P:3 Q:1
+143,N,gap_inflated,reported conservation too high,89,0.2521,,1.3873,0.7435,0.7236,0.000999000999000999,diagnostic,0.5730337078651685,89,1.0,29,False,,0,N:51 H:31 S:4 P:2 G:1
+144,T,gap_inflated,reported conservation too high,89,0.2521,,2.4349,0.6012,0.5586,0.000999000999000999,diagnostic,0.34831460674157305,89,1.0,29,True,,0,T:31 S:23 I:17 V:9 A:2 L:2 R:1 G:1 N:1 P:1 M:1
+145,K,clade_partitioned,family conservation too low,95,0.2017,,2.2323,0.8387,0.8243,0.000999000999000999,diagnostic,0.30526315789473685,95,1.0,29,True,,0,K:29 Y:29 N:24 D:6 P:3 S:1 G:1 A:1 E:1
+146,P,clade_partitioned,family conservation too low,95,0.2017,,1.7131,0.6321,0.5944,0.000999000999000999,diagnostic,0.6210526315789474,95,1.0,29,False,,0,P:59 N:17 S:10 T:5 A:1 G:1 L:1 V:1
+147,N,clade_partitioned,family conservation too low,102,0.1429,,2.3117,0.8271,0.812,0.000999000999000999,diagnostic,0.28431372549019607,102,1.0,29,True,,0,Q:30 N:29 K:22 G:15 E:1 M:1 S:1 L:1 D:1 P:1
+148,R,gap_inflated,reported conservation too high,15,0.8655,FGFR3,0.0,,,,conserved,0.9375,16,1.0,15,False,R>P:FGFR3,1,R:15
+149,M,gap_inflated,reported conservation too high,16,0.8571,FGFR3,0.8684,0.0,0.0,1.0,tolerant,0.7647058823529411,17,0.8125,16,False,M>L:FGFR3,1,M:13 R:2 T:1
+150,P,gap_inflated,reported conservation too high,30,0.7479,,0.42,0.8413,0.8311,0.003996003996003996,conserved,0.9333333333333333,30,1.0,28,False,,0,P:28 W:1 H:1
+151,V,gap_inflated,reported conservation too high,86,0.2773,,1.8906,0.9225,0.9172,0.000999000999000999,diagnostic,0.32558139534883723,86,1.0,28,True,V>R:FGFR2;V>G:FGFR3,2,V:28 Q:28 R:25 G:3 H:1 T:1
+152,A,ok,,112,0.0588,,0.178,0.2943,0.1803,0.07692307692307693,conserved,0.9732142857142857,112,1.0,28,False,,0,A:109 G:3
+153,P,ok,,114,0.042,,0.0,,,,conserved,1.0,114,1.0,28,False,,0,P:114
+154,Y,ok,,114,0.042,,0.0,,,,conserved,1.0,114,1.0,28,False,,0,Y:114
+155,W,ok,,114,0.042,,0.0,,,,conserved,1.0,114,1.0,28,False,,0,W:114
+156,T,ok,,114,0.042,,0.0,,,,conserved,1.0,114,1.0,28,False,,0,T:114
+157,S,clade_partitioned,family conservation too low,114,0.042,,1.9944,0.9548,0.9534,0.000999000999000999,diagnostic,0.24561403508771928,114,1.0,28,True,S>R:FGFR3;S>H:FGFR4,2,H:32 R:29 S:28 N:25
+158,P,clade_partitioned,family conservation too low,114,0.042,,0.7897,1.0,1.0,0.000999000999000999,diagnostic,0.7631578947368421,114,1.0,28,False,P>T:FGFR2,1,P:87 T:27
+159,E,clade_partitioned,family conservation too low,114,0.042,,0.9931,0.8519,0.8422,0.000999000999000999,diagnostic,0.7280701754385965,114,1.0,28,False,,0,E:83 Q:28 H:2 D:1
+160,K,clade_partitioned,family conservation too low,114,0.042,,0.9991,1.0,1.0,0.000999000999000999,diagnostic,0.4824561403508772,114,1.0,28,True,K>R:FGFR3;K>R:FGFR4,2,R:59 K:55
+161,M,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,M:117
+162,E,clade_partitioned,family conservation too low,117,0.0168,,0.8213,0.8683,0.8652,0.000999000999000999,diagnostic,0.7435897435897436,117,1.0,28,False,,0,E:87 D:30
+163,K,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,K:117
+164,K,clade_partitioned,family conservation too low,117,0.0168,,0.8213,0.9342,0.9327,0.000999000999000999,diagnostic,0.7435897435897436,117,1.0,28,False,K>R:FGFR2,1,K:87 R:30
+165,L,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,L:117
+166,H,clade_partitioned,family conservation too low,117,0.0168,,0.8886,0.9392,0.9366,0.000999000999000999,diagnostic,0.7350427350427351,117,1.0,28,False,H>L:FGFR3,1,H:86 L:30 Y:1
+167,A,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,A:117
+168,V,ok,,117,0.0168,,0.071,0.2445,0.002,0.4915084915084915,conserved,0.9914529914529915,117,1.0,28,False,,0,V:116 C:1
+169,P,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,P:117
+170,A,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,A:117
+171,A,clade_partitioned,family conservation too low,117,0.0168,,0.8213,1.0,1.0,0.000999000999000999,diagnostic,0.7435897435897436,117,1.0,28,False,A>G:FGFR4,1,A:87 G:30
+172,K,clade_partitioned,family conservation too low,117,0.0168,,0.7939,1.0,1.0,0.000999000999000999,diagnostic,0.23931623931623933,117,1.0,28,True,K>N:FGFR2;K>N:FGFR3;K>N:FGFR4,3,N:89 K:28
+173,T,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,T:117
+174,V,ok,,117,0.0168,,0.2547,0.3456,0.2775,0.003996003996003996,conserved,0.9572649572649573,117,1.0,28,False,,0,V:112 I:5
+175,K,clade_partitioned,family conservation too low,117,0.0168,,0.8213,1.0,1.0,0.000999000999000999,diagnostic,0.7435897435897436,117,1.0,28,False,K>R:FGFR3,1,K:87 R:30
+176,F,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,F:117
+177,K,clade_partitioned,family conservation too low,117,0.0168,,0.7939,1.0,1.0,0.000999000999000999,diagnostic,0.23931623931623933,117,1.0,28,True,K>R:FGFR2;K>R:FGFR3;K>R:FGFR4,3,R:89 K:28
+178,C,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,C:117
+179,P,ok,,117,0.0168,,0.071,0.2445,0.0019,0.4945054945054945,conserved,0.9914529914529915,117,1.0,28,False,,0,P:116 A:1
+180,S,clade_partitioned,family conservation too low,117,0.0168,,0.7939,1.0,1.0,0.000999000999000999,diagnostic,0.23931623931623933,117,1.0,28,True,S>A:FGFR2;S>A:FGFR3;S>A:FGFR4,3,A:89 S:28
+181,S,clade_partitioned,family conservation too low,117,0.0168,,1.5582,0.9077,0.9043,0.000999000999000999,diagnostic,0.24786324786324787,117,0.9642857142857143,28,True,S>G:FGFR2;S>A:FGFR3,2,A:58 S:29 G:29 N:1
+182,G,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,G:117
+183,T,clade_partitioned,family conservation too low,117,0.0168,,1.0229,0.8309,0.8205,0.000999000999000999,diagnostic,0.23931623931623933,117,1.0,28,True,T>N:FGFR3,1,N:85 T:28 S:3 K:1
+184,P,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,P:117
+185,N,clade_partitioned,family conservation too low,117,0.0168,,1.7805,0.6122,0.5857,0.000999000999000999,diagnostic,0.23076923076923078,117,0.9642857142857143,28,True,,0,T:63 N:27 M:18 A:6 S:1 V:1 L:1
+186,P,ok,,117,0.0168,,0.071,0.2445,0.0022,0.4825174825174825,conserved,0.9914529914529915,117,1.0,28,False,,0,P:116 S:1
+187,T,clade_partitioned,family conservation too low,117,0.0168,,0.8213,0.8689,0.8657,0.000999000999000999,diagnostic,0.7435897435897436,117,1.0,28,False,,0,T:87 S:30
+188,L,clade_partitioned,family conservation too low,117,0.0168,,1.4866,0.9639,0.963,0.000999000999000999,diagnostic,0.24786324786324787,117,1.0,28,True,L>I:FGFR3;L>I:FGFR4,2,I:60 L:29 M:28
+189,R,clade_partitioned,family conservation too low,117,0.0168,,1.1616,0.742,0.7216,0.000999000999000999,diagnostic,0.717948717948718,117,1.0,28,False,,0,R:84 S:26 H:3 T:2 Y:2
+190,W,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,W:117
+191,L,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,L:117
+192,K,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,K:117
+193,N,clade_partitioned,family conservation too low,117,0.0168,,0.7642,0.8099,0.8052,0.000999000999000999,diagnostic,0.7777777777777778,117,1.0,28,False,,0,N:91 D:26
+194,G,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,G:117
+195,K,clade_partitioned,family conservation too low,117,0.0168,,1.2373,0.6493,0.6245,0.000999000999000999,diagnostic,0.7008547008547008,117,1.0,28,False,,0,K:82 Q:25 R:7 E:2 N:1
+196,E,clade_partitioned,family conservation too low,117,0.0168,,1.0967,0.6855,0.6733,0.000999000999000999,diagnostic,0.717948717948718,117,1.0,28,False,,0,E:84 D:24 A:9
+197,F,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,F:117
+198,K,clade_partitioned,family conservation too low,117,0.0168,,1.5493,0.872,0.8673,0.000999000999000999,diagnostic,0.5042735042735043,117,1.0,28,False,,0,K:59 R:29 H:28 Y:1
+199,P,clade_partitioned,family conservation too low,117,0.0168,,1.4866,1.0,1.0,0.000999000999000999,diagnostic,0.23931623931623933,117,1.0,28,True,P>Q:FGFR2;P>G:FGFR3;P>G:FGFR4,3,G:60 Q:29 P:28
+200,D,clade_partitioned,family conservation too low,117,0.0168,,0.8615,0.9372,0.9345,0.000999000999000999,diagnostic,0.23931623931623933,117,1.0,28,True,D>E:FGFR2;D>E:FGFR4,2,E:88 D:28 N:1
+201,H,ok,,117,0.0168,,0.3912,0.4224,0.3889,0.000999000999000999,conserved,0.9230769230769231,117,1.0,28,False,,0,H:108 N:9
+202,R,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,R:117
+203,I,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,I:117
+204,G,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,G:117
+205,G,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,G:117
+206,Y,clade_partitioned,family conservation too low,117,0.0168,,1.0622,0.9491,0.9473,0.000999000999000999,diagnostic,0.48717948717948717,117,1.0,28,True,Y>I:FGFR3,1,I:59 Y:57 V:1
+207,K,clade_partitioned,family conservation too low,118,0.0084,,0.8179,1.0,1.0,0.000999000999000999,diagnostic,0.7457627118644068,118,1.0,28,False,K>R:FGFR4,1,K:88 R:30
+208,V,clade_partitioned,family conservation too low,118,0.0084,,1.0,0.9464,0.9454,0.000999000999000999,diagnostic,0.5,118,1.0,28,False,V>L:FGFR4,1,V:59 L:59
+209,R,ok,,118,0.0084,,0.0705,0.2397,0.0,1.0,conserved,0.9915254237288136,118,1.0,28,False,,0,R:117 G:1
+210,Y,clade_partitioned,family conservation too low,117,0.0168,,1.7468,0.8663,0.8583,0.000999000999000999,diagnostic,0.23931623931623933,117,1.0,28,True,Y>H:FGFR4,1,H:57 Y:28 N:27 T:2 Q:2 S:1
+211,A,clade_partitioned,family conservation too low,117,0.0168,,0.7939,1.0,1.0,0.000999000999000999,diagnostic,0.23931623931623933,117,1.0,28,True,A>Q:FGFR2;A>Q:FGFR3;A>Q:FGFR4,3,Q:89 A:28
+212,T,clade_partitioned,family conservation too low,117,0.0168,,1.4866,1.0,1.0,0.000999000999000999,diagnostic,0.23931623931623933,117,1.0,28,True,T>H:FGFR2;T>Q:FGFR3;T>H:FGFR4,3,H:60 Q:29 T:28
+213,W,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,W:117
+214,S,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,S:117
+215,I,clade_partitioned,family conservation too low,117,0.0168,,0.7939,1.0,1.0,0.000999000999000999,diagnostic,0.23931623931623933,117,1.0,28,True,I>L:FGFR2;I>L:FGFR3;I>L:FGFR4,3,L:89 I:28
+216,I,clade_partitioned,family conservation too low,117,0.0168,,0.9999,1.0,1.0,0.000999000999000999,diagnostic,0.49572649572649574,117,1.0,28,True,I>V:FGFR3;I>V:FGFR4,2,V:59 I:58
+217,M,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,M:117
+218,D,clade_partitioned,family conservation too low,117,0.0168,,0.7939,1.0,1.0,0.000999000999000999,diagnostic,0.23931623931623933,117,1.0,28,True,D>E:FGFR2;D>E:FGFR3;D>E:FGFR4,3,E:89 D:28
+219,S,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,S:117
+220,V,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,V:117
+221,V,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,V:117
+222,P,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,P:117
+223,S,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,S:117
+224,D,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,D:117
+225,K,clade_partitioned,family conservation too low,117,0.0168,,0.9999,1.0,1.0,0.000999000999000999,diagnostic,0.49572649572649574,117,1.0,28,True,K>R:FGFR3;K>R:FGFR4,2,R:59 K:58
+226,G,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,G:117
+227,N,clade_partitioned,family conservation too low,117,0.0168,,0.8615,0.875,0.8696,0.000999000999000999,diagnostic,0.7521367521367521,117,1.0,28,False,,0,N:88 T:28 M:1
+228,Y,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,Y:117
+229,T,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,T:117
+230,C,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,C:117
+231,I,clade_partitioned,family conservation too low,117,0.0168,,1.4336,0.7796,0.7736,0.000999000999000999,diagnostic,0.20512820512820512,117,0.8571428571428571,28,False,I>V:FGFR3,1,V:65 L:28 I:24
+232,V,ok,,117,0.0168,,0.071,0.2386,0.0,1.0,conserved,0.9914529914529915,117,1.0,28,False,,0,V:116 I:1
+233,E,ok,,117,0.0168,,0.172,0.3087,0.2032,0.024975024975024976,conserved,0.9743589743589743,117,1.0,28,False,,0,E:114 Q:3
+234,N,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,N:117
+235,E,clade_partitioned,family conservation too low,117,0.0168,,2.1692,0.7036,0.6862,0.000999000999000999,diagnostic,0.42735042735042733,117,1.0,28,True,,0,E:50 K:28 S:17 A:10 D:9 P:2 T:1
+236,Y,clade_partitioned,family conservation too low,117,0.0168,,1.8699,0.6941,0.68,0.000999000999000999,diagnostic,0.5128205128205128,117,1.0,28,False,,0,Y:60 F:27 L:15 M:8 V:7
+237,G,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,G:117
+238,S,ok,,117,0.0168,,0.2427,0.1848,0.0219,0.5574425574425574,conserved,0.9658119658119658,117,1.0,28,False,,0,S:113 R:3 A:1
+239,I,ok,,117,0.0168,,0.1956,0.2603,0.0749,0.26573426573426573,conserved,0.9743589743589743,117,1.0,28,False,,0,I:114 L:2 M:1
+240,N,clade_partitioned,family conservation too low,117,0.0168,,1.3442,0.797,0.7869,0.000999000999000999,diagnostic,0.49572649572649574,117,1.0,28,True,,0,N:58 R:51 Q:6 H:2
+241,H,clade_partitioned,family conservation too low,117,0.0168,,1.5041,1.0,1.0,0.000999000999000999,diagnostic,0.49572649572649574,117,1.0,28,True,H>Q:FGFR3;H>Y:FGFR4,2,H:58 Y:30 Q:29
+242,T,clade_partitioned,family conservation too low,117,0.0168,,0.988,0.8313,0.8238,0.000999000999000999,diagnostic,0.7435897435897436,117,1.0,28,False,,0,T:87 S:25 N:5
+243,Y,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,28,False,,0,Y:117
+244,Q,clade_partitioned,family conservation too low,118,0.0084,,1.999,0.9732,0.9724,0.000999000999000999,diagnostic,0.23728813559322035,118,1.0,28,True,Q>H:FGFR2;Q>L:FGFR4,2,L:31 H:30 T:29 Q:28
+245,L,ok,,118,0.0084,,0.0705,0.2397,0.0,1.0,conserved,0.9915254237288136,118,1.0,28,False,,0,L:117 A:1
+246,D,ok,,118,0.0084,,0.0705,0.2397,0.0,1.0,conserved,0.9915254237288136,118,1.0,28,False,,0,D:117 G:1
+247,V,ok,,119,0.0,,0.07,0.2468,0.0058,0.25874125874125875,conserved,0.9915966386554622,119,0.9655172413793104,29,False,,0,V:118 R:1
+248,V,clade_partitioned,family conservation too low,119,0.0,,1.1231,0.9057,0.9011,0.000999000999000999,diagnostic,0.48739495798319327,119,0.9655172413793104,29,True,V>L:FGFR4,1,L:59 V:58 M:1 A:1
+249,E,ok,,118,0.0084,,0.1942,0.2637,0.0821,0.21178821178821178,conserved,0.9745762711864406,118,0.9655172413793104,29,False,,0,E:115 G:2 Q:1
+250,R,ok,,117,0.0168,,0.1419,0.244,0.0011,0.5284715284715285,conserved,0.9829059829059829,117,1.0,29,False,,0,R:115 K:1 E:1
+251,S,ok,,117,0.0168,,0.1419,0.244,0.001,0.5634365634365635,conserved,0.9829059829059829,117,1.0,29,False,,0,S:115 E:1 A:1
+252,P,ok,,117,0.0168,,0.1419,0.244,0.0008,0.5844155844155844,conserved,0.9829059829059829,117,1.0,29,False,,0,P:115 T:1 R:1
+253,H,ok,,117,0.0168,,0.1419,0.244,0.001,0.5444555444555444,conserved,0.9829059829059829,117,1.0,29,False,,0,H:115 T:1 G:1
+254,R,ok,,117,0.0168,,0.1419,0.244,0.001,0.5624375624375625,conserved,0.9829059829059829,117,1.0,29,False,,0,R:115 A:1 W:1
+255,P,ok,,117,0.0168,,0.1419,0.244,0.001,0.5564435564435565,conserved,0.9829059829059829,117,1.0,29,False,,0,P:115 S:1 R:1
+256,I,ok,,117,0.0168,,0.1419,0.244,0.0011,0.5344655344655345,conserved,0.9829059829059829,117,1.0,29,False,,0,I:115 P:1 A:1
+257,L,ok,,117,0.0168,,0.1419,0.244,0.0009,0.5774225774225774,conserved,0.9829059829059829,117,1.0,29,False,,0,L:115 D:1 W:1
+258,Q,ok,,117,0.0168,,0.1419,0.244,0.0011,0.5564435564435565,conserved,0.9829059829059829,117,1.0,29,False,,0,Q:115 Y:1 A:1
+259,A,ok,,117,0.0168,,0.1419,0.244,0.0011,0.5344655344655345,conserved,0.9829059829059829,117,1.0,29,False,,0,A:115 L:1 G:1
+260,G,ok,,117,0.0168,,0.071,0.2445,0.0021,0.7362637362637363,conserved,0.9914529914529915,117,1.0,29,False,,0,G:116 E:1
+261,L,ok,,117,0.0168,,0.1419,0.244,0.001,0.5554445554445554,conserved,0.9829059829059829,117,1.0,29,False,,0,L:115 I:1 A:1
+262,P,ok,,117,0.0168,,0.1419,0.244,0.0011,0.5494505494505495,conserved,0.9829059829059829,117,1.0,29,False,,0,P:115 A:1 G:1
+263,A,ok,,117,0.0168,,0.1419,0.244,0.001,0.5824175824175825,conserved,0.9829059829059829,117,1.0,29,False,,0,A:115 I:1 G:1
+264,N,ok,,117,0.0168,,0.1419,0.244,0.0012,0.5354645354645354,conserved,0.9829059829059829,117,1.0,29,False,,0,N:115 Y:1 A:1
+265,K,clade_partitioned,family conservation too low,117,0.0168,,2.196,0.9107,0.9058,0.000999000999000999,diagnostic,0.24786324786324787,117,1.0,29,True,K>T:FGFR4,1,T:30 K:29 Q:28 A:26 V:2 C:1 L:1
+266,T,clade_partitioned,family conservation too low,117,0.0168,,0.929,0.8845,0.8773,0.000999000999000999,diagnostic,0.7435897435897436,117,1.0,29,False,,0,T:87 S:28 I:1 Y:1
+267,V,clade_partitioned,family conservation too low,117,0.0168,,1.4959,0.7549,0.7455,0.000999000999000999,diagnostic,0.27350427350427353,117,1.0,29,True,V>A:FGFR4,1,A:63 V:32 T:21 G:1
+268,A,clade_partitioned,family conservation too low,117,0.0168,,0.9427,0.8867,0.88,0.000999000999000999,diagnostic,0.24786324786324787,117,1.0,29,True,A>V:FGFR2;A>V:FGFR4,2,V:86 A:29 I:1 Q:1
+269,L,clade_partitioned,family conservation too low,118,0.0084,,1.4918,0.6839,0.6675,0.000999000999000999,diagnostic,0.4661016949152542,118,1.0,29,True,,0,L:55 V:49 A:12 F:1 H:1
+270,G,ok,,118,0.0084,,0.0705,0.2457,0.0042,0.46553446553446554,conserved,0.9915254237288136,118,1.0,29,False,,0,G:117 L:1
+271,S,clade_partitioned,family conservation too low,118,0.0084,,0.9247,0.8845,0.8773,0.000999000999000999,diagnostic,0.7457627118644068,118,1.0,29,False,,0,S:88 G:28 I:1 A:1
+272,N,clade_partitioned,family conservation too low,117,0.0168,,0.9919,0.7109,0.6946,0.000999000999000999,diagnostic,0.28205128205128205,117,1.0,29,True,,0,D:82 N:33 A:1 P:1
+273,V,ok,,117,0.0168,,0.1419,0.244,0.0012,0.5124875124875125,conserved,0.9829059829059829,117,1.0,29,False,,0,V:115 C:1 S:1
+274,E,ok,,117,0.0168,,0.1419,0.244,0.001,0.5624375624375625,conserved,0.9829059829059829,117,1.0,29,False,,0,E:115 M:1 W:1
+275,F,clade_partitioned,family conservation too low,117,0.0168,,0.9427,0.8289,0.8185,0.000999000999000999,diagnostic,0.7350427350427351,117,1.0,29,False,,0,F:86 L:29 V:1 D:1
+276,M,clade_partitioned,family conservation too low,117,0.0168,,2.1612,0.9253,0.9214,0.000999000999000999,diagnostic,0.24786324786324787,117,1.0,29,True,M>V:FGFR2,1,M:29 V:29 H:28 L:28 G:1 Q:1 F:1
+277,C,ok,,118,0.0084,,0.0705,0.2457,0.0038,0.5174825174825175,conserved,0.9915254237288136,118,1.0,29,False,,0,C:117 T:1
+278,K,ok,,118,0.0084,,0.2112,0.2425,0.0,0.6903096903096904,conserved,0.9745762711864406,118,1.0,29,False,,0,K:115 V:1 D:1 W:1
+279,V,ok,,118,0.0084,,0.1942,0.1764,0.0,0.7452547452547452,conserved,0.9745762711864406,118,1.0,29,False,,0,V:115 I:2 M:1
+280,Y,ok,,118,0.0084,,0.2112,0.2425,0.0,0.6993006993006993,conserved,0.9745762711864406,118,1.0,29,False,,0,Y:115 L:1 R:1 W:1
+281,S,ok,,118,0.0084,,0.2112,0.2425,0.0,0.7162837162837162,conserved,0.9745762711864406,118,1.0,29,False,,0,S:115 C:1 K:1 G:1
+282,D,ok,,118,0.0084,,0.2112,0.2425,0.0,0.7122877122877123,conserved,0.9745762711864406,118,1.0,29,False,,0,D:115 R:1 P:1 W:1
+283,P,clade_partitioned,family conservation too low,118,0.0084,,1.0052,0.8409,0.8289,0.000999000999000999,diagnostic,0.2457627118644068,118,1.0,29,True,P>A:FGFR4,1,A:86 P:29 M:1 K:1 G:1
+284,Q,ok,,118,0.0084,,0.2112,0.2425,0.0,0.6893106893106893,conserved,0.9745762711864406,118,1.0,29,False,,0,Q:115 K:1 E:1 R:1
+285,P,ok,,118,0.0084,,0.2112,0.2425,0.0,0.7082917082917083,conserved,0.9745762711864406,118,1.0,29,False,,0,P:115 N:1 K:1 R:1
+286,H,ok,,118,0.0084,,0.1409,0.2421,0.0,0.8721278721278721,conserved,0.9830508474576272,118,1.0,29,False,,0,H:116 T:1 R:1
+287,I,ok,,118,0.0084,,0.1942,0.2637,0.0806,0.22077922077922077,conserved,0.9745762711864406,118,1.0,29,False,,0,I:115 L:2 T:1
+288,Q,ok,,117,0.0168,,0.2127,0.2455,0.0027,0.33266733266733267,conserved,0.9743589743589743,117,1.0,29,False,,0,Q:114 K:1 F:1 G:1
+289,W,ok,,117,0.0168,,0.2127,0.2455,0.0028,0.32367632367632365,conserved,0.9743589743589743,117,1.0,29,False,,0,W:114 K:1 R:1 Q:1
+290,L,clade_partitioned,family conservation too low,116,0.0252,,0.9333,0.8845,0.8774,0.000999000999000999,diagnostic,0.7413793103448276,116,1.0,29,False,,0,L:86 I:28 P:1 D:1
+291,K,ok,,117,0.0168,,0.1419,0.244,0.0011,0.5424575424575424,conserved,0.9829059829059829,117,1.0,29,False,,0,K:115 D:1 G:1
+292,H,ok,,117,0.0168,,0.2127,0.2455,0.0027,0.3126873126873127,conserved,0.9743589743589743,117,1.0,29,False,,0,H:114 F:1 W:1 Q:1
+293,I,clade_partitioned,family conservation too low,117,0.0168,,1.2491,0.7853,0.7692,0.000999000999000999,diagnostic,0.48717948717948717,117,1.0,29,True,,0,I:57 V:56 S:1 P:1 M:1 L:1
+294,E,clade_partitioned,family conservation too low,117,0.0168,,0.9822,0.7142,0.6918,0.000999000999000999,diagnostic,0.7435897435897436,117,1.0,29,False,,0,E:87 V:27 S:1 P:1 L:1
+295,V,clade_partitioned,family conservation too low,117,0.0168,,1.6462,0.8143,0.8037,0.000999000999000999,diagnostic,0.5128205128205128,117,1.0,29,False,,0,V:60 K:28 I:26 Q:1 G:1 L:1
+296,N,ok,,117,0.0168,,0.2127,0.2455,0.0027,0.32867132867132864,conserved,0.9743589743589743,117,1.0,29,False,,0,N:114 P:1 G:1 Q:1
+297,G,ok,,117,0.0168,,0.1419,0.244,0.0008,0.5844155844155844,conserved,0.9829059829059829,117,1.0,29,False,,0,G:115 A:1 P:1
+298,S,ok,,117,0.0168,,0.2127,0.2455,0.0029,0.3106893106893107,conserved,0.9743589743589743,117,1.0,29,False,,0,S:114 V:1 L:1 G:1
+299,K,clade_partitioned,family conservation too low,117,0.0168,,1.0228,0.8431,0.8313,0.000999000999000999,diagnostic,0.717948717948718,117,1.0,29,False,K>S:FGFR4,1,K:84 S:30 H:1 R:1 G:1
+300,I,clade_partitioned,family conservation too low,117,0.0168,,2.2117,0.8636,0.8553,0.000999000999000999,diagnostic,0.24786324786324787,117,1.0,29,True,I>F:FGFR4,1,F:30 I:29 Y:29 V:25 N:1 K:1 R:1 G:1
+301,G,ok,,117,0.0168,,0.2127,0.2414,0.0,1.0,conserved,0.9743589743589743,117,1.0,29,False,,0,G:114 L:1 T:1 A:1
+302,P,clade_partitioned,family conservation too low,117,0.0168,,0.9558,0.8878,0.8811,0.000999000999000999,diagnostic,0.7264957264957265,117,1.0,29,False,P>A:FGFR4,1,P:85 A:30 T:1 Q:1
+303,D,ok,,117,0.0168,,0.2127,0.2455,0.0026,0.3206793206793207,conserved,0.9743589743589743,117,1.0,29,False,,0,D:114 K:1 G:1 R:1
+304,N,clade_partitioned,family conservation too low,117,0.0168,,0.9256,0.8841,0.8788,0.000999000999000999,diagnostic,0.24786324786324787,117,1.0,29,True,N>G:FGFR4,1,G:86 N:29 R:2
+305,L,clade_partitioned,family conservation too low,117,0.0168,,1.7102,0.8746,0.8673,0.000999000999000999,diagnostic,0.48717948717948717,117,1.0,29,True,,0,L:57 F:29 T:27 V:2 I:1 H:1
+306,P,ok,,117,0.0168,,0.071,0.2445,0.0019,0.7582417582417582,conserved,0.9914529914529915,117,1.0,29,False,,0,P:116 L:1
+307,Y,ok,,117,0.0168,,0.2663,0.2568,0.0582,0.24775224775224775,conserved,0.9658119658119658,117,1.0,29,False,,0,Y:113 F:2 L:1 R:1
+308,V,clade_partitioned,family conservation too low,117,0.0168,,1.0099,0.788,0.7721,0.000999000999000999,diagnostic,0.7264957264957265,117,0.9655172413793104,29,False,,0,V:85 L:29 D:1 R:1 Q:1
+309,Q,clade_partitioned,family conservation too low,117,0.0168,,1.6561,0.9031,0.8975,0.000999000999000999,diagnostic,0.5042735042735043,117,1.0,29,False,,0,Q:59 K:28 T:27 R:1 E:1 D:1
+310,I,clade_partitioned,family conservation too low,117,0.0168,,1.0099,0.8411,0.829,0.000999000999000999,diagnostic,0.24786324786324787,117,1.0,29,True,I>V:FGFR4,1,V:85 I:29 Q:1 A:1 G:1
+311,L,ok,,116,0.0252,,0.2142,0.2443,0.0008,0.5934065934065934,conserved,0.9741379310344828,116,1.0,29,False,,0,L:113 V:1 C:1 P:1
+312,K,ok,,117,0.0168,,0.2663,0.1943,0.0,0.7922077922077922,conserved,0.9658119658119658,117,1.0,29,False,,0,K:113 T:2 R:1 H:1
+313,T,clade_partitioned,family conservation too low,109,0.084,,1.5848,0.6016,0.5845,0.000999000999000999,diagnostic,0.6055045871559633,109,0.8275862068965517,29,False,,0,T:66 H:16 S:16 A:11
+314,A,ok,,109,0.084,,1.375,0.4274,0.3974,0.000999000999000999,indeterminate,0.6697247706422018,109,0.8275862068965517,29,False,,0,A:73 S:16 W:16 T:4
+315,G,clade_partitioned,family conservation too low,109,0.084,,1.4253,0.7877,0.7784,0.000999000999000999,diagnostic,0.5779816513761468,109,1.0,29,False,G>D:FGFR4,1,G:63 D:30 I:15 V:1
+316,V,clade_partitioned,family conservation too low,109,0.084,,1.7934,0.6225,0.6083,0.000999000999000999,diagnostic,0.3302752293577982,109,0.8275862068965517,29,False,V>I:FGFR4,1,I:46 V:36 S:16 A:11
+317,N,clade_partitioned,family conservation too low,109,0.084,,0.6513,0.5354,0.5047,0.000999000999000999,diagnostic,0.8532110091743119,109,1.0,29,False,,0,N:93 E:15 S:1
+318,T,ok,,109,0.084,,1.2518,0.3421,0.3069,0.000999000999000999,indeterminate,0.44036697247706424,109,0.8275862068965517,29,False,T>S:FGFR4,1,S:56 T:48 N:4 H:1
+319,T,ok,,109,0.084,,1.5824,0.5204,0.4942,0.000999000999000999,indeterminate,0.43119266055045874,109,0.8275862068965517,29,False,T>S:FGFR4,1,T:47 S:46 V:13 A:2 I:1
+320,D,gap_inflated,reported conservation too high,79,0.3361,,1.2598,0.5018,0.4851,0.000999000999000999,indeterminate,0.6582278481012658,79,1.0,29,False,,0,D:52 E:16 N:11
+321,K,gap_inflated,reported conservation too high,74,0.3782,,0.9466,0.2921,0.2774,0.000999000999000999,indeterminate,0.6351351351351351,74,1.0,24,False,,0,K:47 A:27
+322,E,clade_partitioned,family conservation too low,105,0.1176,,0.6911,0.5334,0.5039,0.000999000999000999,diagnostic,0.8380952380952381,105,1.0,24,False,,0,E:88 D:16 R:1
+323,M,clade_partitioned,family conservation too low,110,0.0756,,2.2085,0.6909,0.6758,0.000999000999000999,diagnostic,0.21818181818181817,110,0.8275862068965517,29,False,M>V:FGFR4,1,V:41 M:24 A:21 L:12 I:11 G:1
+324,E,clade_partitioned,family conservation too low,110,0.0756,,1.1143,0.5443,0.5175,0.000999000999000999,diagnostic,0.7454545454545455,110,1.0,29,False,,0,E:82 R:16 L:11 S:1
+325,V,ok,,93,0.2185,,0.7536,0.3871,0.3206,0.000999000999000999,indeterminate,0.8494623655913979,93,1.0,29,False,,0,V:79 A:11 I:2 D:1
+326,L,ok,,110,0.0756,,0.0747,0.2363,0.0,0.7022977022977023,conserved,0.990909090909091,110,1.0,29,False,,0,L:109 W:1
+327,H,clade_partitioned,family conservation too low,110,0.0756,,2.3369,0.6676,0.6478,0.000999000999000999,diagnostic,0.22727272727272727,110,0.8275862068965517,29,False,H>Y:FGFR4,1,Y:42 H:25 R:15 F:11 S:11 T:5 N:1
+328,L,ok,,95,0.2017,,0.4521,1.0,1.0,0.000999000999000999,conserved,0.9052631578947369,95,1.0,29,False,L>I:FGFR2,1,L:86 I:9
+329,R,ok,,98,0.1765,,1.2846,0.4589,0.4144,0.000999000999000999,indeterminate,0.7244897959183674,98,0.8275862068965517,29,False,,0,R:71 A:15 F:6 H:5 V:1
+330,N,ok,,109,0.084,,0.0,,,,conserved,1.0,109,1.0,29,False,,0,N:109
+331,V,ok,,109,0.084,,0.0,,,,conserved,1.0,109,1.0,29,False,,0,V:109
+332,S,ok,,110,0.0756,,1.0757,0.5057,0.4784,0.000999000999000999,indeterminate,0.6272727272727273,110,0.8275862068965517,29,False,S>T:FGFR2,1,S:69 T:39 L:1 F:1
+333,F,clade_partitioned,family conservation too low,110,0.0756,,1.7362,0.5477,0.5213,0.000999000999000999,diagnostic,0.41818181818181815,110,0.8275862068965517,29,False,,0,F:46 E:32 A:29 H:1 R:1 S:1
+334,E,ok,,110,0.0756,,1.35,0.4245,0.3797,0.000999000999000999,indeterminate,0.6909090909090909,110,0.8275862068965517,29,False,,0,E:76 A:16 R:15 N:1 P:1 Q:1
+335,D,ok,,110,0.0756,,0.3409,0.3197,0.2239,0.000999000999000999,conserved,0.9454545454545454,110,0.8275862068965517,29,False,,0,D:104 Q:5 H:1
+336,A,ok,,110,0.0756,,0.9573,0.4636,0.4219,0.000999000999000999,indeterminate,0.8,110,0.8275862068965517,29,False,,0,A:88 G:15 S:5 E:2
+337,G,ok,,110,0.0756,,0.0747,0.2363,0.0,0.7442557442557443,conserved,0.990909090909091,110,1.0,29,False,,0,G:109 Q:1
+338,E,ok,,110,0.0756,,0.1493,0.2357,0.0,0.6063936063936064,conserved,0.9818181818181818,110,0.9655172413793104,29,False,,0,E:108 Q:1 G:1
+339,Y,ok,,110,0.0756,,0.0,,,,conserved,1.0,110,1.0,29,False,,0,Y:110
+340,T,ok,,110,0.0756,,1.3613,0.4985,0.465,0.000999000999000999,indeterminate,0.7,110,0.8275862068965517,29,False,,0,T:77 L:16 I:11 V:5 G:1
+341,C,ok,,110,0.0756,,0.0747,0.2363,0.0,0.7252747252747253,conserved,0.990909090909091,110,1.0,29,False,,0,C:109 G:1
+342,L,ok,,110,0.0756,,1.1811,0.422,0.3995,0.000999000999000999,indeterminate,0.7,110,0.8275862068965517,29,False,,0,L:77 K:17 R:16
+343,A,ok,,110,0.0756,,0.671,0.3563,0.3158,0.000999000999000999,indeterminate,0.8454545454545455,110,0.8275862068965517,29,False,,0,A:93 V:16 Y:1
+344,G,ok,,110,0.0756,,1.2156,0.2862,0.2357,0.000999000999000999,tolerant,0.7,110,0.8275862068965517,29,False,,0,G:77 S:24 T:7 R:1 N:1
+345,N,ok,,110,0.0756,,0.0747,0.2363,0.0,0.7252747252747253,conserved,0.990909090909091,110,1.0,29,False,,0,N:109 G:1
+346,S,ok,,110,0.0756,,1.231,0.4454,0.4168,0.000999000999000999,indeterminate,0.7,110,0.8275862068965517,29,False,,0,S:77 Y:16 F:16 L:1
+347,I,ok,,110,0.0756,,0.1493,0.2388,0.0,0.5004995004995005,conserved,0.9818181818181818,110,1.0,29,False,,0,I:108 C:1 V:1
+348,G,ok,,110,0.0756,,0.0,,,,conserved,1.0,110,1.0,29,False,,0,G:110
+349,L,clade_partitioned,family conservation too low,110,0.0756,,2.1898,0.6658,0.6449,0.000999000999000999,diagnostic,0.4909090909090909,110,0.8275862068965517,29,False,,0,L:54 V:15 I:12 F:12 Q:11 E:5 A:1
+350,S,ok,,110,0.0756,,0.8699,0.2684,0.251,0.000999000999000999,indeterminate,0.7090909090909091,110,0.8275862068965517,29,False,,0,S:78 A:32
+351,H,clade_partitioned,family conservation too low,110,0.0756,,2.2416,0.6954,0.6811,0.000999000999000999,diagnostic,0.32727272727272727,110,0.8275862068965517,29,False,H>Y:FGFR4,1,H:36 Y:30 N:16 E:16 F:11 S:1
+352,H,clade_partitioned,family conservation too low,110,0.0756,,1.5164,0.5498,0.5312,0.000999000999000999,diagnostic,0.42727272727272725,110,0.8275862068965517,29,False,H>Q:FGFR4,1,H:47 Q:46 K:16 R:1
+353,S,ok,,110,0.0756,,0.72,0.5043,0.462,0.000999000999000999,indeterminate,0.8454545454545455,110,1.0,29,False,,0,S:93 A:15 T:1 P:1
+354,A,ok,,110,0.0756,,0.671,0.5251,0.4953,0.000999000999000999,indeterminate,0.8454545454545455,110,0.9655172413793104,29,False,,0,A:93 F:16 V:1
+355,W,ok,,110,0.0756,,0.0,,,,conserved,1.0,110,1.0,29,False,,0,W:110
+356,L,ok,,110,0.0756,,0.0747,0.2363,0.0,0.7302697302697303,conserved,0.990909090909091,110,1.0,29,False,,0,L:109 D:1
+357,T,clade_partitioned,family conservation too low,110,0.0756,,1.3082,0.6361,0.5985,0.000999000999000999,diagnostic,0.7363636363636363,110,1.0,29,False,,0,T:81 R:14 V:10 H:2 A:1 S:1 M:1
+358,V,ok,,110,0.0756,,0.1493,0.2388,0.0,0.4805194805194805,conserved,0.9818181818181818,110,1.0,29,False,,0,V:108 R:1 I:1
+359,L,ok,,108,0.0924,,1.0181,0.449,0.3959,0.000999000999000999,indeterminate,0.7962962962962963,108,0.8275862068965517,29,False,,0,L:86 H:14 A:5 R:2 I:1
+360,E,clade_partitioned,family conservation too low,109,0.084,,1.7749,0.6129,0.5825,0.000999000999000999,diagnostic,0.22018348623853212,109,0.8275862068965517,29,False,E>P:FGFR2,1,P:63 E:24 A:11 K:5 T:4 G:1 S:1
+361,A,clade_partitioned,family conservation too low,108,0.0924,,1.1808,0.7606,0.7473,0.000999000999000999,diagnostic,0.49074074074074076,108,0.9655172413793104,29,True,,0,A:53 E:52 T:2 G:1
+362,L,clade_partitioned,family conservation too low,106,0.1092,,2.1734,0.8709,0.8643,0.000999000999000999,diagnostic,0.2641509433962264,106,1.0,28,True,L>P:FGFR2;L>E:FGFR3,2,E:30 L:28 P:22 D:22 G:3 R:1
+363,E,clade_partitioned,family conservation too low,106,0.1092,,2.0442,0.6867,0.6578,0.000999000999000999,diagnostic,0.5188679245283019,106,0.9655172413793104,29,False,,0,E:55 L:21 V:16 G:6 P:3 I:2 T:1 A:1 F:1
+364,E,clade_partitioned,family conservation too low,106,0.1092,,2.4539,0.7507,0.7339,0.000999000999000999,diagnostic,0.2641509433962264,106,0.9655172413793104,29,True,E>R:FGFR2,1,E:28 L:28 R:22 T:15 M:6 A:5 Q:1 V:1
+365,R,clade_partitioned,family conservation too low,106,0.1092,,2.3576,0.8022,0.7899,0.000999000999000999,diagnostic,0.29245283018867924,106,1.0,29,True,R>E:FGFR2,1,R:31 W:25 E:22 V:19 A:4 M:3 L:2
+366,P,clade_partitioned,family conservation too low,106,0.1092,,2.2502,0.8409,0.8301,0.000999000999000999,diagnostic,0.27358490566037735,106,1.0,29,True,P>K:FGFR2;P>E:FGFR3,2,E:30 P:29 K:22 T:20 S:2 G:1 A:1 D:1
+367,A,clade_partitioned,family conservation too low,106,0.1092,,1.3597,0.5735,0.5406,0.000999000999000999,diagnostic,0.6792452830188679,106,0.9655172413793104,29,False,A>E:FGFR2,1,A:72 E:23 P:4 T:4 V:3
+368,V,clade_partitioned,family conservation too low,106,0.1092,,2.6185,0.6936,0.6724,0.000999000999000999,diagnostic,0.27358490566037735,106,0.9655172413793104,29,True,,0,V:29 I:21 A:18 G:15 D:14 T:6 M:1 N:1 P:1
+369,M,clade_partitioned,family conservation too low,106,0.1092,,2.457,0.6924,0.6683,0.000999000999000999,diagnostic,0.27358490566037735,106,1.0,29,True,,0,M:29 T:23 E:23 A:21 P:3 D:3 S:2 V:1 G:1
+370,T,clade_partitioned,family conservation too low,106,0.1092,,1.7589,0.7812,0.7723,0.000999000999000999,diagnostic,0.27358490566037735,106,1.0,29,True,,0,A:48 T:29 P:22 S:7
+371,S,clade_partitioned,family conservation too low,106,0.1092,,1.6251,0.8925,0.887,0.000999000999000999,diagnostic,0.49056603773584906,106,1.0,29,True,,0,S:52 G:27 E:25 K:1 A:1
+372,P,clade_partitioned,family conservation too low,106,0.1092,,1.9018,0.7375,0.7212,0.000999000999000999,diagnostic,0.4811320754716981,106,1.0,29,True,,0,P:51 S:27 A:17 G:7 V:3 D:1
+373,L,clade_partitioned,family conservation too low,106,0.1092,,2.406,0.8202,0.8091,0.000999000999000999,diagnostic,0.2641509433962264,106,0.9655172413793104,29,True,L>V:FGFR3,1,L:28 V:28 R:21 D:18 K:5 E:4 F:2
+374,Y,ok,,106,0.1092,,0.6179,0.2257,0.0748,0.030969030969030968,tolerant,0.9056603773584906,106,1.0,29,False,,0,Y:96 F:6 S:1 C:1 V:1 A:1
+375,L,clade_partitioned,family conservation too low,106,0.1092,,1.6336,0.9291,0.9254,0.000999000999000999,diagnostic,0.4811320754716981,106,1.0,29,True,L>A:FGFR3,1,L:51 A:28 T:25 M:1 C:1
+376,E,clade_partitioned,family conservation too low,108,0.0924,,1.6227,0.9401,0.9376,0.000999000999000999,diagnostic,0.4722222222222222,108,1.0,29,True,E>G:FGFR3,1,E:51 G:28 D:27 R:2
+377,I,ok,,108,0.0924,,0.9286,0.5281,0.4936,0.000999000999000999,indeterminate,0.7685185185185185,108,1.0,29,False,,0,I:83 V:22 L:2 S:1
+378,I,clade_partitioned,family conservation too low,108,0.0924,,1.6941,0.8412,0.8323,0.000999000999000999,diagnostic,0.49074074074074076,108,0.9655172413793104,29,True,I>A:FGFR2;I>L:FGFR3,2,I:53 L:29 A:22 V:2 P:2
+379,I,clade_partitioned,family conservation too low,108,0.0924,,1.7343,0.814,0.8007,0.000999000999000999,diagnostic,0.49074074074074076,108,1.0,29,True,I>S:FGFR3,1,I:53 S:28 L:23 R:1 H:1 P:1 M:1
+380,Y,ok,,108,0.0924,,0.2086,0.2602,0.0746,0.17082917082917082,conserved,0.9722222222222222,108,1.0,29,False,,0,Y:105 L:2 W:1
+381,C,clade_partitioned,family conservation too low,108,0.0924,,2.0696,0.7371,0.7188,0.000999000999000999,diagnostic,0.4722222222222222,108,1.0,29,True,C>G:FGFR3,1,C:51 G:28 V:11 A:7 T:7 S:3 P:1
+382,T,clade_partitioned,family conservation too low,108,0.0924,,2.4305,0.7826,0.7696,0.000999000999000999,diagnostic,0.26851851851851855,108,1.0,29,True,T>I:FGFR2,1,T:29 S:25 I:22 V:20 L:6 A:4 C:2
+383,G,ok,,108,0.0924,,0.1516,0.2364,0.0,0.8411588411588412,conserved,0.9814814814814815,108,1.0,29,False,,0,G:106 V:1 D:1
+384,A,clade_partitioned,family conservation too low,108,0.0924,,2.0484,0.9435,0.9411,0.000999000999000999,diagnostic,0.2777777777777778,108,1.0,29,True,A>V:FGFR2;A>F:FGFR3,2,A:30 F:28 S:27 V:22 Q:1
+385,F,clade_partitioned,family conservation too low,108,0.0924,,1.2032,0.5762,0.5456,0.000999000999000999,diagnostic,0.6018518518518519,108,1.0,29,False,,0,F:65 L:39 C:2 T:1 V:1
+386,L,clade_partitioned,family conservation too low,108,0.0924,,1.3293,0.659,0.6272,0.000999000999000999,diagnostic,0.6944444444444444,108,1.0,29,False,,0,L:75 A:23 F:4 T:3 V:2 K:1
+387,I,clade_partitioned,family conservation too low,108,0.0924,,1.7635,0.8276,0.8164,0.000999000999000999,diagnostic,0.48148148148148145,108,1.0,29,True,I>F:FGFR3,1,I:52 F:28 L:23 P:2 V:2 S:1
+388,S,clade_partitioned,family conservation too low,108,0.0924,,2.1807,0.7383,0.724,0.000999000999000999,diagnostic,0.26851851851851855,108,1.0,29,True,S>A:FGFR2;S>I:FGFR3,2,A:31 I:31 S:29 V:10 L:4 M:3
+389,C,clade_partitioned,family conservation too low,106,0.1092,,1.674,0.8036,0.793,0.000999000999000999,diagnostic,0.4811320754716981,106,1.0,29,True,,0,C:51 L:26 V:26 M:2 T:1
+390,M,clade_partitioned,family conservation too low,106,0.1092,,1.8705,0.7317,0.7136,0.000999000999000999,diagnostic,0.4811320754716981,106,1.0,29,True,,0,M:51 V:24 L:23 A:3 F:3 I:2
+391,V,clade_partitioned,family conservation too low,106,0.1092,,0.8769,0.7992,0.7897,0.000999000999000999,diagnostic,0.7452830188679245,106,0.9655172413793104,29,False,,0,V:79 L:26 A:1
+392,G,clade_partitioned,family conservation too low,106,0.1092,,2.0415,0.8013,0.793,0.000999000999000999,diagnostic,0.3113207547169811,106,1.0,29,True,G>V:FGFR2,1,G:33 V:26 A:23 L:23 I:1
+393,S,clade_partitioned,family conservation too low,103,0.1345,,2.2528,0.803,0.7921,0.000999000999000999,diagnostic,0.27184466019417475,103,0.9655172413793104,29,True,,0,S:28 A:26 T:22 L:21 G:3 I:3
+394,V,clade_partitioned,family conservation too low,105,0.1176,,0.8149,0.7739,0.762,0.000999000999000999,diagnostic,0.780952380952381,105,1.0,29,False,,0,V:82 A:22 F:1
+395,I,clade_partitioned,family conservation too low,106,0.1092,,1.9062,0.7274,0.7135,0.000999000999000999,diagnostic,0.46226415094339623,106,0.9655172413793104,29,True,,0,I:49 G:25 T:21 A:7 V:4
+396,V,ok,,106,0.1092,,1.4369,0.4855,0.4549,0.000999000999000999,indeterminate,0.1320754716981132,106,0.2413793103448276,29,False,,0,L:65 I:25 V:14 F:1 S:1
+397,Y,clade_partitioned,family conservation too low,106,0.1092,,1.1829,0.6359,0.6153,0.000999000999000999,diagnostic,0.5,106,1.0,29,False,,0,Y:53 C:50 H:2 R:1
+398,K,clade_partitioned,family conservation too low,106,0.1092,,1.0912,0.8307,0.8197,0.000999000999000999,diagnostic,0.27358490566037735,106,1.0,29,True,K>R:FGFR2;K>R:FGFR3,2,R:73 K:29 H:3 A:1
+399,M,clade_partitioned,family conservation too low,106,0.1092,,1.7709,0.7809,0.77,0.000999000999000999,diagnostic,0.5,106,1.0,29,False,,0,M:53 L:27 G:17 R:8 T:1
+400,K,clade_partitioned,family conservation too low,106,0.1092,,1.6844,0.7613,0.7513,0.000999000999000999,diagnostic,0.4716981132075472,106,1.0,29,True,,0,K:50 R:26 Q:26 H:4
+401,S,clade_partitioned,family conservation too low,106,0.1092,,2.2189,0.5454,0.5101,0.000999000999000999,diagnostic,0.49056603773584906,106,1.0,29,True,,0,S:52 T:16 N:13 V:12 A:7 M:3 I:2 L:1
+402,G,clade_partitioned,family conservation too low,106,0.1092,,2.2916,0.8449,0.8343,0.000999000999000999,diagnostic,0.2641509433962264,106,0.9655172413793104,29,True,G>T:FGFR2;G>P:FGFR3,2,G:28 P:28 T:23 L:21 I:3 N:1 F:1 Q:1
+403,T,clade_partitioned,family conservation too low,106,0.1092,,2.2017,0.6079,0.5718,0.000999000999000999,diagnostic,0.49056603773584906,106,1.0,29,True,,0,T:52 P:25 H:8 I:7 L:5 S:4 A:2 R:2 Y:1
+404,K,clade_partitioned,family conservation too low,108,0.0924,,1.3,0.6457,0.6127,0.000999000999000999,diagnostic,0.7314814814814815,108,1.0,29,False,,0,K:79 G:15 S:9 D:2 T:2 A:1
+405,K,clade_partitioned,family conservation too low,108,0.0924,,1.071,0.7167,0.6972,0.000999000999000999,diagnostic,0.7407407407407407,108,1.0,29,False,,0,K:80 R:22 H:4 Q:2
+406,S,clade_partitioned,family conservation too low,107,0.1008,,2.4181,0.7854,0.7688,0.000999000999000999,diagnostic,0.27102803738317754,107,1.0,29,True,S>P:FGFR2,1,S:29 G:26 P:24 H:19 T:3 A:2 Q:2 Y:1 R:1
+407,D,gap_inflated,reported conservation too high,51,0.5714,,0.0,,,,conserved,1.0,51,1.0,29,False,,0,D:51
+408,F,gap_inflated,reported conservation too high,51,0.5714,,0.0,,,,conserved,1.0,51,1.0,29,False,,0,F:51
+409,H,clade_partitioned,family conservation too low,107,0.1008,,2.2253,0.7718,0.7577,0.000999000999000999,diagnostic,0.2897196261682243,107,1.0,29,True,H>S:FGFR2,1,H:31 S:27 L:26 P:18 I:2 K:2 A:1
+410,S,clade_partitioned,family conservation too low,107,0.1008,,1.6584,0.8484,0.8402,0.000999000999000999,diagnostic,0.4953271028037383,107,1.0,29,True,,0,S:53 G:26 R:25 N:2 H:1
+411,Q,clade_partitioned,family conservation too low,107,0.1008,,1.2829,0.7167,0.691,0.000999000999000999,diagnostic,0.6822429906542056,107,1.0,29,False,,0,Q:73 S:26 P:4 T:2 R:1 E:1
+412,M,clade_partitioned,family conservation too low,108,0.0924,,1.0352,0.8509,0.8413,0.000999000999000999,diagnostic,0.26851851851851855,108,1.0,29,True,M>P:FGFR2;M>P:FGFR3,2,P:76 M:29 T:2 S:1
+413,A,clade_partitioned,family conservation too low,108,0.0924,,1.1737,0.5512,0.5222,0.000999000999000999,diagnostic,0.7222222222222222,108,1.0,29,False,,0,A:78 T:21 L:6 V:3
+414,V,clade_partitioned,family conservation too low,106,0.1092,,1.1778,0.7072,0.6787,0.000999000999000999,diagnostic,0.7358490566037735,106,1.0,29,False,,0,V:78 T:20 A:5 L:1 P:1 S:1
+415,H,clade_partitioned,family conservation too low,106,0.1092,,1.0615,0.7984,0.7814,0.000999000999000999,diagnostic,0.7264150943396226,106,1.0,29,False,,0,H:77 V:25 Q:2 I:1 S:1
+416,K,clade_partitioned,family conservation too low,106,0.1092,,1.0076,0.8267,0.8122,0.000999000999000999,diagnostic,0.7358490566037735,106,1.0,29,False,,0,K:78 Q:25 T:1 S:1 H:1
+417,L,gap_inflated,reported conservation too high,78,0.3445,,1.0097,0.9217,0.9184,0.000999000999000999,diagnostic,0.6538461538461539,78,1.0,29,False,,0,L:51 K:26 R:1
+418,A,clade_partitioned,family conservation too low,106,0.1092,,2.1903,0.9096,0.9058,0.000999000999000999,diagnostic,0.27358490566037735,106,1.0,29,True,A>T:FGFR2;A>L:FGFR4,2,A:29 L:27 T:22 V:22 I:6
+419,K,clade_partitioned,family conservation too low,106,0.1092,,1.1348,0.897,0.8912,0.000999000999000999,diagnostic,0.4811320754716981,106,1.0,29,True,,0,S:53 K:51 A:1 T:1
+420,S,clade_partitioned,family conservation too low,106,0.1092,,1.1172,0.8085,0.7931,0.000999000999000999,diagnostic,0.27358490566037735,106,1.0,29,True,S>R:FGFR2,1,R:73 S:29 K:2 E:1 H:1
+421,I,clade_partitioned,family conservation too low,106,0.1092,,1.067,0.9454,0.9433,0.000999000999000999,diagnostic,0.4811320754716981,106,1.0,29,True,I>F:FGFR3,1,F:54 I:51 S:1
+422,P,ok,,106,0.1092,,0.0,,,,conserved,1.0,106,1.0,29,False,,0,P:106
+423,L,ok,,105,0.1176,,0.0,,,,conserved,1.0,105,1.0,29,False,,0,L:105
+424,R,clade_partitioned,family conservation too low,106,0.1092,,1.6459,0.9221,0.9187,0.000999000999000999,diagnostic,0.4811320754716981,106,1.0,29,True,R>K:FGFR3,1,R:51 K:28 A:24 I:3
+425,R,ok,,107,0.1008,,0.1527,0.2384,0.0,0.7062937062937062,conserved,0.9813084112149533,107,1.0,29,False,,0,R:105 G:1 L:1
+426,Q,ok,,110,0.0756,,0.0747,0.2363,0.0,0.7262737262737263,conserved,0.990909090909091,110,1.0,29,False,,0,Q:109 S:1
+427,V,clade_partitioned,family conservation too low,117,0.0168,,0.8213,1.0,1.0,0.000999000999000999,diagnostic,0.7435897435897436,117,1.0,29,False,V>F:FGFR4,1,V:87 F:30
+428,T,gap_inflated,reported conservation too high,0,0.9916,FGFR1,0.0,,,,conserved,1.0,1,1.0,1,False,,0,
+429,V,gap_inflated,reported conservation too high,23,0.8067,,0.0,,,,conserved,1.0,23,1.0,15,False,,0,V:23
+430,S,ok,,118,0.0084,,0.0,,,,conserved,1.0,118,1.0,29,False,,0,S:118
+431,A,clade_partitioned,family conservation too low,118,0.0084,,1.062,0.9495,0.9478,0.000999000999000999,diagnostic,0.5,118,1.0,29,False,A>L:FGFR3,1,A:59 L:58 P:1
+432,D,clade_partitioned,family conservation too low,118,0.0084,,0.8848,0.8788,0.8737,0.000999000999000999,diagnostic,0.2542372881355932,118,1.0,29,True,D>E:FGFR3,1,E:87 D:30 A:1
+433,S,ok,,118,0.0084,,0.0,,,,conserved,1.0,118,1.0,29,False,,0,S:118
+434,S,clade_partitioned,family conservation too low,118,0.0084,,1.4577,0.7455,0.7345,0.000999000999000999,diagnostic,0.5932203389830508,118,1.0,29,False,,0,S:70 G:27 N:19 R:2
+435,A,clade_partitioned,family conservation too low,118,0.0084,,0.8771,0.7939,0.7893,0.000999000999000999,diagnostic,0.2966101694915254,118,1.0,29,True,A>S:FGFR2;A>S:FGFR4,2,S:83 A:35
+436,S,ok,,118,0.0084,,0.0705,0.2397,0.0,1.0,conserved,0.9915254237288136,118,1.0,29,False,,0,S:117 W:1
+437,M,clade_partitioned,family conservation too low,118,0.0084,,1.0689,0.7652,0.7559,0.000999000999000999,diagnostic,0.7457627118644068,118,1.0,29,False,,0,M:88 A:17 G:13
+438,N,clade_partitioned,family conservation too low,118,0.0084,,1.3429,0.7772,0.7675,0.000999000999000999,diagnostic,0.6271186440677966,118,1.0,29,False,,0,N:74 K:29 S:14 M:1
+439,S,ok,,118,0.0084,,0.1239,0.2752,0.1244,0.24175824175824176,conserved,0.9830508474576272,118,1.0,29,False,,0,S:116 L:2
+440,G,clade_partitioned,family conservation too low,118,0.0084,,1.4999,1.0,1.0,0.000999000999000999,diagnostic,0.2457627118644068,118,1.0,29,True,G>N:FGFR2;G>N:FGFR3;G>S:FGFR4,3,N:59 S:30 G:29
+441,V,clade_partitioned,family conservation too low,118,0.0084,,1.7495,0.827,0.8193,0.000999000999000999,diagnostic,0.2457627118644068,118,1.0,29,True,V>T:FGFR2,1,T:59 V:29 S:22 L:7 A:1
+442,L,clade_partitioned,family conservation too low,118,0.0084,,1.5619,0.9316,0.9292,0.000999000999000999,diagnostic,0.2457627118644068,118,1.0,29,True,L>P:FGFR2,1,P:58 S:30 L:29 T:1
+443,L,ok,,118,0.0084,,0.0,,,,conserved,1.0,118,1.0,29,False,,0,L:118
+444,V,ok,,118,0.0084,,0.1942,0.266,0.0868,0.14385614385614387,conserved,0.9745762711864406,118,1.0,29,False,,0,V:115 M:2 I:1
+445,R,ok,,118,0.0084,,0.0705,0.2397,0.0,1.0,conserved,0.9915254237288136,118,1.0,29,False,,0,R:117 Q:1
+446,P,clade_partitioned,family conservation too low,119,0.0,,2.1589,0.9263,0.9224,0.000999000999000999,diagnostic,0.24369747899159663,119,1.0,29,True,P>T:FGFR2,1,T:30 P:29 G:29 I:28 M:1 A:1 V:1
+447,S,clade_partitioned,family conservation too low,119,0.0,,2.2418,0.8284,0.818,0.000999000999000999,diagnostic,0.24369747899159663,119,1.0,29,True,S>T:FGFR2,1,T:31 A:30 S:29 V:24 G:2 H:1 F:1 P:1
+448,R,ok,,119,0.0,,0.1399,0.2432,0.001,0.6053946053946054,conserved,0.9831932773109243,119,1.0,29,False,,0,R:117 W:1 H:1
+449,L,ok,,119,0.0,,0.0,,,,conserved,1.0,119,1.0,29,False,,0,L:119
+450,S,ok,,119,0.0,,0.07,0.2408,0.0,1.0,conserved,0.9915966386554622,119,1.0,29,False,,0,S:118 P:1
+451,S,ok,,119,0.0,,0.07,0.2408,0.0,1.0,conserved,0.9915966386554622,119,1.0,29,False,,0,S:118 A:1
+452,S,clade_partitioned,family conservation too low,119,0.0,,1.6538,0.8323,0.8229,0.000999000999000999,diagnostic,0.5042016806722689,119,1.0,29,False,,0,S:60 T:29 G:27 A:1 P:1 N:1
+453,G,clade_partitioned,family conservation too low,119,0.0,,1.7003,0.8682,0.8619,0.000999000999000999,diagnostic,0.47058823529411764,119,1.0,29,True,G>A:FGFR2,1,G:56 A:31 E:28 C:3 D:1
+454,T,clade_partitioned,family conservation too low,118,0.0084,,1.5349,0.8874,0.8831,0.000999000999000999,diagnostic,0.5169491525423728,118,1.0,29,False,T>G:FGFR3,1,T:61 G:29 P:27 A:1
+455,P,ok,,118,0.0084,,0.2136,0.3256,0.2436,0.014985014985014986,conserved,0.9661016949152542,118,1.0,29,False,,0,P:114 A:4
+456,M,clade_partitioned,family conservation too low,118,0.0084,,1.7851,0.677,0.6611,0.000999000999000999,diagnostic,0.5508474576271186,118,1.0,29,False,,0,M:65 L:26 A:12 T:10 V:5
+457,L,ok,,118,0.0084,,0.0705,0.2397,0.0,1.0,conserved,0.9915254237288136,118,1.0,29,False,,0,L:117 M:1
+458,A,ok,,118,0.0084,,0.4065,0.3087,0.1863,0.001998001998001998,conserved,0.940677966101695,118,1.0,29,False,,0,A:111 T:4 P:2 S:1
+459,G,clade_partitioned,family conservation too low,118,0.0084,,0.8577,0.938,0.9353,0.000999000999000999,diagnostic,0.7542372881355932,118,1.0,29,False,,0,G:89 N:28 S:1
+460,V,clade_partitioned,family conservation too low,118,0.0084,,0.8577,0.8755,0.8701,0.000999000999000999,diagnostic,0.7542372881355932,118,1.0,29,False,,0,V:89 L:28 F:1
+461,S,clade_partitioned,family conservation too low,117,0.0168,,0.8079,1.0,1.0,0.000999000999000999,diagnostic,0.7521367521367521,117,1.0,29,False,S>V:FGFR4,1,S:88 V:29
+462,E,clade_partitioned,family conservation too low,117,0.0168,,0.951,0.6786,0.6638,0.000999000999000999,diagnostic,0.7777777777777778,117,1.0,29,False,,0,E:91 S:19 N:7
+463,Y,clade_partitioned,family conservation too low,117,0.0168,,0.9999,1.0,1.0,0.000999000999000999,diagnostic,0.5042735042735043,117,1.0,29,False,Y>L:FGFR3;Y>L:FGFR4,2,Y:59 L:58
+464,E,clade_partitioned,family conservation too low,118,0.0084,,0.8179,1.0,1.0,0.000999000999000999,diagnostic,0.7457627118644068,118,1.0,29,False,E>D:FGFR4,1,E:88 D:30
+465,L,ok,,118,0.0084,,0.0,,,,conserved,1.0,118,1.0,29,False,,0,L:118
+466,P,ok,,118,0.0084,,0.0,,,,conserved,1.0,118,1.0,29,False,,0,P:118
+467,E,clade_partitioned,family conservation too low,118,0.0084,,1.4999,1.0,1.0,0.000999000999000999,diagnostic,0.5,118,1.0,29,False,E>A:FGFR3;E>L:FGFR4,2,E:59 L:30 A:29
+468,D,ok,,118,0.0084,,0.0,,,,conserved,1.0,118,1.0,29,False,,0,D:118
+469,P,ok,,118,0.0084,,0.1709,0.3023,0.1945,0.061938061938061936,conserved,0.9745762711864406,118,1.0,29,False,,0,P:115 A:3
+470,R,clade_partitioned,family conservation too low,118,0.0084,,1.5246,0.8875,0.8834,0.000999000999000999,diagnostic,0.2457627118644068,118,1.0,29,True,R>K:FGFR2;R>K:FGFR3,2,K:62 R:29 L:26 Q:1
+471,W,ok,,118,0.0084,,0.0,,,,conserved,1.0,118,1.0,29,False,,0,W:118
+472,E,ok,,118,0.0084,,0.0,,,,conserved,1.0,118,1.0,29,False,,0,E:118
+473,L,clade_partitioned,family conservation too low,118,0.0084,,0.9998,1.0,1.0,0.000999000999000999,diagnostic,0.4915254237288136,118,1.0,29,True,L>F:FGFR2;L>F:FGFR4,2,F:60 L:58
+474,P,clade_partitioned,family conservation too low,118,0.0084,,0.9605,0.8516,0.8421,0.000999000999000999,diagnostic,0.7457627118644068,118,1.0,29,False,,0,P:88 S:27 C:2 L:1
+475,R,ok,,118,0.0084,,0.0,,,,conserved,1.0,118,1.0,29,False,,0,R:118
+476,D,clade_partitioned,family conservation too low,119,0.0,,1.0701,0.7612,0.7461,0.000999000999000999,diagnostic,0.7478991596638656,119,1.0,29,False,,0,D:89 A:23 T:4 S:3
+477,R,clade_partitioned,family conservation too low,119,0.0,,0.8811,0.9397,0.9371,0.000999000999000999,diagnostic,0.7394957983193278,119,1.0,29,False,R>K:FGFR2,1,R:88 K:30 Q:1
+478,L,ok,,119,0.0,,0.0,,,,conserved,1.0,119,1.0,29,False,,0,L:119
+479,V,clade_partitioned,family conservation too low,119,0.0,,1.0614,0.9499,0.9482,0.000999000999000999,diagnostic,0.48739495798319327,119,1.0,29,True,V>T:FGFR2;V>T:FGFR3,2,T:60 V:58 A:1
+480,L,ok,,119,0.0,,0.0,,,,conserved,1.0,119,1.0,29,False,,0,L:119
+481,G,ok,,119,0.0,,0.0,,,,conserved,1.0,119,1.0,29,False,,0,G:119
+482,K,ok,,119,0.0,,0.0,,,,conserved,1.0,119,1.0,29,False,,0,K:119
+483,P,ok,,119,0.0,,0.0,,,,conserved,1.0,119,1.0,29,False,,0,P:119
+484,L,ok,,119,0.0,,0.0,,,,conserved,1.0,119,1.0,29,False,,0,L:119
+485,G,ok,,119,0.0,,0.0,,,,conserved,1.0,119,1.0,29,False,,0,G:119
+486,E,ok,,119,0.0,,0.0,,,,conserved,1.0,119,1.0,29,False,,0,E:119
+487,G,ok,,119,0.0,,0.0,,,,conserved,1.0,119,1.0,29,False,,0,G:119
+488,C,ok,,119,0.0,,0.0,,,,conserved,1.0,119,1.0,29,False,,0,C:119
+489,F,ok,,119,0.0,,0.0,,,,conserved,1.0,119,1.0,29,False,,0,F:119
+490,G,ok,,119,0.0,,0.0,,,,conserved,1.0,119,1.0,29,False,,0,G:119
+491,Q,ok,,119,0.0,,0.0,,,,conserved,1.0,119,1.0,29,False,,0,Q:119
+492,V,ok,,119,0.0,,0.0,,,,conserved,1.0,119,1.0,29,False,,0,V:119
+493,V,ok,,119,0.0,,0.0,,,,conserved,1.0,119,1.0,29,False,,0,V:119
+494,L,clade_partitioned,family conservation too low,119,0.0,,1.7924,0.8344,0.8254,0.000999000999000999,diagnostic,0.24369747899159663,119,1.0,29,True,L>M:FGFR2;L>M:FGFR3,2,M:60 L:29 R:21 C:7 G:1 W:1
+495,A,ok,,119,0.0,,0.0,,,,conserved,1.0,119,1.0,29,False,,0,A:119
+496,E,ok,,119,0.0,,0.07,0.2408,0.0,1.0,conserved,0.9915966386554622,119,1.0,29,False,,0,E:118 Q:1
+497,A,ok,,119,0.0,,0.0,,,,conserved,1.0,119,1.0,29,False,,0,A:119
+498,I,clade_partitioned,family conservation too low,119,0.0,,1.7585,0.7872,0.7769,0.000999000999000999,diagnostic,0.47058823529411764,119,0.9655172413793104,29,True,I>V:FGFR2,1,I:56 V:33 F:24 L:3 Y:3
+499,G,ok,,119,0.0,,0.0,,,,conserved,1.0,119,1.0,29,False,,0,G:119
+500,L,clade_partitioned,family conservation too low,119,0.0,,1.4869,0.9643,0.9633,0.000999000999000999,diagnostic,0.24369747899159663,119,1.0,29,True,L>I:FGFR2;L>I:FGFR3,2,I:61 L:29 M:29
+501,D,ok,,119,0.0,,0.1698,0.1622,0.032,0.6263736263736264,conserved,0.9747899159663865,119,1.0,29,False,,0,D:116 N:3
+502,K,clade_partitioned,family conservation too low,119,0.0,,0.9701,0.8361,0.8258,0.000999000999000999,diagnostic,0.7394957983193278,119,1.0,29,False,,0,K:88 P:28 R:2 S:1
+503,D,ok,,119,0.0,,1.8473,0.537,0.4969,0.000999000999000999,indeterminate,0.6050420168067226,119,1.0,29,False,,0,D:72 E:18 A:15 S:4 T:4 I:3 Q:2 V:1
+504,K,clade_partitioned,family conservation too low,119,0.0,,1.3671,0.6721,0.658,0.000999000999000999,diagnostic,0.4957983193277311,119,0.9310344827586207,29,True,,0,K:59 R:50 Q:9 W:1
+505,P,clade_partitioned,family conservation too low,119,0.0,,0.9027,0.7733,0.7625,0.000999000999000999,diagnostic,0.7647058823529411,119,1.0,29,False,,0,P:91 A:25 T:3
+506,N,clade_partitioned,family conservation too low,119,0.0,,1.999,0.9554,0.9541,0.000999000999000999,diagnostic,0.2605042016806723,119,1.0,29,True,N>K:FGFR2;N>D:FGFR4,2,N:31 K:30 D:30 A:28
+507,R,clade_partitioned,family conservation too low,119,0.0,,2.0864,0.89,0.8857,0.000999000999000999,diagnostic,0.25210084033613445,119,1.0,29,True,R>E:FGFR2,1,K:31 R:30 E:30 Q:26 G:2
+508,V,clade_partitioned,family conservation too low,119,0.0,,1.6885,0.8648,0.8598,0.000999000999000999,diagnostic,0.2605042016806723,119,1.0,29,True,V>A:FGFR2;V>P:FGFR3,2,A:54 V:31 P:30 T:4
+509,T,clade_partitioned,family conservation too low,119,0.0,,1.6438,0.8722,0.8649,0.000999000999000999,diagnostic,0.24369747899159663,119,1.0,29,True,T>V:FGFR2;T>V:FGFR3,2,V:61 T:29 S:26 C:1 A:1 E:1
+510,K,clade_partitioned,family conservation too low,119,0.0,,0.8011,1.0,1.0,0.000999000999000999,diagnostic,0.24369747899159663,119,1.0,29,True,K>T:FGFR2;K>T:FGFR3;K>T:FGFR4,3,T:90 K:29
+511,V,ok,,119,0.0,,0.0,,,,conserved,1.0,119,1.0,29,False,,0,V:119
+512,A,ok,,119,0.0,,0.0,,,,conserved,1.0,119,1.0,29,False,,0,A:119
+513,V,ok,,119,0.0,,0.1231,0.2764,0.1271,0.23576423576423577,conserved,0.9831932773109243,119,1.0,29,False,,0,V:117 I:2
+514,K,ok,,119,0.0,,0.0,,,,conserved,1.0,119,1.0,29,False,,0,K:119
+515,M,ok,,119,0.0,,0.0,,,,conserved,1.0,119,1.0,29,False,,0,M:119
+516,L,ok,,119,0.0,,0.0,,,,conserved,1.0,119,1.0,29,False,,0,L:119
+517,K,ok,,119,0.0,,0.0,,,,conserved,1.0,119,1.0,29,False,,0,K:119
+518,S,clade_partitioned,family conservation too low,119,0.0,,0.9422,0.8503,0.8434,0.000999000999000999,diagnostic,0.21008403361344538,119,0.8620689655172413,29,False,S>D:FGFR2;S>D:FGFR3;S>D:FGFR4,3,D:90 S:25 A:4
+519,D,clade_partitioned,family conservation too low,119,0.0,,0.8146,1.0,1.0,0.000999000999000999,diagnostic,0.7478991596638656,119,1.0,29,False,D>N:FGFR4,1,D:89 N:30
+520,A,ok,,119,0.0,,0.0,,,,conserved,1.0,119,1.0,29,False,,0,A:119
+521,T,clade_partitioned,family conservation too low,119,0.0,,0.8146,1.0,1.0,0.000999000999000999,diagnostic,0.7478991596638656,119,1.0,29,False,T>S:FGFR4,1,T:89 S:30
+522,E,clade_partitioned,family conservation too low,119,0.0,,1.0616,0.9499,0.9482,0.000999000999000999,diagnostic,0.4957983193277311,119,1.0,29,True,E>D:FGFR4,1,E:59 D:59 Y:1
+523,K,ok,,119,0.0,,0.07,0.2408,0.0,1.0,conserved,0.9915966386554622,119,1.0,29,False,,0,K:118 E:1
+524,D,ok,,119,0.0,,0.0,,,,conserved,1.0,119,1.0,29,False,,0,D:119
+525,L,ok,,119,0.0,,0.0,,,,conserved,1.0,119,1.0,29,False,,0,L:119
+526,S,clade_partitioned,family conservation too low,119,0.0,,0.8539,0.876,0.8706,0.000999000999000999,diagnostic,0.7563025210084033,119,1.0,29,False,,0,S:90 A:28 E:1
+527,D,ok,,119,0.0,,0.0,,,,conserved,1.0,119,1.0,29,False,,0,D:119
+528,L,ok,,119,0.0,,0.0,,,,conserved,1.0,119,1.0,29,False,,0,L:119
+529,I,clade_partitioned,family conservation too low,119,0.0,,0.8518,0.8323,0.8284,0.000999000999000999,diagnostic,0.2773109243697479,119,1.0,29,True,I>V:FGFR2;I>V:FGFR3,2,V:86 I:33
+530,S,ok,,118,0.0084,,0.0,,,,conserved,1.0,118,1.0,29,False,,0,S:118
+531,E,ok,,118,0.0084,,0.0,,,,conserved,1.0,118,1.0,29,False,,0,E:118
+532,M,ok,,118,0.0084,,0.0,,,,conserved,1.0,118,1.0,29,False,,0,M:118
+533,E,ok,,118,0.0084,,0.0,,,,conserved,1.0,118,1.0,29,False,,0,E:118
+534,M,clade_partitioned,family conservation too low,118,0.0084,,0.7608,0.8107,0.806,0.000999000999000999,diagnostic,0.7796610169491526,118,1.0,29,False,,0,M:92 V:26
+535,M,ok,,118,0.0084,,0.0,,,,conserved,1.0,118,1.0,29,False,,0,M:118
+536,K,ok,,118,0.0084,,0.0,,,,conserved,1.0,118,1.0,29,False,,0,K:118
+537,M,clade_partitioned,family conservation too low,118,0.0084,,0.8848,0.9394,0.9368,0.000999000999000999,diagnostic,0.7372881355932204,118,1.0,29,False,M>L:FGFR4,1,M:87 L:30 V:1
+538,I,ok,,118,0.0084,,0.0705,0.2397,0.0,1.0,conserved,0.9915254237288136,118,1.0,29,False,,0,I:117 M:1
+539,G,ok,,118,0.0084,,0.0705,0.2397,0.0,1.0,conserved,0.9915254237288136,118,1.0,29,False,,0,G:117 D:1
+540,K,clade_partitioned,family conservation too low,118,0.0084,,1.0024,0.702,0.6897,0.000999000999000999,diagnostic,0.6779661016949152,118,1.0,29,False,,0,K:80 R:36 Q:2
+541,H,ok,,118,0.0084,,0.0,,,,conserved,1.0,118,1.0,29,False,,0,H:118
+542,K,ok,,118,0.0084,,0.0,,,,conserved,1.0,118,1.0,29,False,,0,K:118
+543,N,ok,,118,0.0084,,0.0,,,,conserved,1.0,118,1.0,29,False,,0,N:118
+544,I,ok,,118,0.0084,,0.0705,0.2457,0.0041,0.4875124875124875,conserved,0.9915254237288136,118,1.0,29,False,,0,I:117 V:1
+545,I,ok,,118,0.0084,,0.0,,,,conserved,1.0,118,1.0,29,False,,0,I:118
+546,N,ok,,118,0.0084,,0.0,,,,conserved,1.0,118,1.0,29,False,,0,N:118
+547,L,ok,,118,0.0084,,0.0,,,,conserved,1.0,118,1.0,29,False,,0,L:118
+548,L,ok,,118,0.0084,,0.0,,,,conserved,1.0,118,1.0,29,False,,0,L:118
+549,G,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,29,False,,0,G:117
+550,A,clade_partitioned,family conservation too low,117,0.0168,,0.8213,1.0,1.0,0.000999000999000999,diagnostic,0.7435897435897436,117,1.0,29,False,A>V:FGFR4,1,A:87 V:30
+551,C,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,29,False,,0,C:117
+552,T,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,29,False,,0,T:117
+553,Q,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,29,False,,0,Q:117
+554,D,clade_partitioned,family conservation too low,117,0.0168,,1.4857,0.8677,0.8642,0.000999000999000999,diagnostic,0.5128205128205128,117,0.9655172413793104,29,False,,0,D:60 E:30 G:27
+555,G,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,29,False,,0,G:117
+556,P,ok,,117,0.0168,,0.071,0.2386,0.0,1.0,conserved,0.9914529914529915,117,1.0,29,False,,0,P:116 D:1
+557,L,ok,,117,0.0168,,0.071,0.2386,0.0,1.0,conserved,0.9914529914529915,117,1.0,29,False,,0,L:116 S:1
+558,Y,ok,,117,0.0168,,0.071,0.2386,0.0,1.0,conserved,0.9914529914529915,117,1.0,29,False,,0,Y:116 F:1
+559,V,ok,,117,0.0168,,0.071,0.2386,0.0,1.0,conserved,0.9914529914529915,117,1.0,29,False,,0,V:116 L:1
+560,I,clade_partitioned,family conservation too low,117,0.0168,,0.8615,0.9372,0.9344,0.000999000999000999,diagnostic,0.7521367521367521,117,1.0,29,False,I>L:FGFR3,1,I:88 L:28 F:1
+561,V,ok,,118,0.0084,,0.0705,0.2397,0.0,1.0,conserved,0.9915254237288136,118,1.0,29,False,,0,V:117 L:1
+562,E,ok,,117,0.0168,,0.071,0.2445,0.0019,0.7542457542457542,conserved,0.9914529914529915,117,1.0,29,False,,0,E:116 L:1
+563,Y,clade_partitioned,family conservation too low,117,0.0168,,0.9651,0.7954,0.7823,0.000999000999000999,diagnostic,0.7435897435897436,117,1.0,29,False,,0,Y:87 C:27 F:2 R:1
+564,A,ok,,117,0.0168,,0.071,0.2445,0.0019,0.7572427572427572,conserved,0.9914529914529915,117,1.0,29,False,,0,A:116 C:1
+565,S,clade_partitioned,family conservation too low,117,0.0168,,1.0616,0.8658,0.861,0.000999000999000999,diagnostic,0.5128205128205128,117,1.0,29,False,S>A:FGFR4,1,S:60 A:56 G:1
+566,K,ok,,117,0.0168,,0.071,0.2445,0.0021,0.7362637362637363,conserved,0.9914529914529915,117,1.0,29,False,,0,K:116 A:1
+567,G,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,29,False,,0,G:117
+568,N,ok,,117,0.0168,,0.1419,0.241,0.0,1.0,conserved,0.9829059829059829,117,1.0,29,False,,0,N:115 P:1 S:1
+569,L,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,29,False,,0,L:117
+570,R,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,29,False,,0,R:117
+571,E,ok,,117,0.0168,,0.071,0.2445,0.002,0.7502497502497503,conserved,0.9914529914529915,117,1.0,29,False,,0,E:116 H:1
+572,Y,clade_partitioned,family conservation too low,117,0.0168,,0.9665,0.5403,0.5226,0.000999000999000999,diagnostic,0.6752136752136753,117,0.9655172413793104,29,False,,0,Y:79 F:37 S:1
+573,L,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,29,False,,0,L:117
+574,Q,clade_partitioned,family conservation too low,116,0.0252,,0.8113,1.0,1.0,0.000999000999000999,diagnostic,0.25,116,1.0,29,True,Q>R:FGFR2;Q>R:FGFR3;Q>R:FGFR4,3,R:87 Q:29
+575,A,ok,,116,0.0252,,0.0715,0.2434,0.0003,0.7242757242757243,conserved,0.9913793103448276,116,1.0,29,False,,0,A:115 V:1
+576,R,ok,,116,0.0252,,0.0,,,,conserved,1.0,116,1.0,29,False,,0,R:116
+577,R,ok,,116,0.0252,,0.0,,,,conserved,1.0,116,1.0,29,False,,0,R:116
+578,P,ok,,116,0.0252,,0.0,,,,conserved,1.0,116,1.0,29,False,,0,P:116
+579,P,ok,,116,0.0252,,0.0,,,,conserved,1.0,116,1.0,29,False,,0,P:116
+580,G,ok,,117,0.0168,,0.1248,0.274,0.1255,0.22277722277722278,conserved,0.9829059829059829,117,1.0,29,False,,0,G:115 S:2
+581,L,clade_partitioned,family conservation too low,117,0.0168,,1.8195,0.7991,0.7923,0.000999000999000999,diagnostic,0.29914529914529914,117,1.0,29,True,L>M:FGFR2;L>P:FGFR4,2,M:44 L:35 P:30 T:8
+582,E,clade_partitioned,family conservation too low,117,0.0168,,0.9999,0.9464,0.9453,0.000999000999000999,diagnostic,0.5042735042735043,117,1.0,29,False,E>D:FGFR4,1,E:59 D:58
+583,Y,clade_partitioned,family conservation too low,118,0.0084,,0.9775,0.7449,0.7252,0.000999000999000999,diagnostic,0.7457627118644068,118,1.0,29,False,,0,Y:88 L:27 W:1 V:1 S:1
+584,C,clade_partitioned,family conservation too low,118,0.0084,,1.1494,0.7367,0.7181,0.000999000999000999,diagnostic,0.2542372881355932,118,1.0,29,True,,0,S:82 C:30 T:4 A:1 P:1
+585,Y,clade_partitioned,family conservation too low,118,0.0084,,1.6586,0.8278,0.8194,0.000999000999000999,diagnostic,0.4830508474576271,118,1.0,29,True,,0,Y:57 F:31 P:27 L:2 V:1
+586,N,clade_partitioned,family conservation too low,118,0.0084,,1.2154,0.6846,0.6584,0.000999000999000999,diagnostic,0.2542372881355932,118,1.0,29,True,,0,D:81 N:30 E:4 H:1 R:1 A:1
+587,P,clade_partitioned,family conservation too low,117,0.0168,,2.2284,0.8655,0.8606,0.000999000999000999,diagnostic,0.24786324786324787,117,1.0,29,True,P>I:FGFR2,1,I:30 P:29 G:27 T:22 A:9
+588,S,clade_partitioned,family conservation too low,117,0.0168,,2.3076,0.8138,0.8035,0.000999000999000999,diagnostic,0.2564102564102564,117,0.9655172413793104,29,True,S>C:FGFR3,1,S:30 C:28 P:27 N:24 T:5 L:2 A:1
+589,H,clade_partitioned,family conservation too low,117,0.0168,,1.3047,0.6498,0.6338,0.000999000999000999,diagnostic,0.20512820512820512,117,0.8275862068965517,29,False,H>R:FGFR4,1,R:77 H:24 K:15 Y:1
+590,N,clade_partitioned,family conservation too low,117,0.0168,,2.5099,0.7335,0.7175,0.000999000999000999,diagnostic,0.1623931623931624,117,0.6551724137931034,29,False,,0,V:30 S:28 L:24 N:19 H:8 P:5 T:2 A:1
+591,P,clade_partitioned,family conservation too low,117,0.0168,,0.8471,0.732,0.7203,0.000999000999000999,diagnostic,0.7606837606837606,117,1.0,29,False,,0,P:89 S:27 C:1
+592,E,ok,,116,0.0252,,0.0715,0.2374,0.0,1.0,conserved,0.9913793103448276,116,1.0,29,False,,0,E:115 D:1
+593,E,clade_partitioned,family conservation too low,116,0.0252,,0.7828,0.8451,0.8413,0.000999000999000999,diagnostic,0.7672413793103449,116,1.0,29,False,,0,E:89 G:27
+594,Q,clade_partitioned,family conservation too low,116,0.0252,,0.919,0.7508,0.7353,0.000999000999000999,diagnostic,0.75,116,0.9655172413793104,29,False,,0,Q:87 P:27 L:1 R:1
+595,L,clade_partitioned,family conservation too low,116,0.0252,,0.8113,1.0,1.0,0.000999000999000999,diagnostic,0.75,116,1.0,29,False,L>M:FGFR2,1,L:87 M:29
+596,S,clade_partitioned,family conservation too low,116,0.0252,,1.2439,0.8162,0.8067,0.000999000999000999,diagnostic,0.49137931034482757,116,1.0,29,True,S>T:FGFR3,1,S:57 T:54 A:4 R:1
+597,S,clade_partitioned,family conservation too low,116,0.0252,,1.1435,0.8178,0.811,0.000999000999000999,diagnostic,0.25,116,1.0,29,True,S>F:FGFR2;S>F:FGFR4,2,F:79 S:29 C:8
+598,K,clade_partitioned,family conservation too low,116,0.0252,,1.0137,0.827,0.8161,0.000999000999000999,diagnostic,0.7327586206896551,116,0.9655172413793104,29,False,,0,K:85 P:27 Q:3 R:1
+599,D,clade_partitioned,family conservation too low,116,0.0252,,0.9918,0.7117,0.6932,0.000999000999000999,diagnostic,0.7586206896551724,116,1.0,29,False,,0,D:88 A:23 V:4 G:1
+600,L,ok,,116,0.0252,,0.0,,,,conserved,1.0,116,1.0,29,False,,0,L:116
+601,V,ok,,116,0.0252,,0.0,,,,conserved,1.0,116,1.0,29,False,,0,V:116
+602,S,ok,,116,0.0252,,0.0,,,,conserved,1.0,116,1.0,29,False,,0,S:116
+603,C,ok,,116,0.0252,,0.0715,0.2496,0.0086,0.2217782217782218,conserved,0.9913793103448276,116,1.0,29,False,,0,C:115 F:1
+604,A,clade_partitioned,family conservation too low,116,0.0252,,0.8113,1.0,1.0,0.000999000999000999,diagnostic,0.75,116,1.0,29,False,A>T:FGFR2,1,A:87 T:29
+605,Y,ok,,116,0.0252,,0.0,,,,conserved,1.0,116,1.0,29,False,,0,Y:116
+606,Q,ok,,116,0.0252,,0.0,,,,conserved,1.0,116,1.0,29,False,,0,Q:116
+607,V,clade_partitioned,family conservation too low,116,0.0252,,0.8113,1.0,1.0,0.000999000999000999,diagnostic,0.75,116,1.0,29,False,V>L:FGFR2,1,V:87 L:29
+608,A,ok,,116,0.0252,,0.0,,,,conserved,1.0,116,1.0,29,False,,0,A:116
+609,R,ok,,116,0.0252,,0.0715,0.2496,0.0084,0.24775224775224775,conserved,0.9913793103448276,116,1.0,29,False,,0,R:115 Q:1
+610,G,ok,,116,0.0252,,0.0,,,,conserved,1.0,116,1.0,29,False,,0,G:116
+611,M,ok,,116,0.0252,,0.0,,,,conserved,1.0,116,1.0,29,False,,0,M:116
+612,E,clade_partitioned,family conservation too low,116,0.0252,,0.8715,0.7591,0.7473,0.000999000999000999,diagnostic,0.7672413793103449,116,1.0,29,False,,0,E:89 Q:25 H:2
+613,Y,ok,,116,0.0252,,0.0,,,,conserved,1.0,116,1.0,29,False,,0,Y:116
+614,L,ok,,116,0.0252,,0.0,,,,conserved,1.0,116,1.0,29,False,,0,L:116
+615,A,clade_partitioned,family conservation too low,116,0.0252,,0.8247,1.0,1.0,0.000999000999000999,diagnostic,0.7413793103448276,116,1.0,29,False,A>E:FGFR4,1,A:86 E:30
+616,S,ok,,116,0.0252,,0.0,,,,conserved,1.0,116,1.0,29,False,,0,S:116
+617,K,clade_partitioned,family conservation too low,116,0.0252,,1.4996,0.9276,0.9256,0.000999000999000999,diagnostic,0.25862068965517243,116,1.0,29,True,K>Q:FGFR2;K>Q:FGFR3,2,Q:58 K:30 R:28
+618,K,ok,,116,0.0252,,0.0,,,,conserved,1.0,116,1.0,29,False,,0,K:116
+619,C,ok,,116,0.0252,,0.0,,,,conserved,1.0,116,1.0,29,False,,0,C:116
+620,I,ok,,116,0.0252,,0.0,,,,conserved,1.0,116,1.0,29,False,,0,I:116
+621,H,ok,,116,0.0252,,0.0,,,,conserved,1.0,116,1.0,29,False,,0,H:116
+622,R,ok,,116,0.0252,,0.0,,,,conserved,1.0,116,1.0,29,False,,0,R:116
+623,D,ok,,116,0.0252,,0.0,,,,conserved,1.0,116,1.0,29,False,,0,D:116
+624,L,ok,,116,0.0252,,0.0,,,,conserved,1.0,116,1.0,29,False,,0,L:116
+625,A,ok,,116,0.0252,,0.0,,,,conserved,1.0,116,1.0,29,False,,0,A:116
+626,A,ok,,116,0.0252,,0.0,,,,conserved,1.0,116,1.0,29,False,,0,A:116
+627,R,ok,,116,0.0252,,0.0,,,,conserved,1.0,116,1.0,29,False,,0,R:116
+628,N,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,29,False,,0,N:117
+629,V,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,29,False,,0,V:117
+630,L,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,29,False,,0,L:117
+631,V,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,29,False,,0,V:117
+632,T,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,29,False,,0,T:117
+633,E,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,29,False,,0,E:117
+634,D,clade_partitioned,family conservation too low,117,0.0168,,0.8213,1.0,1.0,0.000999000999000999,diagnostic,0.7435897435897436,117,1.0,29,False,D>N:FGFR2,1,D:87 N:30
+635,N,ok,,117,0.0168,,0.3666,0.291,0.1459,0.002997002997002997,conserved,0.9487179487179487,117,1.0,29,False,,0,N:111 S:3 D:2 T:1
+636,V,ok,,117,0.0168,,0.1248,0.274,0.125,0.22777222777222778,conserved,0.9829059829059829,117,1.0,29,False,,0,V:115 A:2
+637,M,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,29,False,,0,M:117
+638,K,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,29,False,,0,K:117
+639,I,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,29,False,,0,I:117
+640,A,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,29,False,,0,A:117
+641,D,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,29,False,,0,D:117
+642,F,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,29,False,,0,F:117
+643,G,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,29,False,,0,G:117
+644,L,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,29,False,,0,L:117
+645,A,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,29,False,,0,A:117
+646,R,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,29,False,,0,R:117
+647,D,clade_partitioned,family conservation too low,117,0.0168,,0.8213,1.0,1.0,0.000999000999000999,diagnostic,0.7435897435897436,117,1.0,29,False,D>G:FGFR4,1,D:87 G:30
+648,I,clade_partitioned,family conservation too low,117,0.0168,,0.9809,0.7696,0.7652,0.000999000999000999,diagnostic,0.5811965811965812,117,1.0,29,False,I>V:FGFR3,1,I:68 V:49
+649,H,clade_partitioned,family conservation too low,117,0.0168,,0.8213,1.0,1.0,0.000999000999000999,diagnostic,0.7435897435897436,117,1.0,29,False,H>N:FGFR2,1,H:87 N:30
+650,H,clade_partitioned,family conservation too low,117,0.0168,,1.1462,0.8951,0.8911,0.000999000999000999,diagnostic,0.47863247863247865,117,1.0,29,True,H>N:FGFR2;H>N:FGFR3,2,N:58 H:56 D:3
+651,I,clade_partitioned,family conservation too low,117,0.0168,,0.7642,0.8837,0.8809,0.000999000999000999,diagnostic,0.7777777777777778,117,1.0,29,False,,0,I:91 L:26
+652,D,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,29,False,,0,D:117
+653,Y,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,29,False,,0,Y:117
+654,Y,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,29,False,,0,Y:117
+655,K,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,29,False,,0,K:117
+656,K,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,29,False,,0,K:117
+657,T,ok,,117,0.0168,,0.071,0.2386,0.0,1.0,conserved,0.9914529914529915,117,1.0,29,False,,0,T:116 N:1
+658,T,clade_partitioned,family conservation too low,117,0.0168,,0.8213,1.0,1.0,0.000999000999000999,diagnostic,0.7435897435897436,117,1.0,29,False,T>S:FGFR4,1,T:87 S:30
+659,N,ok,,117,0.0168,,0.0,,,,conserved,1.0,117,1.0,29,False,,0,N:117
+660,G,ok,,117,0.0168,,0.2427,0.2929,0.1528,0.012987012987012988,conserved,0.9658119658119658,117,1.0,29,False,,0,G:113 L:3 V:1
+661,R,ok,,117,0.0168,,0.2427,0.2929,0.1523,0.014985014985014986,conserved,0.9658119658119658,117,1.0,29,False,,0,R:113 V:3 T:1
+662,L,ok,,116,0.0252,,0.0,,,,conserved,1.0,116,1.0,29,False,,0,L:116
+663,P,ok,,113,0.0504,,0.0,,,,conserved,1.0,113,1.0,29,False,,0,P:113
+664,V,ok,,113,0.0504,,0.0,,,,conserved,1.0,113,1.0,29,False,,0,V:113
+665,K,ok,,113,0.0504,,0.0,,,,conserved,1.0,113,1.0,29,False,,0,K:113
+666,W,ok,,113,0.0504,,0.0,,,,conserved,1.0,113,1.0,29,False,,0,W:113
+667,M,ok,,114,0.042,,0.0725,0.2351,0.0,1.0,conserved,0.9912280701754386,114,1.0,29,False,,0,M:113 S:1
+668,A,ok,,114,0.042,,0.0,,,,conserved,1.0,114,1.0,29,False,,0,A:114
+669,P,ok,,114,0.042,,0.0,,,,conserved,1.0,114,1.0,29,False,,0,P:114
+670,E,ok,,114,0.042,,0.0725,0.2351,0.0,1.0,conserved,0.9912280701754386,114,1.0,29,False,,0,E:113 H:1
+671,A,ok,,114,0.042,,0.0725,0.2351,0.0,1.0,conserved,0.9912280701754386,114,1.0,29,False,,0,A:113 S:1
+672,L,ok,,114,0.042,,0.0725,0.2351,0.0,1.0,conserved,0.9912280701754386,114,1.0,29,False,,0,L:113 C:1
+673,F,ok,,114,0.042,,0.0,,,,conserved,1.0,114,1.0,29,False,,0,F:114
+674,D,ok,,113,0.0504,,0.0,,,,conserved,1.0,113,1.0,29,False,,0,D:113
+675,R,ok,,113,0.0504,,0.0731,0.2664,0.0294,0.21878121878121878,conserved,0.9911504424778761,113,1.0,29,False,,0,R:112 Q:1
+676,I,clade_partitioned,family conservation too low,113,0.0504,,0.8216,1.0,1.0,0.000999000999000999,diagnostic,0.25663716814159293,113,1.0,29,True,I>V:FGFR2;I>V:FGFR3;I>V:FGFR4,3,V:84 I:29
+677,Y,ok,,113,0.0504,,0.0,,,,conserved,1.0,113,1.0,29,False,,0,Y:113
+678,T,ok,,113,0.0504,,0.0,,,,conserved,1.0,113,1.0,29,False,,0,T:113
+679,H,ok,,113,0.0504,,0.0,,,,conserved,1.0,113,1.0,29,False,,0,H:113
+680,Q,ok,,113,0.0504,,0.0,,,,conserved,1.0,113,1.0,29,False,,0,Q:113
+681,S,ok,,113,0.0504,,0.0,,,,conserved,1.0,113,1.0,29,False,,0,S:113
+682,D,ok,,113,0.0504,,0.0,,,,conserved,1.0,113,1.0,29,False,,0,D:113
+683,V,ok,,112,0.0588,,0.0,,,,conserved,1.0,112,1.0,29,False,,0,V:112
+684,W,ok,,111,0.0672,,0.0,,,,conserved,1.0,111,1.0,29,False,,0,W:111
+685,S,ok,,111,0.0672,,0.0,,,,conserved,1.0,111,1.0,29,False,,0,S:111
+686,F,ok,,114,0.042,,0.1997,0.2749,0.0942,0.052947052947052944,conserved,0.9736842105263158,114,1.0,29,False,,0,F:111 W:2 R:1
+687,G,ok,,114,0.042,,0.0725,0.2538,0.0128,0.25574425574425574,conserved,0.9912280701754386,114,1.0,29,False,,0,G:113 E:1
+688,V,clade_partitioned,family conservation too low,114,0.042,,0.9549,0.8736,0.8677,0.000999000999000999,diagnostic,0.7368421052631579,114,1.0,29,False,V>I:FGFR4,1,V:84 I:27 P:3
+689,L,ok,,114,0.042,,0.1756,0.3128,0.2072,0.030969030969030968,conserved,0.9736842105263158,114,1.0,29,False,,0,L:111 A:3
+690,L,clade_partitioned,family conservation too low,114,0.042,,0.8442,0.9359,0.9344,0.000999000999000999,diagnostic,0.7280701754385965,114,1.0,29,False,L>M:FGFR2,1,L:83 M:31
+691,W,ok,,114,0.042,,0.1756,0.3128,0.2033,0.030969030969030968,conserved,0.9736842105263158,114,1.0,29,False,,0,W:111 G:3
+692,E,ok,,114,0.042,,0.1756,0.3128,0.2092,0.023976023976023976,conserved,0.9736842105263158,114,1.0,29,False,,0,E:111 D:3
+693,I,ok,,114,0.042,,0.1756,0.3128,0.2096,0.026973026973026972,conserved,0.9736842105263158,114,1.0,29,False,,0,I:111 L:3
+694,F,ok,,114,0.042,,0.2478,0.2946,0.1533,0.01998001998001998,conserved,0.9649122807017544,114,1.0,29,False,,0,F:110 H:3 C:1
+695,T,ok,,114,0.042,,0.1274,0.2844,0.134,0.11288711288711288,conserved,0.9824561403508771,114,1.0,29,False,,0,T:112 A:2
+696,L,ok,,115,0.0336,,0.3176,0.2858,0.1235,0.012987012987012988,conserved,0.9565217391304348,115,1.0,29,False,,0,L:110 G:3 P:1 R:1
+697,G,ok,,115,0.0336,,0.0,,,,conserved,1.0,115,1.0,29,False,,0,G:115
+698,G,ok,,116,0.0252,,0.2444,0.2934,0.151,0.01898101898101898,conserved,0.9655172413793104,116,1.0,29,False,,0,G:112 L:3 A:1
+699,S,ok,,113,0.0504,,0.0731,0.2399,0.0,0.7362637362637363,conserved,0.9911504424778761,113,1.0,29,False,,0,S:112 D:1
+700,P,ok,,116,0.0252,,0.1429,0.2459,0.0032,0.4125874125874126,conserved,0.9827586206896551,116,1.0,29,False,,0,P:114 A:1 D:1
+701,Y,ok,,116,0.0252,,0.3154,0.2811,0.1181,0.022977022977022976,conserved,0.9568965517241379,116,0.9655172413793104,29,False,,0,Y:111 V:3 N:1 F:1
+702,P,ok,,116,0.0252,,0.0,,,,conserved,1.0,116,1.0,29,False,,0,P:116
+703,G,ok,,116,0.0252,,0.1732,0.3154,0.2131,0.015984015984015984,conserved,0.9741379310344828,116,1.0,29,False,,0,G:113 R:3
+704,V,clade_partitioned,family conservation too low,116,0.0252,,1.041,0.8341,0.824,0.000999000999000999,diagnostic,0.25,116,1.0,29,True,V>I:FGFR2,1,I:83 V:29 H:3 W:1
+705,P,ok,,116,0.0252,,0.0715,0.2434,0.0001,0.7572427572427572,conserved,0.9913793103448276,116,1.0,29,False,,0,P:115 E:1
+706,V,ok,,116,0.0252,,0.2681,0.2674,0.0729,0.024975024975024976,conserved,0.9655172413793104,116,1.0,29,False,,0,V:112 C:2 R:1 A:1
+707,E,ok,,116,0.0252,,0.2444,0.2934,0.1508,0.02097902097902098,conserved,0.9655172413793104,116,1.0,29,False,,0,E:112 G:3 S:1
+708,E,ok,,116,0.0252,,0.2444,0.2934,0.1519,0.01998001998001998,conserved,0.9655172413793104,116,1.0,29,False,,0,E:112 G:3 P:1
+709,L,ok,,116,0.0252,,0.1969,0.2773,0.0992,0.016983016983016984,conserved,0.9741379310344828,116,1.0,29,False,,0,L:113 A:2 T:1
+710,F,ok,,116,0.0252,,0.2444,0.2934,0.154,0.016983016983016984,conserved,0.9655172413793104,116,1.0,29,False,,0,F:112 L:3 A:1
+711,K,clade_partitioned,family conservation too low,116,0.0252,,1.0137,0.7767,0.7629,0.000999000999000999,diagnostic,0.7327586206896551,116,1.0,29,False,,0,K:85 S:27 Q:3 P:1
+712,L,ok,,116,0.0252,,0.1732,0.3154,0.2071,0.00999000999000999,conserved,0.9741379310344828,116,1.0,29,False,,0,L:113 A:3
+713,L,ok,,116,0.0252,,0.2444,0.2934,0.1547,0.014985014985014986,conserved,0.9655172413793104,116,1.0,29,False,,0,L:112 A:3 H:1
+714,K,clade_partitioned,family conservation too low,116,0.0252,,1.0137,0.7767,0.7626,0.000999000999000999,diagnostic,0.7327586206896551,116,1.0,29,False,,0,K:85 R:27 E:3 L:1
+715,E,ok,,116,0.0252,,0.2444,0.2934,0.1516,0.022977022977022976,conserved,0.9655172413793104,116,1.0,29,False,,0,E:112 G:3 R:1
+716,G,ok,,115,0.0336,,0.072,0.2485,0.0062,0.48451548451548454,conserved,0.991304347826087,115,1.0,29,False,,0,G:114 R:1
+717,H,ok,,112,0.0588,,0.0,,,,conserved,1.0,112,1.0,29,False,,0,H:112
+718,R,ok,,112,0.0588,,0.0,,,,conserved,1.0,112,1.0,29,False,,0,R:112
+719,M,ok,,112,0.0588,,0.0,,,,conserved,1.0,112,1.0,29,False,,0,M:112
+720,D,ok,,112,0.0588,,0.1292,0.2819,0.1287,0.11588411588411589,conserved,0.9821428571428571,112,1.0,29,False,,0,D:110 E:2
+721,K,clade_partitioned,family conservation too low,115,0.0336,,0.978,0.8238,0.8157,0.000999000999000999,diagnostic,0.7217391304347827,115,1.0,29,False,K>R:FGFR4,1,K:83 R:29 P:3
+722,P,ok,,115,0.0336,,0.0,,,,conserved,1.0,115,1.0,29,False,,0,P:115
+723,S,clade_partitioned,family conservation too low,115,0.0336,,1.7394,0.7995,0.7892,0.000999000999000999,diagnostic,0.26956521739130435,115,0.9655172413793104,29,True,,0,A:54 S:31 P:25 H:3 T:2
+724,N,ok,,115,0.0336,,0.8888,0.4305,0.3604,0.000999000999000999,indeterminate,0.8347826086956521,115,1.0,29,False,,0,N:96 H:13 G:3 S:1 Q:1 R:1
+725,C,ok,,115,0.0336,,0.1744,0.3141,0.205,0.03496503496503497,conserved,0.9739130434782609,115,1.0,29,False,,0,C:112 Q:3
+726,T,clade_partitioned,family conservation too low,115,0.0336,,0.9504,0.8172,0.8087,0.000999000999000999,diagnostic,0.7391304347826086,115,1.0,29,False,,0,T:85 P:27 A:3
+727,N,clade_partitioned,family conservation too low,115,0.0336,,1.7774,0.7977,0.7836,0.000999000999000999,diagnostic,0.5043478260869565,115,1.0,29,False,,0,N:58 H:26 P:25 S:3 Q:1 R:1 G:1
+728,E,clade_partitioned,family conservation too low,115,0.0336,,0.9204,0.87,0.8636,0.000999000999000999,diagnostic,0.7565217391304347,115,1.0,29,False,,0,E:87 D:25 Q:3
+729,L,ok,,115,0.0336,,0.0,,,,conserved,1.0,115,1.0,29,False,,0,L:115
+730,Y,ok,,117,0.0168,,0.2427,0.2947,0.1556,0.011988011988011988,conserved,0.9658119658119658,117,1.0,29,False,,0,Y:113 H:3 W:1
+731,M,clade_partitioned,family conservation too low,117,0.0168,,1.1666,0.6654,0.6308,0.000999000999000999,diagnostic,0.717948717948718,117,1.0,29,False,,0,M:84 G:27 T:2 W:1 S:1 A:1 L:1
+732,M,clade_partitioned,family conservation too low,116,0.0252,,1.6704,0.8978,0.8927,0.000999000999000999,diagnostic,0.5,116,1.0,29,False,M>L:FGFR4,1,M:58 L:30 I:24 P:3 V:1
+733,M,ok,,117,0.0168,,0.2427,0.2929,0.1525,0.013986013986013986,conserved,0.9658119658119658,117,1.0,29,False,,0,M:113 V:3 P:1
+734,R,ok,,117,0.0168,,0.172,0.3167,0.2128,0.011988011988011988,conserved,0.9743589743589743,117,1.0,29,False,,0,R:114 H:3
+735,D,clade_partitioned,family conservation too low,118,0.0084,,1.0578,0.7952,0.7881,0.000999000999000999,diagnostic,0.5338983050847458,118,1.0,29,False,D>E:FGFR4,1,D:63 E:54 Q:1
+736,C,ok,,118,0.0084,,0.3112,0.2822,0.122,0.014985014985014986,conserved,0.9576271186440678,118,1.0,29,False,,0,C:113 H:3 A:1 S:1
+737,W,ok,,118,0.0084,,0.2942,0.2408,0.1073,0.02197802197802198,conserved,0.9576271186440678,118,1.0,29,False,,0,W:113 A:3 D:2
+738,H,ok,,118,0.0084,,0.3345,0.2638,0.0601,0.007992007992007992,conserved,0.9576271186440678,118,0.9655172413793104,29,False,,0,H:113 G:2 N:1 Q:1 R:1
+739,A,ok,,118,0.0084,,0.3112,0.2822,0.1207,0.013986013986013986,conserved,0.9576271186440678,118,1.0,29,False,,0,A:113 V:3 E:1 P:1
+740,V,ok,,118,0.0084,,1.1392,0.4586,0.4272,0.000999000999000999,indeterminate,0.6694915254237288,118,0.9655172413793104,29,False,,0,V:79 A:34 L:3 I:2
+741,P,ok,,118,0.0084,,0.3112,0.2822,0.123,0.013986013986013986,conserved,0.9576271186440678,118,1.0,29,False,,0,P:113 A:3 G:1 S:1
+742,S,ok,,118,0.0084,,0.3345,0.2625,0.0599,0.012987012987012988,conserved,0.9576271186440678,118,1.0,29,False,,0,S:113 R:2 N:1 H:1 C:1
+743,Q,ok,,118,0.0084,,0.2411,0.2885,0.1464,0.028971028971028972,conserved,0.9661016949152542,118,1.0,29,False,,0,Q:114 R:3 T:1
+744,R,ok,,117,0.0168,,0.2427,0.2929,0.1539,0.008991008991008992,conserved,0.9658119658119658,117,1.0,29,False,,0,R:113 A:3 K:1
+745,P,ok,,117,0.0168,,0.2427,0.2929,0.1513,0.01898101898101898,conserved,0.9658119658119658,117,1.0,29,False,,0,P:113 L:3 N:1
+746,T,ok,,116,0.0252,,0.1429,0.2523,0.0114,0.05194805194805195,conserved,0.9827586206896551,116,1.0,29,False,,0,T:114 P:1 A:1
+747,F,ok,,116,0.0252,,0.1732,0.3154,0.21,0.008991008991008992,conserved,0.9741379310344828,116,1.0,29,False,,0,F:113 E:3
+748,K,ok,,116,0.0252,,0.1732,0.3154,0.2075,0.014985014985014986,conserved,0.9741379310344828,116,1.0,29,False,,0,K:113 A:3
+749,Q,ok,,116,0.0252,,0.1732,0.3154,0.2085,0.011988011988011988,conserved,0.9741379310344828,116,1.0,29,False,,0,Q:113 H:3
+750,L,ok,,116,0.0252,,0.0,,,,conserved,1.0,116,1.0,29,False,,0,L:116
+751,V,ok,,116,0.0252,,0.1732,0.3154,0.2098,0.01098901098901099,conserved,0.9741379310344828,116,1.0,29,False,,0,V:113 Q:3
+752,E,ok,,116,0.0252,,0.1732,0.3154,0.2096,0.015984015984015984,conserved,0.9741379310344828,116,1.0,29,False,,0,E:113 A:3
+753,D,clade_partitioned,family conservation too low,116,0.0252,,0.8615,0.8624,0.8594,0.000999000999000999,diagnostic,0.7155172413793104,116,1.0,29,False,D>A:FGFR4,1,D:83 A:33
+754,L,ok,,116,0.0252,,0.1732,0.3154,0.2101,0.011988011988011988,conserved,0.9741379310344828,116,1.0,29,False,,0,L:113 G:3
+755,D,ok,,116,0.0252,,0.2982,0.2959,0.1707,0.00999000999000999,conserved,0.9568965517241379,116,1.0,29,False,,0,D:111 G:3 N:2
+756,R,clade_partitioned,family conservation too low,116,0.0252,,0.9865,0.8798,0.8743,0.000999000999000999,diagnostic,0.7155172413793104,116,1.0,29,False,R>K:FGFR4,1,R:83 K:30 G:3
+757,I,clade_partitioned,family conservation too low,116,0.0252,,1.1522,0.5844,0.5614,0.000999000999000999,diagnostic,0.6206896551724138,116,1.0,29,False,,0,I:72 V:40 P:3 L:1
+758,V,clade_partitioned,family conservation too low,116,0.0252,,0.9736,0.8782,0.8726,0.000999000999000999,diagnostic,0.25,116,1.0,29,True,V>L:FGFR2;V>L:FGFR4,2,L:84 V:29 G:3
+759,A,gap_inflated,reported conservation too high,86,0.2689,FGFR4,1.1193,0.8571,0.8518,0.000999000999000999,diagnostic,0.3333333333333333,87,1.0,29,True,A>T:FGFR2;A>L:FGFR4,2,T:54 A:29 P:3
+760,L,clade_partitioned,family conservation too low,116,0.0252,,1.2287,0.6803,0.6458,0.000999000999000999,diagnostic,0.7241379310344828,116,1.0,29,False,,0,L:84 V:24 C:2 A:2 T:2 H:1 M:1
+761,T,clade_partitioned,family conservation too low,116,0.0252,,1.0226,0.7733,0.7595,0.000999000999000999,diagnostic,0.7068965517241379,116,1.0,29,False,,0,T:82 A:31 P:2 V:1
+762,S,clade_partitioned,family conservation too low,116,0.0252,,1.8233,0.8137,0.801,0.000999000999000999,diagnostic,0.46551724137931033,116,1.0,29,True,S>T:FGFR2,1,S:54 T:29 V:27 H:2 I:2 Y:1 R:1
+763,N,clade_partitioned,family conservation too low,116,0.0252,,1.7831,0.801,0.787,0.000999000999000999,diagnostic,0.5,116,1.0,29,False,,0,N:58 S:29 T:23 A:2 R:2 C:1 E:1
+764,Q,clade_partitioned,family conservation too low,117,0.0168,,1.494,0.9399,0.9383,0.000999000999000999,diagnostic,0.26495726495726496,117,1.0,29,True,Q>E:FGFR2;Q>E:FGFR4,2,E:59 Q:31 D:27
+765,E,ok,,117,0.0168,,0.4093,0.2302,0.0932,0.030969030969030968,conserved,0.9401709401709402,117,0.9655172413793104,29,False,,0,E:110 V:4 D:2 K:1
+766,Y,ok,,117,0.0168,,0.5603,0.2446,0.0799,0.028971028971028972,tolerant,0.9230769230769231,117,0.9655172413793104,29,False,,0,Y:108 H:3 P:2 V:2 R:1 E:1
+767,L,ok,,117,0.0168,,0.4093,0.227,0.0893,0.05094905094905095,conserved,0.9401709401709402,117,1.0,29,False,,0,L:110 R:4 C:2 K:1
+768,D,ok,,117,0.0168,,0.6009,0.2565,0.0531,0.06493506493506493,tolerant,0.9230769230769231,117,0.9655172413793104,29,False,,0,D:108 R:2 S:2 P:1 V:1 K:1 G:1 I:1
+769,L,ok,,116,0.0252,,0.2875,0.2063,0.0745,0.18981018981018982,conserved,0.9568965517241379,116,0.9655172413793104,29,False,,0,L:111 V:4 M:1
+770,S,clade_partitioned,family conservation too low,117,0.0168,,1.3364,0.5781,0.5433,0.000999000999000999,diagnostic,0.6837606837606838,117,0.9655172413793104,29,False,,0,S:80 R:26 P:6 T:2 G:2 C:1
+771,M,clade_partitioned,family conservation too low,117,0.0168,,2.563,0.6701,0.6462,0.000999000999000999,diagnostic,0.19658119658119658,117,0.7586206896551724,29,False,,0,L:27 V:26 Q:26 M:23 A:6 G:5 I:1 E:1 C:1 P:1
+772,P,clade_partitioned,family conservation too low,117,0.0168,,1.1372,0.6555,0.6301,0.000999000999000999,diagnostic,0.717948717948718,117,1.0,29,False,,0,P:84 T:26 L:5 A:1 R:1
+773,L,clade_partitioned,family conservation too low,117,0.0168,,1.2487,0.7134,0.6915,0.000999000999000999,diagnostic,0.49572649572649574,117,0.9655172413793104,29,True,,0,L:58 F:55 E:1 V:1 M:1 H:1
+774,D,clade_partitioned,family conservation too low,117,0.0168,,1.9324,0.7178,0.6966,0.000999000999000999,diagnostic,0.24786324786324787,117,0.9655172413793104,29,True,,0,E:54 D:29 G:25 R:4 L:2 A:1 K:1 T:1
+775,Q,clade_partitioned,family conservation too low,117,0.0168,,1.3017,0.6212,0.5795,0.000999000999000999,diagnostic,0.7008547008547008,117,0.9655172413793104,29,False,,0,Q:82 P:26 A:4 R:1 H:1 C:1 Y:1 G:1
+776,Y,ok,,117,0.0168,,0.7343,0.2562,0.0462,0.06693306693306693,tolerant,0.905982905982906,117,0.9310344827586207,29,False,,0,Y:106 V:3 D:1 L:1 A:1 H:1 F:1 C:1 T:1 W:1
+777,S,ok,,116,0.0252,,0.6001,0.2917,0.1494,0.000999000999000999,tolerant,0.9137931034482759,116,1.0,29,False,,0,S:106 A:4 L:3 T:1 H:1 I:1
+778,P,ok,,116,0.0252,,0.2681,0.193,0.0,0.9460539460539461,conserved,0.9655172413793104,116,1.0,29,False,,0,P:112 A:2 F:1 L:1
+779,S,clade_partitioned,family conservation too low,116,0.0252,,1.8843,0.6048,0.5666,0.000999000999000999,diagnostic,0.5431034482758621,116,0.9655172413793104,29,False,,0,S:63 G:27 A:16 T:4 L:1 P:1 R:1 N:1 Q:1 K:1
+780,F,clade_partitioned,family conservation too low,116,0.0252,,2.1973,0.6678,0.6409,0.000999000999000999,diagnostic,0.2413793103448276,116,0.9655172413793104,29,True,,0,G:47 F:28 Y:26 R:4 S:4 C:3 N:2 W:1 T:1
+781,P,clade_partitioned,family conservation too low,116,0.0252,,1.7416,0.7455,0.7278,0.000999000999000999,diagnostic,0.5086206896551724,116,0.9655172413793104,29,False,,0,P:59 Q:26 G:26 A:2 N:1 E:1 I:1
+782,D,ok,,116,0.0252,,0.5107,0.2364,0.0563,0.06993006993006994,tolerant,0.9310344827586207,116,0.9655172413793104,29,False,,0,D:108 G:3 P:2 C:1 K:1 E:1
+783,T,clade_partitioned,family conservation too low,116,0.0252,,1.2531,0.5912,0.555,0.000999000999000999,diagnostic,0.7068965517241379,116,1.0,29,False,,0,T:82 A:25 S:4 H:3 L:1 G:1
+784,R,clade_partitioned,family conservation too low,116,0.0252,,1.7533,0.7337,0.7181,0.000999000999000999,diagnostic,0.47413793103448276,116,0.9655172413793104,29,True,,0,R:55 S:30 P:26 H:3 T:1 F:1
+785,S,ok,,116,0.0252,,0.4162,0.192,0.0463,0.1068931068931069,conserved,0.9396551724137931,116,0.9655172413793104,29,False,,0,S:109 L:3 Q:3 A:1
+786,S,clade_partitioned,family conservation too low,114,0.042,,1.3018,0.5953,0.5588,0.000999000999000999,diagnostic,0.7017543859649122,114,1.0,29,False,,0,S:80 T:24 L:4 I:3 G:2 P:1
+787,T,gap_inflated,reported conservation too high,29,0.7563,,0.2164,0.0,0.0,1.0,conserved,0.9655172413793104,29,0.9655172413793104,29,False,,0,T:28 R:1
+788,C,ok,,115,0.0336,,1.3388,0.5482,0.4958,0.000999000999000999,indeterminate,0.7304347826086957,115,0.9655172413793104,29,False,,0,C:84 S:19 G:5 R:2 Q:2 E:1 L:1 A:1
+789,S,ok,,116,0.0252,,0.528,0.2613,0.0674,0.054945054945054944,tolerant,0.9310344827586207,116,0.9655172413793104,29,False,,0,S:108 L:3 E:1 V:1 T:1 H:1 D:1
+790,S,gap_inflated,reported conservation too high,86,0.2689,FGFR4,0.4524,0.1639,0.0387,0.23476523476523475,conserved,0.9310344827586207,87,0.9655172413793104,29,False,,0,S:80 L:4 G:1 P:1
+791,G,clade_partitioned,family conservation too low,115,0.0336,,1.2223,0.7232,0.6949,0.000999000999000999,diagnostic,0.7043478260869566,115,0.9655172413793104,29,False,,0,G:81 S:27 R:3 P:1 A:1 L:1 Q:1
+792,E,clade_partitioned,family conservation too low,116,0.0252,,2.1418,0.6927,0.6708,0.000999000999000999,diagnostic,0.2413793103448276,116,0.9655172413793104,29,True,,0,D:53 E:28 S:16 N:9 G:5 I:3 V:1 Q:1
+793,D,ok,,116,0.0252,,0.4572,0.2644,0.0766,0.057942057942057944,conserved,0.9396551724137931,116,0.9655172413793104,29,False,,0,D:109 R:3 P:1 V:1 I:1 G:1
+794,S,ok,,116,0.0252,,0.3864,0.2695,0.0936,0.04295704295704296,conserved,0.9482758620689655,116,1.0,29,False,,0,S:110 L:3 Q:1 G:1 R:1
+795,V,ok,,115,0.0336,,0.4604,0.2631,0.0769,0.04995004995004995,conserved,0.9391304347826087,115,0.9655172413793104,29,False,,0,V:108 R:3 L:1 F:1 N:1 S:1
+796,F,ok,,115,0.0336,,0.3717,0.2796,0.1333,0.014985014985014986,conserved,0.9478260869565217,115,0.9655172413793104,29,False,,0,F:109 V:3 R:2 L:1
+797,S,ok,,114,0.042,,1.6487,0.5161,0.4778,0.000999000999000999,indeterminate,0.631578947368421,114,0.9655172413793104,29,False,,0,S:72 A:21 C:9 T:8 R:2 P:1 V:1
+798,H,clade_partitioned,family conservation too low,114,0.042,,1.0792,0.7115,0.6852,0.000999000999000999,diagnostic,0.7192982456140351,114,1.0,29,False,H>P:FGFR2,1,H:82 P:28 S:1 M:1 E:1 G:1
+799,E,clade_partitioned,family conservation too low,113,0.0504,,1.2702,0.6146,0.581,0.000999000999000999,diagnostic,0.24778761061946902,113,0.9310344827586207,29,True,E>D:FGFR2,1,D:77 E:28 R:4 S:2 G:1 N:1
+800,P,clade_partitioned,family conservation too low,113,0.0504,,1.1042,0.607,0.575,0.000999000999000999,diagnostic,0.7168141592920354,113,0.9655172413793104,29,False,,0,P:81 L:27 S:2 G:2 M:1
+801,L,clade_partitioned,family conservation too low,114,0.042,,1.197,0.6843,0.6553,0.000999000999000999,diagnostic,0.7105263157894737,114,0.9310344827586207,29,False,,0,L:81 M:26 A:3 V:2 F:1 T:1
+802,P,ok,,114,0.042,,0.8045,0.2218,0.057,0.03896103896103896,tolerant,0.8859649122807017,114,0.9655172413793104,29,False,,0,P:101 A:4 L:3 S:2 W:1 C:1 V:1 D:1
+803,E,clade_partitioned,family conservation too low,114,0.042,,2.2173,0.8356,0.8253,0.000999000999000999,diagnostic,0.2631578947368421,114,0.9655172413793104,29,True,E>Y:FGFR2,1,E:30 Y:27 L:27 P:26 T:1 S:1 A:1 R:1
+804,E,clade_partitioned,family conservation too low,114,0.042,,1.8356,0.5916,0.5555,0.000999000999000999,diagnostic,0.5175438596491229,114,0.9655172413793104,29,False,,0,E:59 G:27 A:21 R:2 C:1 D:1 Q:1 T:1 N:1
+805,P,ok,,115,0.0336,,0.4021,0.3632,0.2931,0.000999000999000999,conserved,0.9304347826086956,115,1.0,29,False,,0,P:107 S:7 R:1
+806,C,clade_partitioned,family conservation too low,115,0.0336,,1.9413,0.6425,0.6137,0.000999000999000999,diagnostic,0.5130434782608696,115,1.0,29,False,,0,C:59 P:23 S:22 R:4 T:3 I:2 H:1 N:1
+807,L,ok,,115,0.0336,,1.9788,0.5054,0.4701,0.000999000999000999,indeterminate,0.5043478260869565,115,0.9655172413793104,29,False,,0,L:58 S:29 G:12 P:8 A:4 Q:2 R:2
+808,P,clade_partitioned,family conservation too low,115,0.0336,,2.0958,0.6435,0.6069,0.000999000999000999,diagnostic,0.5043478260869565,115,0.9655172413793104,29,False,,0,P:58 F:26 S:17 N:4 Q:3 G:2 W:1 A:1 L:1 Y:1 T:1
+809,R,clade_partitioned,family conservation too low,114,0.042,,2.8139,0.6824,0.6511,0.000999000999000999,diagnostic,0.2543859649122807,114,0.9655172413793104,29,True,,0,R:29 Q:25 G:22 P:14 S:12 K:3 W:2 T:1 H:1 V:1 A:1 I:1 F:1 D:1
+810,H,clade_partitioned,family conservation too low,115,0.0336,,2.5368,0.7055,0.6786,0.000999000999000999,diagnostic,0.22608695652173913,115,0.896551724137931,29,False,,0,F:30 H:26 Y:24 G:24 P:2 R:2 A:2 S:1 V:1 D:1 T:1 Q:1
+811,P,ok,,114,0.042,,1.2647,0.2059,0.0856,0.001998001998001998,tolerant,0.7631578947368421,114,0.896551724137931,29,False,,0,P:87 S:17 L:3 T:1 Y:1 Q:1 R:1 H:1 C:1 G:1
+812,A,clade_partitioned,family conservation too low,115,0.0336,,2.7035,0.6022,0.5665,0.000999000999000999,diagnostic,0.2608695652173913,115,0.7931034482758621,29,False,,0,A:30 H:26 R:22 G:20 T:5 E:3 P:2 Q:2 K:2 V:1 D:1 S:1
+813,Q,gap_inflated,reported conservation too high,57,0.521,,1.6368,0.5447,0.5209,0.000999000999000999,diagnostic,0.47368421052631576,57,0.896551724137931,29,False,,0,Q:27 T:23 D:3 P:2 A:1 C:1
+814,L,gap_inflated,reported conservation too high,29,0.7479,FGFR3,0.431,0.0,0.0,1.0,conserved,0.9,30,0.9310344827586207,29,False,L>Q:FGFR3,1,L:27 H:1 F:1
+815,A,gap_inflated,reported conservation too high,58,0.5126,,2.078,0.5684,0.5321,0.000999000999000999,diagnostic,0.4827586206896552,58,0.9655172413793104,29,True,,0,A:28 I:13 R:9 V:4 P:1 G:1 N:1 C:1
+816,N,gap_inflated,reported conservation too high,59,0.5042,,0.3706,0.3048,0.1568,0.1258741258741259,conserved,0.9491525423728814,59,0.9655172413793104,29,False,,0,N:56 T:1 A:1 Q:1
+817,G,gap_inflated,reported conservation too high,59,0.5042,,0.3706,0.1461,0.0,1.0,conserved,0.9491525423728814,59,0.9310344827586207,29,False,,0,G:56 S:1 P:1 H:1
+818,G,gap_inflated,reported conservation too high,58,0.5126,,1.2838,0.8809,0.8734,0.000999000999000999,diagnostic,0.5172413793103449,58,1.0,29,False,,0,G:30 S:25 A:2 T:1
+819,L,ok,,90,0.2437,,1.8104,0.5054,0.4552,0.000999000999000999,indeterminate,0.35555555555555557,90,0.9655172413793104,29,True,,0,V:43 L:32 A:8 S:2 G:2 I:1 T:1 P:1
+820,K,clade_partitioned,family conservation too low,90,0.2437,,1.5711,0.6369,0.5951,0.000999000999000999,diagnostic,0.6222222222222222,90,0.9310344827586207,29,False,,0,K:56 Q:23 R:5 E:2 N:1 L:1 T:1 F:1
+821,R,gap_inflated,reported conservation too high,89,0.2521,,1.3007,0.7869,0.7702,0.000999000999000999,diagnostic,0.3146067415730337,89,0.9655172413793104,29,True,R>T:FGFR2,1,T:55 R:28 G:4 H:1 F:1
+822,R,gap_inflated,reported conservation too high,38,0.6807,,1.2688,0.5876,0.5191,0.000999000999000999,diagnostic,0.7894736842105263,38,0.9655172413793104,29,False,,0,R:30 H:2 T:2 A:1 G:1 C:1 W:1

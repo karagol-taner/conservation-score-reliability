@@ -1,0 +1,60 @@
+05_reliability_panel.py  run 2026-10-13T09:40:26+00:00
+Per-position reliability of a conservation score, with the direction of
+the error where there is one.
+
+thresholds: gap 0.25, effective comparators 5, entropy floor 0.50 bits,
+            sef_adj 0.50 with p <= 0.050, sister fixed at 1.00 identity,
+            n_perm 1000, seed 20261007
+
+reference P29033, 226 residues
+  GJB1   30 sequences
+  GJB2   30 sequences
+  GJB3   30 sequences
+  GJB4   30 sequences
+  GJB6   30 sequences
+  0 sequences carry no label and are excluded
+  aligned 150 sequences, width 390, reference row reconstructs its input
+
+verdicts over 226 reference positions
+  ok                   88   38.9%
+  gap_inflated          6    2.7%
+  depth_starved         0    0.0%
+  clade_partitioned   132   58.4%
+  138 positions carry a flag, 61.1%
+
+103 positions carry at least one fixed sister state, 45.6%
+  of those, 97 are clade-partitioned, which is the set the sister-state test takes
+  the ten commonest ordered sister substitutions:
+    I>V      13
+    K>R      9
+    I>L      8
+    M>L      7
+    L>V      6
+    S>A      4
+    K>E      4
+    A>S      4
+    R>K      4
+    F>Y      4
+
+humsavar cross-reference: 282 variants in family members, 275 mapped to a reference column
+  every variant's wild-type residue agreed with its sequence
+  classifications: LB/B 25, LP/P 250, US 7
+  6 variants substitute to a fixed sister-subfamily residue
+    the mutant residue is the fixed state of the named subfamily
+    gene    variant        class  ref pos  verdict            fixed in
+    GJB1    R164W     LP/P       165  clade_partitioned  GJB6
+    GJB1    I213V     LP/P       214  clade_partitioned  GJB4
+    GJB2    R127H     LB/B       127  clade_partitioned  GJB1
+    GJB2    R165W     LB/B       165  clade_partitioned  GJB6
+    GJB2    D117H     LB/B       117  clade_partitioned  GJB1
+    GJB3    I141V     LP/P       146  clade_partitioned  GJB4
+
+  sister-state against classification, mapped variants only
+    sister  LB/B  LP/P  US
+    True       3     3   0
+    False     22   240   7
+  n is small here, so this table reports the annotation and not a
+  result; the pooled test runs over all families in 09_sister_state_test.py.
+
+wrote ../data/reliability_panel_gjb2.csv (226 rows)
+wrote ../data/reliability_variants_gjb2.csv (282 rows)

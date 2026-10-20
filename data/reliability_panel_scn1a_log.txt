@@ -1,0 +1,123 @@
+05_reliability_panel.py  run 2026-10-13T09:45:22+00:00
+Per-position reliability of a conservation score, with the direction of
+the error where there is one.
+
+thresholds: gap 0.25, effective comparators 5, entropy floor 0.50 bits,
+            sef_adj 0.50 with p <= 0.050, sister fixed at 1.00 identity,
+            n_perm 1000, seed 20261007
+
+reference P35498, 2009 residues
+  SCN10A 20 sequences
+  SCN11A 20 sequences
+  SCN1A  20 sequences
+  SCN2A  20 sequences
+  SCN3A  20 sequences
+  SCN4A  20 sequences
+  SCN5A  20 sequences
+  SCN7A  20 sequences
+  SCN8A  20 sequences
+  SCN9A  20 sequences
+  0 sequences carry no label and are excluded
+  aligned 200 sequences, width 2583, reference row reconstructs its input
+
+verdicts over 2009 reference positions
+  ok                  658   32.8%
+  gap_inflated        219   10.9%
+  depth_starved         0    0.0%
+  clade_partitioned  1132   56.3%
+  1351 positions carry a flag, 67.2%
+
+1064 positions carry at least one fixed sister state, 53.0%
+  of those, 822 are clade-partitioned, which is the set the sister-state test takes
+  the ten commonest ordered sister substitutions:
+    D>E      60
+    V>I      58
+    I>V      50
+    R>K      47
+    T>S      45
+    I>L      44
+    S>A      44
+    K>R      37
+    E>D      33
+    M>L      33
+
+humsavar cross-reference: 1230 variants in family members, 1203 mapped to a reference column
+  every variant's wild-type residue agreed with its sequence
+  classifications: LB/B 124, LP/P 811, US 295
+  64 variants substitute to a fixed sister-subfamily residue
+    the mutant residue is the fixed state of the named subfamily
+    gene    variant        class  ref pos  verdict            fixed in
+    SCN11A  A582T     LB/B       773  clade_partitioned  SCN5A
+    SCN11A  T1609I    LB/B      1791  clade_partitioned  SCN7A
+    SCN11A  F1689L    LB/B      1871  clade_partitioned  SCN4A
+    SCN1A   A1067T    LB/B      1067  clade_partitioned  SCN2A
+    SCN1A   L1461I    LP/P      1461  clade_partitioned  SCN5A;SCN8A
+    SCN1A   R1928G    LB/B      1928  clade_partitioned  SCN8A
+    SCN1A   I1545V    LP/P      1545  clade_partitioned  SCN5A
+    SCN1A   T1174S    LP/P      1174  clade_partitioned  SCN2A
+    SCN1A   A1783V    LP/P      1783  ok                 SCN7A
+    SCN1A   A333V     LB/B       333  clade_partitioned  SCN5A
+    SCN1A   M400V     LP/P       400  clade_partitioned  SCN11A
+    SCN1A   V699I     LB/B       699  clade_partitioned  SCN3A
+    SCN1A   V896I     LP/P       896  clade_partitioned  SCN10A
+    SCN1A   V896L     LP/P       896  clade_partitioned  SCN7A
+    SCN1A   N935H     LP/P       935  clade_partitioned  SCN2A
+    SCN1A   M976I     LP/P       976  clade_partitioned  SCN7A
+    SCN1A   M976I     LP/P       976  clade_partitioned  SCN7A
+    SCN1A   D1006E    LP/P      1006  clade_partitioned  SCN11A
+    SCN1A   E1068K    LP/P      1068  clade_partitioned  SCN4A
+    SCN1A   Y1254C    LP/P      1254  ok                 SCN11A
+    SCN1A   E1503K    LP/P      1503  ok                 SCN7A
+    SCN1A   V982L     US         982  clade_partitioned  SCN7A
+    SCN1A   S228P     LP/P       228  clade_partitioned  SCN7A
+    SCN1A   P1345L    LP/P      1345  ok                 SCN7A
+    SCN1A   N541S     US         541  gap_inflated       SCN2A
+    SCN2A   R19K      LB/B        19  clade_partitioned  SCN9A
+    SCN2A   F385Y     LB/B       383  clade_partitioned  SCN3A;SCN4A;SCN7A;SCN8A;SCN9A
+    SCN2A   R1319Q    LP/P      1329  clade_partitioned  SCN7A
+    SCN2A   T236S     LP/P       235  clade_partitioned  SCN7A
+    SCN2A   D322N     US         320  gap_inflated       SCN8A
+    SCN2A   I172V     US         171  clade_partitioned  SCN5A;SCN8A
+    SCN2A   A1316V    LP/P      1326  ok                 SCN7A
+    SCN2A   M136I     LP/P       135  clade_partitioned  SCN11A
+    SCN2A   N1001K    LP/P      1010  clade_partitioned  SCN7A
+    SCN2A   R1882G    LP/P      1892  clade_partitioned  SCN7A
+    SCN3A   P1333L    LP/P      1345  ok                 SCN7A
+    SCN4A   S804F     LP/P       994  clade_partitioned  SCN7A
+    SCN4A   A1156T    LP/P      1343  ok                 SCN7A
+    SCN4A   A1156T    LP/P      1343  ok                 SCN7A
+    SCN4A   A1156T    LP/P      1343  ok                 SCN7A
+    SCN4A   I141V     LP/P       138  clade_partitioned  SCN11A
+    SCN4A   R1457H    LP/P      1645  ok                 SCN7A
+    SCN4A   F1290L    LP/P      1478  clade_partitioned  SCN7A
+    SCN4A   R1142Q    LP/P      1329  clade_partitioned  SCN7A
+    SCN5A   I230V     LP/P       227  ok                 SCN10A
+    SCN5A   M138I     LP/P       135  clade_partitioned  SCN11A
+    SCN5A   N406S     LP/P       416  clade_partitioned  SCN7A
+    SCN5A   R680H     LP/P       731  clade_partitioned  SCN4A
+    SCN5A   A1330T    LP/P      1343  ok                 SCN7A
+    SCN5A   A1330T    LP/P      1343  ok                 SCN7A
+    SCN5A   P1332L    US        1345  ok                 SCN7A
+    SCN5A   I1968S    LP/P      1976  clade_partitioned  SCN3A
+    SCN5A   P648L     LP/P       699  clade_partitioned  SCN10A
+    SCN5A   P648L     LP/P       699  clade_partitioned  SCN10A
+    SCN5A   R526H     US         571  gap_inflated       SCN10A
+    SCN5A   A1288G    US        1301  clade_partitioned  SCN7A
+    SCN5A   A1427S    US        1440  clade_partitioned  SCN7A
+    SCN5A   S115G     US         112  clade_partitioned  SCN11A
+    SCN5A   A413T     US         423  clade_partitioned  SCN10A;SCN11A
+    SCN8A   S232P     LP/P       228  clade_partitioned  SCN7A
+    SCN9A   W1161R    LB/B      1187  clade_partitioned  SCN2A
+    SCN9A   M932L     LB/B       956  ok                 SCN7A
+    SCN9A   M943L     LB/B       967  clade_partitioned  SCN5A;SCN11A
+    SCN9A   I695M     LB/B       719  clade_partitioned  SCN7A
+
+  sister-state against classification, mapped variants only
+    sister  LB/B  LP/P  US
+    True      13    41  10
+    False     99   762 278
+  n is small here, so this table reports the annotation and not a
+  result; the pooled test runs over all families in 09_sister_state_test.py.
+
+wrote ../data/reliability_panel_scn1a.csv (2009 rows)
+wrote ../data/reliability_variants_scn1a.csv (1230 rows)

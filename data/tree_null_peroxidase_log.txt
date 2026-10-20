@@ -1,0 +1,42 @@
+07_tree_aware_null.py  run 2026-10-07T10:01:34+00:00
+Is a column more clade-partitioned than a neutral character on this tree?
+
+model: F81 with the column's own composition as equilibrium, equal
+exchangeability, branch lengths rate-matched per column to the observed
+Fitch parsimony score. n_sim 1000, calibration 80 per grid point, grid 0.02 to 60.0,
+parsimony tolerance max(0.50, 5% of the score), seed 20261007
+
+aligned 17 sequences, width 974, reference row reconstructs its input
+  distance matrix 17x17, p-distance range 0.006 to 0.917
+  neighbour-joining tree built, 17 tips, 0 negative branch lengths clamped to zero
+  post-order plan with 33 slots
+
+712 positions, 492 given a tree null, 3 calibration failures, 3 rates at a grid edge
+
+mean null sef, the two nulls compared over the 492 tested columns
+  observed sef                     0.748
+  tree null mean sef               0.479
+  chance-corrected under permutation 0.637
+  chance-corrected under the tree    0.521
+
+classification under each null, over the 492 tested columns
+  call            permutation   tree
+  diagnostic         336  68.3%      37   7.5%
+  tolerant            33   6.7%     107  21.7%
+  indeterminate      123  25.0%     348  70.7%
+
+the positions the lactoperoxidase work turns on
+  pos wt  set              sef   perm adj  p_perm   tree null  tree adj  p_tree   perm call      tree call
+  144  D  designed        0.7695   0.6416   0.002     0.5214    0.5184   0.027   diagnostic    diagnostic
+  648  E  designed          1.0      1.0   0.001      0.378       1.0  0.1339   diagnostic    indeterminate
+  205  E  designed        0.7664   0.6471   0.002      0.381    0.6227   0.046   diagnostic    diagnostic
+  313  E  designed          1.0      1.0   0.001     0.3525       1.0  0.1499   diagnostic    indeterminate
+  479  D  held_back       0.3846   0.1885  0.1399     0.3838    0.0013  0.4735   tolerant      tolerant
+  169  E  held_back        None     None    None       None      None    None   conserved     conserved
+  414  R  natural_variant  None     None    None       None      None    None   conserved     conserved
+  514  R  natural_variant  None     None    None       None      None    None   conserved     conserved
+  700  D  natural_variant 0.6191   0.4292   0.006     0.5069    0.2275  0.2478   indeterminate tolerant
+
+  control PASS: the ten catalytic and cofactor positions stay conserved under both nulls
+
+wrote out/tree_null_peroxidase.csv (712 rows)

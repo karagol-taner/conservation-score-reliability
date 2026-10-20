@@ -1,0 +1,2186 @@
+gene,accession,organism,reason
+GJB1,P08983,Xenopus laevis,outside Mammalia
+GJB1,A0A1A8B712,Nothobranchius furzeri,outside Mammalia
+GJB1,A0A1U7S504,Alligator sinensis,outside Mammalia
+GJB1,A0A1V4KYR3,Patagioenas fasciata monilis,outside Mammalia
+GJB1,A0A1V4KZ98,Patagioenas fasciata monilis,outside Mammalia
+GJB1,A0A218ULP9,Lonchura striata,outside Mammalia
+GJB1,A0A2D0QBE0,Ictalurus punctatus,outside Mammalia
+GJB1,A0A2D0RJ32,Ictalurus punctatus,outside Mammalia
+GJB1,A0A2D0RLV6,Ictalurus punctatus,outside Mammalia
+GJB1,A0A2I0LH00,Columba livia,outside Mammalia
+GJB1,A0A2I4B3C3,Austrofundulus limnaeus,outside Mammalia
+GJB1,A0A2I4BF99,Austrofundulus limnaeus,outside Mammalia
+GJB1,A0A2R8YD01,Homo sapiens,second entry for this organism
+GJB1,A0A2U3Y1F3,Leptonychotes weddellii,primary gene LOC102743720
+GJB1,A0A3B4GQD7,Pundamilia nyererei,outside Mammalia
+GJB1,A0A4W3JEM3,Callorhinchus milii,outside Mammalia
+GJB1,A0A4W3K8G9,Callorhinchus milii,outside Mammalia
+GJB1,A0A4W4FA30,Electrophorus electricus,outside Mammalia
+GJB1,A0A4W4FD67,Electrophorus electricus,outside Mammalia
+GJB1,A0A4W6DFW5,Lates calcarifer,outside Mammalia
+GJB1,A0A4Z2E1V6,Liparis tanakae,outside Mammalia
+GJB1,A0A4Z2F2F3,Liparis tanakae,outside Mammalia
+GJB1,A0A663FAC9,Aquila chrysaetos chrysaetos,outside Mammalia
+GJB1,A0A663MEJ1,Athene cunicularia,outside Mammalia
+GJB1,A0A665URV2,Echeneis naucrates,outside Mammalia
+GJB1,A0A667XYT0,Myripristis murdjan,outside Mammalia
+GJB1,A0A668V024,Oreochromis aureus,outside Mammalia
+GJB1,A0A668VKD5,Oreochromis aureus,outside Mammalia
+GJB1,A0A669PG45,Phasianus colchicus,outside Mammalia
+GJB1,A0A670KLF7,Podarcis muralis,outside Mammalia
+GJB1,A0A670YKN1,Pseudonaja textilis,outside Mammalia
+GJB1,A0A671X109,Sparus aurata,outside Mammalia
+GJB1,A0A672V420,Strigops habroptila,outside Mammalia
+GJB1,A0A673A598,Sphaeramia orbicularis,outside Mammalia
+GJB1,A0A673W9D8,Salmo trutta,outside Mammalia
+GJB1,A0A673ZYY5,Salmo trutta,outside Mammalia
+GJB1,A0A674C3A3,Salmo trutta,outside Mammalia
+GJB1,A0A674CLX0,Salmo trutta,outside Mammalia
+GJB1,A0A674KFV9,Terrapene triunguis,outside Mammalia
+GJB1,A0A6F9DED0,Phallusia mammillata,outside Mammalia
+GJB1,A0A6I9N956,Notothenia coriiceps,outside Mammalia
+GJB1,A0A6I9YDX6,Thamnophis sirtalis,outside Mammalia
+GJB1,A0A6J0HJL6,Lepidothrix coronata,outside Mammalia
+GJB1,A0A6J0TSM9,Pogona vitticeps,outside Mammalia
+GJB1,A0A6J1VBI5,Notechis scutatus,outside Mammalia
+GJB1,A0A6J2II14,Pipra filicauda,outside Mammalia
+GJB1,A0A6J2R256,Cottoperca gobio,outside Mammalia
+GJB1,A0A6J2R626,Cottoperca gobio,outside Mammalia
+GJB1,A0A6J2S3J0,Cottoperca gobio,outside Mammalia
+GJB1,A0A6J2UMB4,Chanos chanos,outside Mammalia
+GJB1,A0A6J2W0J6,Chanos chanos,outside Mammalia
+GJB1,A0A6J2WE20,Chanos chanos,outside Mammalia
+GJB1,A0A6J3DRG3,Aythya fuligula,outside Mammalia
+GJB1,A0A6P6K2N2,Carassius auratus,outside Mammalia
+GJB1,A0A6P6K2Z5,Carassius auratus,outside Mammalia
+GJB1,A0A6P7H7B6,Parambassis ranga,outside Mammalia
+GJB1,A0A6P7JJW8,Parambassis ranga,outside Mammalia
+GJB1,A0A6P7JK21,Parambassis ranga,outside Mammalia
+GJB1,A0A6P7LKB7,Betta splendens,outside Mammalia
+GJB1,A0A6P7PL65,Betta splendens,outside Mammalia
+GJB1,A0A6P7PVL4,Betta splendens,outside Mammalia
+GJB1,A0A6P7YL02,Microcaecilia unicolor,outside Mammalia
+GJB1,A0A6P8GML3,Clupea harengus,outside Mammalia
+GJB1,A0A6P8QNT9,Geotrypetes seraphini,outside Mammalia
+GJB1,A0A6P9DPX7,Pantherophis guttatus,outside Mammalia
+GJB1,A0A7K4IVP0,Geococcyx californianus,outside Mammalia
+GJB1,A0A7K4K8W2,Crypturellus soui,outside Mammalia
+GJB1,A0A7K4LCW4,Crypturellus undulatus,outside Mammalia
+GJB1,A0A7K4Q3T5,Melospiza melodia,outside Mammalia
+GJB1,A0A7K4QT33,Neopipo cinnamomea,outside Mammalia
+GJB1,A0A7K4S5G5,Columbina picui,outside Mammalia
+GJB1,A0A7K4SP04,Burhinus bistriatus,outside Mammalia
+GJB1,A0A7K4UK33,Sinosuthora webbiana,outside Mammalia
+GJB1,A0A7K4VAT8,Emberiza fucata,outside Mammalia
+GJB1,A0A7K4WYA1,Tachuris rubrigastra,outside Mammalia
+GJB1,A0A7K4Y274,Regulus satrapa,outside Mammalia
+GJB1,A0A7K4YPN5,Bucorvus abyssinicus,outside Mammalia
+GJB1,A0A7K5ADB7,Centropus unirufus,outside Mammalia
+GJB1,A0A7K5B3V3,Furnarius figulus,outside Mammalia
+GJB1,A0A7K5CLB1,Motacilla alba,outside Mammalia
+GJB1,A0A7K5CXR9,Pachyramphus minor,outside Mammalia
+GJB1,A0A7K5EMH4,Polioptila caerulea,outside Mammalia
+GJB1,A0A7K5G1Q6,Probosciger aterrimus,outside Mammalia
+GJB1,A0A7K5G8L7,Chunga burmeisteri,outside Mammalia
+GJB1,A0A7K5I581,Crotophaga sulcirostris,outside Mammalia
+GJB1,A0A7K5IM23,Toxostoma redivivum,outside Mammalia
+GJB1,A0A7K5KFI1,Mionectes macconnelli,outside Mammalia
+GJB1,A0A7K5LMD5,Vireo altiloquus,outside Mammalia
+GJB1,A0A7K5LX63,Cardinalis cardinalis,outside Mammalia
+GJB1,A0A7K5N9C0,Chroicocephalus maculipennis,outside Mammalia
+GJB1,A0A7K5Q3I7,Erythrocercus mccallii,outside Mammalia
+GJB1,A0A7K5QSW1,Prunella himalayana,outside Mammalia
+GJB1,A0A7K5S111,Lanius ludovicianus,outside Mammalia
+GJB1,A0A7K5STF8,Urocynchramus pylzowi,outside Mammalia
+GJB1,A0A7K5TM90,Cephalopterus ornatus,outside Mammalia
+GJB1,A0A7K5V7P7,Platysteira castanea,outside Mammalia
+GJB1,A0A7K5WC28,Hylia prasina,outside Mammalia
+GJB1,A0A7K5XL98,Dromas ardeola,outside Mammalia
+GJB1,A0A7K5Y4M2,Pterocles burchelli,outside Mammalia
+GJB1,A0A7K5ZG60,Onychorhynchus coronatus,outside Mammalia
+GJB1,A0A7K6ATH4,Upupa epops,outside Mammalia
+GJB1,A0A7K6BV35,Ptilonorhynchus violaceus,outside Mammalia
+GJB1,A0A7K6D8E9,Origma solitaria,outside Mammalia
+GJB1,A0A7K6EEA5,Grantiella picta,outside Mammalia
+GJB1,A0A7K6FJS0,Daphoenositta chrysoptera,outside Mammalia
+GJB1,A0A7K6GUD6,Malurus elegans,outside Mammalia
+GJB1,A0A7K6HAV2,Dasyornis broadbenti,outside Mammalia
+GJB1,A0A7K6ILF7,Machaerirhynchus nigripectus,outside Mammalia
+GJB1,A0A7K6JT71,Oreocharis arfaki,outside Mammalia
+GJB1,A0A7K6LYC7,Falcunculus frontatus,outside Mammalia
+GJB1,A0A7K6MLQ0,Panurus biarmicus,outside Mammalia
+GJB1,A0A7K6NT32,Pedionomus torquatus,outside Mammalia
+GJB1,A0A7K6PZ97,Ifrita kowaldi,outside Mammalia
+GJB1,A0A7K6QHM0,Climacteris rufus,outside Mammalia
+GJB1,A0A7K6RX01,Rhynochetos jubatus,outside Mammalia
+GJB1,A0A7K6SYD1,Caloenas nicobarica,outside Mammalia
+GJB1,A0A7K6UDF5,Aegotheles bennettii,outside Mammalia
+GJB1,A0A7K6V463,Notiomystis cincta,outside Mammalia
+GJB1,A0A7K6W8S7,Steatornis caripensis,outside Mammalia
+GJB1,A0A7K6Y636,Promerops cafer,outside Mammalia
+GJB1,A0A7K6ZB86,Alca torda,outside Mammalia
+GJB1,A0A7K7AAT5,Nothoprocta pentlandii,outside Mammalia
+GJB1,A0A7K7AML8,Nothoprocta ornata,outside Mammalia
+GJB1,A0A7K7C272,Aphelocoma coerulescens,outside Mammalia
+GJB1,A0A7K7DLW8,Pheucticus melanocephalus,outside Mammalia
+GJB1,A0A7K7EUL1,Sylvia atricapilla,outside Mammalia
+GJB1,A0A7K7FZ28,Chionis minor,outside Mammalia
+GJB1,A0A7K7H127,Erithacus rubecula,outside Mammalia
+GJB1,A0A7K7IVW8,Loxia curvirostra,outside Mammalia
+GJB1,A0A7K7K363,Agelaius phoeniceus,outside Mammalia
+GJB1,A0A7K7KM08,Asarcornis scutulata,outside Mammalia
+GJB1,A0A7K7MAP8,Brachypodius melanocephalos,outside Mammalia
+GJB1,A0A7K7NXU5,Haliaeetus albicilla,outside Mammalia
+GJB1,A0A7K7PNM3,Acrocephalus arundinaceus,outside Mammalia
+GJB1,A0A7K7QXB9,Poecile atricapillus,outside Mammalia
+GJB1,A0A7K7RMP2,Nesospiza acunhae,outside Mammalia
+GJB1,A0A7K7SLF8,Sapayoa aenigma,outside Mammalia
+GJB1,A0A7K7UCI1,Ibidorhyncha struthersii,outside Mammalia
+GJB1,A0A7K7V7Q3,Eudromia elegans,outside Mammalia
+GJB1,A0A7K7VYQ3,Nothocercus julius,outside Mammalia
+GJB1,A0A7K7XYD2,Mohoua ochrocephala,outside Mammalia
+GJB1,A0A7K7YIL5,Thryothorus ludovicianus,outside Mammalia
+GJB1,A0A7K8A029,Melanocharis versteri,outside Mammalia
+GJB1,A0A7K8AFR2,Cnemophilus loriae,outside Mammalia
+GJB1,A0A7K8BYH7,Rhagologus leucostigma,outside Mammalia
+GJB1,A0A7K8CMZ9,Eulacestoma nigropectus,outside Mammalia
+GJB1,A0A7K8EAY1,Leucopsar rothschildi,outside Mammalia
+GJB1,A0A7K8EZI7,Struthidea cinerea,outside Mammalia
+GJB1,A0A7K8H4J3,Orthonyx spaldingii,outside Mammalia
+GJB1,A0A7K8H6Y5,Aleadryas rufinucha,outside Mammalia
+GJB1,A0A7K8IUD1,Chaetorhynchus papuensis,outside Mammalia
+GJB1,A0A7K8K1N6,Lophotis ruficrista,outside Mammalia
+GJB1,A0A7K8L9Z3,Ardeotis kori,outside Mammalia
+GJB1,A0A7K8MG41,Ptilorrhoa leucosticta,outside Mammalia
+GJB1,A0A7K8NNF6,Casuarius casuarius,outside Mammalia
+GJB1,A0A7K8PNR3,Cochlearius cochlearius,outside Mammalia
+GJB1,A0A7K8R569,Smithornis capensis,outside Mammalia
+GJB1,A0A7K8S321,Rhodinocichla rosea,outside Mammalia
+GJB1,A0A7K8SY53,Nyctibius bracteatus,outside Mammalia
+GJB1,A0A7K8UIU4,Oceanites oceanicus,outside Mammalia
+GJB1,A0A7K8USC1,Ciccaba nigrolineata,outside Mammalia
+GJB1,A0A7K8VYR8,Sclerurus mexicanus,outside Mammalia
+GJB1,A0A7K8XD65,Eubucco bourcierii,outside Mammalia
+GJB1,A0A7K8YWE0,Sakesphorus luctuosus,outside Mammalia
+GJB1,A0A7K8ZDL4,Grallaria varia,outside Mammalia
+GJB1,A0A7K9C5L4,Psilopogon haemacephalus,outside Mammalia
+GJB1,A0A7K9CSY7,Hemiprocne comata,outside Mammalia
+GJB1,A0A7K9ER39,Baryphthengus martii,outside Mammalia
+GJB1,A0A7K9FFW6,Stercorarius parasiticus,outside Mammalia
+GJB1,A0A7K9GVM3,Loxia leucoptera,outside Mammalia
+GJB1,A0A7K9HRC9,Bucco capensis,outside Mammalia
+GJB1,A0A7K9J209,Myiagra hebetior,outside Mammalia
+GJB1,A0A7K9JKQ3,Dicaeum eximium,outside Mammalia
+GJB1,A0A7K9JN89,Dicaeum eximium,outside Mammalia
+GJB1,A0A7K9LE00,Rhabdornis inornatus,outside Mammalia
+GJB1,A0A7K9MIL5,Oceanodroma tethys,outside Mammalia
+GJB1,A0A7K9MZ42,Edolisoma coerulescens,outside Mammalia
+GJB1,A0A7K9PU22,Pachycephala philippinensis,outside Mammalia
+GJB1,A0A7K9QFL1,Irena cyanogastra,outside Mammalia
+GJB1,A0A7K9RRQ5,Sterrhoptilus dennistouni,outside Mammalia
+GJB1,A0A7K9SRH5,Galbula dea,outside Mammalia
+GJB1,A0A7K9U4U3,Chloroceryle aenea,outside Mammalia
+GJB1,A0A7K9URN3,Anseranas semipalmata,outside Mammalia
+GJB1,A0A7K9WB37,Rhipidura dahli,outside Mammalia
+GJB1,A0A7K9XV68,Psophia crepitans,outside Mammalia
+GJB1,A0A7K9YS08,Odontophorus gujanensis,outside Mammalia
+GJB1,A0A7K9ZIS1,Dicrurus megarhynchus,outside Mammalia
+GJB1,A0A7L0B149,Ciconia maguari,outside Mammalia
+GJB1,A0A7L0C1Y7,Spizaetus tyrannus,outside Mammalia
+GJB1,A0A7L0D7B4,Rostratula benghalensis,outside Mammalia
+GJB1,A0A7L0E896,Trogon melanurus,outside Mammalia
+GJB1,A0A7L0FFF1,Corythaixoides concolor,outside Mammalia
+GJB1,A0A7L0GFW1,Herpetotheres cachinnans,outside Mammalia
+GJB1,A0A7L0HR76,Arenaria interpres,outside Mammalia
+GJB1,A0A7L0IS30,Piprites chloris,outside Mammalia
+GJB1,A0A7L0KDQ2,Chauna torquata,outside Mammalia
+GJB1,A0A7L0KVY4,Sylvietta virens,outside Mammalia
+GJB1,A0A7L0LZH3,Amazona guildingii,outside Mammalia
+GJB1,A0A7L0MYI1,Formicarius rufipectus,outside Mammalia
+GJB1,A0A7L0P6Y3,Mesembrinibis cayennensis,outside Mammalia
+GJB1,A0A7L0QXK5,Setophaga kirtlandii,outside Mammalia
+GJB1,A0A7L0RAV7,Glaucidium brasilianum,outside Mammalia
+GJB1,A0A7L0SU60,Podilymbus podiceps,outside Mammalia
+GJB1,A0A7L0TV79,Chordeiles acutipennis,outside Mammalia
+GJB1,A0A7L0V303,Leptocoma aspasia,outside Mammalia
+GJB1,A0A7L0WXC7,Alectura lathami,outside Mammalia
+GJB1,A0A7L0XXP1,Tyrannus savana,outside Mammalia
+GJB1,A0A7L0Z158,Ploceus nigricollis,outside Mammalia
+GJB1,A0A7L0ZNG7,Oxyruncus cristatus,outside Mammalia
+GJB1,A0A7L1AKD1,Gymnorhina tibicen,outside Mammalia
+GJB1,A0A7L1CBS4,Illadopsis cleaveri,outside Mammalia
+GJB1,A0A7L1CYZ5,Serilophus lunatus,outside Mammalia
+GJB1,A0A7L1E3G1,Oenanthe oenanthe,outside Mammalia
+GJB1,A0A7L1FWB0,Sylvia borin,outside Mammalia
+GJB1,A0A7L1FZL3,Indicator maculatus,outside Mammalia
+GJB1,A0A7L1HAN6,Nycticryphes semicollaris,outside Mammalia
+GJB1,A0A7L1IY69,Smutsornis africanus,outside Mammalia
+GJB1,A0A7L1JGM0,Rynchops niger,outside Mammalia
+GJB1,A0A7L1LNC0,Himantopus himantopus,outside Mammalia
+GJB1,A0A7L1M1U7,Bombycilla garrulus,outside Mammalia
+GJB1,A0A7L1P1H3,Rhinopomastus cyanomelas,outside Mammalia
+GJB1,A0A7L1PJ24,Oriolus oriolus,outside Mammalia
+GJB1,A0A7L1QS39,Cisticola juncidis,outside Mammalia
+GJB1,A0A7L1S5G7,Helopsaltes ochotensis,outside Mammalia
+GJB1,A0A7L1T8F6,Aramus guarauna,outside Mammalia
+GJB1,A0A7L1UCY9,Phainopepla nitens,outside Mammalia
+GJB1,A0A7L1UVD9,Sitta europaea,outside Mammalia
+GJB1,A0A7L1VZN8,Certhia brachydactyla,outside Mammalia
+GJB1,A0A7L1XYU6,Thinocorus orbignyianus,outside Mammalia
+GJB1,A0A7L1Y1T8,Scytalopus superciliaris,outside Mammalia
+GJB1,A0A7L1ZH49,Leiothrix lutea,outside Mammalia
+GJB1,A0A7L2AVR4,Heliornis fulica,outside Mammalia
+GJB1,A0A7L2C970,Alaudala cheleensis,outside Mammalia
+GJB1,A0A7L2CMR5,Catharus fuscescens,outside Mammalia
+GJB1,A0A7L2DVD2,Anthoscopus minutus,outside Mammalia
+GJB1,A0A7L2F131,Quiscalus mexicanus,outside Mammalia
+GJB1,A0A7L2GIG9,Nyctibius grandis,outside Mammalia
+GJB1,A0A7L2HKJ5,Sagittarius serpentarius,outside Mammalia
+GJB1,A0A7L2IW34,Semnornis frantzii,outside Mammalia
+GJB1,A0A7L2JEY9,Cinclus mexicanus,outside Mammalia
+GJB1,A0A7L2KTJ3,Zosterops hypoxanthus,outside Mammalia
+GJB1,A0A7L2LLQ1,Hippolais icterina,outside Mammalia
+GJB1,A0A7L2NAN1,Rhadina sibilatrix,outside Mammalia
+GJB1,A0A7L2NNK3,Pycnonotus jocosus,outside Mammalia
+GJB1,A0A7L2Q7W5,Hypocryptadius cinnamomeus,outside Mammalia
+GJB1,A0A7L2SRA2,Mystacornis crossleyi,outside Mammalia
+GJB1,A0A7L2TXP8,Pomatostomus ruficeps,outside Mammalia
+GJB1,A0A7L2UIM5,Balaeniceps rex,outside Mammalia
+GJB1,A0A7L2VZR1,Brachypteracias leptosomus,outside Mammalia
+GJB1,A0A7L2WRA3,Pandion haliaetus,outside Mammalia
+GJB1,A0A7L2X906,Erpornis zantholeuca,outside Mammalia
+GJB1,A0A7L2YPY1,Jacana jacana,outside Mammalia
+GJB1,A0A7L2ZYZ9,Prunella fulvescens,outside Mammalia
+GJB1,A0A7L3AKI1,Syrrhaptes paradoxus,outside Mammalia
+GJB1,A0A7L3CFK0,Pelecanoides urinatrix,outside Mammalia
+GJB1,A0A7L3CNY0,Pelecanoides urinatrix,outside Mammalia
+GJB1,A0A7L3CZ80,Pluvianellus socialis,outside Mammalia
+GJB1,A0A7L3E9D8,Chaetops frenatus,outside Mammalia
+GJB1,A0A7L3F912,Zapornia atra,outside Mammalia
+GJB1,A0A7L3G946,Anhinga rufa,outside Mammalia
+GJB1,A0A7L3IVB6,Pardalotus punctatus,outside Mammalia
+GJB1,A0A7L3IYN7,Thalassarche chlororhynchos,outside Mammalia
+GJB1,A0A7L3KXF5,Drymodes brunneopygia,outside Mammalia
+GJB1,A0A7L3LGH2,Turnix velox,outside Mammalia
+GJB1,A0A7L3MPJ8,Horornis vulcanius,outside Mammalia
+GJB1,A0A7L3PFB9,Xiphorhynchus elegans,outside Mammalia
+GJB1,A0A7L3QWH1,Cettia cetti,outside Mammalia
+GJB1,A0A7L3RZG0,Cepphus grylle,outside Mammalia
+GJB1,A0A7L3T8E3,Rissa tridactyla,outside Mammalia
+GJB1,A0A7L3U4B4,Uria aalge,outside Mammalia
+GJB1,A0A7L3VX44,Molothrus ater,outside Mammalia
+GJB1,A0A7L3WVA8,Atlantisia rogersi,outside Mammalia
+GJB1,A0A7L3XYR1,Calonectris borealis,outside Mammalia
+GJB1,A0A7L3YR93,Fregetta grallaria,outside Mammalia
+GJB1,A0A7L4A386,Circaetus pectoralis,outside Mammalia
+GJB1,A0A7L4BGM9,Phaetusa simplex,outside Mammalia
+GJB1,A0A7L4CAB2,Nyctiprogne leucopyga,outside Mammalia
+GJB1,A0A7L4DW18,Eurystomus gularis,outside Mammalia
+GJB1,A0A7L4FLU7,Pampusana beccarii,outside Mammalia
+GJB1,A0A7L4GD86,Podargus strigoides,outside Mammalia
+GJB1,A0A7L4HU11,Scopus umbretta,outside Mammalia
+GJB1,A0A7L4K612,Ceuthmochares aereus,outside Mammalia
+GJB1,A0A7L4KZB3,Callaeas wilsoni,outside Mammalia
+GJB1,A0A7L4MLF5,Glareola pratincola,outside Mammalia
+GJB1,A0A7L4NQN9,Ceyx cyanopectus,outside Mammalia
+GJB1,A0A7M4FR93,Crocodylus porosus,outside Mammalia
+GJB1,A0A850TP96,Grus americana,outside Mammalia
+GJB1,A0A850UYE5,Chloropsis hardwickii,outside Mammalia
+GJB1,A0A850VL90,Fregata magnificens,outside Mammalia
+GJB1,A0A850XB48,Piaya cayana,outside Mammalia
+GJB1,A0A850Y9U7,Aegithalos caudatus,outside Mammalia
+GJB1,A0A850YU44,Tichodroma muraria,outside Mammalia
+GJB1,A0A851AMX4,Sula dactylatra,outside Mammalia
+GJB1,A0A851B7D0,Picathartes gymnocephalus,outside Mammalia
+GJB1,A0A851D1L8,Calyptomena viridis,outside Mammalia
+GJB1,A0A851D3Y1,Todus mexicanus,outside Mammalia
+GJB1,A0A851EJD5,Dryoscopus gambensis,outside Mammalia
+GJB1,A0A851FHU5,Pitta sordida,outside Mammalia
+GJB1,A0A851JJE6,Donacobius atricapilla,outside Mammalia
+GJB1,A0A851KIG7,Vidua chalybeata,outside Mammalia
+GJB1,A0A851L8N9,Corythaeola cristata,outside Mammalia
+GJB1,A0A851N0U0,Campylorhamphus procurvoides,outside Mammalia
+GJB1,A0A851P4J7,Penelope pileata,outside Mammalia
+GJB1,A0A851Q4L4,Anhinga anhinga,outside Mammalia
+GJB1,A0A851QJ95,Tychaedon coryphoeus,outside Mammalia
+GJB1,A0A851RWT5,Certhia familiaris,outside Mammalia
+GJB1,A0A851UFA8,Elachura formosa,outside Mammalia
+GJB1,A0A851UW36,Elachura formosa,outside Mammalia
+GJB1,A0A851VC34,Copsychus sechellarum,outside Mammalia
+GJB1,A0A851Y0I0,Eolophus roseicapilla,outside Mammalia
+GJB1,A0A851ZAA7,Halcyon senegalensis,outside Mammalia
+GJB1,A0A852AB62,Calcarius ornatus,outside Mammalia
+GJB1,A0A852BDP0,Chloropsis cyanopogon,outside Mammalia
+GJB1,A0A852CJD3,Ramphastos sulfuratus,outside Mammalia
+GJB1,A0A852DMI3,Passerina amoena,outside Mammalia
+GJB1,A0A852E9W7,Vidua macroura,outside Mammalia
+GJB1,A0A852FIE5,Peucedramus taeniatus,outside Mammalia
+GJB1,A0A852GJM0,Larus smithsonianus,outside Mammalia
+GJB1,A0A852HQJ9,Nicator chloris,outside Mammalia
+GJB1,A0A852ICF2,Tricholaema leucomelas,outside Mammalia
+GJB1,A0A852KAC0,Urocolius indicus,outside Mammalia
+GJB1,A0A852MES1,Centropus bengalensis,outside Mammalia
+GJB1,A0A852PD40,Atrichornis clamosus,outside Mammalia
+GJB1,A0A8B9CR59,Anser brachyrhynchus,outside Mammalia
+GJB1,A0A8C0GG12,Chelonoidis abingdonii,outside Mammalia
+GJB1,A0A8C0VHD5,Cyanistes caeruleus,outside Mammalia
+GJB1,A0A8C2TNE7,Coturnix japonica,outside Mammalia
+GJB1,A0A8C3P8C4,Chrysemys picta bellii,outside Mammalia
+GJB1,A0A8C3V1G4,Catharus ustulatus,outside Mammalia
+GJB1,A0A8C4W115,Gopherus evgoodei,outside Mammalia
+GJB1,A0A8C4X9S1,Erpetoichthys calabaricus,outside Mammalia
+GJB1,A0A8C5C1L3,Gadus morhua,outside Mammalia
+GJB1,A0A8C5EIX6,Gouania willdenowi,outside Mammalia
+GJB1,A0A8C5EUB9,Gouania willdenowi,outside Mammalia
+GJB1,A0A8C5PNI3,Leptobrachium leishanense,outside Mammalia
+GJB1,A0A8C5WPR9,Laticauda laticaudata,outside Mammalia
+GJB1,A0A8C6VT80,Nothobranchius furzeri,outside Mammalia
+GJB1,A0A8C6YMW5,Nothoprocta perdicaria,outside Mammalia
+GJB1,A0A8C7E0W8,Naja naja,outside Mammalia
+GJB1,A0A8C7J155,Oncorhynchus kisutch,outside Mammalia
+GJB1,A0A8C7LDV6,Oncorhynchus kisutch,outside Mammalia
+GJB1,A0A8C7NAZ9,Oncorhynchus kisutch,outside Mammalia
+GJB1,A0A8C9NV40,Serinus canaria,outside Mammalia
+GJB1,A0A8C9REW7,Scleropages formosus,outside Mammalia
+GJB1,A0A8C9Z9H5,Sander lucioperca,outside Mammalia
+GJB1,A0A8D0AEJ0,Sander lucioperca,outside Mammalia
+GJB1,A0A8D2IVL1,Varanus komodoensis,outside Mammalia
+GJB1,A0A8D2M4V1,Zonotrichia albicollis,outside Mammalia
+GJB1,A0A8J0SSP2,Xenopus tropicalis,outside Mammalia
+GJB1,A0A8J4IMJ3,Spheniscus mendiculus,outside Mammalia
+GJB1,A0A8J4K3Z2,Eudyptula minor,outside Mammalia
+GJB1,A0A8J4NDS5,Eudyptes sclateri,outside Mammalia
+GJB1,A0A8J4NPP6,Eudyptes chrysocome,outside Mammalia
+GJB1,A0A8J4UD42,Aptenodytes patagonicus,outside Mammalia
+GJB1,A0A8K0FJ98,Eudyptes filholi,outside Mammalia
+GJB1,A0A8M1KDR6,Clupea harengus,outside Mammalia
+GJB1,A0A8M1KIP0,Clupea harengus,outside Mammalia
+GJB1,A0A8M1P709,Danio rerio,outside Mammalia
+GJB1,A0A8M2B5D5,Danio rerio,outside Mammalia
+GJB1,A0A8N5HX41,Geospiza fortis,outside Mammalia
+GJB1,A0A8P4GMK3,Dicentrarchus labrax,outside Mammalia
+GJB1,A0A8T1S744,Chelydra serpentina,outside Mammalia
+GJB1,A0A8V0YZG1,Gallus gallus,outside Mammalia
+GJB1,A0A8X7XAI9,Polypterus senegalus,outside Mammalia
+GJB1,A0A9B5NIK2,Xenopus laevis,outside Mammalia
+GJB1,A0A9F2Q3Y8,Python bivittatus,outside Mammalia
+GJB1,A0A9Y3RIJ6,Pundamilia nyererei,outside Mammalia
+GJB1,A0A9Y3VM32,Pundamilia nyererei,outside Mammalia
+GJB1,A0A9Y4JX00,Stegastes partitus,outside Mammalia
+GJB1,A0A9Y4KCQ0,Stegastes partitus,outside Mammalia
+GJB1,A0AA40H8L8,Pygoscelis papua,outside Mammalia
+GJB1,A0AA47N7N7,Merluccius polli,outside Mammalia
+GJB1,A0AA97K7L9,Eublepharis macularius,outside Mammalia
+GJB1,A0AA97N8C9,Menura novaehollandiae,outside Mammalia
+GJB1,A0AAV9SMW4,Crenichthys baileyi,outside Mammalia
+GJB1,A0AAY4AY53,Denticeps clupeoides,outside Mammalia
+GJB1,A0AB13A7G7,Danio rerio,outside Mammalia
+GJB1,A0ABD8DA97,Xenopus laevis,outside Mammalia
+GJB1,A0ABI7WWX4,Felis catus,second entry for this organism
+GJB1,A0ABM1JSM7,Gekko japonicus,outside Mammalia
+GJB1,A0ABM4F512,Apteryx mantelli,outside Mammalia
+GJB1,A0ABQ9DAR6,Willisornis vidua,outside Mammalia
+GJB1,A0ABS2XAX7,Polyodon spathula,outside Mammalia
+GJB1,A0ABS2YQQ7,Polyodon spathula,outside Mammalia
+GJB1,A0ABU7BVV6,Ataeniobius toweri,outside Mammalia
+GJB1,A0ABU7DH99,Characodon lateralis,outside Mammalia
+GJB1,A0ABU7EV29,Characodon lateralis,outside Mammalia
+GJB1,A0ABV0MVR3,Goodea atripinnis,outside Mammalia
+GJB1,A0ABV0SLS8,Ilyodon furcidens,outside Mammalia
+GJB1,A0ABV0WQM0,Xenotaenia resolanae,outside Mammalia
+GJB1,A0ABV0XFU3,Ameca splendens,outside Mammalia
+GJB1,A0ABV0XRX5,Ameca splendens,outside Mammalia
+GJB1,A0AC58JH80,Danio rerio,outside Mammalia
+GJB1,A0ACB7EPK4,Nibea albiflora,outside Mammalia
+GJB1,A0ACB7F1G2,Nibea albiflora,outside Mammalia
+GJB1,A0ACB8FXS9,Sphaerodactylus townsendi,outside Mammalia
+GJB1,B3DIR8,Danio rerio,outside Mammalia
+GJB1,B7ZR95,Xenopus laevis,outside Mammalia
+GJB1,C9JWU8,Homo sapiens,second entry for this organism
+GJB1,E7FF16,Danio rerio,outside Mammalia
+GJB1,G1NSA4,Meleagris gallopavo,outside Mammalia
+GJB1,G3W9X9,Sarcophilus harrisii,second entry for this organism
+GJB1,H0Z9S9,Taeniopygia guttata,outside Mammalia
+GJB1,H2M0H2,Oryzias latipes,outside Mammalia
+GJB1,H2U7J4,Takifugu rubripes,outside Mammalia
+GJB1,H3A596,Latimeria chalumnae,outside Mammalia
+GJB1,H9GLZ9,Anolis carolinensis,outside Mammalia
+GJB1,H9H2P6,Macaca mulatta,second entry for this organism
+GJB1,I3K4X1,Oreochromis niloticus,outside Mammalia
+GJB1,I3KXN9,Oreochromis niloticus,outside Mammalia
+GJB1,K7EWM0,Pelodiscus sinensis,outside Mammalia
+GJB1,O18968,Bos taurus,second entry for this organism
+GJB1,P08033,Rattus norvegicus,second entry for this organism
+GJB1,P08034,Homo sapiens,second entry for this organism
+GJB1,P08983,Xenopus laevis,outside Mammalia
+GJB1,P28230,Mus musculus,second entry for this organism
+GJB1,Q28IM3,Xenopus tropicalis,outside Mammalia
+GJB1,Q2NKT9,Bos taurus,second entry for this organism
+GJB1,Q2VJ87,Danio rerio,outside Mammalia
+GJB1,Q60HF7,Macaca fascicularis,second entry for this organism
+GJB1,Q6NVT8,Xenopus tropicalis,outside Mammalia
+GJB1,Q6WGK6,Equus caballus,second entry for this organism
+GJB1,Q9DF29,Danio rerio,outside Mammalia
+GJB1,U3I0A5,Anas platyrhynchos platyrhynchos,outside Mammalia
+GJB1,A0A667I232,Lynx canadensis,over the per-gene cap
+GJB1,A0A671DH06,Rhinolophus ferrumequinum,over the per-gene cap
+GJB1,A0A673URR0,Suricata suricatta,over the per-gene cap
+GJB1,A0A6I9ISC9,Vicugna pacos,over the per-gene cap
+GJB1,A0A6I9LMC5,Peromyscus maniculatus bairdii,over the per-gene cap
+GJB1,A0A6J0WRB9,Odocoileus virginianus,over the per-gene cap
+GJB1,A0A6J1YW31,Acinonyx jubatus,over the per-gene cap
+GJB1,A0A6J2E5R5,Zalophus californianus,over the per-gene cap
+GJB1,A0A6J2ML51,Phyllostomus discolor,over the per-gene cap
+GJB1,A0A6J3G146,Sapajus apella,over the per-gene cap
+GJB1,A0A6J3QS66,Tursiops truncatus,over the per-gene cap
+GJB1,A0A6P3FTW4,Octodon degus,over the per-gene cap
+GJB1,A0A6P5AZA7,Bos indicus,over the per-gene cap
+GJB1,A0A6P5JDA0,Phascolarctos cinereus,over the per-gene cap
+GJB1,A0A6P5NZ18,Mus caroli,over the per-gene cap
+GJB1,A0A6P6ISY6,Puma concolor,over the per-gene cap
+GJB1,A0A7N4PAM9,Sarcophilus harrisii,over the per-gene cap
+GJB1,A0A8B7BDT7,Orycteropus afer afer,over the per-gene cap
+GJB1,A0A8B7RR76,Hipposideros armiger,over the per-gene cap
+GJB1,A0A8B8WHA7,Balaenoptera musculus,over the per-gene cap
+GJB1,A0A8B9Z0J4,Bos grunniens,over the per-gene cap
+GJB1,A0A8C0L273,Canis lupus dingo,over the per-gene cap
+GJB1,A0A8C2UXP6,Chinchilla lanigera,over the per-gene cap
+GJB1,A0A8C3VUZ6,Catagonus wagneri,over the per-gene cap
+GJB1,A0A8C5KM77,Jaculus jaculus,over the per-gene cap
+GJB1,A0A8C6A7X5,Marmota marmota marmota,over the per-gene cap
+GJB1,A0A8C6CVQ6,Moschus moschiferus,over the per-gene cap
+GJB1,A0A8C6QN96,Nannospalax galili,over the per-gene cap
+GJB1,A0A8C7AUX5,Neogale vison,over the per-gene cap
+GJB1,A0A8C9AXC2,Prolemur simus,over the per-gene cap
+GJB1,A0A8C9E7K7,Phocoena sinus,over the per-gene cap
+GJB1,A0A8C9GJT5,Piliocolobus tephrosceles,over the per-gene cap
+GJB1,A0A8D2CZP3,Sciurus vulgaris,over the per-gene cap
+GJB1,A0A8D2JX34,Theropithecus gelada,over the per-gene cap
+GJB1,A0A8D2KEA7,Urocitellus parryii,over the per-gene cap
+GJB1,A0A8J6L4M5,Microtus ochrogaster,over the per-gene cap
+GJB1,A0A8M1FDN7,Ursus maritimus,over the per-gene cap
+GJB1,A0A9B0TR95,Chrysochloris asiatica,over the per-gene cap
+GJB1,A0A9L0I3V4,Equus asinus,over the per-gene cap
+GJB1,A0A9V1ELL9,Panthera pardus,over the per-gene cap
+GJB1,A0A9W3FF49,Camelus bactrianus,over the per-gene cap
+GJB1,A0AAU9Z3C9,Phodopus roborovskii,over the per-gene cap
+GJB1,A0ABM0J7N2,Echinops telfairi,over the per-gene cap
+GJB1,A0ABM0QBN8,Galeopterus variegatus,over the per-gene cap
+GJB1,A0ABM4N5F3,Equus przewalskii,over the per-gene cap
+GJB1,A0ABQ9TF60,Saguinus oedipus,over the per-gene cap
+GJB1,A0AC58LN94,Castor canadensis,over the per-gene cap
+GJB1,A0ACI6PWQ1,Ovis aries,over the per-gene cap
+GJB1,D2I1L5,Ailuropoda melanoleuca,over the per-gene cap
+GJB1,E2QYR1,Canis lupus familiaris,over the per-gene cap
+GJB1,F1RSW9,Sus scrofa,over the per-gene cap
+GJB1,F6RCP5,Ornithorhynchus anatinus,over the per-gene cap
+GJB1,F6RE67,Callithrix jacchus,over the per-gene cap
+GJB1,F6SVW4,Monodelphis domestica,over the per-gene cap
+GJB1,G1Q8Q5,Myotis lucifugus,over the per-gene cap
+GJB1,G1TMB8,Oryctolagus cuniculus,over the per-gene cap
+GJB1,G3R5C8,Gorilla gorilla gorilla,over the per-gene cap
+GJB1,G3TIU5,Loxodonta africana,over the per-gene cap
+GJB1,G5BW28,Heterocephalus glaber,over the per-gene cap
+GJB1,G7NRV4,Macaca mulatta,over the per-gene cap
+GJB1,H0XXY5,Otolemur garnettii,over the per-gene cap
+GJB1,I3NEZ3,Ictidomys tridecemlineatus,over the per-gene cap
+GJB1,M3Z459,Mustela putorius furo,over the per-gene cap
+GJB2,A0A151P4W3,Alligator mississippiensis,outside Mammalia
+GJB2,A0A1L8HAU1,Xenopus laevis,outside Mammalia
+GJB2,A0A1V4KBA4,Patagioenas fasciata monilis,outside Mammalia
+GJB2,A0A218UGW5,Lonchura striata,outside Mammalia
+GJB2,A0A2I0MCX1,Columba livia,outside Mammalia
+GJB2,A0A5F5PGK7,Equus caballus,second entry for this organism
+GJB2,A0A663LTH0,Athene cunicularia,outside Mammalia
+GJB2,A0A670JXF6,Podarcis muralis,outside Mammalia
+GJB2,A0A670Y5L6,Pseudonaja textilis,outside Mammalia
+GJB2,A0A6F9DCX3,Phallusia mammillata,outside Mammalia
+GJB2,A0A6F9DEG8,Phallusia mammillata,outside Mammalia
+GJB2,A0A6P7XSX1,Microcaecilia unicolor,outside Mammalia
+GJB2,A0A7F8KCE8,Delphinapterus leucas,second entry for this organism
+GJB2,A0A7K4YP75,Bucorvus abyssinicus,outside Mammalia
+GJB2,A0A7K5FE22,Probosciger aterrimus,outside Mammalia
+GJB2,A0A7K5TAH7,Urocynchramus pylzowi,outside Mammalia
+GJB2,A0A7K5YCU6,Pterocles burchelli,outside Mammalia
+GJB2,A0A7K6ATA6,Upupa epops,outside Mammalia
+GJB2,A0A7K6BY66,Ptilonorhynchus violaceus,outside Mammalia
+GJB2,A0A7K6DFD8,Origma solitaria,outside Mammalia
+GJB2,A0A7K6ILE7,Machaerirhynchus nigripectus,outside Mammalia
+GJB2,A0A7K6K7K7,Oreocharis arfaki,outside Mammalia
+GJB2,A0A7K6L9V6,Falcunculus frontatus,outside Mammalia
+GJB2,A0A7K6MFE8,Panurus biarmicus,outside Mammalia
+GJB2,A0A7K6T875,Caloenas nicobarica,outside Mammalia
+GJB2,A0A7K6UC06,Aegotheles bennettii,outside Mammalia
+GJB2,A0A7K7ZYQ3,Melanocharis versteri,outside Mammalia
+GJB2,A0A7K8JZF1,Lophotis ruficrista,outside Mammalia
+GJB2,A0A7K8LC83,Ardeotis kori,outside Mammalia
+GJB2,A0A7K8P4B0,Cochlearius cochlearius,outside Mammalia
+GJB2,A0A7K8TPD8,Oceanites oceanicus,outside Mammalia
+GJB2,A0A7K8X862,Eubucco bourcierii,outside Mammalia
+GJB2,A0A7K9A9A1,Grallaria varia,outside Mammalia
+GJB2,A0A7K9MB87,Oceanodroma tethys,outside Mammalia
+GJB2,A0A7K9N4S8,Edolisoma coerulescens,outside Mammalia
+GJB2,A0A7K9QYS3,Irena cyanogastra,outside Mammalia
+GJB2,A0A7L0BA66,Ciconia maguari,outside Mammalia
+GJB2,A0A7L0GLU7,Herpetotheres cachinnans,outside Mammalia
+GJB2,A0A7L0I9A3,Arenaria interpres,outside Mammalia
+GJB2,A0A7L0M5V7,Amazona guildingii,outside Mammalia
+GJB2,A0A7L0R7S5,Setophaga kirtlandii,outside Mammalia
+GJB2,A0A7L0THG5,Podilymbus podiceps,outside Mammalia
+GJB2,A0A7L0U0Q4,Chordeiles acutipennis,outside Mammalia
+GJB2,A0A7L0XV71,Tyrannus savana,outside Mammalia
+GJB2,A0A7L1GMJ3,Indicator maculatus,outside Mammalia
+GJB2,A0A7L1MZ99,Rhinopomastus cyanomelas,outside Mammalia
+GJB2,A0A7L1VF19,Sitta europaea,outside Mammalia
+GJB2,A0A7L1YKV1,Scytalopus superciliaris,outside Mammalia
+GJB2,A0A7L2VXZ8,Brachypteracias leptosomus,outside Mammalia
+GJB2,A0A7L2ZZK9,Prunella fulvescens,outside Mammalia
+GJB2,A0A7L3E3N9,Chaetops frenatus,outside Mammalia
+GJB2,A0A7L3GSB5,Anhinga rufa,outside Mammalia
+GJB2,A0A7L3IW76,Thalassarche chlororhynchos,outside Mammalia
+GJB2,A0A7L3JYV6,Drymodes brunneopygia,outside Mammalia
+GJB2,A0A7L4CM65,Nyctiprogne leucopyga,outside Mammalia
+GJB2,A0A7L4KJG2,Callaeas wilsoni,outside Mammalia
+GJB2,A0A850WNU0,Piaya cayana,outside Mammalia
+GJB2,A0A851A6I3,Sula dactylatra,outside Mammalia
+GJB2,A0A851P9N8,Anhinga anhinga,outside Mammalia
+GJB2,A0A851URL6,Elachura formosa,outside Mammalia
+GJB2,A0A851XSU0,Eolophus roseicapilla,outside Mammalia
+GJB2,A0A851ZZ73,Calcarius ornatus,outside Mammalia
+GJB2,A0A852EHH6,Vidua macroura,outside Mammalia
+GJB2,A0A852IPH2,Tricholaema leucomelas,outside Mammalia
+GJB2,A0A852JHK7,Spizella passerina,outside Mammalia
+GJB2,A0A8B7K3E2,Apteryx mantelli,outside Mammalia
+GJB2,A0A8B8VS37,Balaenoptera musculus,second entry for this organism
+GJB2,A0A8C3UBU2,Catharus ustulatus,outside Mammalia
+GJB2,A0A8C6Z5E6,Nothoprocta perdicaria,outside Mammalia
+GJB2,A0A8J0PIR7,Xenopus tropicalis,outside Mammalia
+GJB2,A0A8J4I9G1,Spheniscus mendiculus,outside Mammalia
+GJB2,A0A8J4ITT9,Eudyptula minor,outside Mammalia
+GJB2,A0A8J4L5S1,Eudyptes chrysocome,outside Mammalia
+GJB2,A0A8J4N9J6,Eudyptes sclateri,outside Mammalia
+GJB2,A0A8J4P647,Aptenodytes patagonicus,outside Mammalia
+GJB2,A0A8K0BDK7,Eudyptes filholi,outside Mammalia
+GJB2,A0A8T1S7W3,Chelydra serpentina,outside Mammalia
+GJB2,A0A9B5T5F6,Xenopus laevis,outside Mammalia
+GJB2,A0A9W2X297,Physeter macrocephalus,second entry for this organism
+GJB2,A0AA40GRD4,Pygoscelis papua,outside Mammalia
+GJB2,A0AA97MGT2,Menura novaehollandiae,outside Mammalia
+GJB2,A0ABK0M9V9,Rattus norvegicus,second entry for this organism
+GJB2,A0ABM1LG97,Gekko japonicus,outside Mammalia
+GJB2,A2VE67,Bos taurus,second entry for this organism
+GJB2,E1C2J9,Gallus gallus,outside Mammalia
+GJB2,G3U6Y6,Loxodonta africana,second entry for this organism
+GJB2,G5BKV9,Heterocephalus glaber,second entry for this organism
+GJB2,H0ZM33,Taeniopygia guttata,outside Mammalia
+GJB2,H9U1J4,Homo sapiens,second entry for this organism
+GJB2,K7D3P0,Pan troglodytes,second entry for this organism
+GJB2,P21994,Rattus norvegicus,second entry for this organism
+GJB2,P29033,Homo sapiens,second entry for this organism
+GJB2,P46691,Ovis aries,second entry for this organism
+GJB2,Q00977,Mus musculus,second entry for this organism
+GJB2,Q28ED4,Xenopus tropicalis,outside Mammalia
+GJB2,Q3TZE5,Mus musculus,second entry for this organism
+GJB2,Q3UJE9,Mus musculus,second entry for this organism
+GJB2,Q3UY12,Mus musculus,second entry for this organism
+GJB2,Q7JGL3,Hylobates lar,second entry for this organism
+GJB2,Q7ZYG3,Xenopus laevis,outside Mammalia
+GJB2,Q80XF9,Rattus norvegicus,second entry for this organism
+GJB2,Q8MHW5,Gorilla gorilla gorilla,second entry for this organism
+GJB2,Q8MIT8,Macaca mulatta,second entry for this organism
+GJB2,Q8MIT9,Pongo pygmaeus,second entry for this organism
+GJB2,U3EKB7,Callithrix jacchus,second entry for this organism
+GJB2,V5Q007,Homo sapiens,second entry for this organism
+GJB2,W8FX79,Homo sapiens,second entry for this organism
+GJB2,A0A452SVD1,Ursus americanus,over the per-gene cap
+GJB2,A0A4U1FGX8,Monodon monoceros,over the per-gene cap
+GJB2,A0A4W2BN92,Bos indicus x Bos taurus,over the per-gene cap
+GJB2,A0A4X2M3S7,Vombatus ursinus,over the per-gene cap
+GJB2,A0A671DS38,Rhinolophus ferrumequinum,over the per-gene cap
+GJB2,A0A673SU88,Suricata suricatta,over the per-gene cap
+GJB2,A0A6I9M2Z0,Peromyscus maniculatus bairdii,over the per-gene cap
+GJB2,A0A6J0Y437,Odocoileus virginianus,over the per-gene cap
+GJB2,A0A6J1ZT25,Acinonyx jubatus,over the per-gene cap
+GJB2,A0A6J2CSF9,Zalophus californianus,over the per-gene cap
+GJB2,A0A6J3B0U6,Vicugna pacos,over the per-gene cap
+GJB2,A0A6J3GDR9,Sapajus apella,over the per-gene cap
+GJB2,A0A6J3Q9Z7,Tursiops truncatus,over the per-gene cap
+GJB2,A0A6P3F5L6,Octodon degus,over the per-gene cap
+GJB2,A0A6P3ICL9,Bison bison bison,over the per-gene cap
+GJB2,A0A6P3Q3D6,Pteropus vampyrus,over the per-gene cap
+GJB2,A0A6P5CNM4,Bos indicus,over the per-gene cap
+GJB2,A0A6P5IQR9,Phascolarctos cinereus,over the per-gene cap
+GJB2,A0A6P5QZU4,Mus caroli,over the per-gene cap
+GJB2,A0A6P6HUF6,Puma concolor,over the per-gene cap
+GJB2,A0A7E6D5I4,Phyllostomus discolor,over the per-gene cap
+GJB2,A0A7F8RLG5,Leptonychotes weddellii,over the per-gene cap
+GJB2,A0A7N4P5V1,Sarcophilus harrisii,over the per-gene cap
+GJB2,A0A8B7A000,Orycteropus afer afer,over the per-gene cap
+GJB2,A0A8B7HBD4,Microcebus murinus,over the per-gene cap
+GJB2,A0A8B7S3E1,Hipposideros armiger,over the per-gene cap
+GJB2,A0A8B8UDJ8,Camelus ferus,over the per-gene cap
+GJB2,A0A8B8VS31,Balaenoptera musculus,over the per-gene cap
+GJB2,A0A8B9X9X8,Bos grunniens,over the per-gene cap
+GJB2,A0A8C0JJ06,Canis lupus dingo,over the per-gene cap
+GJB2,A0A8C2W5M0,Chinchilla lanigera,over the per-gene cap
+GJB2,A0A8C3W6G4,Catagonus wagneri,over the per-gene cap
+GJB2,A0A8C5NXK0,Jaculus jaculus,over the per-gene cap
+GJB2,A0A8C5Z7H6,Marmota marmota marmota,over the per-gene cap
+GJB2,A0A8C6CXA6,Moschus moschiferus,over the per-gene cap
+GJB2,A0A8C6QDQ0,Nannospalax galili,over the per-gene cap
+GJB2,A0A8C7BR68,Neogale vison,over the per-gene cap
+GJB2,A0A8C9BEL8,Phocoena sinus,over the per-gene cap
+GJB2,A0A8C9D0X8,Panthera leo,over the per-gene cap
+GJB2,A0A8C9DLB8,Prolemur simus,over the per-gene cap
+GJB2,A0A8C9GUA3,Piliocolobus tephrosceles,over the per-gene cap
+GJB2,A0A8D2D500,Sciurus vulgaris,over the per-gene cap
+GJB2,A0A8D2FKJ4,Theropithecus gelada,over the per-gene cap
+GJB2,A0A8D2I0K4,Urocitellus parryii,over the per-gene cap
+GJB2,A0A8J6GWH2,Microtus ochrogaster,over the per-gene cap
+GJB2,A0A8W4FEJ1,Sus scrofa,over the per-gene cap
+GJB2,A0A9B0SX28,Chrysochloris asiatica,over the per-gene cap
+GJB2,A0A9L0KAY9,Equus asinus,over the per-gene cap
+GJB2,A0A9V1EZ08,Panthera pardus,over the per-gene cap
+GJB2,A0AAU9ZSS4,Phodopus roborovskii,over the per-gene cap
+GJB2,A0AAX6R9D7,Heterocephalus glaber,over the per-gene cap
+GJB2,A0ABM0J4W9,Echinops telfairi,over the per-gene cap
+GJB2,A0ABM0QG15,Galeopterus variegatus,over the per-gene cap
+GJB2,A0ABM3SGI4,Balaenoptera acutorostrata,over the per-gene cap
+GJB2,A0ABM4L0F6,Equus przewalskii,over the per-gene cap
+GJB2,A0ABM4XCX5,Vulpes vulpes,over the per-gene cap
+GJB2,A0ABQ9VSZ6,Saguinus oedipus,over the per-gene cap
+GJB2,A0AC58K4B1,Castor canadensis,over the per-gene cap
+GJB2,A0AC58RHG5,Camelus bactrianus,over the per-gene cap
+GJB2,D2I6K7,Ailuropoda melanoleuca,over the per-gene cap
+GJB2,F6WYM7,Monodelphis domestica,over the per-gene cap
+GJB2,F7ETY3,Ornithorhynchus anatinus,over the per-gene cap
+GJB2,F7HZW5,Callithrix jacchus,over the per-gene cap
+GJB2,G1PT05,Myotis lucifugus,over the per-gene cap
+GJB2,G1SYP9,Oryctolagus cuniculus,over the per-gene cap
+GJB2,G3H8J4,Cricetulus griseus,over the per-gene cap
+GJB2,G3SU51,Loxodonta africana,over the per-gene cap
+GJB2,H0X5A6,Otolemur garnettii,over the per-gene cap
+GJB2,H2RAA6,Pan troglodytes,over the per-gene cap
+GJB2,I3N748,Ictidomys tridecemlineatus,over the per-gene cap
+GJB2,J9NXR5,Canis lupus familiaris,over the per-gene cap
+GJB2,M3Z8M1,Mustela putorius furo,over the per-gene cap
+GJB3,A0A151PGA1,Alligator mississippiensis,outside Mammalia
+GJB3,A0A1S3NC81,Salmo salar,outside Mammalia
+GJB3,A0A1U7S7R3,Alligator sinensis,outside Mammalia
+GJB3,A0A2D0RNF9,Ictalurus punctatus,outside Mammalia
+GJB3,A0A2I4BF83,Austrofundulus limnaeus,outside Mammalia
+GJB3,A0A2Y9GL85,Neomonachus schauinslandi,second entry for this organism
+GJB3,A0A3B3SJP8,Paramormyrops kingsleyae,outside Mammalia
+GJB3,A0A3B4C152,Pygocentrus nattereri,outside Mammalia
+GJB3,A0A3B4FII3,Pundamilia nyererei,outside Mammalia
+GJB3,A0A3P9ADZ5,Esox lucius,outside Mammalia
+GJB3,A0A3Q1ANX0,Amphiprion ocellaris,outside Mammalia
+GJB3,A0A3Q1HSX1,Anabas testudineus,outside Mammalia
+GJB3,A0A4W4G558,Electrophorus electricus,outside Mammalia
+GJB3,A0A4W4H163,Electrophorus electricus,outside Mammalia
+GJB3,A0A4W6DRQ0,Lates calcarifer,outside Mammalia
+GJB3,A0A4Z2FK67,Liparis tanakae,outside Mammalia
+GJB3,A0A4Z2IZ02,Liparis tanakae,outside Mammalia
+GJB3,A0A663EHD1,Aquila chrysaetos chrysaetos,outside Mammalia
+GJB3,A0A670J1J9,Podarcis muralis,outside Mammalia
+GJB3,A0A670Y140,Pseudonaja textilis,outside Mammalia
+GJB3,A0A672P6K7,Sinocyclocheilus grahami,outside Mammalia
+GJB3,A0A672UCR9,Strigops habroptila,outside Mammalia
+GJB3,A0A673ZNR2,Salmo trutta,outside Mammalia
+GJB3,A0A674A451,Salmo trutta,outside Mammalia
+GJB3,A0A674EV62,Salmo trutta,outside Mammalia
+GJB3,A0A674IHE6,Terrapene triunguis,outside Mammalia
+GJB3,A0A6I9HQI0,Geospiza fortis,outside Mammalia
+GJB3,A0A6I9N9P3,Notothenia coriiceps,outside Mammalia
+GJB3,A0A6J0ICY4,Lepidothrix coronata,outside Mammalia
+GJB3,A0A6J2S1M7,Cottoperca gobio,outside Mammalia
+GJB3,A0A6J2WGC5,Chanos chanos,outside Mammalia
+GJB3,A0A6J3E3R1,Aythya fuligula,outside Mammalia
+GJB3,A0A6P5BPS4,Bos indicus,second entry for this organism
+GJB3,A0A6P7HAI9,Parambassis ranga,outside Mammalia
+GJB3,A0A6P7LJW8,Betta splendens,outside Mammalia
+GJB3,A0A6P7Z455,Microcaecilia unicolor,outside Mammalia
+GJB3,A0A6P8G9B5,Clupea harengus,outside Mammalia
+GJB3,A0A6P8RXB0,Geotrypetes seraphini,outside Mammalia
+GJB3,A0A6P9BGQ2,Pantherophis guttatus,outside Mammalia
+GJB3,A0A7K4JSL4,Geococcyx californianus,outside Mammalia
+GJB3,A0A7K4KG28,Crypturellus soui,outside Mammalia
+GJB3,A0A7K4LJ25,Crypturellus undulatus,outside Mammalia
+GJB3,A0A7K4PR90,Melospiza melodia,outside Mammalia
+GJB3,A0A7K4QHU5,Neopipo cinnamomea,outside Mammalia
+GJB3,A0A7K4SNX7,Burhinus bistriatus,outside Mammalia
+GJB3,A0A7K4TZW8,Sinosuthora webbiana,outside Mammalia
+GJB3,A0A7K4VTG9,Emberiza fucata,outside Mammalia
+GJB3,A0A7K4WQ48,Tachuris rubrigastra,outside Mammalia
+GJB3,A0A7K4XNR7,Regulus satrapa,outside Mammalia
+GJB3,A0A7K4YDW7,Bucorvus abyssinicus,outside Mammalia
+GJB3,A0A7K4ZTE1,Centropus unirufus,outside Mammalia
+GJB3,A0A7K5B4K4,Furnarius figulus,outside Mammalia
+GJB3,A0A7K5BL42,Motacilla alba,outside Mammalia
+GJB3,A0A7K5D713,Pachyramphus minor,outside Mammalia
+GJB3,A0A7K5EWS1,Polioptila caerulea,outside Mammalia
+GJB3,A0A7K5F4D8,Probosciger aterrimus,outside Mammalia
+GJB3,A0A7K5G723,Chunga burmeisteri,outside Mammalia
+GJB3,A0A7K5HWX8,Crotophaga sulcirostris,outside Mammalia
+GJB3,A0A7K5IH57,Toxostoma redivivum,outside Mammalia
+GJB3,A0A7K5K4E5,Mionectes macconnelli,outside Mammalia
+GJB3,A0A7K5KUD6,Vireo altiloquus,outside Mammalia
+GJB3,A0A7K5MWW9,Cardinalis cardinalis,outside Mammalia
+GJB3,A0A7K5NCS1,Chroicocephalus maculipennis,outside Mammalia
+GJB3,A0A7K5Q2P6,Erythrocercus mccallii,outside Mammalia
+GJB3,A0A7K5R578,Prunella himalayana,outside Mammalia
+GJB3,A0A7K5RL88,Lanius ludovicianus,outside Mammalia
+GJB3,A0A7K5TD25,Urocynchramus pylzowi,outside Mammalia
+GJB3,A0A7K5U9Q0,Cephalopterus ornatus,outside Mammalia
+GJB3,A0A7K5VDU5,Platysteira castanea,outside Mammalia
+GJB3,A0A7K5W9R7,Hylia prasina,outside Mammalia
+GJB3,A0A7K5X2Y6,Dromas ardeola,outside Mammalia
+GJB3,A0A7K5YW37,Pterocles burchelli,outside Mammalia
+GJB3,A0A7K5ZX58,Onychorhynchus coronatus,outside Mammalia
+GJB3,A0A7K6AHJ2,Upupa epops,outside Mammalia
+GJB3,A0A7K6CK91,Ptilonorhynchus violaceus,outside Mammalia
+GJB3,A0A7K6D538,Origma solitaria,outside Mammalia
+GJB3,A0A7K6EC48,Grantiella picta,outside Mammalia
+GJB3,A0A7K6FIM0,Daphoenositta chrysoptera,outside Mammalia
+GJB3,A0A7K6H6C8,Malurus elegans,outside Mammalia
+GJB3,A0A7K6I7X6,Dasyornis broadbenti,outside Mammalia
+GJB3,A0A7K6J3Y1,Machaerirhynchus nigripectus,outside Mammalia
+GJB3,A0A7K6KNX7,Oreocharis arfaki,outside Mammalia
+GJB3,A0A7K6LV04,Falcunculus frontatus,outside Mammalia
+GJB3,A0A7K6MH05,Panurus biarmicus,outside Mammalia
+GJB3,A0A7K6N5S6,Pedionomus torquatus,outside Mammalia
+GJB3,A0A7K6PSP8,Ifrita kowaldi,outside Mammalia
+GJB3,A0A7K6QC70,Climacteris rufus,outside Mammalia
+GJB3,A0A7K6SBK5,Rhynochetos jubatus,outside Mammalia
+GJB3,A0A7K6T7X2,Caloenas nicobarica,outside Mammalia
+GJB3,A0A7K6UBI6,Aegotheles bennettii,outside Mammalia
+GJB3,A0A7K6VBR9,Notiomystis cincta,outside Mammalia
+GJB3,A0A7K6VW87,Steatornis caripensis,outside Mammalia
+GJB3,A0A7K6X8N9,Promerops cafer,outside Mammalia
+GJB3,A0A7K6YUH9,Alca torda,outside Mammalia
+GJB3,A0A7K7A248,Nothoprocta pentlandii,outside Mammalia
+GJB3,A0A7K7AY91,Nothoprocta ornata,outside Mammalia
+GJB3,A0A7K7CH96,Aphelocoma coerulescens,outside Mammalia
+GJB3,A0A7K7DJ61,Pheucticus melanocephalus,outside Mammalia
+GJB3,A0A7K7ETE1,Sylvia atricapilla,outside Mammalia
+GJB3,A0A7K7FAT2,Chionis minor,outside Mammalia
+GJB3,A0A7K7GET0,Erithacus rubecula,outside Mammalia
+GJB3,A0A7K7IH29,Loxia curvirostra,outside Mammalia
+GJB3,A0A7K7JNY0,Agelaius phoeniceus,outside Mammalia
+GJB3,A0A7K7L3X0,Asarcornis scutulata,outside Mammalia
+GJB3,A0A7K7M282,Brachypodius melanocephalos,outside Mammalia
+GJB3,A0A7K7NEA2,Haliaeetus albicilla,outside Mammalia
+GJB3,A0A7K7PVG0,Acrocephalus arundinaceus,outside Mammalia
+GJB3,A0A7K7R266,Poecile atricapillus,outside Mammalia
+GJB3,A0A7K7SGZ7,Nesospiza acunhae,outside Mammalia
+GJB3,A0A7K7SJQ8,Sapayoa aenigma,outside Mammalia
+GJB3,A0A7K7TWK0,Ibidorhyncha struthersii,outside Mammalia
+GJB3,A0A7K7VN68,Eudromia elegans,outside Mammalia
+GJB3,A0A7K7W985,Nothocercus julius,outside Mammalia
+GJB3,A0A7K7Y0D0,Mohoua ochrocephala,outside Mammalia
+GJB3,A0A7K7Y3H6,Thryothorus ludovicianus,outside Mammalia
+GJB3,A0A7K8A436,Melanocharis versteri,outside Mammalia
+GJB3,A0A7K8BJ14,Cnemophilus loriae,outside Mammalia
+GJB3,A0A7K8C8P8,Rhagologus leucostigma,outside Mammalia
+GJB3,A0A7K8D4Q6,Eulacestoma nigropectus,outside Mammalia
+GJB3,A0A7K8DYT1,Leucopsar rothschildi,outside Mammalia
+GJB3,A0A7K8FCD6,Struthidea cinerea,outside Mammalia
+GJB3,A0A7K8G6M4,Orthonyx spaldingii,outside Mammalia
+GJB3,A0A7K8HU91,Aleadryas rufinucha,outside Mammalia
+GJB3,A0A7K8IXA6,Chaetorhynchus papuensis,outside Mammalia
+GJB3,A0A7K8JHT1,Lophotis ruficrista,outside Mammalia
+GJB3,A0A7K8LBX4,Ardeotis kori,outside Mammalia
+GJB3,A0A7K8MIJ5,Ptilorrhoa leucosticta,outside Mammalia
+GJB3,A0A7K8NPA6,Casuarius casuarius,outside Mammalia
+GJB3,A0A7K8P3F2,Cochlearius cochlearius,outside Mammalia
+GJB3,A0A7K8S805,Rhodinocichla rosea,outside Mammalia
+GJB3,A0A7K8SP58,Nyctibius bracteatus,outside Mammalia
+GJB3,A0A7K8TWN9,Oceanites oceanicus,outside Mammalia
+GJB3,A0A7K8VRK8,Ciccaba nigrolineata,outside Mammalia
+GJB3,A0A7K8VTV6,Ciccaba nigrolineata,outside Mammalia
+GJB3,A0A7K8WS12,Sclerurus mexicanus,outside Mammalia
+GJB3,A0A7K8Y6B0,Sakesphorus luctuosus,outside Mammalia
+GJB3,A0A7K8Y6D2,Eubucco bourcierii,outside Mammalia
+GJB3,A0A7K9A9S9,Grallaria varia,outside Mammalia
+GJB3,A0A7K9BRQ0,Psilopogon haemacephalus,outside Mammalia
+GJB3,A0A7K9D4I6,Hemiprocne comata,outside Mammalia
+GJB3,A0A7K9DXR5,Baryphthengus martii,outside Mammalia
+GJB3,A0A7K9FE88,Stercorarius parasiticus,outside Mammalia
+GJB3,A0A7K9GCP5,Loxia leucoptera,outside Mammalia
+GJB3,A0A7K9HNS6,Bucco capensis,outside Mammalia
+GJB3,A0A7K9JCB7,Myiagra hebetior,outside Mammalia
+GJB3,A0A7K9KB13,Dicaeum eximium,outside Mammalia
+GJB3,A0A7K9KS66,Rhabdornis inornatus,outside Mammalia
+GJB3,A0A7K9M001,Oceanodroma tethys,outside Mammalia
+GJB3,A0A7K9NN90,Edolisoma coerulescens,outside Mammalia
+GJB3,A0A7K9PK47,Pachycephala philippinensis,outside Mammalia
+GJB3,A0A7K9R625,Irena cyanogastra,outside Mammalia
+GJB3,A0A7K9RUY3,Sterrhoptilus dennistouni,outside Mammalia
+GJB3,A0A7K9THI9,Galbula dea,outside Mammalia
+GJB3,A0A7K9UJD7,Chloroceryle aenea,outside Mammalia
+GJB3,A0A7K9UPA3,Anseranas semipalmata,outside Mammalia
+GJB3,A0A7K9WNS0,Rhipidura dahli,outside Mammalia
+GJB3,A0A7K9XK22,Psophia crepitans,outside Mammalia
+GJB3,A0A7K9Y802,Odontophorus gujanensis,outside Mammalia
+GJB3,A0A7K9ZB56,Dicrurus megarhynchus,outside Mammalia
+GJB3,A0A7L0BKL3,Spizaetus tyrannus,outside Mammalia
+GJB3,A0A7L0BKW9,Ciconia maguari,outside Mammalia
+GJB3,A0A7L0DE97,Rostratula benghalensis,outside Mammalia
+GJB3,A0A7L0E2T7,Trogon melanurus,outside Mammalia
+GJB3,A0A7L0F069,Corythaixoides concolor,outside Mammalia
+GJB3,A0A7L0GGC9,Herpetotheres cachinnans,outside Mammalia
+GJB3,A0A7L0HQH2,Arenaria interpres,outside Mammalia
+GJB3,A0A7L0IVU3,Piprites chloris,outside Mammalia
+GJB3,A0A7L0KF67,Chauna torquata,outside Mammalia
+GJB3,A0A7L0LJG3,Sylvietta virens,outside Mammalia
+GJB3,A0A7L0MI57,Amazona guildingii,outside Mammalia
+GJB3,A0A7L0NWG3,Formicarius rufipectus,outside Mammalia
+GJB3,A0A7L0PN98,Mesembrinibis cayennensis,outside Mammalia
+GJB3,A0A7L0QLN3,Setophaga kirtlandii,outside Mammalia
+GJB3,A0A7L0S783,Glaucidium brasilianum,outside Mammalia
+GJB3,A0A7L0SHA6,Podilymbus podiceps,outside Mammalia
+GJB3,A0A7L0TRB0,Chordeiles acutipennis,outside Mammalia
+GJB3,A0A7L0UUX8,Leptocoma aspasia,outside Mammalia
+GJB3,A0A7L0WEX4,Alectura lathami,outside Mammalia
+GJB3,A0A7L0XCA4,Tyrannus savana,outside Mammalia
+GJB3,A0A7L0Y903,Ploceus nigricollis,outside Mammalia
+GJB3,A0A7L0ZM22,Oxyruncus cristatus,outside Mammalia
+GJB3,A0A7L1AH61,Gymnorhina tibicen,outside Mammalia
+GJB3,A0A7L1BUS0,Illadopsis cleaveri,outside Mammalia
+GJB3,A0A7L1D2E2,Serilophus lunatus,outside Mammalia
+GJB3,A0A7L1EDH8,Oenanthe oenanthe,outside Mammalia
+GJB3,A0A7L1FCJ8,Sylvia borin,outside Mammalia
+GJB3,A0A7L1G5J1,Indicator maculatus,outside Mammalia
+GJB3,A0A7L1I3Y0,Nycticryphes semicollaris,outside Mammalia
+GJB3,A0A7L1J6B9,Smutsornis africanus,outside Mammalia
+GJB3,A0A7L1JHK5,Rynchops niger,outside Mammalia
+GJB3,A0A7L1KRU5,Himantopus himantopus,outside Mammalia
+GJB3,A0A7L1MJN9,Bombycilla garrulus,outside Mammalia
+GJB3,A0A7L1MYR1,Rhinopomastus cyanomelas,outside Mammalia
+GJB3,A0A7L1PEK7,Oriolus oriolus,outside Mammalia
+GJB3,A0A7L1R1U5,Cisticola juncidis,outside Mammalia
+GJB3,A0A7L1S5Q9,Helopsaltes ochotensis,outside Mammalia
+GJB3,A0A7L1SVS1,Aramus guarauna,outside Mammalia
+GJB3,A0A7L1TND6,Phainopepla nitens,outside Mammalia
+GJB3,A0A7L1V2K3,Sitta europaea,outside Mammalia
+GJB3,A0A7L1WD91,Certhia brachydactyla,outside Mammalia
+GJB3,A0A7L1XVB1,Thinocorus orbignyianus,outside Mammalia
+GJB3,A0A7L1YWR3,Scytalopus superciliaris,outside Mammalia
+GJB3,A0A7L2A4S9,Leiothrix lutea,outside Mammalia
+GJB3,A0A7L2A9P7,Heliornis fulica,outside Mammalia
+GJB3,A0A7L2C703,Alaudala cheleensis,outside Mammalia
+GJB3,A0A7L2CN48,Catharus fuscescens,outside Mammalia
+GJB3,A0A7L2E8K4,Anthoscopus minutus,outside Mammalia
+GJB3,A0A7L2FSV6,Quiscalus mexicanus,outside Mammalia
+GJB3,A0A7L2GVB6,Nyctibius grandis,outside Mammalia
+GJB3,A0A7L2HGH2,Sagittarius serpentarius,outside Mammalia
+GJB3,A0A7L2IKS9,Semnornis frantzii,outside Mammalia
+GJB3,A0A7L2J8H5,Cinclus mexicanus,outside Mammalia
+GJB3,A0A7L2KEF6,Zosterops hypoxanthus,outside Mammalia
+GJB3,A0A7L2LM86,Hippolais icterina,outside Mammalia
+GJB3,A0A7L2MGN8,Rhadina sibilatrix,outside Mammalia
+GJB3,A0A7L2NJ83,Pycnonotus jocosus,outside Mammalia
+GJB3,A0A7L2Q4Z6,Hypocryptadius cinnamomeus,outside Mammalia
+GJB3,A0A7L2R8Q1,Oxylabes madagascariensis,outside Mammalia
+GJB3,A0A7L2S0R0,Neodrepanis coruscans,outside Mammalia
+GJB3,A0A7L2SSS3,Mystacornis crossleyi,outside Mammalia
+GJB3,A0A7L2TNY9,Pomatostomus ruficeps,outside Mammalia
+GJB3,A0A7L2U9G5,Balaeniceps rex,outside Mammalia
+GJB3,A0A7L2VNN3,Brachypteracias leptosomus,outside Mammalia
+GJB3,A0A7L2WFM4,Pandion haliaetus,outside Mammalia
+GJB3,A0A7L2XTJ8,Erpornis zantholeuca,outside Mammalia
+GJB3,A0A7L2YT42,Jacana jacana,outside Mammalia
+GJB3,A0A7L2ZL07,Prunella fulvescens,outside Mammalia
+GJB3,A0A7L3B7F7,Syrrhaptes paradoxus,outside Mammalia
+GJB3,A0A7L3CCH1,Pelecanoides urinatrix,outside Mammalia
+GJB3,A0A7L3DEI1,Pluvianellus socialis,outside Mammalia
+GJB3,A0A7L3DXI3,Chaetops frenatus,outside Mammalia
+GJB3,A0A7L3FI06,Zapornia atra,outside Mammalia
+GJB3,A0A7L3G9D1,Anhinga rufa,outside Mammalia
+GJB3,A0A7L3HKR0,Buphagus erythrorhynchus,outside Mammalia
+GJB3,A0A7L3IAF1,Pardalotus punctatus,outside Mammalia
+GJB3,A0A7L3IWT3,Thalassarche chlororhynchos,outside Mammalia
+GJB3,A0A7L3KV90,Drymodes brunneopygia,outside Mammalia
+GJB3,A0A7L3LU21,Turnix velox,outside Mammalia
+GJB3,A0A7L3MR93,Horornis vulcanius,outside Mammalia
+GJB3,A0A7L3MX96,Oreotrochilus melanogaster,outside Mammalia
+GJB3,A0A7L3QTI3,Cettia cetti,outside Mammalia
+GJB3,A0A7L3S4C8,Cepphus grylle,outside Mammalia
+GJB3,A0A7L3T760,Rissa tridactyla,outside Mammalia
+GJB3,A0A7L3TPA6,Uria aalge,outside Mammalia
+GJB3,A0A7L3VHK0,Molothrus ater,outside Mammalia
+GJB3,A0A7L3WNG9,Atlantisia rogersi,outside Mammalia
+GJB3,A0A7L3XK29,Calonectris borealis,outside Mammalia
+GJB3,A0A7L3ZCL3,Fregetta grallaria,outside Mammalia
+GJB3,A0A7L4A2W5,Circaetus pectoralis,outside Mammalia
+GJB3,A0A7L4B240,Phaetusa simplex,outside Mammalia
+GJB3,A0A7L4BT08,Nyctiprogne leucopyga,outside Mammalia
+GJB3,A0A7L4DR89,Eurystomus gularis,outside Mammalia
+GJB3,A0A7L4FX92,Pampusana beccarii,outside Mammalia
+GJB3,A0A7L4HDJ9,Podargus strigoides,outside Mammalia
+GJB3,A0A7L4I670,Scopus umbretta,outside Mammalia
+GJB3,A0A7L4JEC8,Pomatorhinus ruficollis,outside Mammalia
+GJB3,A0A7L4KGX8,Ceuthmochares aereus,outside Mammalia
+GJB3,A0A7L4L7K2,Callaeas wilsoni,outside Mammalia
+GJB3,A0A7L4LYR9,Glareola pratincola,outside Mammalia
+GJB3,A0A7M4DV01,Crocodylus porosus,outside Mammalia
+GJB3,A0A803VDH8,Ficedula albicollis,outside Mammalia
+GJB3,A0A803Y1M1,Meleagris gallopavo,outside Mammalia
+GJB3,A0A850U0Y8,Grus americana,outside Mammalia
+GJB3,A0A850V9M8,Chloropsis hardwickii,outside Mammalia
+GJB3,A0A850WHX6,Fregata magnificens,outside Mammalia
+GJB3,A0A850WS89,Piaya cayana,outside Mammalia
+GJB3,A0A850YJ12,Aegithalos caudatus,outside Mammalia
+GJB3,A0A850Z9P6,Tichodroma muraria,outside Mammalia
+GJB3,A0A851AH31,Sula dactylatra,outside Mammalia
+GJB3,A0A851AYI9,Picathartes gymnocephalus,outside Mammalia
+GJB3,A0A851CTS0,Calyptomena viridis,outside Mammalia
+GJB3,A0A851D4R0,Todus mexicanus,outside Mammalia
+GJB3,A0A851E908,Dryoscopus gambensis,outside Mammalia
+GJB3,A0A851FRF7,Pitta sordida,outside Mammalia
+GJB3,A0A851JG31,Donacobius atricapilla,outside Mammalia
+GJB3,A0A851L1A2,Vidua chalybeata,outside Mammalia
+GJB3,A0A851LV83,Corythaeola cristata,outside Mammalia
+GJB3,A0A851MEP7,Campylorhamphus procurvoides,outside Mammalia
+GJB3,A0A851NXR7,Penelope pileata,outside Mammalia
+GJB3,A0A851PFK1,Anhinga anhinga,outside Mammalia
+GJB3,A0A851RDI6,Tychaedon coryphoeus,outside Mammalia
+GJB3,A0A851T604,Nothocercus nigrocapillus,outside Mammalia
+GJB3,A0A851UCX2,Elachura formosa,outside Mammalia
+GJB3,A0A851VY41,Copsychus sechellarum,outside Mammalia
+GJB3,A0A851XLT7,Eolophus roseicapilla,outside Mammalia
+GJB3,A0A851YRV7,Halcyon senegalensis,outside Mammalia
+GJB3,A0A852A4T8,Calcarius ornatus,outside Mammalia
+GJB3,A0A852BBJ9,Chloropsis cyanopogon,outside Mammalia
+GJB3,A0A852CRY0,Ramphastos sulfuratus,outside Mammalia
+GJB3,A0A852CZ33,Passerina amoena,outside Mammalia
+GJB3,A0A852EBA0,Vidua macroura,outside Mammalia
+GJB3,A0A852EW33,Peucedramus taeniatus,outside Mammalia
+GJB3,A0A852GZQ1,Larus smithsonianus,outside Mammalia
+GJB3,A0A852HTE0,Nicator chloris,outside Mammalia
+GJB3,A0A852J4J7,Tricholaema leucomelas,outside Mammalia
+GJB3,A0A852K3U7,Spizella passerina,outside Mammalia
+GJB3,A0A852KLE4,Urocolius indicus,outside Mammalia
+GJB3,A0A852M0I7,Centropus bengalensis,outside Mammalia
+GJB3,A0A852P8H0,Atrichornis clamosus,outside Mammalia
+GJB3,A0A8B7IRZ8,Apteryx mantelli,outside Mammalia
+GJB3,A0A8B9CU83,Anser brachyrhynchus,outside Mammalia
+GJB3,A0A8C0GN07,Chelonoidis abingdonii,outside Mammalia
+GJB3,A0A8C0VEE4,Cyanistes caeruleus,outside Mammalia
+GJB3,A0A8C1NI63,Cyprinus carpio,outside Mammalia
+GJB3,A0A8C2U5B5,Coturnix japonica,outside Mammalia
+GJB3,A0A8C3I0R4,Chrysemys picta bellii,outside Mammalia
+GJB3,A0A8C3NIM4,Geospiza parvula,outside Mammalia
+GJB3,A0A8C4W0D4,Gopherus evgoodei,outside Mammalia
+GJB3,A0A8C4XB68,Erpetoichthys calabaricus,outside Mammalia
+GJB3,A0A8C5P8A6,Leptobrachium leishanense,outside Mammalia
+GJB3,A0A8C5S6V2,Laticauda laticaudata,outside Mammalia
+GJB3,A0A8C6P4Z2,Nothobranchius furzeri,outside Mammalia
+GJB3,A0A8C6Z7P3,Nothoprocta perdicaria,outside Mammalia
+GJB3,A0A8C7E6Q0,Naja naja,outside Mammalia
+GJB3,A0A8C7GGF2,Oncorhynchus kisutch,outside Mammalia
+GJB3,A0A8C7HM62,Oncorhynchus kisutch,outside Mammalia
+GJB3,A0A8C7MHN1,Oncorhynchus kisutch,outside Mammalia
+GJB3,A0A8C8F4N7,Oncorhynchus tshawytscha,outside Mammalia
+GJB3,A0A8C8G8Q3,Oncorhynchus tshawytscha,outside Mammalia
+GJB3,A0A8C9NSD6,Serinus canaria,outside Mammalia
+GJB3,A0A8C9V8Y4,Scleropages formosus,outside Mammalia
+GJB3,A0A8C9X5C1,Sander lucioperca,outside Mammalia
+GJB3,A0A8D2N039,Zonotrichia albicollis,outside Mammalia
+GJB3,A0A8J0PNA3,Xenopus laevis,outside Mammalia
+GJB3,A0A8J0PUE8,Xenopus laevis,outside Mammalia
+GJB3,A0A8J0Q956,Xenopus tropicalis,outside Mammalia
+GJB3,A0A8J0TWH1,Xenopus laevis,outside Mammalia
+GJB3,A0A8J0U3D7,Xenopus laevis,outside Mammalia
+GJB3,A0A8J4I7Y7,Spheniscus mendiculus,outside Mammalia
+GJB3,A0A8J4J7P2,Eudyptes sclateri,outside Mammalia
+GJB3,A0A8J4KUT3,Eudyptes chrysocome,outside Mammalia
+GJB3,A0A8J4NNC1,Eudyptula minor,outside Mammalia
+GJB3,A0A8J4P5V5,Aptenodytes patagonicus,outside Mammalia
+GJB3,A0A8K0FN31,Eudyptes filholi,outside Mammalia
+GJB3,A0A8M1N566,Danio rerio,outside Mammalia
+GJB3,A0A8N5EVT5,Geospiza fortis,outside Mammalia
+GJB3,A0A8P4G5A6,Dicentrarchus labrax,outside Mammalia
+GJB3,A0A9L0I494,Equus asinus,second entry for this organism
+GJB3,A0A9Y4K3V5,Stegastes partitus,outside Mammalia
+GJB3,A0AA40H9F5,Pygoscelis papua,outside Mammalia
+GJB3,A0AA47MCV4,Merluccius polli,outside Mammalia
+GJB3,A0AA47MHB6,Merluccius polli,outside Mammalia
+GJB3,A0AA97LH14,Eublepharis macularius,outside Mammalia
+GJB3,A0AA97MK82,Menura novaehollandiae,outside Mammalia
+GJB3,A0AAD8FS15,Acipenser oxyrinchus oxyrinchus,outside Mammalia
+GJB3,A0AAV9RHU5,Crenichthys baileyi,outside Mammalia
+GJB3,A0AAZ1XQA1,Oreochromis aureus,outside Mammalia
+GJB3,A0AAZ3Q4H8,Oncorhynchus tshawytscha,outside Mammalia
+GJB3,A0ABM1L025,Gekko japonicus,outside Mammalia
+GJB3,A0ABM4FRK1,Apteryx mantelli,outside Mammalia
+GJB3,A0ABQ9DER6,Willisornis vidua,outside Mammalia
+GJB3,A0ABS2XPJ1,Polyodon spathula,outside Mammalia
+GJB3,A0ABU7AVF9,Ataeniobius toweri,outside Mammalia
+GJB3,A0ABU7F1N7,Characodon lateralis,outside Mammalia
+GJB3,A0ABV0N9V5,Goodea atripinnis,outside Mammalia
+GJB3,A0ABV0RVI5,Xenoophorus captivus,outside Mammalia
+GJB3,A0ABV0VLF9,Xenotaenia resolanae,outside Mammalia
+GJB3,A0ABV0YAZ7,Ameca splendens,outside Mammalia
+GJB3,A0ACB7ES58,Nibea albiflora,outside Mammalia
+GJB3,A0ACB7FH26,Nibea albiflora,outside Mammalia
+GJB3,A0ACB8FQY2,Sphaerodactylus townsendi,outside Mammalia
+GJB3,A0ACI6R0W6,Ovis aries,second entry for this organism
+GJB3,A8WGZ8,Xenopus tropicalis,outside Mammalia
+GJB3,H0YU28,Taeniopygia guttata,outside Mammalia
+GJB3,H2SUJ6,Takifugu rubripes,outside Mammalia
+GJB3,H3AR25,Latimeria chalumnae,outside Mammalia
+GJB3,H9GJX4,Anolis carolinensis,outside Mammalia
+GJB3,O75712,Homo sapiens,second entry for this organism
+GJB3,P25305,Rattus norvegicus,second entry for this organism
+GJB3,P28231,Mus musculus,second entry for this organism
+GJB3,Q567J2,Danio rerio,outside Mammalia
+GJB3,Q58D78,Bos taurus,second entry for this organism
+GJB3,Q6GQC4,Xenopus laevis,outside Mammalia
+GJB3,Q6TPJ0,Mus musculus,second entry for this organism
+GJB3,Q8QFX8,Xenopus laevis,outside Mammalia
+GJB3,U3BAV3,Callithrix jacchus,second entry for this organism
+GJB3,U3I1S3,Anas platyrhynchos platyrhynchos,outside Mammalia
+GJB3,W5UKY3,Ictalurus punctatus,outside Mammalia
+GJB3,A0A6P5B4P0,Bos indicus,length 418 against GJB3 anchor 270
+GJB3,A0A8C4LW98,Equus asinus,length 389 against GJB3 anchor 270
+GJB3,F6PNX0,Equus caballus,length 477 against GJB3 anchor 270
+GJB3,G1SMT8,Oryctolagus cuniculus,length 380 against GJB3 anchor 270
+GJB3,A0A667HST6,Lynx canadensis,over the per-gene cap
+GJB3,A0A671DKW7,Rhinolophus ferrumequinum,over the per-gene cap
+GJB3,A0A673TAR6,Suricata suricatta,over the per-gene cap
+GJB3,A0A6G1BAZ8,Crocuta crocuta,over the per-gene cap
+GJB3,A0A6I9IHW5,Vicugna pacos,over the per-gene cap
+GJB3,A0A6J0YTD3,Odocoileus virginianus,over the per-gene cap
+GJB3,A0A6J1ZER0,Acinonyx jubatus,over the per-gene cap
+GJB3,A0A6J2BRI5,Zalophus californianus,over the per-gene cap
+GJB3,A0A6J2LQ71,Phyllostomus discolor,over the per-gene cap
+GJB3,A0A6J3FBC2,Sapajus apella,over the per-gene cap
+GJB3,A0A6P3FN64,Octodon degus,over the per-gene cap
+GJB3,A0A6P3HBH7,Bison bison bison,over the per-gene cap
+GJB3,A0A6P3Q153,Pteropus vampyrus,over the per-gene cap
+GJB3,A0A6P5K0D9,Phascolarctos cinereus,over the per-gene cap
+GJB3,A0A6P5PT21,Mus caroli,over the per-gene cap
+GJB3,A0A6P6GWL1,Puma concolor,over the per-gene cap
+GJB3,A0A7N4P4D7,Sarcophilus harrisii,over the per-gene cap
+GJB3,A0A8B6YI49,Camelus ferus,over the per-gene cap
+GJB3,A0A8B7AKS2,Orycteropus afer afer,over the per-gene cap
+GJB3,A0A8B7SLV4,Hipposideros armiger,over the per-gene cap
+GJB3,A0A8B7UBF1,Castor canadensis,over the per-gene cap
+GJB3,A0A8B8X9V0,Balaenoptera musculus,over the per-gene cap
+GJB3,A0A8B9WWT3,Bos grunniens,over the per-gene cap
+GJB3,A0A8C0KCL2,Canis lupus dingo,over the per-gene cap
+GJB3,A0A8C2VCB0,Chinchilla lanigera,over the per-gene cap
+GJB3,A0A8C3YHS9,Catagonus wagneri,over the per-gene cap
+GJB3,A0A8C5K4J6,Jaculus jaculus,over the per-gene cap
+GJB3,A0A8C5Z4M2,Marmota marmota marmota,over the per-gene cap
+GJB3,A0A8C6DFK6,Moschus moschiferus,over the per-gene cap
+GJB3,A0A8C6F6J6,Monodon monoceros,over the per-gene cap
+GJB3,A0A8C6W7J1,Nannospalax galili,over the per-gene cap
+GJB3,A0A8C7AVL9,Neogale vison,over the per-gene cap
+GJB3,A0A8C8UCZ0,Peromyscus maniculatus bairdii,over the per-gene cap
+GJB3,A0A8C8WQR7,Panthera leo,over the per-gene cap
+GJB3,A0A8C9AA80,Prolemur simus,over the per-gene cap
+GJB3,A0A8C9C3M9,Phocoena sinus,over the per-gene cap
+GJB3,A0A8C9HLW4,Piliocolobus tephrosceles,over the per-gene cap
+GJB3,A0A8D2AKX9,Sciurus vulgaris,over the per-gene cap
+GJB3,A0A8D2FMB5,Theropithecus gelada,over the per-gene cap
+GJB3,A0A8D2GSG4,Urocitellus parryii,over the per-gene cap
+GJB3,A0A9B0TNW9,Chrysochloris asiatica,over the per-gene cap
+GJB3,A0A9W2V583,Panthera pardus,over the per-gene cap
+GJB3,A0A9W3EWR2,Camelus bactrianus,over the per-gene cap
+GJB3,A0AAU9ZE40,Phodopus roborovskii,over the per-gene cap
+GJB3,A0AAX6TG82,Heterocephalus glaber,over the per-gene cap
+GJB3,A0ABM0IPV8,Echinops telfairi,over the per-gene cap
+GJB3,A0ABM0KUW2,Microtus ochrogaster,over the per-gene cap
+GJB3,A0ABM0RS40,Galeopterus variegatus,over the per-gene cap
+GJB3,A0ABM2F7T1,Equus przewalskii,over the per-gene cap
+GJB3,A0ABM3TJK0,Balaenoptera acutorostrata,over the per-gene cap
+GJB3,A0ABM4XPN8,Vulpes vulpes,over the per-gene cap
+GJB3,A0ABQ9VAM3,Saguinus oedipus,over the per-gene cap
+GJB3,A0ACI6PRZ4,Ovis aries,over the per-gene cap
+GJB3,D2H619,Ailuropoda melanoleuca,over the per-gene cap
+GJB3,F6TGG8,Ornithorhynchus anatinus,over the per-gene cap
+GJB3,F6TSG3,Monodelphis domestica,over the per-gene cap
+GJB3,F6VAQ2,Callithrix jacchus,over the per-gene cap
+GJB3,G1PSE3,Myotis lucifugus,over the per-gene cap
+GJB3,G3H9T5,Cricetulus griseus,over the per-gene cap
+GJB3,G3T0Z4,Loxodonta africana,over the per-gene cap
+GJB3,H0WL34,Otolemur garnettii,over the per-gene cap
+GJB3,I3MA34,Ictidomys tridecemlineatus,over the per-gene cap
+GJB3,M3Z4H3,Mustela putorius furo,over the per-gene cap
+GJB4,A0A0E3DBL7,Sparus aurata,outside Mammalia
+GJB4,A0A151PGB5,Alligator mississippiensis,outside Mammalia
+GJB4,A0A4Z2FL47,Liparis tanakae,outside Mammalia
+GJB4,A0A4Z2JFI3,Liparis tanakae,outside Mammalia
+GJB4,A0A670IZ24,Podarcis muralis,outside Mammalia
+GJB4,A0A674IIT7,Terrapene triunguis,outside Mammalia
+GJB4,A0A6I8Q3Z5,Xenopus tropicalis,outside Mammalia
+GJB4,A0A6P6D9T5,Octodon degus,second entry for this organism
+GJB4,A0A7M4DUZ8,Crocodylus porosus,outside Mammalia
+GJB4,A0A803TQE2,Anolis carolinensis,outside Mammalia
+GJB4,A0A8C0GP14,Chelonoidis abingdonii,outside Mammalia
+GJB4,A0A8C3I2X5,Chrysemys picta bellii,outside Mammalia
+GJB4,A0A8C4W0I2,Gopherus evgoodei,outside Mammalia
+GJB4,A0A8C5LU05,Leptobrachium leishanense,outside Mammalia
+GJB4,A0A8J4XFI4,Clarias magur,outside Mammalia
+GJB4,A0A8J7NVT4,Atractosteus spatula,outside Mammalia
+GJB4,A0A8T1SJR1,Chelydra serpentina,outside Mammalia
+GJB4,A0A8X8BK08,Polypterus senegalus,outside Mammalia
+GJB4,A0AA47N355,Merluccius polli,outside Mammalia
+GJB4,A0AA97KDC4,Eublepharis macularius,outside Mammalia
+GJB4,A0AAD8CVJ8,Acipenser oxyrinchus oxyrinchus,outside Mammalia
+GJB4,A0AAD8FR02,Acipenser oxyrinchus oxyrinchus,outside Mammalia
+GJB4,A0AAV9RI07,Crenichthys baileyi,outside Mammalia
+GJB4,A0ABK0LF57,Rattus norvegicus,second entry for this organism
+GJB4,A0ABS2XQJ9,Polyodon spathula,outside Mammalia
+GJB4,A0ABU7AU17,Ataeniobius toweri,outside Mammalia
+GJB4,A0ABV0STY0,Ilyodon furcidens,outside Mammalia
+GJB4,A0ABV0YAR1,Ameca splendens,outside Mammalia
+GJB4,A0ACB7ES67,Nibea albiflora,outside Mammalia
+GJB4,A0ACB7FGC3,Nibea albiflora,outside Mammalia
+GJB4,A0ACB7FH24,Nibea albiflora,outside Mammalia
+GJB4,A5PJ45,Rattus norvegicus,second entry for this organism
+GJB4,F1M8I1,Rattus norvegicus,second entry for this organism
+GJB4,P36380,Rattus norvegicus,second entry for this organism
+GJB4,Q02738,Mus musculus,second entry for this organism
+GJB4,Q8C677,Mus musculus,second entry for this organism
+GJB4,Q9NTQ9,Homo sapiens,second entry for this organism
+GJB4,W5NP15,Lepisosteus oculatus,outside Mammalia
+GJB4,W5UIE0,Ictalurus punctatus,outside Mammalia
+GJB4,A0A6J0YRJ4,Odocoileus virginianus,over the per-gene cap
+GJB4,A0A6J2F5M0,Zalophus californianus,over the per-gene cap
+GJB4,A0A6J2LPR4,Phyllostomus discolor,over the per-gene cap
+GJB4,A0A6J3B167,Vicugna pacos,over the per-gene cap
+GJB4,A0A6J3FAR4,Sapajus apella,over the per-gene cap
+GJB4,A0A6J3PW31,Tursiops truncatus,over the per-gene cap
+GJB4,A0A6P3FJJ9,Octodon degus,over the per-gene cap
+GJB4,A0A6P3HJF3,Bison bison bison,over the per-gene cap
+GJB4,A0A6P3QCL2,Pteropus vampyrus,over the per-gene cap
+GJB4,A0A6P5BPP4,Bos indicus,over the per-gene cap
+GJB4,A0A6P5K3I4,Phascolarctos cinereus,over the per-gene cap
+GJB4,A0A6P5PTA1,Mus caroli,over the per-gene cap
+GJB4,A0A6P6GY03,Puma concolor,over the per-gene cap
+GJB4,A0A7N4UXG2,Sarcophilus harrisii,over the per-gene cap
+GJB4,A0A8B7SJ90,Hipposideros armiger,over the per-gene cap
+GJB4,A0A8B7U7I6,Castor canadensis,over the per-gene cap
+GJB4,A0A8B8X586,Balaenoptera musculus,over the per-gene cap
+GJB4,A0A8B9WT16,Bos grunniens,over the per-gene cap
+GJB4,A0A8C0KCM1,Canis lupus dingo,over the per-gene cap
+GJB4,A0A8C2VDL0,Chinchilla lanigera,over the per-gene cap
+GJB4,A0A8C3WEH7,Catagonus wagneri,over the per-gene cap
+GJB4,A0A8C5K6E6,Jaculus jaculus,over the per-gene cap
+GJB4,A0A8C5Z5I8,Marmota marmota marmota,over the per-gene cap
+GJB4,A0A8C6DLX5,Moschus moschiferus,over the per-gene cap
+GJB4,A0A8C6W9K0,Nannospalax galili,over the per-gene cap
+GJB4,A0A8C7AZV8,Neogale vison,over the per-gene cap
+GJB4,A0A8C8WQQ2,Panthera leo,over the per-gene cap
+GJB4,A0A8C9AQ30,Prolemur simus,over the per-gene cap
+GJB4,A0A8C9LQK0,Piliocolobus tephrosceles,over the per-gene cap
+GJB4,A0A8D2AKU4,Sciurus vulgaris,over the per-gene cap
+GJB4,A0A8D2GQ20,Urocitellus parryii,over the per-gene cap
+GJB4,A0A8D2K445,Theropithecus gelada,over the per-gene cap
+GJB4,A0A8I3P1D7,Canis lupus familiaris,over the per-gene cap
+GJB4,A0A9B0UDZ6,Chrysochloris asiatica,over the per-gene cap
+GJB4,A0A9J7FFC8,Cricetulus griseus,over the per-gene cap
+GJB4,A0A9L0IVS1,Equus asinus,over the per-gene cap
+GJB4,A0A9W2V555,Panthera pardus,over the per-gene cap
+GJB4,A0A9W3GCB8,Camelus bactrianus,over the per-gene cap
+GJB4,A0AAU9ZHW8,Phodopus roborovskii,over the per-gene cap
+GJB4,A0ABM0RTA1,Galeopterus variegatus,over the per-gene cap
+GJB4,A0ABM1U878,Microtus ochrogaster,over the per-gene cap
+GJB4,A0ABM2FC98,Equus przewalskii,over the per-gene cap
+GJB4,A0ABQ9VB38,Saguinus oedipus,over the per-gene cap
+GJB4,A0ACI6PAU0,Ovis aries,over the per-gene cap
+GJB4,E1BPE6,Bos taurus,over the per-gene cap
+GJB4,F6TGH3,Ornithorhynchus anatinus,over the per-gene cap
+GJB4,F7CTW5,Callithrix jacchus,over the per-gene cap
+GJB4,F7E348,Monodelphis domestica,over the per-gene cap
+GJB4,F7GQL5,Macaca mulatta,over the per-gene cap
+GJB4,G1MJT5,Ailuropoda melanoleuca,over the per-gene cap
+GJB4,G1PSE6,Myotis lucifugus,over the per-gene cap
+GJB4,G1S9B6,Nomascus leucogenys,over the per-gene cap
+GJB4,G3R0R2,Gorilla gorilla gorilla,over the per-gene cap
+GJB4,G3SPR5,Loxodonta africana,over the per-gene cap
+GJB4,G5BJN4,Heterocephalus glaber,over the per-gene cap
+GJB4,H0W6E8,Cavia porcellus,over the per-gene cap
+GJB4,H0Y1V4,Otolemur garnettii,over the per-gene cap
+GJB4,H2R038,Pan troglodytes,over the per-gene cap
+GJB4,I3N4H4,Ictidomys tridecemlineatus,over the per-gene cap
+GJB4,M3Z4H5,Mustela putorius furo,over the per-gene cap
+GJB4,S9WUS7,Camelus ferus,over the per-gene cap
+GJB6,O93533,Gallus gallus,outside Mammalia
+GJB6,A0A218UFX4,Lonchura striata,outside Mammalia
+GJB6,A0A2R8Y4J9,Homo sapiens,second entry for this organism
+GJB6,A0A2R8Y5T6,Homo sapiens,second entry for this organism
+GJB6,A0A2R8Y6N2,Homo sapiens,second entry for this organism
+GJB6,A0A2R8YCY0,Homo sapiens,second entry for this organism
+GJB6,A0A3P8XCF4,Esox lucius,outside Mammalia
+GJB6,A0A4Z2HK33,Liparis tanakae,outside Mammalia
+GJB6,A0A6F9DE83,Phallusia mammillata,outside Mammalia
+GJB6,A0A7K4IZH2,Geococcyx californianus,outside Mammalia
+GJB6,A0A7K4IZJ9,Geococcyx californianus,outside Mammalia
+GJB6,A0A7K4KRY7,Crypturellus soui,outside Mammalia
+GJB6,A0A7K4KSN4,Crypturellus soui,outside Mammalia
+GJB6,A0A7K4L9Q2,Crypturellus undulatus,outside Mammalia
+GJB6,A0A7K4LAN6,Crypturellus undulatus,outside Mammalia
+GJB6,A0A7K4PIT3,Melospiza melodia,outside Mammalia
+GJB6,A0A7K4PIU2,Melospiza melodia,outside Mammalia
+GJB6,A0A7K4R5Y9,Neopipo cinnamomea,outside Mammalia
+GJB6,A0A7K4R5Z4,Neopipo cinnamomea,outside Mammalia
+GJB6,A0A7K4S3S6,Columbina picui,outside Mammalia
+GJB6,A0A7K4S5K1,Columbina picui,outside Mammalia
+GJB6,A0A7K4TBA5,Burhinus bistriatus,outside Mammalia
+GJB6,A0A7K4TDN7,Burhinus bistriatus,outside Mammalia
+GJB6,A0A7K4U0A0,Sinosuthora webbiana,outside Mammalia
+GJB6,A0A7K4U2B5,Sinosuthora webbiana,outside Mammalia
+GJB6,A0A7K4V6F1,Emberiza fucata,outside Mammalia
+GJB6,A0A7K4V7J3,Emberiza fucata,outside Mammalia
+GJB6,A0A7K4VXW1,Tachuris rubrigastra,outside Mammalia
+GJB6,A0A7K4VZ24,Tachuris rubrigastra,outside Mammalia
+GJB6,A0A7K4XJW2,Regulus satrapa,outside Mammalia
+GJB6,A0A7K4XLX4,Regulus satrapa,outside Mammalia
+GJB6,A0A7K4YPC7,Bucorvus abyssinicus,outside Mammalia
+GJB6,A0A7K4ZUR1,Centropus unirufus,outside Mammalia
+GJB6,A0A7K4ZUV1,Centropus unirufus,outside Mammalia
+GJB6,A0A7K5B225,Furnarius figulus,outside Mammalia
+GJB6,A0A7K5B3G4,Furnarius figulus,outside Mammalia
+GJB6,A0A7K5BRW6,Motacilla alba,outside Mammalia
+GJB6,A0A7K5BTF3,Motacilla alba,outside Mammalia
+GJB6,A0A7K5CU39,Pachyramphus minor,outside Mammalia
+GJB6,A0A7K5CVL3,Pachyramphus minor,outside Mammalia
+GJB6,A0A7K5ELG3,Polioptila caerulea,outside Mammalia
+GJB6,A0A7K5ELG6,Polioptila caerulea,outside Mammalia
+GJB6,A0A7K5FFV2,Probosciger aterrimus,outside Mammalia
+GJB6,A0A7K5H1H5,Chunga burmeisteri,outside Mammalia
+GJB6,A0A7K5H1R9,Chunga burmeisteri,outside Mammalia
+GJB6,A0A7K5HUI8,Crotophaga sulcirostris,outside Mammalia
+GJB6,A0A7K5HUQ0,Crotophaga sulcirostris,outside Mammalia
+GJB6,A0A7K5IN57,Toxostoma redivivum,outside Mammalia
+GJB6,A0A7K5IN72,Toxostoma redivivum,outside Mammalia
+GJB6,A0A7K5JIQ6,Mionectes macconnelli,outside Mammalia
+GJB6,A0A7K5JIR0,Mionectes macconnelli,outside Mammalia
+GJB6,A0A7K5LNS5,Vireo altiloquus,outside Mammalia
+GJB6,A0A7K5LPQ1,Vireo altiloquus,outside Mammalia
+GJB6,A0A7K5MLB4,Cardinalis cardinalis,outside Mammalia
+GJB6,A0A7K5MM63,Cardinalis cardinalis,outside Mammalia
+GJB6,A0A7K5NMD0,Chroicocephalus maculipennis,outside Mammalia
+GJB6,A0A7K5NPY7,Chroicocephalus maculipennis,outside Mammalia
+GJB6,A0A7K5P6P7,Erythrocercus mccallii,outside Mammalia
+GJB6,A0A7K5P8Y4,Erythrocercus mccallii,outside Mammalia
+GJB6,A0A7K5QBX3,Prunella himalayana,outside Mammalia
+GJB6,A0A7K5QDT9,Prunella himalayana,outside Mammalia
+GJB6,A0A7K5S6H4,Lanius ludovicianus,outside Mammalia
+GJB6,A0A7K5S6N7,Lanius ludovicianus,outside Mammalia
+GJB6,A0A7K5SYF9,Urocynchramus pylzowi,outside Mammalia
+GJB6,A0A7K5U976,Cephalopterus ornatus,outside Mammalia
+GJB6,A0A7K5UBM1,Cephalopterus ornatus,outside Mammalia
+GJB6,A0A7K5VDE6,Platysteira castanea,outside Mammalia
+GJB6,A0A7K5VDL1,Platysteira castanea,outside Mammalia
+GJB6,A0A7K5WPR6,Hylia prasina,outside Mammalia
+GJB6,A0A7K5WXL6,Hylia prasina,outside Mammalia
+GJB6,A0A7K5XYW8,Dromas ardeola,outside Mammalia
+GJB6,A0A7K5XZ50,Dromas ardeola,outside Mammalia
+GJB6,A0A7K5YDQ4,Pterocles burchelli,outside Mammalia
+GJB6,A0A7K5ZW25,Onychorhynchus coronatus,outside Mammalia
+GJB6,A0A7K5ZWR0,Onychorhynchus coronatus,outside Mammalia
+GJB6,A0A7K6ATJ7,Upupa epops,outside Mammalia
+GJB6,A0A7K6CAR7,Ptilonorhynchus violaceus,outside Mammalia
+GJB6,A0A7K6DHY7,Origma solitaria,outside Mammalia
+GJB6,A0A7K6DX66,Grantiella picta,outside Mammalia
+GJB6,A0A7K6DYJ1,Grantiella picta,outside Mammalia
+GJB6,A0A7K6G4Q6,Daphoenositta chrysoptera,outside Mammalia
+GJB6,A0A7K6G4Q8,Daphoenositta chrysoptera,outside Mammalia
+GJB6,A0A7K6GLM4,Malurus elegans,outside Mammalia
+GJB6,A0A7K6GLW9,Malurus elegans,outside Mammalia
+GJB6,A0A7K6HHS5,Dasyornis broadbenti,outside Mammalia
+GJB6,A0A7K6HIV0,Dasyornis broadbenti,outside Mammalia
+GJB6,A0A7K6ILF5,Machaerirhynchus nigripectus,outside Mammalia
+GJB6,A0A7K6KH91,Oreocharis arfaki,outside Mammalia
+GJB6,A0A7K6LC13,Falcunculus frontatus,outside Mammalia
+GJB6,A0A7K6MHB2,Panurus biarmicus,outside Mammalia
+GJB6,A0A7K6N787,Pedionomus torquatus,outside Mammalia
+GJB6,A0A7K6N831,Pedionomus torquatus,outside Mammalia
+GJB6,A0A7K6PM53,Ifrita kowaldi,outside Mammalia
+GJB6,A0A7K6PM76,Ifrita kowaldi,outside Mammalia
+GJB6,A0A7K6R1M1,Climacteris rufus,outside Mammalia
+GJB6,A0A7K6R2M8,Climacteris rufus,outside Mammalia
+GJB6,A0A7K6SCL1,Rhynochetos jubatus,outside Mammalia
+GJB6,A0A7K6SCS0,Rhynochetos jubatus,outside Mammalia
+GJB6,A0A7K6T5C7,Caloenas nicobarica,outside Mammalia
+GJB6,A0A7K6UE11,Aegotheles bennettii,outside Mammalia
+GJB6,A0A7K6V9U0,Notiomystis cincta,outside Mammalia
+GJB6,A0A7K6VAF2,Notiomystis cincta,outside Mammalia
+GJB6,A0A7K6X084,Steatornis caripensis,outside Mammalia
+GJB6,A0A7K6X091,Steatornis caripensis,outside Mammalia
+GJB6,A0A7K6XQZ5,Promerops cafer,outside Mammalia
+GJB6,A0A7K6XRP8,Promerops cafer,outside Mammalia
+GJB6,A0A7K6YPV6,Alca torda,outside Mammalia
+GJB6,A0A7K6YQ91,Alca torda,outside Mammalia
+GJB6,A0A7K6ZKK7,Nothoprocta pentlandii,outside Mammalia
+GJB6,A0A7K6ZKZ2,Nothoprocta pentlandii,outside Mammalia
+GJB6,A0A7K7AI40,Nothoprocta ornata,outside Mammalia
+GJB6,A0A7K7AI59,Nothoprocta ornata,outside Mammalia
+GJB6,A0A7K7BYM6,Aphelocoma coerulescens,outside Mammalia
+GJB6,A0A7K7C0V5,Aphelocoma coerulescens,outside Mammalia
+GJB6,A0A7K7CW88,Pheucticus melanocephalus,outside Mammalia
+GJB6,A0A7K7CX95,Pheucticus melanocephalus,outside Mammalia
+GJB6,A0A7K7EP90,Sylvia atricapilla,outside Mammalia
+GJB6,A0A7K7EPS7,Sylvia atricapilla,outside Mammalia
+GJB6,A0A7K7F5N2,Chionis minor,outside Mammalia
+GJB6,A0A7K7F5N4,Chionis minor,outside Mammalia
+GJB6,A0A7K7GS88,Erithacus rubecula,outside Mammalia
+GJB6,A0A7K7GSE8,Erithacus rubecula,outside Mammalia
+GJB6,A0A7K7J3Q2,Loxia curvirostra,outside Mammalia
+GJB6,A0A7K7J3X2,Loxia curvirostra,outside Mammalia
+GJB6,A0A7K7JJ46,Agelaius phoeniceus,outside Mammalia
+GJB6,A0A7K7JKZ1,Agelaius phoeniceus,outside Mammalia
+GJB6,A0A7K7L6F5,Asarcornis scutulata,outside Mammalia
+GJB6,A0A7K7L6W8,Asarcornis scutulata,outside Mammalia
+GJB6,A0A7K7MM60,Brachypodius melanocephalos,outside Mammalia
+GJB6,A0A7K7MMR9,Brachypodius melanocephalos,outside Mammalia
+GJB6,A0A7K7N7A3,Haliaeetus albicilla,outside Mammalia
+GJB6,A0A7K7N853,Haliaeetus albicilla,outside Mammalia
+GJB6,A0A7K7P4G1,Acrocephalus arundinaceus,outside Mammalia
+GJB6,A0A7K7P548,Acrocephalus arundinaceus,outside Mammalia
+GJB6,A0A7K7QEB0,Poecile atricapillus,outside Mammalia
+GJB6,A0A7K7QEX7,Poecile atricapillus,outside Mammalia
+GJB6,A0A7K7RLD9,Nesospiza acunhae,outside Mammalia
+GJB6,A0A7K7RN36,Nesospiza acunhae,outside Mammalia
+GJB6,A0A7K7TCT8,Sapayoa aenigma,outside Mammalia
+GJB6,A0A7K7TD58,Sapayoa aenigma,outside Mammalia
+GJB6,A0A7K7UJM7,Ibidorhyncha struthersii,outside Mammalia
+GJB6,A0A7K7ULV3,Ibidorhyncha struthersii,outside Mammalia
+GJB6,A0A7K7VBQ0,Eudromia elegans,outside Mammalia
+GJB6,A0A7K7VE22,Eudromia elegans,outside Mammalia
+GJB6,A0A7K7W8F4,Nothocercus julius,outside Mammalia
+GJB6,A0A7K7W8J5,Nothocercus julius,outside Mammalia
+GJB6,A0A7K7XAR4,Mohoua ochrocephala,outside Mammalia
+GJB6,A0A7K7XAS9,Mohoua ochrocephala,outside Mammalia
+GJB6,A0A7K7Y4R9,Thryothorus ludovicianus,outside Mammalia
+GJB6,A0A7K7Y4T2,Thryothorus ludovicianus,outside Mammalia
+GJB6,A0A7K7ZYY8,Melanocharis versteri,outside Mammalia
+GJB6,A0A7K8AKQ0,Cnemophilus loriae,outside Mammalia
+GJB6,A0A7K8AKX2,Cnemophilus loriae,outside Mammalia
+GJB6,A0A7K8CAS2,Rhagologus leucostigma,outside Mammalia
+GJB6,A0A7K8CF57,Rhagologus leucostigma,outside Mammalia
+GJB6,A0A7K8DR30,Eulacestoma nigropectus,outside Mammalia
+GJB6,A0A7K8DR58,Eulacestoma nigropectus,outside Mammalia
+GJB6,A0A7K8EMG3,Leucopsar rothschildi,outside Mammalia
+GJB6,A0A7K8EMG8,Leucopsar rothschildi,outside Mammalia
+GJB6,A0A7K8F976,Struthidea cinerea,outside Mammalia
+GJB6,A0A7K8FA14,Struthidea cinerea,outside Mammalia
+GJB6,A0A7K8GQW0,Orthonyx spaldingii,outside Mammalia
+GJB6,A0A7K8GR95,Orthonyx spaldingii,outside Mammalia
+GJB6,A0A7K8I0Q0,Aleadryas rufinucha,outside Mammalia
+GJB6,A0A7K8I2F5,Aleadryas rufinucha,outside Mammalia
+GJB6,A0A7K8IKE5,Chaetorhynchus papuensis,outside Mammalia
+GJB6,A0A7K8IKR3,Chaetorhynchus papuensis,outside Mammalia
+GJB6,A0A7K8K531,Lophotis ruficrista,outside Mammalia
+GJB6,A0A7K8LCA0,Ardeotis kori,outside Mammalia
+GJB6,A0A7K8LST7,Ptilorrhoa leucosticta,outside Mammalia
+GJB6,A0A7K8LUU1,Ptilorrhoa leucosticta,outside Mammalia
+GJB6,A0A7K8N1K6,Casuarius casuarius,outside Mammalia
+GJB6,A0A7K8N234,Casuarius casuarius,outside Mammalia
+GJB6,A0A7K8P2X3,Cochlearius cochlearius,outside Mammalia
+GJB6,A0A7K8QNA4,Smithornis capensis,outside Mammalia
+GJB6,A0A7K8QQ56,Smithornis capensis,outside Mammalia
+GJB6,A0A7K8RPD0,Rhodinocichla rosea,outside Mammalia
+GJB6,A0A7K8RR36,Rhodinocichla rosea,outside Mammalia
+GJB6,A0A7K8TAK6,Nyctibius bracteatus,outside Mammalia
+GJB6,A0A7K8TBZ5,Nyctibius bracteatus,outside Mammalia
+GJB6,A0A7K8TRI1,Oceanites oceanicus,outside Mammalia
+GJB6,A0A7K8UVN5,Ciccaba nigrolineata,outside Mammalia
+GJB6,A0A7K8UYH0,Ciccaba nigrolineata,outside Mammalia
+GJB6,A0A7K8WJH8,Sclerurus mexicanus,outside Mammalia
+GJB6,A0A7K8WJX7,Sclerurus mexicanus,outside Mammalia
+GJB6,A0A7K8X7P9,Eubucco bourcierii,outside Mammalia
+GJB6,A0A7K8Z610,Sakesphorus luctuosus,outside Mammalia
+GJB6,A0A7K8Z6Q5,Sakesphorus luctuosus,outside Mammalia
+GJB6,A0A7K9AAA4,Grallaria varia,outside Mammalia
+GJB6,A0A7K9BL88,Psilopogon haemacephalus,outside Mammalia
+GJB6,A0A7K9BLB5,Psilopogon haemacephalus,outside Mammalia
+GJB6,A0A7K9CU69,Hemiprocne comata,outside Mammalia
+GJB6,A0A7K9CUF8,Hemiprocne comata,outside Mammalia
+GJB6,A0A7K9E0B4,Baryphthengus martii,outside Mammalia
+GJB6,A0A7K9E381,Baryphthengus martii,outside Mammalia
+GJB6,A0A7K9F9R0,Stercorarius parasiticus,outside Mammalia
+GJB6,A0A7K9FAN5,Stercorarius parasiticus,outside Mammalia
+GJB6,A0A7K9G293,Loxia leucoptera,outside Mammalia
+GJB6,A0A7K9G4A3,Loxia leucoptera,outside Mammalia
+GJB6,A0A7K9HUB6,Bucco capensis,outside Mammalia
+GJB6,A0A7K9HUS2,Bucco capensis,outside Mammalia
+GJB6,A0A7K9IJF5,Myiagra hebetior,outside Mammalia
+GJB6,A0A7K9IMW7,Myiagra hebetior,outside Mammalia
+GJB6,A0A7K9JRF6,Dicaeum eximium,outside Mammalia
+GJB6,A0A7K9JRY8,Dicaeum eximium,outside Mammalia
+GJB6,A0A7K9KXI2,Rhabdornis inornatus,outside Mammalia
+GJB6,A0A7K9L0T2,Rhabdornis inornatus,outside Mammalia
+GJB6,A0A7K9MBB7,Oceanodroma tethys,outside Mammalia
+GJB6,A0A7K9N4F4,Edolisoma coerulescens,outside Mammalia
+GJB6,A0A7K9PNR4,Pachycephala philippinensis,outside Mammalia
+GJB6,A0A7K9PQQ2,Pachycephala philippinensis,outside Mammalia
+GJB6,A0A7K9QYT2,Irena cyanogastra,outside Mammalia
+GJB6,A0A7K9RR52,Sterrhoptilus dennistouni,outside Mammalia
+GJB6,A0A7K9RR54,Sterrhoptilus dennistouni,outside Mammalia
+GJB6,A0A7K9STS8,Galbula dea,outside Mammalia
+GJB6,A0A7K9SUV3,Galbula dea,outside Mammalia
+GJB6,A0A7K9TR00,Chloroceryle aenea,outside Mammalia
+GJB6,A0A7K9TRB7,Chloroceryle aenea,outside Mammalia
+GJB6,A0A7K9V2P7,Anseranas semipalmata,outside Mammalia
+GJB6,A0A7K9V3T1,Anseranas semipalmata,outside Mammalia
+GJB6,A0A7K9WTA1,Rhipidura dahli,outside Mammalia
+GJB6,A0A7K9WTI3,Rhipidura dahli,outside Mammalia
+GJB6,A0A7K9X2A4,Psophia crepitans,outside Mammalia
+GJB6,A0A7K9X8R1,Psophia crepitans,outside Mammalia
+GJB6,A0A7K9Y4C4,Odontophorus gujanensis,outside Mammalia
+GJB6,A0A7K9Y789,Odontophorus gujanensis,outside Mammalia
+GJB6,A0A7K9ZZP0,Dicrurus megarhynchus,outside Mammalia
+GJB6,A0A7L0A2E8,Dicrurus megarhynchus,outside Mammalia
+GJB6,A0A7L0BBA9,Ciconia maguari,outside Mammalia
+GJB6,A0A7L0C078,Spizaetus tyrannus,outside Mammalia
+GJB6,A0A7L0C1G8,Spizaetus tyrannus,outside Mammalia
+GJB6,A0A7L0CGS9,Rostratula benghalensis,outside Mammalia
+GJB6,A0A7L0CH06,Rostratula benghalensis,outside Mammalia
+GJB6,A0A7L0EG01,Trogon melanurus,outside Mammalia
+GJB6,A0A7L0EH57,Trogon melanurus,outside Mammalia
+GJB6,A0A7L0FJ30,Corythaixoides concolor,outside Mammalia
+GJB6,A0A7L0FKA8,Corythaixoides concolor,outside Mammalia
+GJB6,A0A7L0GM00,Herpetotheres cachinnans,outside Mammalia
+GJB6,A0A7L0IBA8,Arenaria interpres,outside Mammalia
+GJB6,A0A7L0IFG0,Piprites chloris,outside Mammalia
+GJB6,A0A7L0IGF0,Piprites chloris,outside Mammalia
+GJB6,A0A7L0JYT3,Chauna torquata,outside Mammalia
+GJB6,A0A7L0K088,Chauna torquata,outside Mammalia
+GJB6,A0A7L0KTW5,Sylvietta virens,outside Mammalia
+GJB6,A0A7L0KUU6,Sylvietta virens,outside Mammalia
+GJB6,A0A7L0M588,Amazona guildingii,outside Mammalia
+GJB6,A0A7L0N9N4,Formicarius rufipectus,outside Mammalia
+GJB6,A0A7L0NC73,Formicarius rufipectus,outside Mammalia
+GJB6,A0A7L0P591,Mesembrinibis cayennensis,outside Mammalia
+GJB6,A0A7L0P6V8,Mesembrinibis cayennensis,outside Mammalia
+GJB6,A0A7L0R424,Setophaga kirtlandii,outside Mammalia
+GJB6,A0A7L0RHX3,Glaucidium brasilianum,outside Mammalia
+GJB6,A0A7L0RK17,Glaucidium brasilianum,outside Mammalia
+GJB6,A0A7L0TEW3,Podilymbus podiceps,outside Mammalia
+GJB6,A0A7L0TZG2,Chordeiles acutipennis,outside Mammalia
+GJB6,A0A7L0V012,Leptocoma aspasia,outside Mammalia
+GJB6,A0A7L0V034,Leptocoma aspasia,outside Mammalia
+GJB6,A0A7L0WCZ4,Alectura lathami,outside Mammalia
+GJB6,A0A7L0WFK3,Alectura lathami,outside Mammalia
+GJB6,A0A7L0XV76,Tyrannus savana,outside Mammalia
+GJB6,A0A7L0YJP9,Ploceus nigricollis,outside Mammalia
+GJB6,A0A7L0YSS4,Ploceus nigricollis,outside Mammalia
+GJB6,A0A7L0ZV03,Oxyruncus cristatus,outside Mammalia
+GJB6,A0A7L0ZWP8,Oxyruncus cristatus,outside Mammalia
+GJB6,A0A7L1B626,Gymnorhina tibicen,outside Mammalia
+GJB6,A0A7L1B6Q4,Gymnorhina tibicen,outside Mammalia
+GJB6,A0A7L1BV58,Illadopsis cleaveri,outside Mammalia
+GJB6,A0A7L1BY52,Illadopsis cleaveri,outside Mammalia
+GJB6,A0A7L1DKJ2,Serilophus lunatus,outside Mammalia
+GJB6,A0A7L1DL28,Serilophus lunatus,outside Mammalia
+GJB6,A0A7L1DRW6,Oenanthe oenanthe,outside Mammalia
+GJB6,A0A7L1DSP0,Oenanthe oenanthe,outside Mammalia
+GJB6,A0A7L1F460,Sylvia borin,outside Mammalia
+GJB6,A0A7L1F5Y9,Sylvia borin,outside Mammalia
+GJB6,A0A7L1GJV5,Indicator maculatus,outside Mammalia
+GJB6,A0A7L1I3G5,Nycticryphes semicollaris,outside Mammalia
+GJB6,A0A7L1I4K0,Nycticryphes semicollaris,outside Mammalia
+GJB6,A0A7L1IEN0,Smutsornis africanus,outside Mammalia
+GJB6,A0A7L1IG24,Smutsornis africanus,outside Mammalia
+GJB6,A0A7L1JSD1,Rynchops niger,outside Mammalia
+GJB6,A0A7L1JSZ1,Rynchops niger,outside Mammalia
+GJB6,A0A7L1KRP3,Himantopus himantopus,outside Mammalia
+GJB6,A0A7L1KVQ6,Himantopus himantopus,outside Mammalia
+GJB6,A0A7L1M044,Bombycilla garrulus,outside Mammalia
+GJB6,A0A7L1M1P3,Bombycilla garrulus,outside Mammalia
+GJB6,A0A7L1N1Y4,Rhinopomastus cyanomelas,outside Mammalia
+GJB6,A0A7L1PLB2,Oriolus oriolus,outside Mammalia
+GJB6,A0A7L1PLM4,Oriolus oriolus,outside Mammalia
+GJB6,A0A7L1QY18,Cisticola juncidis,outside Mammalia
+GJB6,A0A7L1R086,Cisticola juncidis,outside Mammalia
+GJB6,A0A7L1RB55,Helopsaltes ochotensis,outside Mammalia
+GJB6,A0A7L1RB61,Helopsaltes ochotensis,outside Mammalia
+GJB6,A0A7L1THE8,Aramus guarauna,outside Mammalia
+GJB6,A0A7L1TP79,Aramus guarauna,outside Mammalia
+GJB6,A0A7L1UFP1,Phainopepla nitens,outside Mammalia
+GJB6,A0A7L1UFV2,Phainopepla nitens,outside Mammalia
+GJB6,A0A7L1VDQ2,Sitta europaea,outside Mammalia
+GJB6,A0A7L1WHY7,Certhia brachydactyla,outside Mammalia
+GJB6,A0A7L1WIX0,Certhia brachydactyla,outside Mammalia
+GJB6,A0A7L1X8H1,Thinocorus orbignyianus,outside Mammalia
+GJB6,A0A7L1XAV1,Thinocorus orbignyianus,outside Mammalia
+GJB6,A0A7L1YN35,Scytalopus superciliaris,outside Mammalia
+GJB6,A0A7L1Z8G1,Leiothrix lutea,outside Mammalia
+GJB6,A0A7L1ZDR9,Leiothrix lutea,outside Mammalia
+GJB6,A0A7L2AI88,Heliornis fulica,outside Mammalia
+GJB6,A0A7L2ALA9,Heliornis fulica,outside Mammalia
+GJB6,A0A7L2BJF4,Alaudala cheleensis,outside Mammalia
+GJB6,A0A7L2BNJ8,Alaudala cheleensis,outside Mammalia
+GJB6,A0A7L2CQG3,Catharus fuscescens,outside Mammalia
+GJB6,A0A7L2DGB0,Catharus fuscescens,outside Mammalia
+GJB6,A0A7L2E2V1,Anthoscopus minutus,outside Mammalia
+GJB6,A0A7L2E3R5,Anthoscopus minutus,outside Mammalia
+GJB6,A0A7L2FTK0,Quiscalus mexicanus,outside Mammalia
+GJB6,A0A7L2FW15,Quiscalus mexicanus,outside Mammalia
+GJB6,A0A7L2GDU1,Nyctibius grandis,outside Mammalia
+GJB6,A0A7L2GFA6,Nyctibius grandis,outside Mammalia
+GJB6,A0A7L2HB10,Sagittarius serpentarius,outside Mammalia
+GJB6,A0A7L2HCR3,Sagittarius serpentarius,outside Mammalia
+GJB6,A0A7L2I7E5,Semnornis frantzii,outside Mammalia
+GJB6,A0A7L2IBQ6,Semnornis frantzii,outside Mammalia
+GJB6,A0A7L2JYZ9,Cinclus mexicanus,outside Mammalia
+GJB6,A0A7L2K0B9,Cinclus mexicanus,outside Mammalia
+GJB6,A0A7L2L1J3,Zosterops hypoxanthus,outside Mammalia
+GJB6,A0A7L2L1M0,Zosterops hypoxanthus,outside Mammalia
+GJB6,A0A7L2LM82,Hippolais icterina,outside Mammalia
+GJB6,A0A7L2LNA5,Hippolais icterina,outside Mammalia
+GJB6,A0A7L2MNS6,Rhadina sibilatrix,outside Mammalia
+GJB6,A0A7L2MNX5,Rhadina sibilatrix,outside Mammalia
+GJB6,A0A7L2P6C2,Pycnonotus jocosus,outside Mammalia
+GJB6,A0A7L2PHN2,Pycnonotus jocosus,outside Mammalia
+GJB6,A0A7L2QE91,Hypocryptadius cinnamomeus,outside Mammalia
+GJB6,A0A7L2QEV4,Hypocryptadius cinnamomeus,outside Mammalia
+GJB6,A0A7L2QSA1,Oxylabes madagascariensis,outside Mammalia
+GJB6,A0A7L2R296,Oxylabes madagascariensis,outside Mammalia
+GJB6,A0A7L2RSY9,Neodrepanis coruscans,outside Mammalia
+GJB6,A0A7L2RT42,Neodrepanis coruscans,outside Mammalia
+GJB6,A0A7L2RT77,Neodrepanis coruscans,outside Mammalia
+GJB6,A0A7L2SGB7,Mystacornis crossleyi,outside Mammalia
+GJB6,A0A7L2SM48,Mystacornis crossleyi,outside Mammalia
+GJB6,A0A7L2TDM4,Pomatostomus ruficeps,outside Mammalia
+GJB6,A0A7L2TGH9,Pomatostomus ruficeps,outside Mammalia
+GJB6,A0A7L2UN53,Balaeniceps rex,outside Mammalia
+GJB6,A0A7L2UNN6,Balaeniceps rex,outside Mammalia
+GJB6,A0A7L2UQ48,Balaeniceps rex,outside Mammalia
+GJB6,A0A7L2VXJ8,Brachypteracias leptosomus,outside Mammalia
+GJB6,A0A7L2W2B1,Pandion haliaetus,outside Mammalia
+GJB6,A0A7L2W3M3,Pandion haliaetus,outside Mammalia
+GJB6,A0A7L2XXK6,Erpornis zantholeuca,outside Mammalia
+GJB6,A0A7L2Y4K6,Erpornis zantholeuca,outside Mammalia
+GJB6,A0A7L2YFM4,Jacana jacana,outside Mammalia
+GJB6,A0A7L2YIH6,Jacana jacana,outside Mammalia
+GJB6,A0A7L2ZZV5,Prunella fulvescens,outside Mammalia
+GJB6,A0A7L3ACH7,Syrrhaptes paradoxus,outside Mammalia
+GJB6,A0A7L3AEX5,Syrrhaptes paradoxus,outside Mammalia
+GJB6,A0A7L3CAD1,Pelecanoides urinatrix,outside Mammalia
+GJB6,A0A7L3CAP0,Pelecanoides urinatrix,outside Mammalia
+GJB6,A0A7L3CRH8,Pluvianellus socialis,outside Mammalia
+GJB6,A0A7L3CSF1,Pluvianellus socialis,outside Mammalia
+GJB6,A0A7L3EM84,Chaetops frenatus,outside Mammalia
+GJB6,A0A7L3F2G9,Zapornia atra,outside Mammalia
+GJB6,A0A7L3FZ08,Zapornia atra,outside Mammalia
+GJB6,A0A7L3G573,Anhinga rufa,outside Mammalia
+GJB6,A0A7L3GXM6,Buphagus erythrorhynchus,outside Mammalia
+GJB6,A0A7L3HJD8,Buphagus erythrorhynchus,outside Mammalia
+GJB6,A0A7L3HWP1,Pardalotus punctatus,outside Mammalia
+GJB6,A0A7L3HYJ3,Pardalotus punctatus,outside Mammalia
+GJB6,A0A7L3IX06,Thalassarche chlororhynchos,outside Mammalia
+GJB6,A0A7L3JIB7,Thalassarche chlororhynchos,outside Mammalia
+GJB6,A0A7L3K135,Drymodes brunneopygia,outside Mammalia
+GJB6,A0A7L3LA68,Turnix velox,outside Mammalia
+GJB6,A0A7L3LAZ4,Turnix velox,outside Mammalia
+GJB6,A0A7L3M232,Horornis vulcanius,outside Mammalia
+GJB6,A0A7L3M8P9,Horornis vulcanius,outside Mammalia
+GJB6,A0A7L3MCR0,Horornis vulcanius,outside Mammalia
+GJB6,A0A7L3MWT8,Oreotrochilus melanogaster,outside Mammalia
+GJB6,A0A7L3P874,Xiphorhynchus elegans,outside Mammalia
+GJB6,A0A7L3Q683,Cettia cetti,outside Mammalia
+GJB6,A0A7L3QCH4,Cettia cetti,outside Mammalia
+GJB6,A0A7L3RP93,Cepphus grylle,outside Mammalia
+GJB6,A0A7L3RQ50,Cepphus grylle,outside Mammalia
+GJB6,A0A7L3SRD4,Rissa tridactyla,outside Mammalia
+GJB6,A0A7L3SW08,Rissa tridactyla,outside Mammalia
+GJB6,A0A7L3U9N4,Uria aalge,outside Mammalia
+GJB6,A0A7L3UBC6,Uria aalge,outside Mammalia
+GJB6,A0A7L3VTM5,Molothrus ater,outside Mammalia
+GJB6,A0A7L3VUA3,Molothrus ater,outside Mammalia
+GJB6,A0A7L3WIB8,Atlantisia rogersi,outside Mammalia
+GJB6,A0A7L3WNV0,Atlantisia rogersi,outside Mammalia
+GJB6,A0A7L3XDT2,Calonectris borealis,outside Mammalia
+GJB6,A0A7L3YIL5,Fregetta grallaria,outside Mammalia
+GJB6,A0A7L3YIW7,Fregetta grallaria,outside Mammalia
+GJB6,A0A7L4A8N0,Circaetus pectoralis,outside Mammalia
+GJB6,A0A7L4A956,Circaetus pectoralis,outside Mammalia
+GJB6,A0A7L4BIA5,Phaetusa simplex,outside Mammalia
+GJB6,A0A7L4BJ33,Phaetusa simplex,outside Mammalia
+GJB6,A0A7L4C9G8,Nyctiprogne leucopyga,outside Mammalia
+GJB6,A0A7L4DNI6,Eurystomus gularis,outside Mammalia
+GJB6,A0A7L4DP10,Eurystomus gularis,outside Mammalia
+GJB6,A0A7L4FSJ0,Pampusana beccarii,outside Mammalia
+GJB6,A0A7L4FUQ2,Pampusana beccarii,outside Mammalia
+GJB6,A0A7L4GKL6,Podargus strigoides,outside Mammalia
+GJB6,A0A7L4GM81,Podargus strigoides,outside Mammalia
+GJB6,A0A7L4HU10,Scopus umbretta,outside Mammalia
+GJB6,A0A7L4HWN0,Scopus umbretta,outside Mammalia
+GJB6,A0A7L4ISF0,Pomatorhinus ruficollis,outside Mammalia
+GJB6,A0A7L4IT43,Pomatorhinus ruficollis,outside Mammalia
+GJB6,A0A7L4KB15,Ceuthmochares aereus,outside Mammalia
+GJB6,A0A7L4KCJ2,Ceuthmochares aereus,outside Mammalia
+GJB6,A0A7L4KJD2,Callaeas wilsoni,outside Mammalia
+GJB6,A0A7L4M0A3,Glareola pratincola,outside Mammalia
+GJB6,A0A7L4M392,Glareola pratincola,outside Mammalia
+GJB6,A0A7L4MUT5,Ceyx cyanopectus,outside Mammalia
+GJB6,A0A7L4NP12,Ceyx cyanopectus,outside Mammalia
+GJB6,A0A7X2H0M7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0N0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0N3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0N7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0N9,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0P3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0Q3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0Q4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0Q5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0Q6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0Q7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0Q8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0R0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0R1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0R4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0R5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0R6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0R8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0R9,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0S0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0S4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0S5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0S6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0S7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0S8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0T0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0T1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0T2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0T3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0T4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0T5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0T7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0T9,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0U0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0U1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0U2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0U3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0U4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0U5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0U7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0U8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0V0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0V2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0V3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0V4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0V5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0V7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0W0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0W1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0W2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0W3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0W6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0W8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0W9,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0X0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0X1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0X2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0X3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0X6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0X7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0X8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0Y0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0Y1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0Y2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0Y5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0Y6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0Y7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0Y8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0Z0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0Z1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0Z3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0Z4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0Z6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0Z7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0Z8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H0Z9,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H101,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H102,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H104,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H106,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H108,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H110,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H111,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H112,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H113,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H114,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H116,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H117,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H119,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H120,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H121,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H122,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H123,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H124,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H126,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H128,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H129,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H130,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H131,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H132,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H133,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H135,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H137,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H138,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H139,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H140,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H141,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H143,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H144,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H145,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H146,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H147,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H148,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H149,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H152,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H153,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H154,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H155,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H156,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H157,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H158,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H159,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H160,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H162,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H163,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H164,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H165,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H166,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H167,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H168,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H169,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H170,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H171,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H172,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H173,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H174,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H175,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H176,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H177,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H178,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H180,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H181,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H182,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H183,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H184,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H185,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H186,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H187,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H189,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H190,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H191,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H192,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H193,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H194,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H195,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H196,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H197,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H198,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1A0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1A1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1A2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1A3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1A4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1A5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1A6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1A7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1A8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1A9,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1B1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1B2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1B3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1B4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1B5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1B6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1B7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1B8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1C0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1C1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1C2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1C3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1C4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1C5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1C6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1C7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1C8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1D0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1D1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1D2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1D3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1D4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1D5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1D6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1D7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1D8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1D9,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1E1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1E2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1E3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1E4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1E5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1E6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1E7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1E8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1E9,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1F1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1F2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1F3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1F4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1F5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1F6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1F7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1F8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1F9,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1G0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1G1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1G2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1G3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1G5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1G6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1G7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1G8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1G9,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1H0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1H1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1H2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1H3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1H5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1H6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1H7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1H8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1H9,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1I1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1I2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1I3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1I4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1I5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1I6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1I7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1I8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1J0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1J1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1J2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1J3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1J4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1J5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1J6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1J7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1J8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1K0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1K1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1K2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1K3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1K4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1K5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1K6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1K7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1K8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1L0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1L1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1L2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1L3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1L4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1L5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1L6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1L7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1L8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1M0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1M1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1M2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1M3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1M4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1M5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1M6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1M7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1M8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1M9,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1N0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1N1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1N2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1N3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1N4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1N5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1N7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1N8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1N9,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1P0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1P1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1P3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1P4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1P5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1P6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1P7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1P8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1P9,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1Q0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1Q2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1Q3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1Q4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1Q5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1Q6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1Q7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1Q8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1Q9,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1R1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1R3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1R4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1R5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1R6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1R7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1R8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1R9,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1S0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1S1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1S2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1S4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1S5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1S6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1S7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1S8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1S9,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1T0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1T1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1T2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1T4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1T5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1T6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1T7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1T8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1T9,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1U0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1U1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1U2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1U3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1U4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1U6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1U7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1U8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1U9,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1V0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1V1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1V3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1V4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1V5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1V6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1V7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1V8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1W0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1W1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1W2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1W3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1W4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1W5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1W6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1W7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1W9,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1X0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1X1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1X2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1X3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1X4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1X5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1X6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1X7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1X8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1Y0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1Y1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1Y2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1Y3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1Y4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1Y5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1Y6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1Y7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1Y8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1Y9,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1Z1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1Z2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1Z3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1Z4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1Z5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1Z6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1Z7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1Z8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H1Z9,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H200,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H201,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H202,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H204,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H205,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H206,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H207,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H208,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H209,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H210,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H211,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H212,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H213,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H214,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H216,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H217,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H218,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H219,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H220,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H221,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H222,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H223,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H224,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H225,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H226,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H227,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H228,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H229,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H230,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H231,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H232,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H233,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H234,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H235,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H236,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H237,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H238,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H239,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H240,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H242,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H243,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H244,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H245,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H246,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H247,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H248,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H249,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H250,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H251,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H252,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H253,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H254,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H255,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H257,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H258,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H259,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H260,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H261,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H262,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H263,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H264,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H265,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H267,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H268,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H269,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H270,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H271,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H272,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H273,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H275,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H276,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H277,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H278,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H279,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H280,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H281,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H282,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H283,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H285,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H286,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H287,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H289,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H290,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H291,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H292,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H293,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H294,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H296,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H297,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H298,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H299,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2A0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2A1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2A2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2A3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2A4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2A6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2A7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2A8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2A9,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2B0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2B1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2B2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2B3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2B5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2B6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2B7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2B8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2B9,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2C0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2C1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2C2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2C3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2C4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2C5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2C6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2C8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2C9,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2D0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2D1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2D2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2D3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2D4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2D5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2D6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2D8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2D9,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2E0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2E1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2E2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2E3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2E4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2E5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2E6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2E7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2E8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2E9,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2F0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2F1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2F2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2F3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2F4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2F5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2F6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2F7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2F8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2F9,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2G0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2G1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2G2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2G3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2G4,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2G5,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2G6,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2G7,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2G8,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2G9,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2H0,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2H1,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2H2,Paenibacillus monticola,outside Mammalia
+GJB6,A0A7X2H2H3,Paenibacillus monticola,outside Mammalia
+GJB6,A0A6G1ALM0,Crocuta crocuta,over the per-gene cap
+GJB6,A0A6J0A0Y4,Acinonyx jubatus,over the per-gene cap
+GJB6,A0A6J0E7D1,Peromyscus maniculatus bairdii,over the per-gene cap
+GJB6,A0A6J0Y3G1,Odocoileus virginianus,over the per-gene cap
+GJB6,A0A6J2CKI0,Zalophus californianus,over the per-gene cap
+GJB6,A0A6J2NBR3,Phyllostomus discolor,over the per-gene cap
+GJB6,A0A6J3B361,Vicugna pacos,over the per-gene cap
+GJB6,A0A6J3GDI0,Sapajus apella,over the per-gene cap
+GJB6,A0A6P3I4V7,Bison bison bison,over the per-gene cap
+GJB6,A0A6P3Q5Q4,Pteropus vampyrus,over the per-gene cap
+GJB6,A0A6P5CQE0,Bos indicus,over the per-gene cap
+GJB6,A0A6P5IQS6,Phascolarctos cinereus,over the per-gene cap
+GJB6,A0A6P6D5N2,Octodon degus,over the per-gene cap
+GJB6,A0A6P6HWE1,Puma concolor,over the per-gene cap
+GJB6,A0A6P7QB45,Mus caroli,over the per-gene cap
+GJB6,A0A7F8RLU6,Leptonychotes weddellii,over the per-gene cap
+GJB6,A0A7N4UYH3,Sarcophilus harrisii,over the per-gene cap

@@ -1,0 +1,44 @@
+05_reliability_panel.py  run 2026-10-13T09:38:44+00:00
+Per-position reliability of a conservation score, with the direction of
+the error where there is one.
+
+thresholds: gap 0.25, effective comparators 5, entropy floor 0.50 bits,
+            sef_adj 0.50 with p <= 0.050, sister fixed at 1.00 identity,
+            n_perm 1000, seed 20261007
+
+reference Q15223, 517 residues
+  NECTIN1 30 sequences
+  NECTIN2 30 sequences
+  NECTIN3 30 sequences
+  NECTIN4 30 sequences
+  0 sequences carry no label and are excluded
+  aligned 120 sequences, width 1111, reference row reconstructs its input
+
+verdicts over 517 reference positions
+  ok                   86   16.6%
+  gap_inflated         42    8.1%
+  depth_starved         0    0.0%
+  clade_partitioned   389   75.2%
+  431 positions carry a flag, 83.4%
+
+284 positions carry at least one fixed sister state, 54.9%
+  of those, 260 are clade-partitioned, which is the set the sister-state test takes
+  the ten commonest ordered sister substitutions:
+    T>S      10
+    I>L      9
+    I>V      9
+    Q>G      6
+    V>L      6
+    A>V      6
+    N>G      5
+    E>S      5
+    D>G      5
+    K>R      5
+
+humsavar cross-reference: 3 variants in family members, 3 mapped to a reference column
+  every variant's wild-type residue agreed with its sequence
+  classifications: LB/B 2, LP/P 1
+  0 variants substitute to a fixed sister-subfamily residue
+
+wrote ../data/reliability_panel_nectin1.csv (517 rows)
+wrote ../data/reliability_variants_nectin1.csv (3 rows)

@@ -1,0 +1,77 @@
+02_depth_ladder_peroxidase.py  run 2026-10-13T10:35:05+00:00
+One position, four sequence sets. The aligner, the guide tree and the
+position mapping are held constant so that depth is the only variable.
+
+thresholds: variable at or below identity 0.50, conserved at or above 0.90
+            gap filter 0.25, entropy floor 0.50 bits, n_perm 1000, seed 20261007
+
+reference: human lactoperoxidase, 712 residues, precursor numbering
+source: 80 sequences in one file, so every depth draws the same copies
+
+comparator sets
+  D1_paralogues     3 sequences
+  D2_orthologues    5 sequences
+  D3_subfamily     16 sequences
+  D4_family        79 sequences
+  D1 and D2 disjoint, so the paralogue-depth set holds no orthologue
+
+D1_paralogues
+    aligned 4 sequences, width 965 columns, reference row reconstructs
+
+D2_orthologues
+    aligned 6 sequences, width 712 columns, reference row reconstructs
+
+D3_subfamily
+    aligned 17 sequences, width 974 columns, reference row reconstructs
+
+D4_family
+    aligned 80 sequences, width 2815 columns, reference row reconstructs
+
+558 of 712 positions pass the gap filter at every depth
+
+inversion against orthologue depth: reads variable at the shallow
+depth, conserved among the five orthologues
+  depth             comparators  inverted  rate
+  D1_paralogues              3       125   22.4%
+  D3_subfamily              16        97   17.4%
+  D4_family                 79       274   49.1%
+
+mean identity against alignment breadth, by the call at subfamily depth
+  call           n     D1(3)   D2(5)   D3(16)  D4(79)
+  conserved      192   0.967   0.971   0.969   0.527
+  diagnostic     259   0.256   0.815   0.419   0.206
+  tolerant        23   0.797   0.757   0.717   0.342
+  indeterminate   84   0.310   0.652   0.407   0.199
+  diagnostic positions lose 0.610 identity between orthologue and family depth
+  tolerant positions lose 0.415 identity between orthologue and family depth
+
+the same comparison in ConSurf's units: conservation grades 1 to 9 as
+equal-count ranks within each depth, so divergence of the set cannot drive it
+  depth             mean |shift|  shifted >=3  variable(<=3) at depth and conserved(>=7) at D2
+  D1_paralogues            2.08    183  32.8%     41   7.3%
+  D3_subfamily             1.80    156  28.0%     35   6.3%
+  D4_family                2.06    195  34.9%     34   6.1%
+
+Spearman(sef_adj, identity drop from orthologue depth to D1_paralogues) = 0.406, p = 9.81e-17, n = 386
+
+Spearman(sef_adj, identity drop from orthologue depth to D3_subfamily) = 0.430, p = 8.1e-19, n = 386
+
+Spearman(sef_adj, identity drop from orthologue depth to D4_family) = 0.353, p = 9.15e-13, n = 386
+
+the four designed positions, the two held back, and the polymorphisms
+  pos wt  set              D1(3)  D2(5)  D3(16) D4(79)  sef_adj  call
+  144  D  designed           0.0    0.8   0.25 0.0513   0.6416  diagnostic
+  648  E  designed        0.6667    1.0   0.75 0.5063      1.0  diagnostic
+  205  E  designed        0.6667    1.0 0.8125 0.1667   0.6471  diagnostic
+  313  E  designed        0.6667    1.0 0.6875 0.1538      1.0  diagnostic
+  479  D  held_back          1.0    1.0 0.8125 0.3793   0.1885  tolerant
+  169  E  held_back          1.0    1.0    1.0 0.4194     None  conserved
+  414  R  natural_variant    1.0    1.0    1.0 0.9494     None  conserved
+  514  R  natural_variant    1.0    1.0    1.0 0.4051     None  conserved
+  700  D  natural_variant    0.0    0.8   0.25 0.1714   0.4292  indeterminate
+
+  4 of the 4 designed positions read below 0.90 identity at paralogue depth
+  4 of the 4 are at or above 0.80 identity among the orthologues
+
+wrote ../data/depth_ladder_peroxidase.csv (712 rows)
+wrote ../data/depth_ladder_summary.csv (33 rows)

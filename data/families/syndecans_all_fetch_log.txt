@@ -1,0 +1,73 @@
+08_fetch_family.py  run 2026-10-07T09:56:53+00:00
+family syndecans, 4 genes, clade Mammalia, tier all
+orthology criterion: primary gene name identity within the clade, from
+reviewed UniProt entries. No orthology database is used; see the script
+docstring for what this criterion does and does not establish.
+  606 entries over 4 request(s)
+
+SDC1:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=SDC1&size=200&offset=0&reviewed=true
+  kept 97 in Mammalia
+    dropped O74861 Schizosaccharomyces pombe (strain : outside Mammalia
+    dropped P18828-2 Mus musculus: second entry for this organism
+    dropped Q03323 Saccharomyces cerevisiae (strain A: outside Mammalia
+    dropped Q6ESZ9 Oryza sativa subsp. japonica: outside Mammalia
+    dropped Q9MA74 Arabidopsis thaliana: outside Mammalia
+    dropped A0A151PIT3 Alligator mississippiensis: outside Mammalia
+    and 503 more, all listed in the CSV
+  644 entries over 5 request(s)
+
+SDC2:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=SDC2&size=200&offset=0&reviewed=true
+  kept 99 in Mammalia
+    dropped A7A0P0 Saccharomyces cerevisiae (strain Y: outside Mammalia
+    dropped B3LTF3 Saccharomyces cerevisiae (strain R: outside Mammalia
+    dropped B5VMS9 Saccharomyces cerevisiae (strain A: outside Mammalia
+    dropped C8ZCV7 Saccharomyces cerevisiae (strain L: outside Mammalia
+    dropped P0CF32 Saccharomyces cerevisiae: outside Mammalia
+    dropped P0CF34 Saccharomyces cerevisiae (strain A: outside Mammalia
+    and 539 more, all listed in the CSV
+  556 entries over 4 request(s)
+
+SDC3:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=SDC3&size=200&offset=0&reviewed=true
+  kept 94 in Mammalia
+    dropped P26261 Gallus gallus: outside Mammalia
+    dropped A0A0S2Z4U3 Homo sapiens: second entry for this organism
+    dropped A0A151PG96 Alligator mississippiensis: outside Mammalia
+    dropped A0A151PH61 Alligator mississippiensis: outside Mammalia
+    dropped A0A1A8VBE5 Nothobranchius furzeri: outside Mammalia
+    dropped A0A1L8H7U3 Xenopus laevis: outside Mammalia
+    and 456 more, all listed in the CSV
+  603 entries over 4 request(s)
+
+SDC4:
+  https://www.ebi.ac.uk/proteins/api/proteins?gene=SDC4&size=200&offset=0&reviewed=true
+  kept 122 in Mammalia
+    dropped P31431-2 Homo sapiens: second entry for this organism
+    dropped P49416 Gallus gallus: outside Mammalia
+    dropped Q1AGV6 Xenopus laevis: outside Mammalia
+    dropped Q1AGV7 Xenopus laevis: outside Mammalia
+    dropped A0A091P883 Haliaeetus albicilla: outside Mammalia
+    dropped A0A151NZK2 Alligator mississippiensis: outside Mammalia
+    and 475 more, all listed in the CSV
+
+length filter at 40% of each gene's own anchor: 9 dropped
+  SDC1     anchor  310 residues, from the human entry
+  SDC2     anchor  201 residues, from the human entry
+  SDC3     anchor  442 residues, from the human entry
+  SDC4     anchor  198 residues, from the human entry
+
+family syndecans: 120 sequences over 4 genes
+  SDC1      30  (6 reviewed)
+  SDC2      30  (4 reviewed)
+  SDC3      30  (3 reviewed)
+  SDC4      30  (5 reviewed)
+  reference P18827 SDC1_HUMAN (SDC1)
+
+wrote out/families/syndecans_all.fasta (120 sequences)
+wrote out/families/syndecans_all_excluded.csv (2289 exclusions)
+
+subfamily argument for the panel and the tree null, trailing spaces matter:
+  --subfamilies "SDC1=SDC1 ;SDC2=SDC2 ;SDC3=SDC3 ;SDC4=SDC4 "
+  --ref SDC1_HUMAN --own SDC1

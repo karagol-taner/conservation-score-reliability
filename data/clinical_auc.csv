@@ -1,0 +1,10 @@
+variant,score,auc,ci_low,ci_high,n_residues,n_pathogenic,n_benign
+A_as_published,RCS,0.534502,0.403205,0.664951,86,34,52
+A_as_published,DCS,0.555430,0.424242,0.686921,86,34,52
+B_gap_filter,RCS,0.587903,0.448413,0.724880,71,31,40
+B_gap_filter,DCS,0.493548,0.353859,0.633814,71,31,40
+C_gap_corrected,RCS,0.609729,0.481525,0.732488,86,34,52
+C_gap_corrected,DCS,0.639140,0.514254,0.758621,86,34,52
+D_both,RCS,0.596774,0.458472,0.730952,71,31,40
+D_both,DCS,0.531452,0.390323,0.672650,71,31,40
+C_minus_A_paired,RCS,0.075226,0.003361,0.148913,86,34,52

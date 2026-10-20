@@ -1,0 +1,93 @@
+05_reliability_panel.py  run 2026-10-13T09:40:55+00:00
+Per-position reliability of a conservation score, with the direction of
+the error where there is one.
+
+thresholds: gap 0.25, effective comparators 5, entropy floor 0.50 bits,
+            sef_adj 0.50 with p <= 0.050, sister fixed at 1.00 identity,
+            n_perm 1000, seed 20261007
+
+reference P29317, 976 residues
+  EPHA1  20 sequences
+  EPHA10 20 sequences
+  EPHA2  20 sequences
+  EPHA3  20 sequences
+  EPHA4  20 sequences
+  EPHA5  20 sequences
+  EPHA6  20 sequences
+  EPHA7  20 sequences
+  EPHA8  20 sequences
+  EPHB1  20 sequences
+  EPHB2  20 sequences
+  EPHB3  20 sequences
+  EPHB4  20 sequences
+  EPHB6  20 sequences
+  0 sequences carry no label and are excluded
+  aligned 280 sequences, width 1910, reference row reconstructs its input
+
+verdicts over 976 reference positions
+  ok                  234   24.0%
+  gap_inflated         17    1.7%
+  depth_starved         0    0.0%
+  clade_partitioned   725   74.3%
+  742 positions carry a flag, 76.0%
+
+778 positions carry at least one fixed sister state, 79.7%
+  of those, 705 are clade-partitioned, which is the set the sister-state test takes
+  the ten commonest ordered sister substitutions:
+    V>I      97
+    E>D      91
+    A>S      88
+    I>V      87
+    T>S      84
+    S>T      74
+    V>L      61
+    K>R      58
+    D>E      57
+    F>Y      57
+
+humsavar cross-reference: 165 variants in family members, 162 mapped to a reference column
+  every variant's wild-type residue agreed with its sequence
+  classifications: LB/B 85, LP/P 21, US 59
+  30 variants substitute to a fixed sister-subfamily residue
+    the mutant residue is the fixed state of the named subfamily
+    gene    variant        class  ref pos  verdict            fixed in
+    EPHA1   V160A     LB/B       157  clade_partitioned  EPHB4
+    EPHA1   P697L     LB/B       687  clade_partitioned  EPHA8
+    EPHA10  A956T     LB/B       927  clade_partitioned  EPHB1
+    EPHA10  V645I     LB/B       613  clade_partitioned  EPHA4;EPHA6;EPHA7
+    EPHA3   N85S      US          84  clade_partitioned  EPHA5
+    EPHA3   I621L     US         613  clade_partitioned  EPHA1
+    EPHA3   C568S     LB/B       562  gap_inflated       EPHA4
+    EPHA3   A777G     LB/B       770  clade_partitioned  EPHA1
+    EPHA3   W924R     LB/B       917  clade_partitioned  EPHA8
+    EPHA4   R953K     LB/B       946  clade_partitioned  EPHA3
+    EPHA5   S235A     LB/B       203  clade_partitioned  EPHA10
+    EPHA5   R417Q     US         388  clade_partitioned  EPHA4;EPHA7
+    EPHA5   H959R     LB/B       898  clade_partitioned  EPHB1;EPHB2
+    EPHA5   N1032S    US         971  clade_partitioned  EPHA8
+    EPHA7   E170K     US         166  clade_partitioned  EPHB3;EPHB4;EPHB6
+    EPHA8   V60L      LB/B        58  clade_partitioned  EPHA7;EPHB4;EPHB6
+    EPHB1   R367G     LB/B       373  clade_partitioned  EPHB4
+    EPHB1   S707T     US         702  clade_partitioned  EPHA5
+    EPHB1   A912T     LB/B       905  clade_partitioned  EPHA3;EPHB3
+    EPHB1   T981M     LB/B       973  clade_partitioned  EPHA4
+    EPHB2   A279S     LP/P       283  clade_partitioned  EPHA7;EPHA8
+    EPHB2   I361V     LB/B       365  clade_partitioned  EPHA4;EPHA8;EPHB6
+    EPHB3   I579V     LB/B       556  clade_partitioned  EPHA4;EPHB4
+    EPHB4   A371V     LB/B       377  clade_partitioned  EPHA7
+    EPHB4   D576E     LB/B       573  clade_partitioned  EPHA4;EPHA5;EPHA6;EPHA7;EPHA8;EPHB3;EPHB6
+    EPHB4   R678H     LB/B       677  clade_partitioned  EPHA4;EPHA5;EPHA7;EPHB2
+    EPHB4   E890D     LB/B       887  clade_partitioned  EPHA6
+    EPHB4   I782S     LP/P       779  clade_partitioned  EPHA10
+    EPHB6   S324A     LB/B       283  clade_partitioned  EPHA4;EPHA5;EPHA6;EPHB1;EPHB2;EPHB3
+    EPHB6   D930G     US         886  clade_partitioned  EPHA7
+
+  sister-state against classification, mapped variants only
+    sister  LB/B  LP/P  US
+    True      21     2   7
+    False     61    19  52
+  n is small here, so this table reports the annotation and not a
+  result; the pooled test runs over all families in 09_sister_state_test.py.
+
+wrote ../data/reliability_panel_epha2.csv (976 rows)
+wrote ../data/reliability_variants_epha2.csv (165 rows)

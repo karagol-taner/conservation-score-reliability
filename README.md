@@ -1,104 +1,168 @@
-# Conservation score reliability
+# Two opposite failure modes in alignment-based conservation scores, one inflating and one concealing constraint, are computable before the score is used
 
-Code and data for *Two opposite failure modes in alignment-based conservation
-scores, one inflating and one concealing constraint, are computable before the
-score is used*, Karagöl and Karagöl.
+Taner Karagöl<sup>1</sup>, Alper Karagöl<sup>2</sup>
 
-A conservation score is a measurement of a position, a sequence set and a depth
-parameter. Treating only the first as real produces two failure modes with
-opposite signs. Gap inflation makes a position read as more conserved than it
-is, because a measure that treats the gap as the twenty-first symbol of the
-alphabet scores absence of evidence as constraint. Clade partitioning makes a
-position read as more variable than it is, because divergence between
-paralogous subfamilies is counted as tolerance within the query's own clade.
+<sup>1</sup>McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, MA, USA
+<sup>2</sup>Department of Mechanical Engineering, Massachusetts Institute of Technology, Cambridge, MA, USA
 
-## Layout
+## Abstract
+
+A conservation score is read as a property of an amino acid position, when it
+measures that position together with a sequence set and a depth parameter, and
+the same position receives opposite calls under defensible choices of the latter
+two. We characterise two failure modes that push in opposite directions and show
+that both are computable from the alignment before the score is used. Where
+conservation is 1 − H/log₂ 21 over an alphabet whose twenty-first symbol is the
+gap, a fully gapped column scores the maximum by construction. Across 55,816
+columns the reported value rises with gappiness at ρ = +0.553, collapsing to
++0.066 when conservation is recomputed over ungapped residues, and an independent
+predictor arbitrates: the gap-free recomputation tracks AlphaMissense at
+ρ = 0.551 against 0.416 for the reported value. The opposite mode is clade
+partitioning, in which between-subfamily divergence is read as tolerance. Varying
+only the comparator set moves a position by a per-family median of 2.19 grades on
+a nine-grade scale over 5,092 positions in eight families and flips 2.7 to 8.3
+per cent, median 6.6, from variable to conserved. A label-permutation null cannot
+separate this from shared ancestry, calling 68.3 to 100 per cent of variable
+columns diagnostic; a tree-aware null with per-column parsimony rate matching
+returns 4.1 to 69.1 per cent, and the same four syndecan genes at two sampling
+depths give 4.1 and 29.8 per cent, so no proteome-wide rate is well posed without
+the decomposition behind it. The resulting per-position panel reports gap
+fraction, effective comparator count and the tree-corrected subfamily-explained
+fraction with the direction of the expected error, and generates a testable
+prediction, that variants to a sister subfamily's fixed state are
+benign-enriched, which holds at an odds ratio of 2.46 (1.40 to 4.33) carried by
+87 such variants among 1,565 classified. Applying the gap correction to a
+published conserved-score pipeline raises the rigid score's discrimination in the
+human cohort from AUC 0.832 to 0.919.
+
+**Keywords:** Conservation scoring, Alignment depth, Specificity-determining
+positions, Phylogenetic null models, Variant effect prediction, Gap handling
+
+## Repository layout
 
 ```
-codes/        analysis scripts, the figure builder and the control verifier
-data/         per-position output tables, run logs, family alignments
-figures/      every figure at 400 dpi PNG and SVG
-structures/   PDB 7DE5 and its mapping to human lactoperoxidase numbering
-supplementary/ the long per-position tables as a workbook
+codes/
+  01_positive_control_peroxidase.py    positive control on one protein
+  02_depth_ladder_peroxidase.py        depth ladder, one protein in detail
+  03_gap_inflation_evcouplings.py      the gap mode across the cohort
+  04_gap_survival_dynamics_aware.py    the gap correction on published scores
+  05_reliability_panel.py              the per-position panel
+  06_predictor_miscalibration_gap.py   the gap flag against predictor error
+  07_tree_aware_null.py                the tree-aware null
+  08_fetch_family.py                   family assembly from UniProt
+  09_sister_state_test.py              the registered prediction
+  10_depth_ladder_families.py          depth ladder across families
+  11_structure_mapping.py              PDB to human numbering
+  12_orthology_check.py                the criterion against Ensembl Compara
+  13_clinical_auc.py                   discrimination against ClinVar labels
+  build_figures.py                     every figure from data/
+  fetch_structure.py                   downloads and checks PDB 7DE5
+  partition.py                         shared readers, aligner, subfamily labels
+  requirements.txt
+data/
+  *.csv                                per-position output tables
+  *.txt                                the run log for each table
+  families/                            assembled alignments and exclusion lists
+  ensembl_cache/                       cached Ensembl Compara responses
+figures/
+  Figure1 to Figure6, FigureS1 to FigureS4, PNG and SVG at 400 dpi
+structures/
+  7DE5_to_human.json                   chain A to human lactoperoxidase numbering
+supplementary/
+  Supplementary_Information.pdf
+  Supplementary_Tables.xlsx
 ```
 
-## Running it
+## Dataset summary
+
+| Path | Contents | Files |
+|---|---|---|
+| `data/*.csv` | per-position outputs: reliability panels, tree-null runs, depth ladders, sister-state tables, clinical AUC | 49 |
+| `data/*.txt` | the run log that produced each table | 35 |
+| `data/families/` | assembled family alignments with their exclusion lists | 24 |
+| `data/ensembl_cache/` | cached Ensembl Compara responses for the orthology check | 55 |
+| `figures/` | every figure, PNG and SVG at 400 dpi | 20 |
+| `structures/` | PDB 7DE5 chain A to human lactoperoxidase residue mapping | 1 |
+| `supplementary/` | Supplementary Information and the long per-position workbook | 2 |
+
+The longest tables are the per-position reliability panels and tree-null runs,
+at 2,009 rows for SCN1A and 976 for EPHA2. The workbook in `supplementary/`
+holds 52,454 rows across ten sheets.
+
+## Reproducing
 
 Python 3.9 or later. `pip install -r codes/requirements.txt`.
 
 ```
 cd codes
-python3 01_positive_control_peroxidase.py   # positive control, halts if it fails
-python3 02_depth_ladder_peroxidase.py       # depth ladder, one protein in detail
-python3 03_gap_inflation_evcouplings.py     # the gap mode across the cohort
-python3 04_gap_survival_dynamics_aware.py   # the gap correction on published scores
+python3 fetch_structure.py                  # PDB 7DE5 into structures/
+python3 01_positive_control_peroxidase.py
+python3 02_depth_ladder_peroxidase.py
+python3 03_gap_inflation_evcouplings.py
+python3 04_gap_survival_dynamics_aware.py
 python3 05_reliability_panel.py   --fasta ... --ref ... --own ... --subfamilies ...
-python3 06_predictor_miscalibration_gap.py  # does the gap flag predict the error
+python3 06_predictor_miscalibration_gap.py
 python3 07_tree_aware_null.py     --fasta ... --ref ... --subfamilies ... --name ...
 python3 08_fetch_family.py        --name ... --genes ... --ref-gene ... --clade ...
-python3 09_sister_state_test.py             # the registered prediction, pooled
+python3 09_sister_state_test.py
 python3 10_depth_ladder_families.py --fasta ... --ref ... --own ... --tag ...
-python3 11_structure_mapping.py             # PDB to human numbering
-python3 12_orthology_check.py               # the criterion against Ensembl Compara
-python3 13_clinical_auc.py                  # AUC against ClinVar labels
-python3 build_figures.py                    # every figure from data/
-python3 verify_positive_control.py          # the control, independent code path
+python3 11_structure_mapping.py
+python3 12_orthology_check.py
+python3 13_clinical_auc.py
+python3 build_figures.py
 ```
 
 Every script that takes arguments prints them with `--help`. Script 13 takes
-none and reads its input from `CDI_CLINVAR`. Every output table in `data/` is
-accompanied by the run log that produced it.
+none and reads its input from `CDI_CLINVAR`. Each script stops on a failed
+condition instead of continuing: among them a positive control failing in either
+direction, a gapped reference row that does not reconstruct its input sequence,
+an alignment or depth below a stated sequence count, an orthologue set
+overlapping the paralogue set, a subfamily pattern matching sequences in more
+than one group, and a rate calibration that fails for most columns.
 
-Scripts 03, 04 and 06 read the EVcouplings alignment output and published score
-table of the dynamics-aware cohort, which are not part of this repository and
-are cited in the manuscript. Point `CDI_DYNAMICS_DIR` at that folder. The
-optional variant arm of script 05 reads a UniProt humsavar release; point
-`CDI_HUMSAVAR` at it, or leave it unset and the arm switches off. Script 13
-reads a ClinVar export carrying `UniProt_ID`, `Residue_Pos` and
-`ClinVar_Significance`; point `CDI_CLINVAR` at it. ClinVar is not
-redistributed here, but the 86 residue-level labels script 13 derives are in
+## Software dependencies
+
+| Package | Version | Used by |
+|---|---|---|
+| numpy | >= 1.24 | `partition.py`, the permutation null, the tree-aware null |
+| pyfamsa | >= 0.7 | `partition.py`, FAMSA multiple alignment |
+| pandas | >= 2.0 | scripts 03, 04 and 06 |
+| scipy | >= 1.10 | script 02, the rank correlations |
+| matplotlib | >= 3.7 | `build_figures.py` |
+| openpyxl | >= 3.1 | the per-position workbook |
+
+Position mapping goes through the gapped reference row, which is checked to
+reconstruct its input sequence, so no sequence parser is required.
+
+## Data availability
+
+Source sequences are public in UniProt. PDB 7DE5 is public at RCSB and is
+downloaded by `codes/fetch_structure.py`, which checks the chain A residue range
+and the file checksum against the copy used here.
+
+Three inputs are cited in the paper rather than redistributed. Scripts 03, 04
+and 06 read the EVcouplings alignment output and published score table of the
+dynamics-aware cohort; point `CDI_DYNAMICS_DIR` at that folder. The optional
+variant arm of script 05 reads a UniProt humsavar release; point `CDI_HUMSAVAR`
+at it, or leave it unset and the arm switches off. Script 13 reads a ClinVar
+export carrying `UniProt_ID`, `Residue_Pos` and `ClinVar_Significance`; point
+`CDI_CLINVAR` at it. The 86 residue-level labels script 13 derives are in
 `data/clinical_auc_labels.csv` and its results in `data/clinical_auc.csv`, so
 that comparison can be checked without re-running the join.
 
-## Verification
+## Citation
 
-`verify_positive_control.py` recomputes the positive control from the source
-alignment without importing the implementation of the statistic it checks; it
-shares only the FASTA reader, the aligner and the subfamily labels from
-`partition.py`. It builds its own contingency tables and recomputes entropy
-and mutual information directly, so an error in the statistic cannot pass its
-own check.
-It runs 26 checks and exits non-zero on any mismatch.
+Karagöl T, Karagöl A. Two opposite failure modes in alignment-based conservation
+scores, one inflating and one concealing constraint, are computable before the
+score is used. bioRxiv, 2026. https://doi.org/10.64898/2026.10.20.760363
 
-```
-python3 verify_positive_control.py
-```
+## Contact
 
-Every number quoted in the paper is checked against these deposited tables by
-the same method, and every run log in `data/` records the values the run was
-given.
+Taner Karagöl, taner.karagol@gmail.com, karagolt@mit.edu
+Alper Karagöl, alper.karagol@gmail.com, akaragol@mit.edu
 
-## Halting conditions
+## License
 
-Every script stops on a failed condition instead of warning and continuing.
-Among them: a positive control failing in either direction, a gapped reference
-row that does not reconstruct its input sequence, an alignment or depth below a
-stated sequence count, an orthologue set overlapping the paralogue set, a
-subfamily pattern matching sequences in more than one group, a rate calibration
-that fails for most columns, and the generic depth ladder failing to reproduce
-the detailed implementation on the family both cover.
-
-## Orthology criterion
-
-Orthologues are reviewed UniProt entries whose primary gene name equals the
-requested symbol, case-insensitively, within a stated clade. This is weaker
-than reciprocal best hits or tree reconciliation and cannot establish
-one-to-one orthology. The manuscript states what the criterion can and cannot
-establish, and quantifies its consequence against Ensembl Compara.
-
-## Data not held here
-
-The EVcouplings alignment output and published score table of the
-dynamics-aware cohort, AlphaMissense scores, and the UniProt humsavar release
-are all cited in the manuscript rather than redistributed here. Source
-sequences are public in UniProt.
+The code in this repository is released under the MIT License, in `LICENSE`.
+Upstream data remains under the licences of UniProt, RCSB, Ensembl, ClinVar and
+AlphaMissense.

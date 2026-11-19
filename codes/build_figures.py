@@ -21,7 +21,8 @@ DATA = os.path.join(HERE, "..", "data")
 FIGS = os.path.join(HERE, "..", "figures")
 STRUCT = os.path.join(HERE, "..", "structures")
 
-S1, S2, S3, S4 = "#2a78d6", "#eb6834", "#1baf7a", "#eda100"
+
+S1, S2, S3, S4 = "#1b9e77", "#d95f02", "#7570b3", "#e6ab02"
 GREY = "#b9b8b3"
 WHITE = "#ffffff"
 INK, INK2, MUTED = "#0b0b0b", "#52514e", "#8a8984"
@@ -445,7 +446,7 @@ def figure4():
             return "indeterminate"
         return "ok"
 
-    colmap = {"ok": "#b9b7b1", "clade_partitioned": S2, "gap_inflated": S4,
+    colmap = {"ok": "#b9b7b1", "clade_partitioned": S2, "gap_inflated": S3,
               "indeterminate": "#dedcd6", "unassessed": "#eeede9"}
     flagged = {"clade_partitioned", "gap_inflated"}
 
@@ -617,7 +618,7 @@ def _gap_panels(ax1, ax2):
     ax2.set_xticklabels(["human", "alpha-helical", "both"])
     ax2.set_ylim(-0.13, 0.80)
     ax2.legend(loc="upper left")
-    tidy(ax2, "\u03c1 (gap fraction, conservation)", None,
+    tidy(ax2, "r (gap fraction, conservation)", None,
          "b  The association is a gap artefact")
 
 

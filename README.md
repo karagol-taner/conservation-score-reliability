@@ -14,7 +14,7 @@ two. We characterise two failure modes that push in opposite directions and show
 that both are computable from the alignment before the score is used. Where
 conservation is 1 − H/log₂ 21 over an alphabet whose twenty-first symbol is the
 gap, a fully gapped column scores the maximum by construction. Across 55,816
-columns the reported value rises with gappiness at ρ = +0.553, collapsing to
+columns the reported value rises with gappiness at r = +0.553, collapsing to
 +0.066 when conservation is recomputed over ungapped residues, and an independent
 predictor arbitrates: the gap-free recomputation tracks AlphaMissense at
 ρ = 0.551 against 0.416 for the reported value. The opposite mode is clade

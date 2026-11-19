@@ -65,7 +65,7 @@ data/
   families/                            assembled alignments and exclusion lists
   ensembl_cache/                       cached Ensembl Compara responses
 figures/
-  Figure1 to Figure6, FigureS1 to FigureS4, PNG and SVG at 400 dpi
+  Figure1 to Figure6, FigureS1 to FigureS4, PNG at 400 dpi
 structures/
   7DE5_to_human.json                   chain A to human lactoperoxidase numbering
 supplementary/

@@ -7,7 +7,7 @@ Taner Karagöl<sup>1</sup>, Alper Karagöl<sup>2</sup>
 
 ## Abstract
 
-A conservation score is read as a property of an amino acid position, when it
+Conservation scores are read as properties of an amino acid position, when each
 measures that position together with a sequence set and a depth parameter, and
 the same position receives opposite calls under defensible choices of the latter
 two. We characterise two failure modes that push in opposite directions and show
@@ -16,27 +16,24 @@ conservation is 1 − H/log₂ 21 over an alphabet whose twenty-first symbol is 
 gap, a fully gapped column scores the maximum by construction. Across 55,816
 columns the reported value rises with gappiness at r = +0.553, collapsing to
 +0.066 when conservation is recomputed over ungapped residues, and an independent
-predictor arbitrates: the gap-free recomputation tracks AlphaMissense at
-ρ = 0.551 against 0.416 for the reported value. The opposite mode is clade
+predictor arbitrates: the gap-free recomputation tracks AlphaMissense at ρ =
+0.551 versus 0.416 for the reported value. The opposite mode is clade
 partitioning, in which between-subfamily divergence is read as tolerance. Varying
 only the comparator set moves a position by a per-family median of 2.19 grades on
 a nine-grade scale over 5,092 positions in eight families and flips 2.7 to 8.3
-per cent, median 6.6, from variable to conserved. A label-permutation null cannot
+per cent, median 6.6, from variable to conserved. Label-permutation nulls cannot
 separate this from shared ancestry, calling 68.3 to 100 per cent of variable
-columns diagnostic; a tree-aware null with per-column parsimony rate matching
-returns 4.1 to 69.1 per cent, and the same four syndecan genes at two sampling
-depths give 4.1 and 29.8 per cent, so no proteome-wide rate is well posed without
-the decomposition behind it. The resulting per-position panel reports gap
-fraction, effective comparator count and the tree-corrected subfamily-explained
-fraction with the direction of the expected error, and generates a testable
-prediction, that variants to a sister subfamily's fixed state are
-benign-enriched, which holds at an odds ratio of 2.46 (1.40 to 4.33) carried by
-87 such variants among 1,565 classified. Applying the gap correction to a
-published conserved-score pipeline raises the rigid score's discrimination in the
-human cohort from AUC 0.832 to 0.919.
-
-**Keywords:** Conservation scoring, Alignment depth, Specificity-determining
-positions, Phylogenetic null models, Variant effect prediction, Gap handling
+columns diagnostic, where a tree-aware null with per-column parsimony rate
+matching returns 4.1 to 69.1 per cent. The same four syndecan genes at two
+sampling depths give 4.1 and 29.8 per cent, so no proteome-wide rate is well
+posed without the decomposition behind it. The resulting per-position panel
+reports gap fraction, effective comparator count and the tree-corrected
+subfamily-explained fraction with the direction of the expected error. It
+generates a testable prediction, that variants to a sister subfamily's fixed
+state are benign-enriched, which holds at an odds ratio of 2.46 (1.40 to 4.33)
+resting on 87 such variants among 1,565 classified. Applying the gap correction
+to a published conserved-score analysis raises the rigid score's discrimination
+in the human cohort from AUC 0.832 to 0.919.
 
 ## Repository layout
 
@@ -65,7 +62,7 @@ data/
   families/                            assembled alignments and exclusion lists
   ensembl_cache/                       cached Ensembl Compara responses
 figures/
-  Figure1 to Figure6, FigureS1 to FigureS4, PNG at 400 dpi
+  Figure1 to Figure6, PNG at 400 dpi
 structures/
   7DE5_to_human.json                   chain A to human lactoperoxidase numbering
 supplementary/
@@ -81,7 +78,7 @@ supplementary/
 | `data/*.txt` | the run log that produced each table | 35 |
 | `data/families/` | assembled family alignments with their exclusion lists | 24 |
 | `data/ensembl_cache/` | cached Ensembl Compara responses for the orthology check | 55 |
-| `figures/` | every figure, PNG and SVG at 400 dpi | 20 |
+| `figures/` | the main figures, PNG at 400 dpi | 6 |
 | `structures/` | PDB 7DE5 chain A to human lactoperoxidase residue mapping | 1 |
 | `supplementary/` | Supplementary Information and the long per-position workbook | 2 |
 

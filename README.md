@@ -5,6 +5,10 @@ Taner Karagöl<sup>1</sup>, Alper Karagöl<sup>2</sup>
 <sup>1</sup>McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, MA, USA
 <sup>2</sup>Department of Mechanical Engineering, Massachusetts Institute of Technology, Cambridge, MA, USA
 
+[![PyPI version](https://img.shields.io/pypi/v/gapcheck)](https://pypi.org/project/gapcheck/) [![Web Tool](https://img.shields.io/badge/Web%20Tool-GapCheck-0f4c5c)](https://www.karagolresearch.com/gapcheck) [![Mirror](https://img.shields.io/badge/Mirror-tanerkaragol.com-475569)](https://www.tanerkaragol.com/gapcheck) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Standalone Python package and command-line interface ([`gapcheck`](https://pypi.org/project/gapcheck/) on PyPI) and browser-based alignment diagnostics at [karagolresearch.com/gapcheck](https://www.karagolresearch.com/gapcheck) ([mirror](https://www.tanerkaragol.com/gapcheck)).
+
 ## Abstract
 
 Conservation scores are read as properties of an amino acid position, when each
@@ -116,6 +120,19 @@ direction, a gapped reference row that does not reconstruct its input sequence,
 an alignment or depth below a stated sequence count, an orthologue set
 overlapping the paralogue set, a subfamily pattern matching sequences in more
 than one group, and a rate calibration that fails for most columns.
+
+For running pre-scoring alignment diagnostics directly on any FASTA alignment
+without cloning the full repository, install the standalone
+[`gapcheck`](https://pypi.org/project/gapcheck/) Python package from PyPI:
+
+```
+pip install gapcheck
+
+gapcheck -i alignment.fasta -o gapcheck_audit.csv
+
+gapcheck -i family.fasta -o panel.csv --ref P18827 --own SDC1 \
+  --subfamilies "SDC1=SDC1_;SDC2=SDC2_;SDC3=SDC3_;SDC4=SDC4_"
+```
 
 ## Software dependencies
 
